@@ -50,7 +50,9 @@ h6 {
   font-weight: var(--semibold);
   line-height: var(--dense);
 }
-
+h3 {
+  font-size: var(--text-size-h3);
+}
 a {
   color: currentColor;
   text-decoration: none;

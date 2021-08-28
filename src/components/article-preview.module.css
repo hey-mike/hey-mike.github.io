@@ -9,18 +9,21 @@
 
 .title {
   display: inline-block;
-  font-size: var(--text-lg);
+  font-size: var(--text-size-h3);
   margin-bottom: var(--space-xs);
   margin-top: var(--space-lg);
   border-bottom: 1.5px solid transparent;
+  font-weight: 700;
 }
 
 .link {
   text-decoration: none;
+  color: var(--black);
 }
-
-.link:hover .title {
-  border-bottom-color: var(--primary);
+.link a:active,
+a:hover {
+  outline: 0;
+  color: var(--black);
 }
 
 .meta {

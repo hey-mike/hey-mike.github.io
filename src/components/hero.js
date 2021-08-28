@@ -14,9 +14,9 @@ const BackGround = styled(Meshline)`
 const Hero = ({ image, title, content }) => (
   <div className={styles.hero}>
     {image ? (
-      <BackGround />
-    ) : (
       <GatsbyImage className={styles.image} alt={title} image={image} />
+    ) : (
+      <BackGround />
     )}
 
     <div className={styles.details}>

@@ -50,6 +50,13 @@
   --text-5xl: 64px;
   --text-6xl: 76px;
 
+  --text-size-h1: 3.052em;
+  --text-size-h2: 2.441em;
+  --text-size-h3: 1.8em;
+  --text-size-h4: 1.563em;
+  --text-size-h5: 1.25em;
+  --text-size-h6: 1.15em;
+
   /* tokens */
   /* colors */
   --primary: #4a90e2;
