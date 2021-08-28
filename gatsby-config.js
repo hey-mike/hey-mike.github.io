@@ -36,8 +36,8 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Contentful Starter',
-    description: 'Official Contentful Gatsby Starter',
+    title: "Michael Luo's Blog",
+    description: "Michael Luo's Blog",
   },
   pathPrefix: '/gatsby-contentful-starter',
   plugins: [

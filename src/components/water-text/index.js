@@ -21,17 +21,6 @@ function Number({ mouse, hover }) {
   const aspect = size.width / viewport.width
   useFrame((state) => {
     if (ref.current) {
-      console.log(' size.width', size.width)
-      ref.current.rotation.x = lerp(
-        ref.current.rotation.x,
-        0 + mouse.current[1] / aspect / 200,
-        0.1
-      )
-      ref.current.rotation.y = lerp(
-        ref.current.rotation.y,
-        0 + mouse.current[0] / aspect / 400,
-        0.1
-      )
     }
   })
   return (
