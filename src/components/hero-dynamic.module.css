@@ -22,7 +22,6 @@
   max-width: 40rem;
   width: 85%;
   color: white;
-  padding: var(--space-2xl) var(--size-gutter) 0;
 }
 
 .title {
@@ -39,9 +38,18 @@
   margin: 0;
 }
 
+@media (min-width: 0) {
+  .details {
+    padding-top: var(--space-3xl);
+    top: 200px;
+  }
+}
+
 @media (min-width: 480px) {
   .details {
     padding-top: var(--space-3xl);
+    padding: var(--space-3xl) var(--size-gutter) 0;
+    top: 200px;
   }
 }
 
@@ -49,6 +57,7 @@
   .details {
     max-width: 44rem;
     padding: var(--space-3xl) var(--size-gutter) 0;
+    top: 150px;
   }
 }
 
@@ -61,5 +70,6 @@
   .details {
     /* left: var(--size-gutter); */
     padding: var(--space-3xl) var(--size-gutter) 0 0;
+    top: 150px;
   }
 }

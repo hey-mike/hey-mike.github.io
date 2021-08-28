@@ -8,6 +8,8 @@ import React, {
   useMemo,
 } from 'react'
 import { Canvas, useFrame, useThree } from '@react-three/fiber'
+
+import { useMediaQuery, useMediaQueries } from '@react-hook/media-query'
 import lerp from 'lerp'
 import Text from './Text'
 import Effects from './Effects'
@@ -23,11 +25,18 @@ function Name({ mouse, hover, text }) {
     if (ref.current) {
     }
   })
+
+  const { matches, matchesAny, matchesAll } = useMediaQueries({
+    screen: 'screen',
+    width: '(min-width: 768px)',
+  })
+
+  console.log('matches', size)
   return (
     <Suspense fallback={null}>
       <group ref={ref}>
         <Text
-          size={10}
+          size={size.width / 100 > 10 ? 10 : size.width / 100}
           onPointerOver={() => hover(true)}
           onPointerOut={() => hover(false)}
         >
