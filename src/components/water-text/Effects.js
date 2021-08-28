@@ -37,11 +37,11 @@ export default function Effects({ down }) {
   // the time for distortion
   useInterval(() => {
     setFactor(0)
-  }, 1000)
+  }, 500)
 
   useInterval(() => {
     setFactor(1)
-  }, 5000)
+  }, 8000)
 
   useFrame(() => composer.current.render(), 1)
   return (

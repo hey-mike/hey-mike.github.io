@@ -8,6 +8,7 @@
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
   },
   "dependencies": {
+    "@react-hook/media-query": "^1.1.1",
     "@react-three/fiber": "^7.0.6",
     "babel-plugin-styled-components": "^1.13.2",
     "gatsby": "^3.10.1",
