@@ -4,6 +4,7 @@ import get from 'lodash/get'
 
 import Layout from '../components/layout'
 import Hero from '../components/hero'
+import WaterText from '../components/water-text'
 import ArticlePreview from '../components/article-preview'
 
 class RootIndex extends React.Component {
@@ -13,7 +14,8 @@ class RootIndex extends React.Component {
 
     return (
       <Layout location={this.props.location}>
-        <Hero title={author.name} content={author.shortBio.shortBio} />
+        <WaterText />
+        {/* <Hero title={author.name} content={author.shortBio.shortBio} /> */}
         <ArticlePreview posts={posts} />
       </Layout>
     )

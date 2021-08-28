@@ -1,7 +1,4 @@
 import React from 'react'
-import { GatsbyImage } from 'gatsby-plugin-image'
-import styled from 'styled-components'
-import { Meshline } from './meshiline'
 
 import * as styles from './blog-title.module.css'
 
