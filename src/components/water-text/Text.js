@@ -28,7 +28,7 @@ const Text = forwardRef(
         hAlign === 'center' ? -size.x / 2 : hAlign === 'right' ? 0 : -size.x
       mesh.current.position.y =
         vAlign === 'center' ? -size.y / 2 : vAlign === 'top' ? 0 : -size.y
-    }, [children])
+    }, [children, hAlign, vAlign])
     return (
       <group ref={ref} {...props} scale={[0.1 * size, 0.1 * size, 0.1]}>
         <mesh ref={mesh}>

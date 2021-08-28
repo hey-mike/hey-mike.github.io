@@ -21,24 +21,24 @@ function Number({ mouse, hover }) {
   const aspect = size.width / viewport.width
   useFrame((state) => {
     if (ref.current) {
-      // ref.current.position.x = THREE.MathUtils.lerp(
-      //   ref.current.position.x,
-      //   state.mouse.x * 2,
-      //   0.1
-      // )
-      // ref.current.rotation.x = THREE.MathUtils.lerp(
-      //   ref.current.rotation.x,
-      //   state.mouse.y / 2,
-      //   0.1
-      // )
-      // ref.current.rotation.y = 0.8
+      console.log(' size.width', size.width)
+      ref.current.rotation.x = lerp(
+        ref.current.rotation.x,
+        0 + mouse.current[1] / aspect / 200,
+        0.1
+      )
+      ref.current.rotation.y = lerp(
+        ref.current.rotation.y,
+        0 + mouse.current[0] / aspect / 400,
+        0.1
+      )
     }
   })
   return (
     <Suspense fallback={null}>
       <group ref={ref}>
         <Text
-          size={15}
+          size={10}
           onPointerOver={() => hover(true)}
           onPointerOut={() => hover(false)}
         >
