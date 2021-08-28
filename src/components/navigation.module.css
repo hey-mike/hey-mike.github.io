@@ -5,6 +5,7 @@
   align-items: center;
   margin: 0 auto;
   padding: var(--space-2xl) var(--size-gutter);
+  border-bottom: 1px solid #e3e8ed;
 }
 
 .navigation {
