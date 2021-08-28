@@ -15,7 +15,7 @@ import Sparks from './Sparks'
 import Particles from './Particles'
 import * as styles from './water-text.module.css'
 
-function Number({ mouse, hover }) {
+function Name({ mouse, hover, text }) {
   const ref = useRef()
   const { size, viewport } = useThree()
   const aspect = size.width / viewport.width
@@ -31,14 +31,14 @@ function Number({ mouse, hover }) {
           onPointerOver={() => hover(true)}
           onPointerOut={() => hover(false)}
         >
-          Michael Luo
+          {text}
         </Text>
       </group>
     </Suspense>
   )
 }
 
-export default function WaterText() {
+export default function WaterText(props) {
   const [hovered, hover] = useState(false)
   const [down, set] = useState(false)
   const mouse = useRef([0, 0])
@@ -57,7 +57,7 @@ export default function WaterText() {
       >
         <fog attach="fog" args={['white', 50, 190]} />
         <pointLight distance={100} intensity={4} color="white" />
-        <Number mouse={mouse} hover={hover} />
+        <Name mouse={mouse} hover={hover} text={props.text} />
         <Particles count={5000} mouse={mouse} />
         <Sparks
           count={20}

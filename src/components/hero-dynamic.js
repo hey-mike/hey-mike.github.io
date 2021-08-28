@@ -2,6 +2,7 @@ import React from 'react'
 import { GatsbyImage } from 'gatsby-plugin-image'
 import styled from 'styled-components'
 import { Meshline } from './meshiline'
+import WaterText from '../components/water-text'
 
 import * as styles from './hero-dynamic.module.css'
 
@@ -13,15 +14,11 @@ const BackGround = styled(Meshline)`
 
 const HeroDynamic = ({ image, title, content }) => (
   <div className={styles.hero}>
-    {image ? (
-      <GatsbyImage className={styles.image} alt={title} image={image} />
-    ) : (
-      <BackGround />
-    )}
-
+    <WaterText text={'Michael Luo'} />
     <div className={styles.details}>
-      <h1 className={styles.title}>{title}</h1>
-      {content && <p className={styles.content}>{content}</p>}
+      {/* <h1 className={styles.title}>{title}</h1> */}
+      {content && <h1 className={styles.title}>{content}</h1>}
+      {/* {content && <p className={styles.content}>{content}</p>} */}
     </div>
   </div>
 )
