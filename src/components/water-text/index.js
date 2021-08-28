@@ -54,6 +54,8 @@ export default function WaterText(props) {
           gl.toneMapping = THREE.Uncharted2ToneMapping
           gl.setClearColor(new THREE.Color('#020207'))
         }}
+        onMouseUp={() => set(false)}
+        onMouseDown={() => set(true)}
       >
         <fog attach="fog" args={['white', 50, 190]} />
         <pointLight distance={100} intensity={4} color="white" />
@@ -71,7 +73,7 @@ export default function WaterText(props) {
             'lightblue',
           ]}
         />
-        <Effects />
+        <Effects down={down} />
       </Canvas>
     </div>
   )
