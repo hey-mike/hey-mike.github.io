@@ -5,7 +5,7 @@ import get from 'lodash/get'
 import Layout from '../components/layout'
 import Hero from '../components/hero'
 import HeroDynamic from '../components/hero-dynamic'
-import ArticlePreview from '../components/article-preview'
+import ArticlePreviewStatic from '../components/article-preview-static'
 
 class RootIndex extends React.Component {
   render() {
@@ -16,7 +16,7 @@ class RootIndex extends React.Component {
       <Layout location={this.props.location}>
         {/* <WaterText /> */}
         <HeroDynamic title={author.name} content={author.shortBio.shortBio} />
-        <ArticlePreview posts={posts} />
+        <ArticlePreviewStatic posts={posts} />
       </Layout>
     )
   }

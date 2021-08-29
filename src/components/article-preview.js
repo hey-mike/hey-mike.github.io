@@ -1,9 +1,8 @@
 import React from 'react'
-import { Link } from 'gatsby'
-import { GatsbyImage } from 'gatsby-plugin-image'
+import { motion } from 'framer-motion'
 
 import Container from './container'
-import Tags from './tags'
+import ArticlePreviewCard from './article-preview-card'
 import * as styles from './article-preview.module.css'
 
 const ArticlePreview = ({ posts }) => {
@@ -12,30 +11,15 @@ const ArticlePreview = ({ posts }) => {
 
   return (
     <Container>
-      <ul className={styles.articleList}>
+      <motion.ul
+        className={styles.articleList}
+        initial={{ x: -1000 }}
+        animate={{ x: 0 }}
+      >
         {posts.map((post) => {
-          return (
-            <article key={post.slug} className={styles.article}>
-              <div className={styles.articleContent}>
-                <Link to={`/blog/${post.slug}`} className={styles.link}>
-                  <GatsbyImage alt="" image={post.heroImage.gatsbyImageData} />
-                  <h2 className={styles.title}>{post.title}</h2>
-                </Link>
-
-                <div
-                  dangerouslySetInnerHTML={{
-                    __html: post.description.childMarkdownRemark.html,
-                  }}
-                />
-                <div className={styles.meta}>
-                  <small className="meta">{post.publishDate}</small>
-                  <Tags tags={post.tags} />
-                </div>
-              </div>
-            </article>
-          )
+          return <ArticlePreviewCard post={post} />
         })}
-      </ul>
+      </motion.ul>
     </Container>
   )
 }

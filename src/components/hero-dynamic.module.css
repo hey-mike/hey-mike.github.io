@@ -38,10 +38,10 @@
   margin: 0;
 }
 
-@media (min-width: 0) {
+@media (max-width: 480px) {
   .details {
     padding-top: var(--space-3xl);
-    top: 200px;
+    text-align: center;
   }
 }
 
@@ -49,7 +49,6 @@
   .details {
     padding-top: var(--space-3xl);
     padding: var(--space-3xl) var(--size-gutter) 0;
-    top: 200px;
   }
 }
 
@@ -57,7 +56,6 @@
   .details {
     max-width: 44rem;
     padding: var(--space-3xl) var(--size-gutter) 0;
-    top: 150px;
   }
 }
 

@@ -34,3 +34,27 @@ body,
 .canvas {
   height: 600px;
 }
+
+@media (min-width: 0) {
+  .canvas {
+    height: 400px;
+  }
+}
+
+@media (min-width: 480px) {
+  .canvas {
+    height: 450px;
+  }
+}
+
+@media (min-width: 768px) {
+  .canvas {
+    height: 500px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .canvas {
+    height: 600px;
+  }
+}

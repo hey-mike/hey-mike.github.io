@@ -6,12 +6,6 @@ import WaterText from '../components/water-text'
 
 import * as styles from './hero-dynamic.module.css'
 
-const BackGround = styled(Meshline)`
-  position: relative;
-  width: 100%;
-  height: 500px;
-`
-
 const HeroDynamic = ({ image, title, content }) => (
   <div className={styles.hero}>
     <WaterText text={'Michael Luo'} />

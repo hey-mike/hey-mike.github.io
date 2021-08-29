@@ -31,7 +31,6 @@ function Name({ mouse, hover, text }) {
     width: '(min-width: 768px)',
   })
 
-  console.log('matches', size)
   return (
     <Suspense fallback={null}>
       <group ref={ref}>

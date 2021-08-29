@@ -1,0 +1,48 @@
+import React from 'react'
+import { Link } from 'gatsby'
+import { GatsbyImage } from 'gatsby-plugin-image'
+import ArticlePreviewCard from './article-preview-card'
+
+import Container from './container'
+import Tags from './tags'
+import * as styles from './article-preview-static.module.css'
+
+const ArticlePreviewStatic = ({ posts }) => {
+  if (!posts) return null
+  if (!Array.isArray(posts)) return null
+
+  return (
+    <Container>
+      <ul
+        className={styles.articleList}
+        initial={{ x: -1000 }}
+        animate={{ x: 0 }}
+      >
+        {posts.map((post) => {
+          return (
+            <article key={post.slug} className={styles.article}>
+              <div className={styles.articleContent}>
+                <Link to={`/blog/${post.slug}`} className={styles.link}>
+                  <GatsbyImage alt="" image={post.heroImage.gatsbyImageData} />
+                  <h2 className={styles.title}>{post.title}</h2>
+                </Link>
+
+                <div
+                  dangerouslySetInnerHTML={{
+                    __html: post.description.childMarkdownRemark.html,
+                  }}
+                />
+                <div className={styles.meta}>
+                  <small className="meta">{post.publishDate}</small>
+                  <Tags tags={post.tags} />
+                </div>
+              </div>
+            </article>
+          )
+        })}
+      </ul>
+    </Container>
+  )
+}
+
+export default ArticlePreviewStatic
