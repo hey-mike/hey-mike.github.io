@@ -3,6 +3,8 @@ import { motion } from 'framer-motion'
 
 import Container from './container'
 import ArticlePreviewCard from './article-preview-card'
+import { StaggerWrap } from './stagger-wrap'
+import { FadeInUpBox } from './fade-in-up-box'
 import * as styles from './article-preview.module.css'
 
 const ArticlePreview = ({ posts }) => {
@@ -11,15 +13,17 @@ const ArticlePreview = ({ posts }) => {
 
   return (
     <Container>
-      <motion.ul
-        className={styles.articleList}
-        initial={{ x: -1000 }}
-        animate={{ x: 0 }}
-      >
-        {posts.map((post) => {
-          return <ArticlePreviewCard post={post} />
-        })}
-      </motion.ul>
+      <StaggerWrap>
+        <ul className={styles.articleList}>
+          {posts.map((post) => {
+            return (
+              <FadeInUpBox key={post.slug}>
+                <ArticlePreviewCard post={post} />
+              </FadeInUpBox>
+            )
+          })}
+        </ul>
+      </StaggerWrap>
     </Container>
   )
 }

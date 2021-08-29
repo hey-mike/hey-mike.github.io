@@ -4,6 +4,7 @@ import { GatsbyImage } from 'gatsby-plugin-image'
 import { motion } from 'framer-motion'
 
 import Tags from '../tags'
+
 import * as styles from './article-preview-card.module.css'
 
 const CardVariants = {
@@ -17,7 +18,6 @@ const ArticlePreviewCard = ({ post }) => {
   return (
     <React.Fragment>
       <motion.article
-        key={post.slug}
         className={styles.article}
         variants={CardVariants}
         initial="beforeHover"

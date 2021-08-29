@@ -28,6 +28,7 @@
     "react-helmet": "^6.1.0",
     "react-is": "^17.0.2",
     "react-three-fiber": "^6.0.13",
+    "react-use": "^17.2.4",
     "styled-components": "^5.3.1",
     "styled-icons": "^10.37.0",
     "three": "0.127.0",
