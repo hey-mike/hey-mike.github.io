@@ -7,7 +7,7 @@ import Container from './container'
 import Tags from './tags'
 import * as styles from './article-preview-static.module.css'
 
-const ArticlePreviewStatic = ({ posts }) => {
+const ArticlePreviewStatic = ({ posts, title }) => {
   if (!posts) return null
   if (!Array.isArray(posts)) return null
 
@@ -21,22 +21,22 @@ const ArticlePreviewStatic = ({ posts }) => {
         {posts.map((post) => {
           return (
             <article key={post.slug} className={styles.article}>
-              <div className={styles.articleContent}>
-                <Link to={`/blog/${post.slug}`} className={styles.link}>
-                  <GatsbyImage alt="" image={post.heroImage.gatsbyImageData} />
+              <Link to={`/blog/${post.slug}`} className={styles.link}>
+                <GatsbyImage alt="" image={post.heroImage.gatsbyImageData} />
+                <div className={styles.articleContent}>
                   <h2 className={styles.title}>{post.title}</h2>
-                </Link>
 
-                <div
-                  dangerouslySetInnerHTML={{
-                    __html: post.description.childMarkdownRemark.html,
-                  }}
-                />
-                <div className={styles.meta}>
-                  <small className="meta">{post.publishDate}</small>
-                  <Tags tags={post.tags} />
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: post.description.childMarkdownRemark.html,
+                    }}
+                  />
+                  <div className={styles.meta}>
+                    <small className="meta">{post.publishDate}</small>
+                    <Tags tags={post.tags} />
+                  </div>
                 </div>
-              </div>
+              </Link>
             </article>
           )
         })}

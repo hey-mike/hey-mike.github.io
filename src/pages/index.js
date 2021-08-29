@@ -14,9 +14,8 @@ class RootIndex extends React.Component {
 
     return (
       <Layout location={this.props.location}>
-        {/* <WaterText /> */}
         <HeroDynamic title={author.name} content={author.shortBio.shortBio} />
-        <ArticlePreviewStatic posts={posts} />
+        <ArticlePreviewStatic posts={posts} title="Recent Updates" />
       </Layout>
     )
   }

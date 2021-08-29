@@ -23,22 +23,22 @@ const ArticlePreviewCard = ({ post }) => {
         initial="beforeHover"
         whileHover="onHover"
       >
-        <div className={styles.articleContent}>
-          <Link to={`/blog/${post.slug}`} className={styles.link}>
-            <GatsbyImage alt="" image={post.heroImage.gatsbyImageData} />
-            <h2 className={styles.title}>{post.title}</h2>
-          </Link>
+        <Link to={`/blog/${post.slug}`} className={styles.link}>
+          <GatsbyImage alt="" image={post.heroImage.gatsbyImageData} />
+          <div className={styles.articleContent}>
+            <h3 className={styles.title}>{post.title}</h3>
 
-          <div
-            dangerouslySetInnerHTML={{
-              __html: post.description.childMarkdownRemark.html,
-            }}
-          />
-          <div className={styles.meta}>
-            <small className="meta">{post.publishDate}</small>
-            <Tags tags={post.tags} />
+            <div
+              dangerouslySetInnerHTML={{
+                __html: post.description.childMarkdownRemark.html,
+              }}
+            />
+            <div className={styles.meta}>
+              <small className="meta">{post.publishDate}</small>
+              <Tags tags={post.tags} />
+            </div>
           </div>
-        </div>
+        </Link>
       </motion.article>
     </React.Fragment>
   )
