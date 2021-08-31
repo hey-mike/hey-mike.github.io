@@ -13,6 +13,7 @@ const ArticlePreviewStatic = ({ posts, title }) => {
 
   return (
     <Container>
+      <h1>Recent Updates</h1>
       <ul
         className={styles.articleList}
         initial={{ x: -1000 }}
@@ -24,9 +25,10 @@ const ArticlePreviewStatic = ({ posts, title }) => {
               <Link to={`/blog/${post.slug}`} className={styles.link}>
                 <GatsbyImage alt="" image={post.heroImage.gatsbyImageData} />
                 <div className={styles.articleContent}>
-                  <h2 className={styles.title}>{post.title}</h2>
+                  <h3 className={styles.title}>{post.title}</h3>
 
                   <div
+                    className={styles.articleDescription}
                     dangerouslySetInnerHTML={{
                       __html: post.description.childMarkdownRemark.html,
                     }}

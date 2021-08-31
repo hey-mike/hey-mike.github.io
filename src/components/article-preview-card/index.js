@@ -26,7 +26,7 @@ const ArticlePreviewCard = ({ post }) => {
         <Link to={`/blog/${post.slug}`} className={styles.link}>
           <GatsbyImage alt="" image={post.heroImage.gatsbyImageData} />
           <div className={styles.articleContent}>
-            <h3 className={styles.title}>{post.title}</h3>
+            <h2 className={styles.title}>{post.title}</h2>
 
             <div
               dangerouslySetInnerHTML={{

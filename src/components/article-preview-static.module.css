@@ -9,7 +9,7 @@
 
 .title {
   display: inline-block;
-  font-size: var(--text-size-h3);
+  font-size: var(--text-size-h5);
   margin-bottom: var(--space-xs);
   margin-top: var(--space-lg);
   border-bottom: 1.5px solid transparent;
@@ -43,5 +43,10 @@ a:hover {
 }
 
 .article-content {
-  margin: 15px;
+  padding: 1.8rem;
+}
+
+.article-description {
+  font-weight: 400;
+  color: var(--black-light);
 }
