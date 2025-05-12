@@ -1,172 +1,129 @@
 1:"$Sreact.fragment"
-2:I[7652,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","177","static/chunks/app/layout-9240cb4dfb70594d.js"],"ThemeProvider"]
-3:I[4451,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","177","static/chunks/app/layout-9240cb4dfb70594d.js"],"SkipLink"]
-4:I[5143,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","177","static/chunks/app/layout-9240cb4dfb70594d.js"],"default"]
-5:I[7333,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","177","static/chunks/app/layout-9240cb4dfb70594d.js"],"default"]
-6:I[7886,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","177","static/chunks/app/layout-9240cb4dfb70594d.js"],"ErrorBoundary"]
-7:I[7886,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","177","static/chunks/app/layout-9240cb4dfb70594d.js"],"ErrorFallback"]
-8:I[265,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","177","static/chunks/app/layout-9240cb4dfb70594d.js"],"default"]
-9:I[6710,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","177","static/chunks/app/layout-9240cb4dfb70594d.js"],"default"]
-a:I[1393,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","177","static/chunks/app/layout-9240cb4dfb70594d.js"],"default"]
-b:I[3919,[],""]
-c:I[4915,[],""]
-d:I[7945,["950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","347","static/chunks/347-0778e61a7b26b72d.js","345","static/chunks/app/not-found-a4076a45b580249a.js"],"default"]
-e:I[4950,["950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","609","static/chunks/609-6d7a31efd706c5eb.js","700","static/chunks/700-90fe45fc7677a939.js","831","static/chunks/app/blog/page-262258d049bae2a2.js"],""]
-10:I[3901,[],"OutletBoundary"]
-13:I[3901,[],"ViewportBoundary"]
-15:I[3901,[],"MetadataBoundary"]
-17:I[1866,[],""]
+2:I[7652,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","614","static/chunks/614-5f57959f8222ad94.js","177","static/chunks/app/layout-4a2628c2fe78a312.js"],"ThemeProvider"]
+3:I[4451,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","614","static/chunks/614-5f57959f8222ad94.js","177","static/chunks/app/layout-4a2628c2fe78a312.js"],"SkipLink"]
+4:I[7886,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","614","static/chunks/614-5f57959f8222ad94.js","177","static/chunks/app/layout-4a2628c2fe78a312.js"],"ErrorBoundary"]
+5:I[7886,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","614","static/chunks/614-5f57959f8222ad94.js","177","static/chunks/app/layout-4a2628c2fe78a312.js"],"ErrorFallback"]
+6:I[265,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","614","static/chunks/614-5f57959f8222ad94.js","177","static/chunks/app/layout-4a2628c2fe78a312.js"],"default"]
+7:I[6710,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","614","static/chunks/614-5f57959f8222ad94.js","177","static/chunks/app/layout-4a2628c2fe78a312.js"],"default"]
+8:I[1393,["970","static/chunks/4a8527dd-9e4ce1e9e58fe376.js","667","static/chunks/27163a17-acf67016544f389f.js","614","static/chunks/614-5f57959f8222ad94.js","177","static/chunks/app/layout-4a2628c2fe78a312.js"],"default"]
+9:I[3919,[],""]
+a:I[4915,[],""]
+b:I[2004,["614","static/chunks/614-5f57959f8222ad94.js","950","static/chunks/950-288bbdfb4f085609.js","892","static/chunks/892-a215ea8f10a94b7d.js","347","static/chunks/347-0778e61a7b26b72d.js","345","static/chunks/app/not-found-718362ae5e24e2a1.js"],"default"]
+c:I[4950,["614","static/chunks/614-5f57959f8222ad94.js","950","static/chunks/950-288bbdfb4f085609.js","131","static/chunks/131-2fc983898037dbe9.js","700","static/chunks/700-90fe45fc7677a939.js","831","static/chunks/app/blog/page-b98d871d224eaddb.js"],""]
+e:I[3901,[],"OutletBoundary"]
+11:I[3901,[],"ViewportBoundary"]
+13:I[3901,[],"MetadataBoundary"]
+15:I[1866,[],""]
 :HL["/_next/static/media/7cba1811e3c25a15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/a34f9d1faa5f3315-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/6ba8b6917fca61b4.css","style"]
+:HL["/_next/static/css/0ff9491b90815ad6.css","style"]
 :HL["/_next/static/css/f02a09be07589398.css","style"]
-0:{"P":null,"b":"jr5F0xmhMKUpvpPwGHLUL","p":"","c":["","blog",""],"i":false,"f":[[["",{"children":["blog",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ba8b6917fca61b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/f02a09be07589398.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_d65c78 __variable_bc0dcf font-sans antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{"fallback":["$","$L7",null,{}],"children":["$","$L8",null,{"children":[["$","$L9",null,{}],["$","$La",null,{}]]}]}],["$","div",null,{"className":"grain-overlay"}],["$","div",null,{"className":"content-wrapper","children":["$","main",null,{"id":"main-content","children":["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$Ld",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$Le",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lf","$undefined",null,["$","$L10",null,{"children":["$L11","$L12",null]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","hUu99vkmhvfk8WUtUqoBF",{"children":[["$","$L13",null,{"children":"$L14"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$L15",null,{"children":"$L16"}]]}],false]],"m":"$undefined","G":["$17","$undefined"],"s":false,"S":true}
-14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-11:null
-12:null
-16:[["$","title","0",{"children":"Blog | Michael Luo"}],["$","meta","1",{"name":"description","content":"Thoughts and insights on technology, leadership, and creative innovation."}],["$","meta","2",{"name":"author","content":"Michael Luo"}],["$","meta","3",{"name":"keywords","content":"Michael Luo,Technology Leadership,Software Engineering,Digital Art,Portfolio"}],["$","meta","4",{"name":"creator","content":"Michael Luo"}],["$","meta","5",{"name":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self';"}],["$","meta","6",{"property":"og:title","content":"Michael Luo - Digital Art Experience"}],["$","meta","7",{"property":"og:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}],["$","meta","8",{"property":"og:url","content":"https://michaelluo.com/"}],["$","meta","9",{"property":"og:site_name","content":"Michael Luo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@michaelluo"}],["$","meta","14",{"name":"twitter:title","content":"Michael Luo - Digital Art Experience"}],["$","meta","15",{"name":"twitter:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}]]
-18:I[8020,["950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","609","static/chunks/609-6d7a31efd706c5eb.js","700","static/chunks/700-90fe45fc7677a939.js","831","static/chunks/app/blog/page-262258d049bae2a2.js"],"default"]
-19:I[4140,["950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","609","static/chunks/609-6d7a31efd706c5eb.js","700","static/chunks/700-90fe45fc7677a939.js","831","static/chunks/app/blog/page-262258d049bae2a2.js"],"default"]
-1a:I[9118,["950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","609","static/chunks/609-6d7a31efd706c5eb.js","700","static/chunks/700-90fe45fc7677a939.js","831","static/chunks/app/blog/page-262258d049bae2a2.js"],"default"]
-1b:T1e70,# Building Data-Intensive Applications: A Modern Primer
+0:{"P":null,"b":"DrCcViY1YSMv-l9k9sFVU","p":"","c":["","blog",""],"i":false,"f":[[["",{"children":["blog",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0ff9491b90815ad6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/f02a09be07589398.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_d65c78 __variable_bc0dcf font-sans antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","$L3",null,{}],["$","$L4",null,{"fallback":["$","$L5",null,{}],"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{}]]}]}],["$","div",null,{"className":"grain-overlay"}],["$","div",null,{"className":"content-wrapper","children":["$","main",null,{"id":"main-content","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$Lb",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$Lc",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Ld","$undefined",null,["$","$Le",null,{"children":["$Lf","$L10",null]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","n64BtzcY9LNmF2MNur_Hy",{"children":[["$","$L11",null,{"children":"$L12"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$L13",null,{"children":"$L14"}]]}],false]],"m":"$undefined","G":["$15","$undefined"],"s":false,"S":true}
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:null
+10:null
+14:[["$","title","0",{"children":"Blog | Michael Luo"}],["$","meta","1",{"name":"description","content":"Thoughts and insights on technology, leadership, and creative innovation."}],["$","meta","2",{"name":"author","content":"Michael Luo"}],["$","meta","3",{"name":"keywords","content":"Michael Luo,Technology Leadership,Software Engineering,Digital Art,Portfolio"}],["$","meta","4",{"name":"creator","content":"Michael Luo"}],["$","meta","5",{"name":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self';"}],["$","meta","6",{"property":"og:title","content":"Michael Luo - Digital Art Experience"}],["$","meta","7",{"property":"og:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}],["$","meta","8",{"property":"og:url","content":"https://michaelluo.com/"}],["$","meta","9",{"property":"og:site_name","content":"Michael Luo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@michaelluo"}],["$","meta","14",{"name":"twitter:title","content":"Michael Luo - Digital Art Experience"}],["$","meta","15",{"name":"twitter:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}]]
+16:I[8020,["614","static/chunks/614-5f57959f8222ad94.js","950","static/chunks/950-288bbdfb4f085609.js","131","static/chunks/131-2fc983898037dbe9.js","700","static/chunks/700-90fe45fc7677a939.js","831","static/chunks/app/blog/page-b98d871d224eaddb.js"],"default"]
+17:I[4140,["614","static/chunks/614-5f57959f8222ad94.js","950","static/chunks/950-288bbdfb4f085609.js","131","static/chunks/131-2fc983898037dbe9.js","700","static/chunks/700-90fe45fc7677a939.js","831","static/chunks/app/blog/page-b98d871d224eaddb.js"],"default"]
+18:I[9118,["614","static/chunks/614-5f57959f8222ad94.js","950","static/chunks/950-288bbdfb4f085609.js","131","static/chunks/131-2fc983898037dbe9.js","700","static/chunks/700-90fe45fc7677a939.js","831","static/chunks/app/blog/page-b98d871d224eaddb.js"],"default"]
+19:T1b59,## Infrastructure as Code
 
-## 1. What is a Data-Intensive Application?
+Infrastructure as code (IAC) is a concept in which you create, deploy, update, and destroy your infrastructure by writing and executing code.
 
-Modern applications increasingly rely on data, not just computational speed. These are known as **data-intensive applications**—systems where challenges stem from the **volume**, **complexity**, and **speed of change** of the data rather than from CPU constraints.
+## Categories 
 
-Such applications are built from a collection of standard components, each serving a specialized role:
+### Ad hoc scripts
+Bash, Ruby, Python scripts that execute on the servers. However, When you attempt to handle hundreds of servers, databases, load balancers, network settings, and so on using ad hoc scripts, things become complicated.
 
-* **Databases**: Persist data so it can be retrieved later.
-* **Caches**: Store the results of expensive computations to improve performance.
-* **Search Indexes**: Enable keyword or filter-based queries over datasets.
-* **Stream Processing**: Handle real-time data through asynchronous message passing.
-* **Batch Processing**: Periodically perform computations over large datasets.
+### Configuration management tools
+Examples include Chef, Puppet, Ansible, and SaltStack.
 
-Understanding how these pieces interact is key to building scalable, maintainable systems.
+__Advanteages__:
+1. *Coding conventions*: Contrary to ad hoc scripts, most configuration management systems come with a set of standards that help developers traverse their code.
+2. *Idempotence*: Code that works correctly no matter how many times you run
+3. *Distribution*: Ad hoc scripts are intended to execute on a single computer. Ansible and other configuration management technologies are intended to handle a large number of remote servers.
 
-## 2. Core System Design Concerns
+### Server templating tools
+Server templating technologies like Docker, Packer, and Vagrant have lately gained prominence as alternatives to configuration management. Instead of starting many servers and configuring them all with the same code, server templating tools generate a server image that contains a complete “snapshot” of the OS, software, files, and other important information. Then use another IaC programme to instal it on all your servers.
 
-Successful systems share three primary attributes:
+#### Tools for working with images
+*Virtual machines*: A virtual machine (VM) simulates a complete computer system, including the hardware. With VMWare, VirtualBox, or Parallels you virtualize  the CPU, memory, hard drive, and networking.
 
-### Reliability
+__Pros__:
+Any VM image running on top of the hypervisor can only view virtualized hardware, keeping it completely isolated from the host system and other VM images (e.g., your computer, a QA server, a production server)
 
-A system is reliable if it continues to function correctly even when faced with failures—hardware issues, software bugs, or human mistakes. This means data should not be lost or corrupted, and services should remain available where possible.
+__Cons__:
+Each VM has its own OS, virtualizing all this hardware incurs significant cost in terms of CPU, memory, and startup time.
 
-### Scalability
+*Cotnainers*
+A container simulate an OS's user space, then you run a container engine like Docker, CoreOS rkt, or cri-o to generate separated processes.
 
-Scalability is the system's ability to handle growth—whether in user traffic, dataset size, or feature complexity. An ideal system allows you to increase capacity by adding resources, rather than having to re-architect the entire solution.
+__Pros__:
+The advantage is that each container running on top of the container engine can only view its own user space, keeping it isolated from the host system and other containers (your computer, a QA server, a production server, etc.)
 
-### Maintainability
+__Cons__:
+The disadvantage is that all containers on a single server share the same OS kernel and hardware, making it impossible to achieve the same degree of isolation and security as a VM. However, because the kernel and hardware are shared, containers start up in milliseconds with little CPU and memory use.
 
-As systems evolve, they must remain easy to understand, debug, and extend. A maintainable system allows many developers to contribute without causing regressions, and adapts to new requirements with minimal disruption.
+#### Commom pattern
+Note that each server templating tool has a unique function. Use Packer to build images that operate directly on production servers, like an AMI in your production AWS account. Vagrant usually creates images for development machines, such a VirtualBox image for your Mac or Windows laptop. Docker is usually used to build app images.
 
-## 3. OLTP vs OLAP Systems
-![OLTP vs OLAP](//images.ctfassets.net/2swoy9jddxd7/7lGfmdQuVKBGUahccizOp3/23b6109f13fa6a5650447e84db220195/OLTP_vs_OLAP.png)
-Data-intensive systems often fall into two categories:
+A common pattern is to use Packer to build an AMI with the Docker Engine installed, then deploying that AMI on a cluster of machines in your AWS account to execute your apps.
 
-| Property      | Transaction Processing (OLTP)             | Analytic Processing (OLAP)                   |
-| ------------- | ----------------------------------------- | -------------------------------------------- |
-| Read Pattern  | Quick lookup by key (few records)         | Aggregations over large data sets            |
-| Write Pattern | Frequent small writes (e.g., user inputs) | Bulk loads from pipelines or data warehouses |
-| Users         | Customers interacting with applications   | Analysts querying for insights               |
-| Data Focus    | Current application state                 | Historical logs or event trails              |
-| Data Size     | Gigabytes to terabytes                    | Terabytes to petabytes                       |
+#### Immutable infrastructure 
+This concept comes from functional programming and involves immutable variables, which means that once set, they can never be changed. Because variables don't change, they're simpler to reason about.
 
-OLTP systems are designed for real-time responsiveness, while OLAP systems are optimized for high-throughput data analysis.
+Immutable infrastructure works similarly: once deployed, a server is never changed again. To update anything, you generate a new image from your server template and deploy it on a new server. It's simpler to reason about what's deployed since servers never change.
 
-## 4. Data Encoding and Evolution
-![transformation of data](//images.ctfassets.net/2swoy9jddxd7/7mvyzhutGYrh76iNOQlxNx/ca52d7512822247d70cf579eabfe54c5/transformation_of_data.png)
+### Orchestration tools
+In real world, you will need the following steps to deploy the new infracturure:
 
-### In-Memory vs Serialized Data
+- Deploy VMs and containers, making efficient use of your hardware.
+- Roll out updates to an existing fleet of VMs and containers using strategies such as *rolling deployment, blue-green deployment, and canary deployment.*
+- Monitor the health of your VMs and containers and automatically replace unhealthy ones (__auto healing__).
+- Scale the number of VMs and containers up or down in response to load (__auto scaling__).
+- Distribute traffic across your VMs and containers (load balancing).
+- Allow your VMs and containers to find and talk to one another over the network (__service discovery__).
 
-Applications store data in memory using structures like arrays, maps, or objects for fast access. However, this in-memory form isn't portable across systems.
+Orchestration tools like *Kubernetes, Marathon/Mesos, Amazon Elastic Container Service (Amazon ECS), Docker Swarm, and Nomad* can help software engineers to easily manage the those steps with less effort.
 
-When data is saved to disk or sent over the network, it must be **encoded** (or serialized) into a byte stream. This allows other systems to read or reconstruct it later using **decoding** (or deserialization).
+For example, Kubernetes lets you specify container management as code. You would first set up a Kubernetes cluster, which is a collection of servers managed by Kubernetes.
 
-### Encoding Challenges
+### Provisioning tools
+While configuration management, server templating, and orchestration tools specify the code that runs on each server, provisioning tools like Terraform, CloudFormation, and OpenStack Heat create the servers themselves, including database caches, load balancers, queues, monitoring, subnet configurations, firewall settings, routing rules, Secure Sockets Layer (SSL) certificates, and almost every other aspect of your infrastructure.
 
-* **Language Lock-In**: Language-specific serialization (e.g., Java Serialization) makes it hard to integrate with services written in other languages.
-* **Security Vulnerabilities**: Deserializing unknown input can expose systems to arbitrary code execution.
-* **Poor Versioning Support**: Many formats don’t handle forward or backward compatibility, breaking systems when schemas evolve.
-* **Performance Overheads**: Some encoders are bloated or slow, hindering throughput.
+## The Benefits of Infrastructure as Code
+1. __Self-service__: Since infrastructure is defined in code, the whole deployment process can be automated, and developers can initiate their own deployments as needed.
+2. __Speed and safety__: If the deployment process is automated, it will be considerably quicker since a computer can do the deployment stages much faster than a person; and safer because an automated process will be more consistent, repeatable, and less prone to human mistake.
+3. __Documentation__: IaC serves as documentation, enabling everyone in the company to understand how things operate even if the system administrator is away.
+4. __Version control__: Your IaC source files may be stored under version control, capturing the full history of your infrastructure in the commit log. When a problem arises, the first step is to examine the commit log to see what happened in your infrastructure, and the second is to simply rollback to a known-good version of your IaC code.
+5. __Validation__: If your infrastructure is specified in code, you may conduct code reviews, run automated tests, and analyse the code using static analysis tools after every update.
+6. __Reuse__: You can bundle your infrastructure into reusable modules so you don't have to recreate it for every product and environment.
+7. __Happiness__: Manually deploying code and maintaining infrastructure is tedious. No originality, no challenge, no acknowledgement, no reward. No one will notice if you release code flawlessly for months, unless you make a mistake. That causes tension and annoyance. Instead, IaC lets computers do what they do best (automation) and people do what they do best (development) (coding).1a:T738,## DevOps
 
-### Format Comparisons
+Tranditional delpyment process are done mannuly, the more changes required to go to production, the release become slower, painful and unpredictable. 
 
-* **Language-Specific (e.g., Java Serialization)**: Fast, but tightly coupled and insecure.
-* **Textual (e.g., JSON, XML)**: Human-readable and widely supported, but can be vague about types.
-* **Binary Schema-Driven (e.g., Protobuf, Avro)**: Efficient, compact, and explicitly versioned—ideal for internal service communication.
+__Snowflke servers (configuration drift)__ : each server has different configuration from all the others.
 
-## 5. Communication Patterns
+Gartner states "DevOps represents a change in IT culture, focusing on rapid IT service delivery through the adoption of agile, lean practices in the context of a system-oriented approach. DevOps emphasizes people (and culture), and seeks to improve collaboration between operations and development teams. DevOps implementations utilize technology— especially automation tools that can leverage an increasingly programmable and dynamic infrastructure from a life cycle perspective". Simply speaking, the goal is to improve the efficiency of software delivery.
 
-### RPC (Remote Procedure Call)
+__Note__: DevOps is a term that refers to the process, culture, and attitude that are utilised to reduce the software development life cycle by utilising quick feedback loops to provide features, fixes, and upgrades more frequently.
 
-RPC aims to abstract away the complexity of calling remote services by making them look like local function calls. However, this abstraction hides several issues:
+## CAMS model
+CAMS stands for four core value of DevOps: Culture, Automation, Measurement, and Sharing 
 
-* **Unpredictability**: Network calls are affected by latency, failures, and timeouts.
-* **Partial Failures**: You might not know whether a request succeeded or failed if the response is lost.
-* **Duplicate Requests**: Retrying on failure can lead to repeated operations without safeguards.
-* **Serialization Overhead**: Complex objects must be encoded and decoded for each call.
-* **Cross-language Challenges**: Data types may not translate cleanly between languages.
+## Cargo cult
+Wiki defines a cargo cult is a millenarian indigenous belief system in which followers undertake rituals in the hopes of causing a more technologically sophisticated culture to bring commodities.
 
-### REST vs RPC
-![RPC vs REST](//images.ctfassets.net/2swoy9jddxd7/6SyhnAmk99yeqCEU7tGeKK/34879c7d5b5966adcbca834b188f6f14/RPC_vs_REST.png)
+The organization should not attempt to imitate other organizations' procedures exactly as they are, only because they work in these organizations. Instead, it would be best to look at the challenges these other organizations have solved and how they are solved, then determine what would work best for your organization.
 
-RESTful APIs offer a pragmatic alternative to RPC:
-
-* Easy to test and debug with HTTP tools (like `curl` or Postman).
-* Supported across all major platforms.
-* Large ecosystem of tools (e.g., load balancers, proxies).
-
-Custom RPC with binary formats can be faster, but REST is often preferred for public or heterogeneous systems.
-
-### Message-Passing with Brokers
-![message-passing architecture diagram](//images.ctfassets.net/2swoy9jddxd7/5udUpvprTjbKrS6G3Xw7cH/a3211f1dadb68e6b7d74110affa9dc7f/message-passing_architecture_diagram.png)
-
-Messaging systems like Kafka or RabbitMQ offer an alternative model:
-
-* **Buffering**: Acts as a queue when consumers are slow.
-* **Redelivery**: Handles failures gracefully.
-* **Decoupling**: Publishers don’t need to know consumers.
-* **Scalability**: Enables multiple consumers per message.
-* **Asynchronous Flow**: Send-and-forget communication.
-
-### Distributed Actor Frameworks
-
-Actor models (like Akka) treat each component as a stateful actor communicating via messages. This model is naturally scalable and resilient and is suitable for building concurrent, distributed systems.
-
-## 6. Deployment and Evolvability
-
-### Rolling Upgrades
-
-Rolling upgrades involve gradually deploying new versions of a service to small subsets of servers:
-
-* Reduce downtime and risk.
-* Enable monitoring and rollback of faulty changes.
-* Promote smaller, frequent deployments.
-
-This strategy enhances **evolvability**, ensuring the system remains adaptable and continuously deployable.
-
-## 7. Summary of Encoding Format Compatibility
-
-| Format Type          | Interoperability | Human-Readable | Versioning Support | Performance |
-| -------------------- | ---------------- | -------------- | ------------------ | ----------- |
-| Language-Specific    | Low              | No             | Poor               | Good        |
-| JSON/XML/CSV         | High             | Yes            | Medium             | Fair        |
-| Protobuf/Thrift/Avro | High             | No             | Strong             | Excellent   |
-
-## Conclusion
-
-Designing robust data-intensive applications means making thoughtful decisions about storage, encoding, communication, and deployment.
-
-Key takeaways:
-
-* Use **scalable architecture patterns** to manage data growth.
-* Choose encoding formats that support **interoperability and evolution**.
-* Favor **asynchronous communication** for resilience.
-* Implement **rolling upgrades** to deliver changes safely.
-
-By embracing these principles, teams can build systems that are reliable under pressure, flexible for future needs, and efficient at scale.
-1c:T1cf7,# Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience
+## How does it work
+- Collaboration
+- Automation
+- Continuous Integration
+- Continuous Deployment
+- Continuous Delivery
+- Continuous Monitoring
+1b:T1cf7,# Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience
 
 In 2023, the DevOps Research and Assessment (DORA) team released its latest *State of DevOps* report, highlighting the evolving landscape of software delivery. The findings were clear: high-performing teams aren’t just faster—they’re safer, more resilient, and more developer-friendly.
 
@@ -320,387 +277,7 @@ That’s real velocity.
 **References**:
 - [2023 State of DevOps Report – DORA](https://cloud.google.com/devops/state-of-devops)
 - *Accelerate: The Science of Lean Software and DevOps* by Forsgren, Humble, and Kim
-1d:T110b,# Software Engineering Management 101: A Practical Overview Based on SWEBOK
-
-The *Guide to the Software Engineering Body of Knowledge* (SWEBOK Guide) defines the generally accepted knowledge areas of software engineering. One of its core areas is **Software Engineering Management**, which refers to the application of management activities—such as planning, coordinating, measuring, monitoring, controlling, and reporting—to ensure that software products and services are delivered efficiently, effectively, and in alignment with stakeholder needs.
-
-## Core Topics
-
-![Breakdown of Topics for the Software Engineering Management KA](//images.ctfassets.net/2swoy9jddxd7/15ukwo57TvbidOFWieB1gJ/b94fc1208140fc1fd71595decfaff1f8/Software_Engineering_Management.png)
-
-The image above illustrates the breakdown of topics based on the key activities involved in Software Engineering Management. This breakdown is agnostic of any specific software development life cycle model.
-
----
-
-### Initiation and Scope Definition
-
-1. **Determination and Negotiation of Requirements**  
-   Analyze, specify, and validate software requirements while considering the perspectives of all stakeholders. This process helps define the scope and expected outcomes of the project.
-
-2. **Feasibility Analysis**  
-   Evaluate whether the project is viable from technological, resource, financial, and socio-political perspectives. The goal is to assess whether the current approach will achieve optimal project outcomes.
-
-3. **Requirements Review and Revision Process**  
-   Ensure all stakeholders agree on the defined requirements and scope. Establish a structured change management process to handle revisions effectively throughout the project.
-
----
-
-### Software Project Planning
-
-1. **Process Planning** – Define the software development processes to be followed.
-2. **Deliverable Determination** – Identify and document the tangible outputs of the project.
-3. **Effort, Schedule, and Cost Estimation** – Forecast time, budget, and human resources needed.
-4. **Resource Allocation** – Assign tasks and responsibilities to teams and individuals.
-5. **Risk Management** – Identify, assess, and plan mitigation strategies for potential risks.
-6. **Quality Management** – Define processes to ensure product quality meets expectations.
-7. **Plan Management** – Continuously update and align the project plan with actual progress.
-
----
-
-### Software Project Enactment
-
-1. **Implementation of Plans** – Execute according to the defined plans.
-2. **Software Acquisition and Supplier Contract Management** – Manage third-party software and vendor contracts.
-3. **Measurement Process Implementation** – Introduce key performance metrics to monitor execution.
-4. **Process Monitoring** – Track progress against the plan and detect deviations.
-5. **Process Control** – Apply corrective actions as needed to stay on track.
-6. **Reporting** – Communicate project status, risks, and metrics to stakeholders.
-
----
-
-### Review and Evaluation
-
-1. **Requirement Satisfaction Review** – Verify that all project requirements have been fulfilled.
-2. **Performance Evaluation** – Assess the effectiveness and efficiency of the project and team.
-
----
-
-### Project Closure
-
-1. **Closure Determination** – Confirm that all objectives have been met or formally closed.
-2. **Closure Activities** – Document lessons learned, release resources, and archive deliverables.
-
----
-
-### Software Engineering Measurement
-
-1. **Establish and Sustain Measurement Commitment** – Gain stakeholder buy-in and support.
-2. **Plan the Measurement Process** – Define what to measure, how, and why.
-3. **Execute the Measurement Process** – Collect and analyze relevant data.
-4. **Evaluate the Measurements** – Use results to guide improvements and decision-making.
-
----
-
-### Software Engineering Management Tools
-
-1. **Project Planning and Tracking Tools** – e.g., Jira, Microsoft Project, Asana.
-2. **Risk Management Tools** – e.g., RiskWatch, Active Risk Manager.
-3. **Communication Tools** – e.g., Slack, Microsoft Teams, Zoom.
-4. **Measurement Tools** – e.g., SonarQube, Google Analytics, custom dashboards.
-
----
-
-## Reference
-
-[Software Engineering Course (SWEBOK) | IEEE Computer Society (2021)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
-1e:T1942,# Web Authentication: Sessions, Tokens, Storage, and Security Considerations
-
-## Introduction
-
-Authentication is fundamental to securing modern web applications. Developers often choose between **session-based** and **token-based** approaches, depending on their app architecture and scalability needs. This guide explores these two models, compares storage options, explains common pitfalls, and provides best practices for implementation.
-
----
-
-## 1. Session-Based Authentication
-
-### Overview
-
-* **Client-side**: Stores a session identifier in a cookie.
-* **Server-side**: Tracks session state using memory, disk, or external stores like Redis.
-
-### Common Issues
-
-* **Memory Overhead**: The server must manage growing session state as more users authenticate. While external stores reduce memory usage, they increase I/O and network load.
-* **Scalability**: Synchronizing sessions across a distributed server environment introduces complexity and potential bottlenecks.
-* **Cross-Domain Limitations**: Session cookies are bound to a single domain and cannot easily be shared between subdomains or different origins.
-* **Security Risks**: Sessions are vulnerable to:
-
-  * **XSS (Cross-Site Scripting)** – attackers can steal cookies.
-  * **CSRF (Cross-Site Request Forgery)** – malicious sites trick browsers into making authenticated requests.
-
-Mitigation strategies include setting the `HttpOnly`, `Secure`, and `SameSite` flags on cookies and using CSRF tokens.
-
----
-
-## 2. Token-Based Authentication (Stateless)
-
-### Overview
-
-* **Client-side**: Stores access tokens in localStorage or cookies.
-* **Server-side**: Verifies the token on each request without tracking session state.
-
-This model is scalable and well-suited for modern SPAs and microservices.
-
-### Advantages
-
-* Stateless architecture reduces backend load.
-* Easily supports horizontal scaling across services or servers.
-* Decouples authentication from server memory or persistence.
-
----
-
-### JSON Web Tokens (JWTs)
-
-A JWT consists of three base64-encoded parts:
-
-```
-<Header>.<Payload>.<Signature>
-```
-
-**Example:**
-
-```
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
-.
-eyJ1c2VySWQiOiIxMjM0NTY3ODkwIiwiaWF0IjoxNjQzNTY4MjQwfQ
-.
-SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
-```
-
-* **Header**: Defines algorithm (e.g., HS256).
-* **Payload**: Contains claims like `userId`, `exp`, `scope`.
-* **Signature**: Verifies token integrity.
-
-> Note: JWTs are base64-encoded, not encrypted. Anyone with access to a JWT can read its contents unless encryption (JWE) is used.
-
----
-
-### Refresh Tokens
-
-Refresh tokens enable the issuance of new access tokens without re-authentication.
-
-**Best practices:**
-
-* Store securely in `httpOnly`, `Secure` cookies.
-* Rotate and expire refresh tokens after use or inactivity.
-* Maintain a revocation list for stolen or expired tokens.
-
----
-
-## 3. Two-Factor Authentication (2FA)
-
-2FA enhances security by requiring a second factor beyond the password.
-
-### Flow
-
-1. User enters username and password.
-2. Server prompts for a second factor:
-
-   * OTP via SMS/email
-   * TOTP from an authenticator app
-   * Hardware-generated PIN (e.g., YubiKey)
-3. Upon successful validation, the user receives an access token or session.
-
----
-
-## 4. Local Storage vs Cookies
-
-### Local Storage
-
-**Pros**
-
-* Not sent with every request → immune to CSRF.
-* Simple JavaScript API (`localStorage.getItem()`).
-* Larger storage limit (\~5–10MB).
-
-**Cons**
-
-* Vulnerable to XSS (JavaScript-accessible).
-* No built-in expiry or invalidation.
-* Cannot be used in SSR (data unavailable at initial request).
-* Manual logic needed to attach tokens to each request.
-
----
-
-### Cookies
-
-**Pros**
-
-* Automatically sent with each HTTP request.
-* Works well with server-side rendering (SSR).
-* Supports `HttpOnly`, `Secure`, `SameSite` flags for security.
-* Built-in expiration support.
-* Domain/path scoping.
-
-**Cons**
-
-* Vulnerable to CSRF unless mitigated.
-* Harder to parse manually in JS.
-* Limited in storage capacity (\~4KB total).
-
----
-
-## 5. Secure Cookie Configuration
-
-Use proper flags when setting cookies:
-
-```
-Set-Cookie: token=abc123; HttpOnly; Secure; SameSite=Strict; Path=/; Expires=Wed, 01 Jan 2030 00:00:00 GMT
-```
-
-* **HttpOnly**: Not accessible via JavaScript.
-* **Secure**: Only sent over HTTPS.
-* **SameSite=Strict**: Blocks cross-site requests.
-* **Path/Domain**: Scopes the cookie.
-
----
-
-## 6. OAuth 2.0 and OpenID Connect
-
-Token-based systems often leverage **OAuth 2.0** and **OpenID Connect**.
-
-### Common Flows
-
-* **Authorization Code Flow (with PKCE)**: For SPAs and mobile apps.
-* **Client Credentials Flow**: For machine-to-machine APIs.
-* **Refresh Token Flow**: For long-lived sessions.
-
-These protocols provide a standardized, secure way to authenticate users across platforms.
-
----
-
-## 7. Best Practices
-
-| Area                    | Recommendation                                           |
-| ----------------------- | -------------------------------------------------------- |
-| Token storage           | Use `httpOnly` cookies, avoid localStorage for secrets   |
-| Access token expiration | Use short-lived tokens (5–15 mins)                       |
-| Refresh token security  | Store securely, rotate frequently                        |
-| CSRF mitigation         | Use SameSite cookies or CSRF tokens                      |
-| XSS prevention          | Sanitize inputs and use a strong Content Security Policy |
-| Cookie security         | Always use `Secure`, `HttpOnly`, and `SameSite` flags    |
-| JWT validation          | Verify signature and expiration on every request         |
-
----
-
-## 8. Real-World Examples
-
-* **Google**: Uses OAuth 2.0 and `httpOnly` cookies for refresh tokens.
-* **GitHub**: Uses personal access tokens and OAuth apps.
-* **AWS**: Uses temporary credentials managed via session tokens and federated roles.
-
----
-
-## 9. Conclusion
-
-Choosing the right authentication strategy depends on your app’s architecture, scale, and user experience goals:
-
-* Use **sessions** for traditional SSR apps with centralized state.
-* Use **tokens (JWT)** for SPAs, mobile apps, and scalable APIs.
-* Prefer **cookies** (with `HttpOnly`) for security-critical tokens.
-* Store **refresh tokens** securely and manage revocation or rotation.
-* Layer with **2FA** for improved account protection.
-* Always implement **CSRF and XSS defenses** regardless of the method.
-
-Security is a continuous effort—design defensively, monitor actively, and adapt quickly.
-1f:T1b59,## Infrastructure as Code
-
-Infrastructure as code (IAC) is a concept in which you create, deploy, update, and destroy your infrastructure by writing and executing code.
-
-## Categories 
-
-### Ad hoc scripts
-Bash, Ruby, Python scripts that execute on the servers. However, When you attempt to handle hundreds of servers, databases, load balancers, network settings, and so on using ad hoc scripts, things become complicated.
-
-### Configuration management tools
-Examples include Chef, Puppet, Ansible, and SaltStack.
-
-__Advanteages__:
-1. *Coding conventions*: Contrary to ad hoc scripts, most configuration management systems come with a set of standards that help developers traverse their code.
-2. *Idempotence*: Code that works correctly no matter how many times you run
-3. *Distribution*: Ad hoc scripts are intended to execute on a single computer. Ansible and other configuration management technologies are intended to handle a large number of remote servers.
-
-### Server templating tools
-Server templating technologies like Docker, Packer, and Vagrant have lately gained prominence as alternatives to configuration management. Instead of starting many servers and configuring them all with the same code, server templating tools generate a server image that contains a complete “snapshot” of the OS, software, files, and other important information. Then use another IaC programme to instal it on all your servers.
-
-#### Tools for working with images
-*Virtual machines*: A virtual machine (VM) simulates a complete computer system, including the hardware. With VMWare, VirtualBox, or Parallels you virtualize  the CPU, memory, hard drive, and networking.
-
-__Pros__:
-Any VM image running on top of the hypervisor can only view virtualized hardware, keeping it completely isolated from the host system and other VM images (e.g., your computer, a QA server, a production server)
-
-__Cons__:
-Each VM has its own OS, virtualizing all this hardware incurs significant cost in terms of CPU, memory, and startup time.
-
-*Cotnainers*
-A container simulate an OS's user space, then you run a container engine like Docker, CoreOS rkt, or cri-o to generate separated processes.
-
-__Pros__:
-The advantage is that each container running on top of the container engine can only view its own user space, keeping it isolated from the host system and other containers (your computer, a QA server, a production server, etc.)
-
-__Cons__:
-The disadvantage is that all containers on a single server share the same OS kernel and hardware, making it impossible to achieve the same degree of isolation and security as a VM. However, because the kernel and hardware are shared, containers start up in milliseconds with little CPU and memory use.
-
-#### Commom pattern
-Note that each server templating tool has a unique function. Use Packer to build images that operate directly on production servers, like an AMI in your production AWS account. Vagrant usually creates images for development machines, such a VirtualBox image for your Mac or Windows laptop. Docker is usually used to build app images.
-
-A common pattern is to use Packer to build an AMI with the Docker Engine installed, then deploying that AMI on a cluster of machines in your AWS account to execute your apps.
-
-#### Immutable infrastructure 
-This concept comes from functional programming and involves immutable variables, which means that once set, they can never be changed. Because variables don't change, they're simpler to reason about.
-
-Immutable infrastructure works similarly: once deployed, a server is never changed again. To update anything, you generate a new image from your server template and deploy it on a new server. It's simpler to reason about what's deployed since servers never change.
-
-### Orchestration tools
-In real world, you will need the following steps to deploy the new infracturure:
-
-- Deploy VMs and containers, making efficient use of your hardware.
-- Roll out updates to an existing fleet of VMs and containers using strategies such as *rolling deployment, blue-green deployment, and canary deployment.*
-- Monitor the health of your VMs and containers and automatically replace unhealthy ones (__auto healing__).
-- Scale the number of VMs and containers up or down in response to load (__auto scaling__).
-- Distribute traffic across your VMs and containers (load balancing).
-- Allow your VMs and containers to find and talk to one another over the network (__service discovery__).
-
-Orchestration tools like *Kubernetes, Marathon/Mesos, Amazon Elastic Container Service (Amazon ECS), Docker Swarm, and Nomad* can help software engineers to easily manage the those steps with less effort.
-
-For example, Kubernetes lets you specify container management as code. You would first set up a Kubernetes cluster, which is a collection of servers managed by Kubernetes.
-
-### Provisioning tools
-While configuration management, server templating, and orchestration tools specify the code that runs on each server, provisioning tools like Terraform, CloudFormation, and OpenStack Heat create the servers themselves, including database caches, load balancers, queues, monitoring, subnet configurations, firewall settings, routing rules, Secure Sockets Layer (SSL) certificates, and almost every other aspect of your infrastructure.
-
-## The Benefits of Infrastructure as Code
-1. __Self-service__: Since infrastructure is defined in code, the whole deployment process can be automated, and developers can initiate their own deployments as needed.
-2. __Speed and safety__: If the deployment process is automated, it will be considerably quicker since a computer can do the deployment stages much faster than a person; and safer because an automated process will be more consistent, repeatable, and less prone to human mistake.
-3. __Documentation__: IaC serves as documentation, enabling everyone in the company to understand how things operate even if the system administrator is away.
-4. __Version control__: Your IaC source files may be stored under version control, capturing the full history of your infrastructure in the commit log. When a problem arises, the first step is to examine the commit log to see what happened in your infrastructure, and the second is to simply rollback to a known-good version of your IaC code.
-5. __Validation__: If your infrastructure is specified in code, you may conduct code reviews, run automated tests, and analyse the code using static analysis tools after every update.
-6. __Reuse__: You can bundle your infrastructure into reusable modules so you don't have to recreate it for every product and environment.
-7. __Happiness__: Manually deploying code and maintaining infrastructure is tedious. No originality, no challenge, no acknowledgement, no reward. No one will notice if you release code flawlessly for months, unless you make a mistake. That causes tension and annoyance. Instead, IaC lets computers do what they do best (automation) and people do what they do best (development) (coding).20:T738,## DevOps
-
-Tranditional delpyment process are done mannuly, the more changes required to go to production, the release become slower, painful and unpredictable. 
-
-__Snowflke servers (configuration drift)__ : each server has different configuration from all the others.
-
-Gartner states "DevOps represents a change in IT culture, focusing on rapid IT service delivery through the adoption of agile, lean practices in the context of a system-oriented approach. DevOps emphasizes people (and culture), and seeks to improve collaboration between operations and development teams. DevOps implementations utilize technology— especially automation tools that can leverage an increasingly programmable and dynamic infrastructure from a life cycle perspective". Simply speaking, the goal is to improve the efficiency of software delivery.
-
-__Note__: DevOps is a term that refers to the process, culture, and attitude that are utilised to reduce the software development life cycle by utilising quick feedback loops to provide features, fixes, and upgrades more frequently.
-
-## CAMS model
-CAMS stands for four core value of DevOps: Culture, Automation, Measurement, and Sharing 
-
-## Cargo cult
-Wiki defines a cargo cult is a millenarian indigenous belief system in which followers undertake rituals in the hopes of causing a more technologically sophisticated culture to bring commodities.
-
-The organization should not attempt to imitate other organizations' procedures exactly as they are, only because they work in these organizations. Instead, it would be best to look at the challenges these other organizations have solved and how they are solved, then determine what would work best for your organization.
-
-## How does it work
-- Collaboration
-- Automation
-- Continuous Integration
-- Continuous Deployment
-- Continuous Delivery
-- Continuous Monitoring
-21:T829,## Clean Code
+1c:T829,## Clean Code
 > Clean code is code that is easy to understand and easy to change.
 
 ## Software design principles
@@ -724,7 +301,7 @@ One good example of the DRY principle is the helper class in enterprise librarie
 It stands for "Keep It Simple, Stupid". KISS states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided.
 
 ### YAGNI principle
-It stands for "You Ain't Gonna Need It" . It's a principle of extreme programming (XP) that states a programmer should not add functionality until deemed necessary.Ron Jeffries, one of the co-founders of the XP, once said: "__Always implement things when you actually need them, never when you just foresee that you need them__."22:Tbf1,## Unit test
+It stands for "You Ain't Gonna Need It" . It's a principle of extreme programming (XP) that states a programmer should not add functionality until deemed necessary.Ron Jeffries, one of the co-founders of the XP, once said: "__Always implement things when you actually need them, never when you just foresee that you need them__."1d:Tbf1,## Unit test
 
 The unit tests are used to prove the smallest testable part of a computer program.In this sense, the great challenge is to write code that is testable; otherwise, it will be impossible to apply the unit tests.
 
@@ -765,7 +342,7 @@ In general, the monkey test is useful for identifying out-of-the-box errors.
 - Janitor Monkey: This searches for unused resources and deletes them
 - Latency Monkey: This creates artificial delays in client-server communication
 - Security Monkey: This encounters security vulnerabilities, such as non-security groups configured properly
-23:T1f7b,## Communicate Child to Parent
+1e:T1f7b,## Communicate Child to Parent
 
 Since there is no way to communicate between siblings (only
 parent to child and vice versa), keeping the state at the root
@@ -959,7 +536,7 @@ return wrappedComponent;
 
 export default makeRed;
 `
-24:T92e,## Scifit-learn
+1f:T92e,## Scifit-learn
 
 **Overfitting** means that the model captures the patterns in the training data well, but fails to generalize well to unseen data.
 
@@ -1002,7 +579,7 @@ They are able to capture information contained in large amounts of data and buil
 
 Disadavantage
 Take a long time to train.
-25:Ta44,## Holdout cross-validation
+20:Ta44,## Holdout cross-validation
 
 A classic and popular approach for estimating the generalization performance of machine learning models is holdout cross-validation.
 
@@ -1042,7 +619,7 @@ it increase computational cost, since it trains k models instead of a single mod
   - F1-score
   - Receiver operator charateristic (ROC): this graphs are useful tools for selecting models for classification based on their performance with respect to the false positive and ture positive rates, which are computed by shifting the decision threshold of the classifer.
   - Area under the cureve (AUC) can be computed based on ROC curve to charaterize the performance of a classification model
-26:T9fc,## Ensemble learning
+21:T9fc,## Ensemble learning
 
 Ensemble methods: combine different classifiers into a meta-classifier that has a better generalization performance than each individual classifier alone.
 
@@ -1088,7 +665,7 @@ Advantages
 Disadvantages
 
 - Sensitive to noisy data and outliers
-27:T9a3,
+22:T9a3,
 ## Collect more data
 
 ## Resampling
@@ -1130,7 +707,7 @@ Standard classifier algorithms like Decision Tree and Logistic Regression have a
 ### Modified synthetic minority oversampling technique (MSMOTE)
 
 ## Ensemble techniques
-28:T6d5,## Dealling with Missing data
+23:T6d5,## Dealling with Missing data
 
 -   Eliminating samples or feature with missing values
     -   There are three types of missing data
@@ -1171,7 +748,7 @@ Standard classifier algorithms like Decision Tree and Logistic Regression have a
 ## Assessing feature importance with random forests
 
 -   If two or more features are highly correlated, one feature may be ranked very highly while the information fo the other feature(s) may not be fully captured. On the other hand, we don't need to be concerned about this problem if we are merely interested in the predictive performance of a model rather than the interpretation of feature importtances.
-29:T55b,## Clustering
+24:T55b,## Clustering
 
 Clustering (cluser analysis) is a technique that allows us to find groups of similar objects, objects that are more related to each other than to objects in other groups.
 Exaples of business-oriented applications of clustering include the grouping of documents, music, and moviews by different topics, or finding customers that share similar interests based on common purchase behaviors as a basis for recommendation egines.
@@ -1204,7 +781,7 @@ Density-based spatial Clustering of Applications with Noice (DBSCAN)
 Advantages:it does not assume that the clusters have a spherical shape as in k-means.
 
 Disadvantage: With an increasing number of features in our dataset -assuming a fixed number of training examples - the negative effect of curse of dimensionality increases.
-2a:T13b8,## A diagram of AI in computer science
+25:T13b8,## A diagram of AI in computer science
 ![Computer Science and AI](//images.contentful.com/2swoy9jddxd7/6jhGWPq3bcl01xYsb0UoGY/381dedb846a0bb91fe7ca00b53da60e7/Computer_Science.png)
 
 ## Rule-based system VS Machine learning
@@ -1280,321 +857,145 @@ unsupervised algorithms are used offten in an explortory setting, when a data sc
 - scikit-learn
 - pandas
 - matplotlib
-2b:T445b,## Domain-drive design
+26:T1e70,# Building Data-Intensive Applications: A Modern Primer
 
-It is very important to note that OOP is not only inheritance, interfaces, or anything else of the type. OOP's main ideas are as follows:
+## 1. What is a Data-Intensive Application?
 
-- Code alignment with the business
-- Favoring of reuse
-- Minimal coupling
+Modern applications increasingly rely on data, not just computational speed. These are known as **data-intensive applications**—systems where challenges stem from the **volume**, **complexity**, and **speed of change** of the data rather than from CPU constraints.
 
-three are more prominent for efficient microservices:
+Such applications are built from a collection of standard components, each serving a specialized role:
 
-- Context maps: These are the communication paths between microservices with appropriate interactions between microservices teams. After the analysis of the areas are already defined, the team can choose to be dependent on another team for domain language.
-- Anti-corruption layer (ACL): This is the function that translates foreign concepts for an internal model to provide loose coupling between the domains.
-- Interchange context: This provides an environment for both teams and discusses the meaning of each foreign term and translates the languages of microservices.
+* **Databases**: Persist data so it can be retrieved later.
+* **Caches**: Store the results of expensive computations to improve performance.
+* **Search Indexes**: Enable keyword or filter-based queries over datasets.
+* **Stream Processing**: Handle real-time data through asynchronous message passing.
+* **Batch Processing**: Periodically perform computations over large datasets.
 
-## Independent deploy, update, scale and replace
+Understanding how these pieces interact is key to building scalable, maintainable systems.
 
-### Update
+## 2. Core System Design Concerns
 
-- Never share libraries between microservices
-- Strong delimitation of microservice domains
-- Establish a client-server relationship between microservices
-- Deploy in separate containers
+Successful systems share three primary attributes:
 
-### Scale
+### Reliability
 
-**The Scale Cube**: 3 axis
+A system is reliable if it continues to function correctly even when faced with failures—hardware issues, software bugs, or human mistakes. This means data should not be lost or corrupted, and services should remain available where possible.
 
-- x-axis: horizontal decomposition: with the same application server replicated n times in full and in a balanced order of 1/n.
-- y-axis: functional decomposition: a verb or route is used by the balancer to identify where to go with the request.
-- z-axis: data partitioning: is very similar to the x-axis when it comes to scalability structure, as it distributes exactly the same code on each server. The big difference is that each server responds to a specific subset of data
+### Scalability
 
-## Communication
+Scalability is the system's ability to handle growth—whether in user traffic, dataset size, or feature complexity. An ideal system allows you to increase capacity by adding resources, rather than having to re-architect the entire solution.
 
-|              |       One-to-One        |             One-to-Many |
-| ------------ | :---------------------: | ----------------------: |
-| Synchronous  |    Request/response     |                       - |
-| Asynchronous |      Notification       |        publish/subsribe |
-|              | Request/ async response | publish/async responses |
+### Maintainability
 
-### Synchronous
+As systems evolve, they must remain easy to understand, debug, and extend. A maintainable system allows many developers to contribute without causing regressions, and adapts to new requirements with minimal disruption.
 
-- HTTP
-- TCP
-- WebSockets
-- Sockets
-- RPC
-- SOAP
+## 3. OLTP vs OLAP Systems
+![OLTP vs OLAP](//images.ctfassets.net/2swoy9jddxd7/7lGfmdQuVKBGUahccizOp3/23b6109f13fa6a5650447e84db220195/OLTP_vs_OLAP.png)
+Data-intensive systems often fall into two categories:
 
-### Asynchronous
+| Property      | Transaction Processing (OLTP)             | Analytic Processing (OLAP)                   |
+| ------------- | ----------------------------------------- | -------------------------------------------- |
+| Read Pattern  | Quick lookup by key (few records)         | Aggregations over large data sets            |
+| Write Pattern | Frequent small writes (e.g., user inputs) | Bulk loads from pipelines or data warehouses |
+| Users         | Customers interacting with applications   | Analysts querying for insights               |
+| Data Focus    | Current application state                 | Historical logs or event trails              |
+| Data Size     | Gigabytes to terabytes                    | Terabytes to petabytes                       |
 
-For this approach, the message broker is just perfect. Some software applications appear a good choice for message brokers, such as RabbitMQ, ActiveMQ, ZeroMQ, Kafka, and Redis. Each of these options has its own peculiarities, some are faster, others are more resilient. Again, the business setting is going to determine which technology is used.
+OLTP systems are designed for real-time responsiveness, while OLAP systems are optimized for high-throughput data analysis.
 
-### Mobile vs web endpoints
+## 4. Data Encoding and Evolution
+![transformation of data](//images.ctfassets.net/2swoy9jddxd7/7mvyzhutGYrh76iNOQlxNx/ca52d7512822247d70cf579eabfe54c5/transformation_of_data.png)
 
-Problems such as speed and weight information in the web world are not very common; we cannot say the same for the mobile world.
+### In-Memory vs Serialized Data
 
-### Caching at the client level
+Applications store data in memory using structures like arrays, maps, or objects for fast access. However, this in-memory form isn't portable across systems.
 
-request only passes to be processed on the backend, if really necessary. In other words, it tries to block direct access to the backend to requests that have already been implemented in the recent past.
+When data is saved to disk or sent over the network, it must be **encoded** (or serialized) into a byte stream. This allows other systems to read or reconstruct it later using **decoding** (or deserialization).
 
-### Throttling for your client
+### Encoding Challenges
 
-- Number of requests per minute from the same client
-- Number of requests per second from the same client
-- Number of requests per minute from the same client for similar information
-- Number of requests per second for the same client for the same information
+* **Language Lock-In**: Language-specific serialization (e.g., Java Serialization) makes it hard to integrate with services written in other languages.
+* **Security Vulnerabilities**: Deserializing unknown input can expose systems to arbitrary code execution.
+* **Poor Versioning Support**: Many formats don’t handle forward or backward compatibility, breaking systems when schemas evolve.
+* **Performance Overheads**: Some encoders are bloated or slow, hindering throughput.
 
-### Identification of an anemic domain
+### Format Comparisons
 
-- The microservice cannot perform the tasks itself with only the data received
-- The microservice needs to fetch data in more than one endpoint to perform a task
-- The microservice does not have a self-sufficient entity model
-- The microservice waits for the completion of a task in another microservice to follow up what you need to do
-- The microservice needs to share resources with other external microservices; these resources can be cached to the sample database
+* **Language-Specific (e.g., Java Serialization)**: Fast, but tightly coupled and insecure.
+* **Textual (e.g., JSON, XML)**: Human-readable and widely supported, but can be vague about types.
+* **Binary Schema-Driven (e.g., Protobuf, Avro)**: Efficient, compact, and explicitly versioned—ideal for internal service communication.
 
-If the microservice being developed is one of those items, then it can be a weak area. If a microservice has two or more characteristics of those listed, then it is definitely an anemic domain.
+## 5. Communication Patterns
 
-Anemic domains are very harmful to the microservices ecosystem, because they have a tendency to be multiplied in order to correct the technical debt generated by the deficiency in the composition of their respective domains.
+### RPC (Remote Procedure Call)
 
-### Fat domain - AAA (Authentication, Authorization, and Accounting
+RPC aims to abstract away the complexity of calling remote services by making them look like local function calls. However, this abstraction hides several issues:
 
-The division of this fat domain can be held in two parts; the first part is AAAService and the second is UserService. Another approach is the AAA responsibility for a gateway API. The functional scalability and features of implementation with these separate domains is much more interesting for the growth of the product as a whol
+* **Unpredictability**: Network calls are affected by latency, failures, and timeouts.
+* **Partial Failures**: You might not know whether a request succeeded or failed if the response is lost.
+* **Duplicate Requests**: Retrying on failure can lead to repeated operations without safeguards.
+* **Serialization Overhead**: Complex objects must be encoded and decoded for each call.
+* **Cross-language Challenges**: Data types may not translate cleanly between languages.
 
-## Things to consider
+### REST vs RPC
+![RPC vs REST](//images.ctfassets.net/2swoy9jddxd7/6SyhnAmk99yeqCEU7tGeKK/34879c7d5b5966adcbca834b188f6f14/RPC_vs_REST.png)
 
-Cost and scability:
+RESTful APIs offer a pragmatic alternative to RPC:
 
-- Programming languages
-- Microservices frameworks
-- Binary communication
-- Message broker
-- Caching tools
-- Fail alert tools
-- Locale proof performance
+* Easy to test and debug with HTTP tools (like `curl` or Postman).
+* Supported across all major platforms.
+* Large ecosystem of tools (e.g., load balancers, proxies).
 
-## Death Start
+Custom RPC with binary formats can be faster, but REST is often preferred for public or heterogeneous systems.
 
-The Death Star is an anti-pattern where there is communication between the recursion microservices, and making progress becomes extremely complicated or expensive for a product.
+### Message-Passing with Brokers
+![message-passing architecture diagram](//images.ctfassets.net/2swoy9jddxd7/5udUpvprTjbKrS6G3Xw7cH/a3211f1dadb68e6b7d74110affa9dc7f/message-passing_architecture_diagram.png)
 
-## Message broker - Async communication between services
+Messaging systems like Kafka or RabbitMQ offer an alternative model:
 
-why not use this messaging for all types of communication between microservices?
+* **Buffering**: Acts as a queue when consumers are slow.
+* **Redelivery**: Handles failures gracefully.
+* **Decoupling**: Publishers don’t need to know consumers.
+* **Scalability**: Enables multiple consumers per message.
+* **Asynchronous Flow**: Send-and-forget communication.
 
-The answer to this question is quite simple. A message bus is a physical component within the stack of microservices. It needs to be scaled just like any other physical component-based data storage and cache. This means that with a high-volume message, the synchronous mode of communication could be committed to an unwanted delay in the responses of the processes.
+### Distributed Actor Frameworks
 
-### Tools
+Actor models (like Akka) treat each component as a stateful actor communicating via messages. This model is naturally scalable and resilient and is suitable for building concurrent, distributed systems.
 
-- ActiveMQ
-- RabbitMQ
-- Kafka
+## 6. Deployment and Evolvability
 
-#### Caching tools
+### Rolling Upgrades
 
-- Memcached
-  classic process of using cache, Memcached is simple and practical to use. The performance of Memcached is fully linked to the use of memory. If Memcached uses the disc to register any data, the performance is seriously compromised; moreover, Memcached does not have any record of disk capacity and always depends on third-party tools for this.
-- Redis
+Rolling upgrades involve gradually deploying new versions of a service to small subsets of servers:
 
-#### Fail alert tools
+* Reduce downtime and risk.
+* Enable monitoring and rollback of faulty changes.
+* Promote smaller, frequent deployments.
 
-four major points of failure when it comes to microservices
+This strategy enhances **evolvability**, ensuring the system remains adaptable and continuously deployable.
 
-- Performance - New Relic and Datadog
-- Build - Jenkins, Travis
-- Components - Nagios and Zabbix are also very useful for making aid work to health check endpoints.
-- Implementation failures - Sentry
-  - See the impact of new deployments in real time
-  - Provide support to specific users interrupted by an error
-  - Detect and thwart fraud as it's attempted: unusual amounts of failures on purchases, authentication, and other critical areas
-  - External integrations
+## 7. Summary of Encoding Format Compatibility
 
-### Locale proof performance
+| Format Type          | Interoperability | Human-Readable | Versioning Support | Performance |
+| -------------------- | ---------------- | -------------- | ------------------ | ----------- |
+| Language-Specific    | Low              | No             | Poor               | Good        |
+| JSON/XML/CSV         | High             | Yes            | Medium             | Fair        |
+| Protobuf/Thrift/Avro | High             | No             | Strong             | Excellent   |
 
-- Apache Benchmark
-- WRK
-- Locust
+## Conclusion
 
-## Internal Patterns
+Designing robust data-intensive applications means making thoughtful decisions about storage, encoding, communication, and deployment.
 
-- Developing the structure
-- Caching strategies
-- CQRS – query strategy
-- Event sourcing – data integrity
+Key takeaways:
 
-## CQRS(Command Query Responsibility Segregation)
+* Use **scalable architecture patterns** to manage data growth.
+* Choose encoding formats that support **interoperability and evolution**.
+* Favor **asynchronous communication** for resilience.
+* Implement **rolling upgrades** to deliver changes safely.
 
-As the name implies, it is about separating the responsibility of writing and reading of data. CQRS is a code pattern and not an architectural pattern.
-
-`Will just scaling the application servers solve all our problems?`
-
-- Deadlocks, timeouts, and slowness mean that your database may be in too much demand.
-- Complex queries can be performed to obtain database data. ORMs can add even more complexity to the data filtering process by mapping entities and filtering data by using joins in different tables.
-- Content obsolescence could be true
-
-The CQRS teaches us the division of responsibility for writing and reading data, both conceptual and using different physical storages. This means that there will be separate means for recording and retrieving data from the databases. Queries are done synchronously in a separate denormalized database, and writes asynchronously to a normalized database. Caching first is still a type of CQRS implementation at the conceptual level.
-
-**Command** will be responsible for modifying the state of the data in the application, **Query** is the operation responsible for retrieving information from the database.
-
-**Synchronization**: The following are some strategies to keep the foundations of reading and recording synchronized, and it is necessary to choose the one that best meets your scenario:
-
-- Automatic updating: All changes in the state of a given recording database raise a synchronous process to update on the bench
-- Update possible: All state changes of a given recording database trigger an asynchronous process to update the reading bank, offering an eventual data consistency
-- Controlled update: A regular process and schedule is raised to synchronize the databases
-- Update on demand: Every query checks the consistency of the read base compared to the recording, and forces an update if it is out of date
-
-Any update is one of the most used strategies, because it assumes that any given displayed data may already be out of date, so it is not necessary to impose a synchronous update process.
-
-**Queueing**: Many CQRS implementations may require a message broker for the processing of commands and events.
-
-## Event sourcing – data integrity
-
-- Each change in the current state of your database would be a new event in a stream that only allows inclusion.
-- Each update on the table would generate a new line, the change of status
-- uses the append only model for database records
-
-## Aggregator Microservice Design Pattern
-
-Best practices:
-
-- Segregated database: This allows us to better scale our application, especially in the data storage layer.
-- Microservice encapsulation: This divides the microservices into two layers—Public Facing Services and Internal Services. Such a division allows for greater flexibility with respect to the signature microservices, as Internal Services can be modified more easily.
-- Applied CQRS: With CQRS, unnecessary stress points on the application were removed.
-- Applied event sourcing: With event sourcing, we are conducting a stream of information from a news article. This gives us a real vision of the history of each news article.
-- Applied pattern very scalable: With a strong pattern and understanding of how to scale the aggregator pattern, we have a clear vision of how to avoid anti-patterns.
-
-Pros:
-
-- Scalability of both the x-axis and z-axis
-- Tunneling microservices
-- Microservices signature flexibility to Internal Services
-- Providing a single access point for microservices
-
-Cons:
-
-- Complexity to orchestrate data
-- Bottleneck anti-pattern
-- Latency in communication between microservices
-
-## Proxy design pattern
-
-- Dumb proxy - the only goal is to provide a single endpoint to facilitate the application clients and encapsulate direct access to the routes of microservices.
-- Smart proxy - The most commonly seen task being executed by a Smart proxy is the content modification.
-
-Pros:
-
-- Practical data consumption by the application clients
-- Ease of implementation
-- Possibility of good programming techniques at proxy level, such as caching
-- Encapsulation of access to microservices
-- Control and diversion of requests
-
-Cons:
-
-- Bottleneck
-- Inappropriate change of response
-- Obstruction in the identification of overload
-
-## Chained Microservice Design pattern
-
-**Big Ball of Mud Anti-patern**:developing microservices that we do not define well in the domains, which makes microservices dependent on one another to complete trivial tasks. This type of error generates a series of unnecessary calls between the microservices, creating complex problems of being corrected, such as latency and, in the worst cases, cyclic-deployed dependency.
-
-Main characteristics:
-
-- **Poorly defined domain**: The domain is badly defined, forcing a direct connection with other microservices. Access points to the microservice do not require enough data to process a task, which forces the inference of data, searching in other microservices.
-- **Mandatory direct communication**: When direct communication between microservices is mandatory for most tasks or for all tasks, there is a problem. This indicates that the microservice is anemic or that the application as a whole is poorly developed.
-- **Deploy clustered**: When a microservice cannot be sent for production because it needs another microservice all together, or when the change of internal signatures of a microservice causes others to collapse, there is a Death Star anti-pattern issue. Creating business dependencies between microservices means that processes are not automated and fluid.
-
-_Solution_:
-Correlation ID: A simple way to implement correlation ID using HTTP would be to send a UUID in the header of the requests and use this UUID as an identifier to write the logs.
-
-### Purest microservices
-
-The microservices in your business design should be pure. This means that a microservice must be extremely small in its domain and fully capable of performing its function without outside interference from other microservices.
-
-Pros:
-
-- Practical implementation
-- Dynamism for business
-- Independent scalability
-- Encapsulation of access to microservices
-
-Cons:
-
-- The possibility of latency points
-- The difficulty in understanding data ownership
-- The difficulty of debugging
-
-## Branch Microservice Design Pattern
-
-Rules:
-
-- The composition of the response using direct call chains cannot extend one direct call to another microservice
-- If more values are required for the response, an aggregation logic is created that will trigger concurrent requests for as many chains as needed
-
-Internal communication within a microservice can be worked on in the following three ways:
-
-- Sequential: No concurrency or parallelism. This means that when we have to send messages from the commands to the microservices, the entire process will be a sequence. If you need to execute four commands to compose the data, all of them will be executed in a sequence.
-- Threads: In this case, both POSIX threads (pthreads) and green threads can be used. Controlling threads is often not simple for developers, and if a thread fails, data orchestration could be compromised. However, it is the most practical way because there is no need for any external components of the programming language to be used for creating some level of competition or parallelism in the execution of the commands.
-- Message Broker: The use of a transactional message broker for transmitting sensitive data within a microservice is quite usual. The disadvantage is the addition of a physical component within a microservice. However, the advantage is the ability to execute strategies that offer more resiliency in data transmission. The simple fact of working with transactions is already a great resource.
-
-Pros:
-
-- The flexibility of implementation
-- Independent scalability
-- Encapsulation of access to microservices
-- Compositional ability and orchestration
-
-Cons:
-
-- The possibility of latency points
-- The difficulty in understanding data ownership
-- The difficulty of debugging
-
-## Asynchronous messaing design pattern
-
-Pros:
-
-- Independent scalability
-- Extreme scalability
-- Lazy processing
-- Encapsulation of accesses to microservices
-
-Cons:
-
-- Complexity in the monitoring of requisitions
-- Complexity of the initial understanding of the pattern
-- Difficulty of debugging
-
-## replese piplelines
-
-Build -> Unit Test -> Integration Test -> End-to-End test -> realse
-
-## Monitoring a single service
-
-- `Active Monitoring`is when the server that is to be monitored sends the status information to the monitoring tool
-- `Passive Monitoring` is when the monitoring tool requests information about the state of the machine or application from the server
-
-## Multiple service instances per host
-
-**Pros**
-One of the key benefits is that it uses resources efficiently. Multiple instances of the service share the server and its operating system. Another benefit of this pattern is the relatively rapid deployment of a microservice instance.
-
-**Cons**
-A major disadvantage is that there is little to no isolation of instances of the service unless each service instance is a separate process. If the instances are not separated in different processes, an instance with errors could compromise the entire process, besides making the individual monitoring of instances impossible.
-
-## Service instance per host
-
-- Service instance per VM: Each instance of a microservice is a VM, and the execution of this VM enables the microservice to work.
-
-  - Pros: One of the main benefits of VMs is that each instance of microservice runs in a completely isolated manner, having fixed CPU and memory consumption, without competing for resource consumption with other microservices. Another great benefit of this pattern is the encapsulation of the technology used in the development of microservices.
-  - Cons: Each service instance has the overhead of a full VM, including the operating system. Another disadvantage of this approach is that deploying and booting a new version of a microservice is often slow because the cost of booting operating systems using VMs can be high.
-
-- Service instance per container: each microservice instance runs in a container unique to the instance.
-  - Pros: They isolate their instances of microservices from one another. Containers are easily monitored. In addition, similar to the VMs, the containers encapsulate the technology used to implement microservices. Unlike the virtual machines, the containers are lighter. The container images are usually very fast to build and initialize.
-  - Cons: There are some disadvantages to using containers. Containers are not as secure as VMs because they share the host operating system kernel with each other.Another disadvantage of the containers is the complexity of the infrastructure if they are not using any cloud platform that offers interesting mechanisms to manipulate the containers.
-2c:T7e5d,## Principles and characteristics
+By embracing these principles, teams can build systems that are reliable under pressure, flexible for future needs, and efficient at scale.
+27:T7e5d,## Principles and characteristics
 
 1. No monolithic modules
 2. Dumb communication pipes
@@ -1983,7 +1384,604 @@ When not to use:
 - When you are not able to intercept the user agent request, or you are not able to introduce a facade in your architecture.
 - When you think of doing a page by page migration at a time or you are thinking of doing it all at once.
 - When your application is more frontend-driven; that's where you have to entirely change and rework the interacting framework based on the way the frontend is interacting with services, as you don't want to expose the various ways the user agent is interacting with services.
-2d:T1395,## Angular is consisted of six parts:
+28:T445b,## Domain-drive design
+
+It is very important to note that OOP is not only inheritance, interfaces, or anything else of the type. OOP's main ideas are as follows:
+
+- Code alignment with the business
+- Favoring of reuse
+- Minimal coupling
+
+three are more prominent for efficient microservices:
+
+- Context maps: These are the communication paths between microservices with appropriate interactions between microservices teams. After the analysis of the areas are already defined, the team can choose to be dependent on another team for domain language.
+- Anti-corruption layer (ACL): This is the function that translates foreign concepts for an internal model to provide loose coupling between the domains.
+- Interchange context: This provides an environment for both teams and discusses the meaning of each foreign term and translates the languages of microservices.
+
+## Independent deploy, update, scale and replace
+
+### Update
+
+- Never share libraries between microservices
+- Strong delimitation of microservice domains
+- Establish a client-server relationship between microservices
+- Deploy in separate containers
+
+### Scale
+
+**The Scale Cube**: 3 axis
+
+- x-axis: horizontal decomposition: with the same application server replicated n times in full and in a balanced order of 1/n.
+- y-axis: functional decomposition: a verb or route is used by the balancer to identify where to go with the request.
+- z-axis: data partitioning: is very similar to the x-axis when it comes to scalability structure, as it distributes exactly the same code on each server. The big difference is that each server responds to a specific subset of data
+
+## Communication
+
+|              |       One-to-One        |             One-to-Many |
+| ------------ | :---------------------: | ----------------------: |
+| Synchronous  |    Request/response     |                       - |
+| Asynchronous |      Notification       |        publish/subsribe |
+|              | Request/ async response | publish/async responses |
+
+### Synchronous
+
+- HTTP
+- TCP
+- WebSockets
+- Sockets
+- RPC
+- SOAP
+
+### Asynchronous
+
+For this approach, the message broker is just perfect. Some software applications appear a good choice for message brokers, such as RabbitMQ, ActiveMQ, ZeroMQ, Kafka, and Redis. Each of these options has its own peculiarities, some are faster, others are more resilient. Again, the business setting is going to determine which technology is used.
+
+### Mobile vs web endpoints
+
+Problems such as speed and weight information in the web world are not very common; we cannot say the same for the mobile world.
+
+### Caching at the client level
+
+request only passes to be processed on the backend, if really necessary. In other words, it tries to block direct access to the backend to requests that have already been implemented in the recent past.
+
+### Throttling for your client
+
+- Number of requests per minute from the same client
+- Number of requests per second from the same client
+- Number of requests per minute from the same client for similar information
+- Number of requests per second for the same client for the same information
+
+### Identification of an anemic domain
+
+- The microservice cannot perform the tasks itself with only the data received
+- The microservice needs to fetch data in more than one endpoint to perform a task
+- The microservice does not have a self-sufficient entity model
+- The microservice waits for the completion of a task in another microservice to follow up what you need to do
+- The microservice needs to share resources with other external microservices; these resources can be cached to the sample database
+
+If the microservice being developed is one of those items, then it can be a weak area. If a microservice has two or more characteristics of those listed, then it is definitely an anemic domain.
+
+Anemic domains are very harmful to the microservices ecosystem, because they have a tendency to be multiplied in order to correct the technical debt generated by the deficiency in the composition of their respective domains.
+
+### Fat domain - AAA (Authentication, Authorization, and Accounting
+
+The division of this fat domain can be held in two parts; the first part is AAAService and the second is UserService. Another approach is the AAA responsibility for a gateway API. The functional scalability and features of implementation with these separate domains is much more interesting for the growth of the product as a whol
+
+## Things to consider
+
+Cost and scability:
+
+- Programming languages
+- Microservices frameworks
+- Binary communication
+- Message broker
+- Caching tools
+- Fail alert tools
+- Locale proof performance
+
+## Death Start
+
+The Death Star is an anti-pattern where there is communication between the recursion microservices, and making progress becomes extremely complicated or expensive for a product.
+
+## Message broker - Async communication between services
+
+why not use this messaging for all types of communication between microservices?
+
+The answer to this question is quite simple. A message bus is a physical component within the stack of microservices. It needs to be scaled just like any other physical component-based data storage and cache. This means that with a high-volume message, the synchronous mode of communication could be committed to an unwanted delay in the responses of the processes.
+
+### Tools
+
+- ActiveMQ
+- RabbitMQ
+- Kafka
+
+#### Caching tools
+
+- Memcached
+  classic process of using cache, Memcached is simple and practical to use. The performance of Memcached is fully linked to the use of memory. If Memcached uses the disc to register any data, the performance is seriously compromised; moreover, Memcached does not have any record of disk capacity and always depends on third-party tools for this.
+- Redis
+
+#### Fail alert tools
+
+four major points of failure when it comes to microservices
+
+- Performance - New Relic and Datadog
+- Build - Jenkins, Travis
+- Components - Nagios and Zabbix are also very useful for making aid work to health check endpoints.
+- Implementation failures - Sentry
+  - See the impact of new deployments in real time
+  - Provide support to specific users interrupted by an error
+  - Detect and thwart fraud as it's attempted: unusual amounts of failures on purchases, authentication, and other critical areas
+  - External integrations
+
+### Locale proof performance
+
+- Apache Benchmark
+- WRK
+- Locust
+
+## Internal Patterns
+
+- Developing the structure
+- Caching strategies
+- CQRS – query strategy
+- Event sourcing – data integrity
+
+## CQRS(Command Query Responsibility Segregation)
+
+As the name implies, it is about separating the responsibility of writing and reading of data. CQRS is a code pattern and not an architectural pattern.
+
+`Will just scaling the application servers solve all our problems?`
+
+- Deadlocks, timeouts, and slowness mean that your database may be in too much demand.
+- Complex queries can be performed to obtain database data. ORMs can add even more complexity to the data filtering process by mapping entities and filtering data by using joins in different tables.
+- Content obsolescence could be true
+
+The CQRS teaches us the division of responsibility for writing and reading data, both conceptual and using different physical storages. This means that there will be separate means for recording and retrieving data from the databases. Queries are done synchronously in a separate denormalized database, and writes asynchronously to a normalized database. Caching first is still a type of CQRS implementation at the conceptual level.
+
+**Command** will be responsible for modifying the state of the data in the application, **Query** is the operation responsible for retrieving information from the database.
+
+**Synchronization**: The following are some strategies to keep the foundations of reading and recording synchronized, and it is necessary to choose the one that best meets your scenario:
+
+- Automatic updating: All changes in the state of a given recording database raise a synchronous process to update on the bench
+- Update possible: All state changes of a given recording database trigger an asynchronous process to update the reading bank, offering an eventual data consistency
+- Controlled update: A regular process and schedule is raised to synchronize the databases
+- Update on demand: Every query checks the consistency of the read base compared to the recording, and forces an update if it is out of date
+
+Any update is one of the most used strategies, because it assumes that any given displayed data may already be out of date, so it is not necessary to impose a synchronous update process.
+
+**Queueing**: Many CQRS implementations may require a message broker for the processing of commands and events.
+
+## Event sourcing – data integrity
+
+- Each change in the current state of your database would be a new event in a stream that only allows inclusion.
+- Each update on the table would generate a new line, the change of status
+- uses the append only model for database records
+
+## Aggregator Microservice Design Pattern
+
+Best practices:
+
+- Segregated database: This allows us to better scale our application, especially in the data storage layer.
+- Microservice encapsulation: This divides the microservices into two layers—Public Facing Services and Internal Services. Such a division allows for greater flexibility with respect to the signature microservices, as Internal Services can be modified more easily.
+- Applied CQRS: With CQRS, unnecessary stress points on the application were removed.
+- Applied event sourcing: With event sourcing, we are conducting a stream of information from a news article. This gives us a real vision of the history of each news article.
+- Applied pattern very scalable: With a strong pattern and understanding of how to scale the aggregator pattern, we have a clear vision of how to avoid anti-patterns.
+
+Pros:
+
+- Scalability of both the x-axis and z-axis
+- Tunneling microservices
+- Microservices signature flexibility to Internal Services
+- Providing a single access point for microservices
+
+Cons:
+
+- Complexity to orchestrate data
+- Bottleneck anti-pattern
+- Latency in communication between microservices
+
+## Proxy design pattern
+
+- Dumb proxy - the only goal is to provide a single endpoint to facilitate the application clients and encapsulate direct access to the routes of microservices.
+- Smart proxy - The most commonly seen task being executed by a Smart proxy is the content modification.
+
+Pros:
+
+- Practical data consumption by the application clients
+- Ease of implementation
+- Possibility of good programming techniques at proxy level, such as caching
+- Encapsulation of access to microservices
+- Control and diversion of requests
+
+Cons:
+
+- Bottleneck
+- Inappropriate change of response
+- Obstruction in the identification of overload
+
+## Chained Microservice Design pattern
+
+**Big Ball of Mud Anti-patern**:developing microservices that we do not define well in the domains, which makes microservices dependent on one another to complete trivial tasks. This type of error generates a series of unnecessary calls between the microservices, creating complex problems of being corrected, such as latency and, in the worst cases, cyclic-deployed dependency.
+
+Main characteristics:
+
+- **Poorly defined domain**: The domain is badly defined, forcing a direct connection with other microservices. Access points to the microservice do not require enough data to process a task, which forces the inference of data, searching in other microservices.
+- **Mandatory direct communication**: When direct communication between microservices is mandatory for most tasks or for all tasks, there is a problem. This indicates that the microservice is anemic or that the application as a whole is poorly developed.
+- **Deploy clustered**: When a microservice cannot be sent for production because it needs another microservice all together, or when the change of internal signatures of a microservice causes others to collapse, there is a Death Star anti-pattern issue. Creating business dependencies between microservices means that processes are not automated and fluid.
+
+_Solution_:
+Correlation ID: A simple way to implement correlation ID using HTTP would be to send a UUID in the header of the requests and use this UUID as an identifier to write the logs.
+
+### Purest microservices
+
+The microservices in your business design should be pure. This means that a microservice must be extremely small in its domain and fully capable of performing its function without outside interference from other microservices.
+
+Pros:
+
+- Practical implementation
+- Dynamism for business
+- Independent scalability
+- Encapsulation of access to microservices
+
+Cons:
+
+- The possibility of latency points
+- The difficulty in understanding data ownership
+- The difficulty of debugging
+
+## Branch Microservice Design Pattern
+
+Rules:
+
+- The composition of the response using direct call chains cannot extend one direct call to another microservice
+- If more values are required for the response, an aggregation logic is created that will trigger concurrent requests for as many chains as needed
+
+Internal communication within a microservice can be worked on in the following three ways:
+
+- Sequential: No concurrency or parallelism. This means that when we have to send messages from the commands to the microservices, the entire process will be a sequence. If you need to execute four commands to compose the data, all of them will be executed in a sequence.
+- Threads: In this case, both POSIX threads (pthreads) and green threads can be used. Controlling threads is often not simple for developers, and if a thread fails, data orchestration could be compromised. However, it is the most practical way because there is no need for any external components of the programming language to be used for creating some level of competition or parallelism in the execution of the commands.
+- Message Broker: The use of a transactional message broker for transmitting sensitive data within a microservice is quite usual. The disadvantage is the addition of a physical component within a microservice. However, the advantage is the ability to execute strategies that offer more resiliency in data transmission. The simple fact of working with transactions is already a great resource.
+
+Pros:
+
+- The flexibility of implementation
+- Independent scalability
+- Encapsulation of access to microservices
+- Compositional ability and orchestration
+
+Cons:
+
+- The possibility of latency points
+- The difficulty in understanding data ownership
+- The difficulty of debugging
+
+## Asynchronous messaing design pattern
+
+Pros:
+
+- Independent scalability
+- Extreme scalability
+- Lazy processing
+- Encapsulation of accesses to microservices
+
+Cons:
+
+- Complexity in the monitoring of requisitions
+- Complexity of the initial understanding of the pattern
+- Difficulty of debugging
+
+## replese piplelines
+
+Build -> Unit Test -> Integration Test -> End-to-End test -> realse
+
+## Monitoring a single service
+
+- `Active Monitoring`is when the server that is to be monitored sends the status information to the monitoring tool
+- `Passive Monitoring` is when the monitoring tool requests information about the state of the machine or application from the server
+
+## Multiple service instances per host
+
+**Pros**
+One of the key benefits is that it uses resources efficiently. Multiple instances of the service share the server and its operating system. Another benefit of this pattern is the relatively rapid deployment of a microservice instance.
+
+**Cons**
+A major disadvantage is that there is little to no isolation of instances of the service unless each service instance is a separate process. If the instances are not separated in different processes, an instance with errors could compromise the entire process, besides making the individual monitoring of instances impossible.
+
+## Service instance per host
+
+- Service instance per VM: Each instance of a microservice is a VM, and the execution of this VM enables the microservice to work.
+
+  - Pros: One of the main benefits of VMs is that each instance of microservice runs in a completely isolated manner, having fixed CPU and memory consumption, without competing for resource consumption with other microservices. Another great benefit of this pattern is the encapsulation of the technology used in the development of microservices.
+  - Cons: Each service instance has the overhead of a full VM, including the operating system. Another disadvantage of this approach is that deploying and booting a new version of a microservice is often slow because the cost of booting operating systems using VMs can be high.
+
+- Service instance per container: each microservice instance runs in a container unique to the instance.
+  - Pros: They isolate their instances of microservices from one another. Containers are easily monitored. In addition, similar to the VMs, the containers encapsulate the technology used to implement microservices. Unlike the virtual machines, the containers are lighter. The container images are usually very fast to build and initialize.
+  - Cons: There are some disadvantages to using containers. Containers are not as secure as VMs because they share the host operating system kernel with each other.Another disadvantage of the containers is the complexity of the infrastructure if they are not using any cloud platform that offers interesting mechanisms to manipulate the containers.
+29:T1942,# Web Authentication: Sessions, Tokens, Storage, and Security Considerations
+
+## Introduction
+
+Authentication is fundamental to securing modern web applications. Developers often choose between **session-based** and **token-based** approaches, depending on their app architecture and scalability needs. This guide explores these two models, compares storage options, explains common pitfalls, and provides best practices for implementation.
+
+---
+
+## 1. Session-Based Authentication
+
+### Overview
+
+* **Client-side**: Stores a session identifier in a cookie.
+* **Server-side**: Tracks session state using memory, disk, or external stores like Redis.
+
+### Common Issues
+
+* **Memory Overhead**: The server must manage growing session state as more users authenticate. While external stores reduce memory usage, they increase I/O and network load.
+* **Scalability**: Synchronizing sessions across a distributed server environment introduces complexity and potential bottlenecks.
+* **Cross-Domain Limitations**: Session cookies are bound to a single domain and cannot easily be shared between subdomains or different origins.
+* **Security Risks**: Sessions are vulnerable to:
+
+  * **XSS (Cross-Site Scripting)** – attackers can steal cookies.
+  * **CSRF (Cross-Site Request Forgery)** – malicious sites trick browsers into making authenticated requests.
+
+Mitigation strategies include setting the `HttpOnly`, `Secure`, and `SameSite` flags on cookies and using CSRF tokens.
+
+---
+
+## 2. Token-Based Authentication (Stateless)
+
+### Overview
+
+* **Client-side**: Stores access tokens in localStorage or cookies.
+* **Server-side**: Verifies the token on each request without tracking session state.
+
+This model is scalable and well-suited for modern SPAs and microservices.
+
+### Advantages
+
+* Stateless architecture reduces backend load.
+* Easily supports horizontal scaling across services or servers.
+* Decouples authentication from server memory or persistence.
+
+---
+
+### JSON Web Tokens (JWTs)
+
+A JWT consists of three base64-encoded parts:
+
+```
+<Header>.<Payload>.<Signature>
+```
+
+**Example:**
+
+```
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+.
+eyJ1c2VySWQiOiIxMjM0NTY3ODkwIiwiaWF0IjoxNjQzNTY4MjQwfQ
+.
+SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+```
+
+* **Header**: Defines algorithm (e.g., HS256).
+* **Payload**: Contains claims like `userId`, `exp`, `scope`.
+* **Signature**: Verifies token integrity.
+
+> Note: JWTs are base64-encoded, not encrypted. Anyone with access to a JWT can read its contents unless encryption (JWE) is used.
+
+---
+
+### Refresh Tokens
+
+Refresh tokens enable the issuance of new access tokens without re-authentication.
+
+**Best practices:**
+
+* Store securely in `httpOnly`, `Secure` cookies.
+* Rotate and expire refresh tokens after use or inactivity.
+* Maintain a revocation list for stolen or expired tokens.
+
+---
+
+## 3. Two-Factor Authentication (2FA)
+
+2FA enhances security by requiring a second factor beyond the password.
+
+### Flow
+
+1. User enters username and password.
+2. Server prompts for a second factor:
+
+   * OTP via SMS/email
+   * TOTP from an authenticator app
+   * Hardware-generated PIN (e.g., YubiKey)
+3. Upon successful validation, the user receives an access token or session.
+
+---
+
+## 4. Local Storage vs Cookies
+
+### Local Storage
+
+**Pros**
+
+* Not sent with every request → immune to CSRF.
+* Simple JavaScript API (`localStorage.getItem()`).
+* Larger storage limit (\~5–10MB).
+
+**Cons**
+
+* Vulnerable to XSS (JavaScript-accessible).
+* No built-in expiry or invalidation.
+* Cannot be used in SSR (data unavailable at initial request).
+* Manual logic needed to attach tokens to each request.
+
+---
+
+### Cookies
+
+**Pros**
+
+* Automatically sent with each HTTP request.
+* Works well with server-side rendering (SSR).
+* Supports `HttpOnly`, `Secure`, `SameSite` flags for security.
+* Built-in expiration support.
+* Domain/path scoping.
+
+**Cons**
+
+* Vulnerable to CSRF unless mitigated.
+* Harder to parse manually in JS.
+* Limited in storage capacity (\~4KB total).
+
+---
+
+## 5. Secure Cookie Configuration
+
+Use proper flags when setting cookies:
+
+```
+Set-Cookie: token=abc123; HttpOnly; Secure; SameSite=Strict; Path=/; Expires=Wed, 01 Jan 2030 00:00:00 GMT
+```
+
+* **HttpOnly**: Not accessible via JavaScript.
+* **Secure**: Only sent over HTTPS.
+* **SameSite=Strict**: Blocks cross-site requests.
+* **Path/Domain**: Scopes the cookie.
+
+---
+
+## 6. OAuth 2.0 and OpenID Connect
+
+Token-based systems often leverage **OAuth 2.0** and **OpenID Connect**.
+
+### Common Flows
+
+* **Authorization Code Flow (with PKCE)**: For SPAs and mobile apps.
+* **Client Credentials Flow**: For machine-to-machine APIs.
+* **Refresh Token Flow**: For long-lived sessions.
+
+These protocols provide a standardized, secure way to authenticate users across platforms.
+
+---
+
+## 7. Best Practices
+
+| Area                    | Recommendation                                           |
+| ----------------------- | -------------------------------------------------------- |
+| Token storage           | Use `httpOnly` cookies, avoid localStorage for secrets   |
+| Access token expiration | Use short-lived tokens (5–15 mins)                       |
+| Refresh token security  | Store securely, rotate frequently                        |
+| CSRF mitigation         | Use SameSite cookies or CSRF tokens                      |
+| XSS prevention          | Sanitize inputs and use a strong Content Security Policy |
+| Cookie security         | Always use `Secure`, `HttpOnly`, and `SameSite` flags    |
+| JWT validation          | Verify signature and expiration on every request         |
+
+---
+
+## 8. Real-World Examples
+
+* **Google**: Uses OAuth 2.0 and `httpOnly` cookies for refresh tokens.
+* **GitHub**: Uses personal access tokens and OAuth apps.
+* **AWS**: Uses temporary credentials managed via session tokens and federated roles.
+
+---
+
+## 9. Conclusion
+
+Choosing the right authentication strategy depends on your app’s architecture, scale, and user experience goals:
+
+* Use **sessions** for traditional SSR apps with centralized state.
+* Use **tokens (JWT)** for SPAs, mobile apps, and scalable APIs.
+* Prefer **cookies** (with `HttpOnly`) for security-critical tokens.
+* Store **refresh tokens** securely and manage revocation or rotation.
+* Layer with **2FA** for improved account protection.
+* Always implement **CSRF and XSS defenses** regardless of the method.
+
+Security is a continuous effort—design defensively, monitor actively, and adapt quickly.
+2a:T110b,# Software Engineering Management 101: A Practical Overview Based on SWEBOK
+
+The *Guide to the Software Engineering Body of Knowledge* (SWEBOK Guide) defines the generally accepted knowledge areas of software engineering. One of its core areas is **Software Engineering Management**, which refers to the application of management activities—such as planning, coordinating, measuring, monitoring, controlling, and reporting—to ensure that software products and services are delivered efficiently, effectively, and in alignment with stakeholder needs.
+
+## Core Topics
+
+![Breakdown of Topics for the Software Engineering Management KA](//images.ctfassets.net/2swoy9jddxd7/15ukwo57TvbidOFWieB1gJ/b94fc1208140fc1fd71595decfaff1f8/Software_Engineering_Management.png)
+
+The image above illustrates the breakdown of topics based on the key activities involved in Software Engineering Management. This breakdown is agnostic of any specific software development life cycle model.
+
+---
+
+### Initiation and Scope Definition
+
+1. **Determination and Negotiation of Requirements**  
+   Analyze, specify, and validate software requirements while considering the perspectives of all stakeholders. This process helps define the scope and expected outcomes of the project.
+
+2. **Feasibility Analysis**  
+   Evaluate whether the project is viable from technological, resource, financial, and socio-political perspectives. The goal is to assess whether the current approach will achieve optimal project outcomes.
+
+3. **Requirements Review and Revision Process**  
+   Ensure all stakeholders agree on the defined requirements and scope. Establish a structured change management process to handle revisions effectively throughout the project.
+
+---
+
+### Software Project Planning
+
+1. **Process Planning** – Define the software development processes to be followed.
+2. **Deliverable Determination** – Identify and document the tangible outputs of the project.
+3. **Effort, Schedule, and Cost Estimation** – Forecast time, budget, and human resources needed.
+4. **Resource Allocation** – Assign tasks and responsibilities to teams and individuals.
+5. **Risk Management** – Identify, assess, and plan mitigation strategies for potential risks.
+6. **Quality Management** – Define processes to ensure product quality meets expectations.
+7. **Plan Management** – Continuously update and align the project plan with actual progress.
+
+---
+
+### Software Project Enactment
+
+1. **Implementation of Plans** – Execute according to the defined plans.
+2. **Software Acquisition and Supplier Contract Management** – Manage third-party software and vendor contracts.
+3. **Measurement Process Implementation** – Introduce key performance metrics to monitor execution.
+4. **Process Monitoring** – Track progress against the plan and detect deviations.
+5. **Process Control** – Apply corrective actions as needed to stay on track.
+6. **Reporting** – Communicate project status, risks, and metrics to stakeholders.
+
+---
+
+### Review and Evaluation
+
+1. **Requirement Satisfaction Review** – Verify that all project requirements have been fulfilled.
+2. **Performance Evaluation** – Assess the effectiveness and efficiency of the project and team.
+
+---
+
+### Project Closure
+
+1. **Closure Determination** – Confirm that all objectives have been met or formally closed.
+2. **Closure Activities** – Document lessons learned, release resources, and archive deliverables.
+
+---
+
+### Software Engineering Measurement
+
+1. **Establish and Sustain Measurement Commitment** – Gain stakeholder buy-in and support.
+2. **Plan the Measurement Process** – Define what to measure, how, and why.
+3. **Execute the Measurement Process** – Collect and analyze relevant data.
+4. **Evaluate the Measurements** – Use results to guide improvements and decision-making.
+
+---
+
+### Software Engineering Management Tools
+
+1. **Project Planning and Tracking Tools** – e.g., Jira, Microsoft Project, Asana.
+2. **Risk Management Tools** – e.g., RiskWatch, Active Risk Manager.
+3. **Communication Tools** – e.g., Slack, Microsoft Teams, Zoom.
+4. **Measurement Tools** – e.g., SonarQube, Google Analytics, custom dashboards.
+
+---
+
+## Reference
+
+[Software Engineering Course (SWEBOK) | IEEE Computer Society (2021)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+2b:T1395,## Angular is consisted of six parts:
 
 - Data Binding
 - Directive (There are three kinds of directives in Angular)
@@ -2066,4 +2064,4 @@ Benefits:
 
 > Case one: When you have to deal with observables and when responsability for some observable data is shared between different components. In this case store actions and reducers ensure that data modifications will always be performed in the desired way. It can also provide a reliable solution for http requests caching. it can store the requets and responses, so that 
 
-> Case two: There no much difference when dealing with constant data, however, when serveral components will have to update the data, there will be a problem for angular to deal with change detection, and cause improper update issues.f:[["$","$L18",null,{}],["$","div",null,{"id":"blog-top"}],["$","$L19",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","section",null,{"className":"container mx-auto px-4 md:px-6 py-24 md:py-32","children":["$","div",null,{"className":"max-w-6xl mx-auto","children":[["$","div",null,{"className":"text-center mb-16","children":[["$","h1",null,{"className":"text-3xl md:text-5xl font-display font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent","children":"Strategic Insights"}],["$","p",null,{"className":"text-lg text-muted-foreground max-w-2xl mx-auto","children":"Perspectives on technology leadership, organizational transformation, and strategic innovation."}]]}],["$","$L1a",null,{"posts":[{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"743ZHV2BWyNRdtjvI3mwuD","type":"Entry","createdAt":"2021-09-02T01:31:46.966Z","updatedAt":"2025-05-12T11:16:14.916Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":26,"revision":5,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Key Takeaways from Designing Data-Intensive Applications","slug":"foundation-of-data-system","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1NjelDnYjtVM9u8vIfzgOA","type":"Asset","createdAt":"2021-09-02T01:31:00.174Z","updatedAt":"2025-05-12T11:31:57.017Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":22,"revision":5,"locale":"en-US"},"fields":{"title":"data-intensive applications","description":"datadata-intensive applications","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/1NjelDnYjtVM9u8vIfzgOA/0d7f9f05505ab490db94a61822fb4752/data-intensive.png","details":{"size":2866147,"image":{"width":1536,"height":1024}},"fileName":"data-intensive.png","contentType":"image/png"}}},"description":"This guide explores the architectural principles and design patterns behind data-intensive applications, covering core concerns like reliability, scalability, and maintainability. It compares OLTP and OLAP systems, dives into data encoding formats (e.g., JSON, Protobuf, Avro), communication protocols (REST, RPC, message brokers), and deployment strategies like rolling upgrades. Ideal for developers and system architects building scalable, resilient backend systems","body":"$1b","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-12T21:00+10:00","tags":["software-architecture","data-engineering"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"DrahUdUYNu35YSLbS7Uqd","type":"Entry","createdAt":"2021-09-21T00:51:47.450Z","updatedAt":"2025-05-12T11:12:39.511Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":168,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience","slug":"engineering-metrics","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Yw4si1jiCHmyWxX2zURAE","type":"Asset","createdAt":"2025-05-12T11:12:34.991Z","updatedAt":"2025-05-12T11:12:34.991Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":6,"revision":1,"locale":"en-US"},"fields":{"title":"devops","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Yw4si1jiCHmyWxX2zURAE/fac91879711d9be6def5c19c1af0563a/devops.png","details":{"size":2686316,"image":{"width":1536,"height":1024}},"fileName":"devops.png","contentType":"image/png"}}},"description":"DORA 2023 isn’t just about speed—it’s about reliability, feedback loops, and developer experience. This post breaks down the five core DORA metrics, adds supporting DevEx indicators, and shows how to spot hidden friction in your CI/CD pipeline.","body":"$1c","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2025-05-12T18:00+10:00","tags":["engineering management"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1xC7lNvgPLmAxSCKOAvkwr","type":"Entry","createdAt":"2021-08-28T12:29:36.183Z","updatedAt":"2025-05-12T11:59:55.414Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":264,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Engineering Management 101: A Practical Overview Based on SWEBOK","slug":"engineering-management-101","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"21Hv10pnFgs6WYwfnvcoXJ","type":"Asset","createdAt":"2021-08-27T10:51:24.180Z","updatedAt":"2025-05-12T11:47:15.278Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":12,"revision":3,"locale":"en-US"},"fields":{"title":"Engineering Management","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/21Hv10pnFgs6WYwfnvcoXJ/e6bcd691a99a93280cddd9b332423987/engineering_management.png","details":{"size":2507401,"image":{"width":1536,"height":1024}},"fileName":"engineering management.png","contentType":"image/png"}}},"description":"This guide offers a practical introduction to Software Engineering Management based on the SWEBOK framework. Whether you're an aspiring engineering leader or a seasoned manager refining your approach, this post breaks down essential knowledge areas—from project initiation and planning to measurement and closure. Gain actionable insights into core management activities, tools, and lifecycle practices that drive successful software delivery.","body":"$1d","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2025-05-12T00:00+10:00","tags":["engineering management"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7fNsOoWbIENkL39HiS7nfZ","type":"Entry","createdAt":"2021-08-28T12:37:14.513Z","updatedAt":"2025-05-12T11:18:23.043Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":50,"revision":5,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Understanding Web Authentication: Sessions vs Tokens, Cookies vs LocalStorage","slug":"common-web-authentication-method","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7w7WYQz7bn8Z1F2JFZyCta","type":"Asset","createdAt":"2021-08-28T12:15:57.861Z","updatedAt":"2025-05-12T11:40:42.235Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":21,"revision":5,"locale":"en-US"},"fields":{"title":"authentication","description":"Note","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7w7WYQz7bn8Z1F2JFZyCta/52afb9bd9fd7362e8e2a480ad5d3dda0/authentication.png","details":{"size":2538787,"image":{"width":1536,"height":1024}},"fileName":"authentication.png","contentType":"image/png"}}},"description":"This guide explores the differences between session-based and token-based authentication, including detailed comparisons of storage mechanisms like cookies and localStorage. It covers best practices for securing web authentication, explains JWT and refresh token usage, introduces two-factor authentication, and outlines how modern standards like OAuth 2.0 fit into stateless authentication models. Ideal for developers and architects building secure, scalable web applications.","body":"$1e","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2025-05-11T22:37+10:00","tags":["authentication","software-engineering"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5TOZqmWzzaz9TGAIEocUKV","type":"Entry","createdAt":"2021-09-23T01:05:34.565Z","updatedAt":"2021-09-23T04:44:41.023Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":159,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Infrastructure as Code","slug":"infrastructure-as-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"119bssZxkeE51FEFgIQekD","type":"Asset","createdAt":"2021-09-22T22:52:18.064Z","updatedAt":"2021-09-22T22:52:18.064Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"DevOps","description":"DevOps","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/119bssZxkeE51FEFgIQekD/b2f159decf3bade0dcbb4d2257df65bc/devops-3155973_1920.jpg","details":{"size":182980,"image":{"width":1920,"height":855}},"fileName":"devops-3155973_1920.jpg","contentType":"image/jpeg"}}},"description":"Some notes of Infrastructure as Code","body":"$1f","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-23T19:00+10:00","tags":["engineering management"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3Ghqn8vPPh07W8BmlB0Tax","type":"Entry","createdAt":"2021-09-22T23:15:10.554Z","updatedAt":"2021-09-23T00:46:47.874Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":103,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"DevOps","slug":"devops","heroImage":"$f:3:props:children:props:children:props:children:1:props:posts:4:fields:heroImage","description":"Some DevOps notes","body":"$20","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-23T18:00+10:00","tags":["engineering management"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4BHoGHgaM1nfXUafTg2bXr","type":"Entry","createdAt":"2021-09-08T05:19:19.962Z","updatedAt":"2021-09-08T05:28:24.234Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":82,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Clean code","slug":"clean-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6b9HC9LDPzWY2jNP2VxFZK","type":"Asset","createdAt":"2021-09-08T04:45:24.017Z","updatedAt":"2021-09-08T04:45:24.017Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":5,"revision":1,"locale":"en-US"},"fields":{"title":"software development","description":"software development","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6b9HC9LDPzWY2jNP2VxFZK/f49c820d26bc9191ae1a116c78baa7fb/website-6317571_1280.png","details":{"size":77880,"image":{"width":1280,"height":1067}},"fileName":"website-6317571_1280.png","contentType":"image/png"}}},"description":"Some note for writing clean code","body":"$21","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-08T12:00+10:00","tags":["software-engineering"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5KIdOY2X9vyocPsgrL4PKS","type":"Entry","createdAt":"2021-09-06T10:20:35.716Z","updatedAt":"2021-09-06T10:33:02.821Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":10,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Testing Notes","slug":"software-testing-notes","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5vU0LlhWiHm7iEubyOGmxs","type":"Asset","createdAt":"2021-09-06T10:19:04.160Z","updatedAt":"2021-09-06T10:19:04.160Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"testing","description":"testing","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/5vU0LlhWiHm7iEubyOGmxs/9b74a19f55bfad1b945ac88c44fe1c16/software-762486_1920.jpg","details":{"size":152541,"image":{"width":1920,"height":1344}},"fileName":"software-762486_1920.jpg","contentType":"image/jpeg"}}},"description":"Some notes for software testing","body":"$22","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-06T20:19+10:00","tags":["quality-assurance"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1P84eirkAwCWtlZxrAiEcD","type":"Entry","createdAt":"2021-09-06T10:16:18.657Z","updatedAt":"2021-09-06T10:16:57.484Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":16,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"ReactJS Notes","slug":"reactjs-notes","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6yZIDYoNm3A0e9Ol2ZYTZX","type":"Asset","createdAt":"2021-09-06T10:14:26.473Z","updatedAt":"2021-09-06T10:14:26.473Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"React","description":"React","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6yZIDYoNm3A0e9Ol2ZYTZX/ff9ddbe5a970e8f9f304245fd2074e1d/reactjs.png","details":{"size":33012,"image":{"width":1600,"height":900}},"fileName":"reactjs.png","contentType":"image/png"}}},"description":"Some ReactJS note","body":"$23","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-06T20:15+10:00","tags":["javascript","reactjs"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"52DOytFW4IFjSQ3gSWKeHu","type":"Entry","createdAt":"2021-09-06T10:12:13.722Z","updatedAt":"2021-09-06T10:12:13.722Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":9,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Scikit-learn Note","slug":"scikit-learn-note","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Qu7ZFVqByybcU5SwUZdvR","type":"Asset","createdAt":"2021-09-04T00:58:25.141Z","updatedAt":"2021-09-04T00:58:25.141Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"machine-learning","description":"machine-learning","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Qu7ZFVqByybcU5SwUZdvR/58f78d794adcb6d13a48cf49dacc9324/machine-learning-5720531_1280.png","details":{"size":85349,"image":{"width":1280,"height":804}},"fileName":"machine-learning-5720531_1280.png","contentType":"image/png"}}},"description":"A note for scikit-learn","body":"$24","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-06T20:11+10:00","tags":["machine-learning"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"43ZrKEyGwpw7V6wV5eTFZV","type":"Entry","createdAt":"2021-09-05T01:24:48.165Z","updatedAt":"2021-09-05T01:24:48.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":10,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Machine Learning Model evaluation","slug":"machine-learning-model-evaluation","heroImage":"$f:3:props:children:props:children:props:children:1:props:posts:9:fields:heroImage","description":"methods for Machine Learning Model evaluation","body":"$25","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-05T11:24+10:00","tags":["machine-learning"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4TwjcExznTbMAnFbDU6fjK","type":"Entry","createdAt":"2021-09-05T01:23:29.543Z","updatedAt":"2021-09-05T01:23:29.543Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":9,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Ensemble learning","slug":"ensemble-learning","heroImage":"$f:3:props:children:props:children:props:children:1:props:posts:9:fields:heroImage","description":"Ensemble methods","body":"$26","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-05T11:23+10:00","tags":["machine-learning"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"76PFPYIk42TimCl9mAXbIV","type":"Entry","createdAt":"2021-09-04T01:40:05.723Z","updatedAt":"2021-09-04T01:40:05.723Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":10,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Dimensionality Reduction","slug":"dimensionality-reduction","heroImage":"$f:3:props:children:props:children:props:children:1:props:posts:9:fields:heroImage","description":"Some techniques for Dimensionality Reduction ","body":"## Principal component analysis (PCA)\n\nIt is an unsupervised linear transformation technique that is widely used across different fields, most prominently for dimensionality reduction.\n\n## Linear Discriminant Analysis (LDA)\n\nIt can be used as a technique for feature extraction to increase the computational efficientcy and reduce the degreee of over-fitting due to the curse of dimensionality in nonregularized models.\n\n## Kernel principal component analysis\n\nIt will transform data that is not linearly separable onto a new, lower-dimensional subspace that is suitable for linear classifiers\n\nDownside: This approach is computational expesnsive, but it can be overcome by kernel trick.\n\n**Radial Basis Function (RBF)**\n","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-04T11:39+10:00","tags":["machine-learning"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2MqMbleTxTuaYcQPTq1ZSX","type":"Entry","createdAt":"2021-09-04T01:37:34.285Z","updatedAt":"2021-09-04T01:37:34.285Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Dealing with unbalanced dataset","slug":"dealing-with-unbalanced-dataset","heroImage":"$f:3:props:children:props:children:props:children:1:props:posts:9:fields:heroImage","description":"Some methods to deal with unbalanced dataset","body":"$27","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-04T11:36+10:00","tags":["machine-learning"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2G9S5HHykmpWEnApU4YTw9","type":"Entry","createdAt":"2021-09-04T01:08:35.670Z","updatedAt":"2021-09-04T01:08:35.670Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":16,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Data preprocessing techniques","slug":"data-preprocessing-techniques","heroImage":"$f:3:props:children:props:children:props:children:1:props:posts:9:fields:heroImage","description":"A note for data preprocessing","body":"$28","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-04T11:08+10:00","tags":["machine-learning"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3MSDEr5CT6AoQV3eTpfOkg","type":"Entry","createdAt":"2021-09-04T01:03:31.427Z","updatedAt":"2021-09-04T01:03:31.427Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":11,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Unsupervised learning - Clustering","slug":"unsupervised-learning-clustering","heroImage":"$f:3:props:children:props:children:props:children:1:props:posts:9:fields:heroImage","description":"A note for clustering","body":"$29","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-04T11:00+10:00","tags":["machine-learning"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"FjyDr4ndNxwfFC5S7ljaB","type":"Entry","createdAt":"2021-09-04T00:59:06.823Z","updatedAt":"2021-09-04T01:32:39.048Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":14,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Machine Learning Intro","slug":"machine-learning-intro","heroImage":"$f:3:props:children:props:children:props:children:1:props:posts:9:fields:heroImage","description":"A introduction for machine learning","body":"$2a","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-04T10:58+10:00","tags":["machine-learning"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7oO5HEfsLDizpImAykKWUC","type":"Entry","createdAt":"2021-09-02T00:28:26.364Z","updatedAt":"2021-09-06T10:16:48.323Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Microservice Notes Part - 1","slug":"microservice-part-1","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4SIAsNl00Xw5uEh8sWWZ5S","type":"Asset","createdAt":"2021-09-02T00:26:37.088Z","updatedAt":"2021-09-02T01:26:38.043Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"microservice","description":"microservice","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/4SIAsNl00Xw5uEh8sWWZ5S/345af5c80b78c49661ff14cd5d2e88e6/cubes-2492010_640.jpg","details":{"size":22825,"image":{"width":640,"height":341}},"fileName":"cubes-2492010_640.jpg","contentType":"image/jpeg"}}},"description":"Notes for microservice","body":"$2b","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-02T18:00+10:00","tags":["microservice","architecture"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6vtJUQQwcVvh6JMlTWzASY","type":"Entry","createdAt":"2021-09-02T00:33:59.412Z","updatedAt":"2021-09-06T10:16:41.201Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":27,"revision":4,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Microservice Notes Part - 2","slug":"microservice-part-2","heroImage":"$f:3:props:children:props:children:props:children:1:props:posts:17:fields:heroImage","description":"Microservice note part 2","body":"$2c","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-02T18:00+10:00","tags":["microservice","architecture"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Bwz3jQ1Hjw82K427oMGTc","type":"Entry","createdAt":"2021-08-28T12:16:46.981Z","updatedAt":"2021-09-06T10:16:32.622Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":29,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Angular Notes","slug":"angular-notes","heroImage":"$f:3:props:children:props:children:props:children:1:props:posts:3:fields:heroImage","description":"Some important notes for Angular development","body":"$2d","author":"$f:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-08-28T00:00+10:00","tags":["general","angular"]}}],"variant":"standard"}]]}]}]}],["$","footer",null,{"className":"w-full py-12 md:py-16 border-t border-border bg-muted/5","children":["$","div",null,{"className":"container mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-10","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","$Le",null,{"href":"/","className":"text-2xl font-display font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary via-primary/90 to-secondary mb-4 inline-block","children":"Michael Luo"}],["$","p",null,{"className":"text-muted-foreground max-w-md mb-6","children":"Technology executive and engineering leader driving strategic transformation and innovation through technical excellence and visionary leadership."}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://github.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"GitHub","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]}],["$","a",null,{"href":"https://linkedin.com/in/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"LinkedIn","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-linkedin","children":[["$","path","c2jq9f",{"d":"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"}],["$","rect","mk3on5",{"width":"4","height":"12","x":"2","y":"9"}],["$","circle","bt5ra8",{"cx":"4","cy":"4","r":"2"}],"$undefined"]}]}],["$","a",null,{"href":"https://twitter.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"Twitter","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","a",null,{"href":"mailto:contact@michaelluo.com","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"Email","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail","children":[["$","rect","18n3k1",{"width":"20","height":"16","x":"2","y":"4","rx":"2"}],["$","path","1ocrg3",{"d":"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$Le",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$Le",null,{"href":"/about","className":"text-muted-foreground hover:text-primary transition-colors","children":"About"}]}],["$","li",null,{"children":["$","$Le",null,{"href":"/projects","className":"text-muted-foreground hover:text-primary transition-colors","children":"Leadership"}]}],["$","li",null,{"children":["$","$Le",null,{"href":"/blog","className":"text-muted-foreground hover:text-primary transition-colors","children":"Insights"}]}],["$","li",null,{"children":["$","$Le",null,{"href":"/contact","className":"text-muted-foreground hover:text-primary transition-colors","children":"Contact"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-4","children":"Contact"}],["$","address",null,{"className":"not-italic","children":[["$","p",null,{"className":"text-muted-foreground mb-2","children":"San Francisco, California"}],["$","a",null,{"href":"mailto:contact@michaelluo.com","className":"text-muted-foreground hover:text-primary transition-colors block mb-2","children":"contact@michaelluo.com"}]]}]]}]]}],["$","div",null,{"className":"mt-12 pt-6 border-t border-border flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sm text-muted-foreground mb-4 md:mb-0","children":["© ",2025," Michael Luo. All rights reserved."]}],["$","div",null,{"className":"flex gap-6","children":[["$","$Le",null,{"href":"/privacy","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Privacy Policy"}],["$","$Le",null,{"href":"/terms","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Terms of Service"}]]}]]}]]}]}]]
+> Case two: There no much difference when dealing with constant data, however, when serveral components will have to update the data, there will be a problem for angular to deal with change detection, and cause improper update issues.d:[["$","$L16",null,{}],["$","div",null,{"id":"blog-top"}],["$","$L17",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","section",null,{"className":"container mx-auto px-4 md:px-6 py-24 md:py-32","children":["$","div",null,{"className":"max-w-6xl mx-auto","children":[["$","div",null,{"className":"text-center mb-16","children":[["$","h1",null,{"className":"text-3xl md:text-5xl font-display font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent","children":"Strategic Insights"}],["$","p",null,{"className":"text-lg text-muted-foreground max-w-2xl mx-auto","children":"Perspectives on technology leadership, organizational transformation, and strategic innovation."}]]}],["$","$L18",null,{"posts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5TOZqmWzzaz9TGAIEocUKV","type":"Entry","createdAt":"2021-09-23T01:05:34.565Z","updatedAt":"2021-09-23T04:44:41.023Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":159,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Infrastructure as Code","slug":"infrastructure-as-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"119bssZxkeE51FEFgIQekD","type":"Asset","createdAt":"2021-09-22T22:52:18.064Z","updatedAt":"2021-09-22T22:52:18.064Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"DevOps","description":"DevOps","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/119bssZxkeE51FEFgIQekD/b2f159decf3bade0dcbb4d2257df65bc/devops-3155973_1920.jpg","details":{"size":182980,"image":{"width":1920,"height":855}},"fileName":"devops-3155973_1920.jpg","contentType":"image/jpeg"}}},"description":"Some notes of Infrastructure as Code","body":"$19","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-23T19:00+10:00","tags":["engineering management"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3Ghqn8vPPh07W8BmlB0Tax","type":"Entry","createdAt":"2021-09-22T23:15:10.554Z","updatedAt":"2021-09-23T00:46:47.874Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":103,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"DevOps","slug":"devops","heroImage":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:heroImage","description":"Some DevOps notes","body":"$1a","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-23T18:00+10:00","tags":["engineering management"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"DrahUdUYNu35YSLbS7Uqd","type":"Entry","createdAt":"2021-09-21T00:51:47.450Z","updatedAt":"2025-05-12T11:12:39.511Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":168,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience","slug":"engineering-metrics","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Yw4si1jiCHmyWxX2zURAE","type":"Asset","createdAt":"2025-05-12T11:12:34.991Z","updatedAt":"2025-05-12T11:12:34.991Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":6,"revision":1,"locale":"en-US"},"fields":{"title":"devops","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Yw4si1jiCHmyWxX2zURAE/fac91879711d9be6def5c19c1af0563a/devops.png","details":{"size":2686316,"image":{"width":1536,"height":1024}},"fileName":"devops.png","contentType":"image/png"}}},"description":"DORA 2023 isn’t just about speed—it’s about reliability, feedback loops, and developer experience. This post breaks down the five core DORA metrics, adds supporting DevEx indicators, and shows how to spot hidden friction in your CI/CD pipeline.","body":"$1b","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2025-05-12T18:00+10:00","tags":["engineering management"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4BHoGHgaM1nfXUafTg2bXr","type":"Entry","createdAt":"2021-09-08T05:19:19.962Z","updatedAt":"2021-09-08T05:28:24.234Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":82,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Clean code","slug":"clean-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6b9HC9LDPzWY2jNP2VxFZK","type":"Asset","createdAt":"2021-09-08T04:45:24.017Z","updatedAt":"2021-09-08T04:45:24.017Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":5,"revision":1,"locale":"en-US"},"fields":{"title":"software development","description":"software development","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6b9HC9LDPzWY2jNP2VxFZK/f49c820d26bc9191ae1a116c78baa7fb/website-6317571_1280.png","details":{"size":77880,"image":{"width":1280,"height":1067}},"fileName":"website-6317571_1280.png","contentType":"image/png"}}},"description":"Some note for writing clean code","body":"$1c","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-08T12:00+10:00","tags":["software-engineering"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5KIdOY2X9vyocPsgrL4PKS","type":"Entry","createdAt":"2021-09-06T10:20:35.716Z","updatedAt":"2021-09-06T10:33:02.821Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":10,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Testing Notes","slug":"software-testing-notes","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5vU0LlhWiHm7iEubyOGmxs","type":"Asset","createdAt":"2021-09-06T10:19:04.160Z","updatedAt":"2021-09-06T10:19:04.160Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"testing","description":"testing","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/5vU0LlhWiHm7iEubyOGmxs/9b74a19f55bfad1b945ac88c44fe1c16/software-762486_1920.jpg","details":{"size":152541,"image":{"width":1920,"height":1344}},"fileName":"software-762486_1920.jpg","contentType":"image/jpeg"}}},"description":"Some notes for software testing","body":"$1d","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-06T20:19+10:00","tags":["quality-assurance"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1P84eirkAwCWtlZxrAiEcD","type":"Entry","createdAt":"2021-09-06T10:16:18.657Z","updatedAt":"2021-09-06T10:16:57.484Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":16,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"ReactJS Notes","slug":"reactjs-notes","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6yZIDYoNm3A0e9Ol2ZYTZX","type":"Asset","createdAt":"2021-09-06T10:14:26.473Z","updatedAt":"2021-09-06T10:14:26.473Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"React","description":"React","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6yZIDYoNm3A0e9Ol2ZYTZX/ff9ddbe5a970e8f9f304245fd2074e1d/reactjs.png","details":{"size":33012,"image":{"width":1600,"height":900}},"fileName":"reactjs.png","contentType":"image/png"}}},"description":"Some ReactJS note","body":"$1e","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-06T20:15+10:00","tags":["javascript","reactjs"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"52DOytFW4IFjSQ3gSWKeHu","type":"Entry","createdAt":"2021-09-06T10:12:13.722Z","updatedAt":"2021-09-06T10:12:13.722Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":9,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Scikit-learn Note","slug":"scikit-learn-note","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Qu7ZFVqByybcU5SwUZdvR","type":"Asset","createdAt":"2021-09-04T00:58:25.141Z","updatedAt":"2021-09-04T00:58:25.141Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"machine-learning","description":"machine-learning","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Qu7ZFVqByybcU5SwUZdvR/58f78d794adcb6d13a48cf49dacc9324/machine-learning-5720531_1280.png","details":{"size":85349,"image":{"width":1280,"height":804}},"fileName":"machine-learning-5720531_1280.png","contentType":"image/png"}}},"description":"A note for scikit-learn","body":"$1f","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-06T20:11+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"43ZrKEyGwpw7V6wV5eTFZV","type":"Entry","createdAt":"2021-09-05T01:24:48.165Z","updatedAt":"2021-09-05T01:24:48.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":10,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Machine Learning Model evaluation","slug":"machine-learning-model-evaluation","heroImage":"$d:3:props:children:props:children:props:children:1:props:posts:6:fields:heroImage","description":"methods for Machine Learning Model evaluation","body":"$20","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-05T11:24+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4TwjcExznTbMAnFbDU6fjK","type":"Entry","createdAt":"2021-09-05T01:23:29.543Z","updatedAt":"2021-09-05T01:23:29.543Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":9,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Ensemble learning","slug":"ensemble-learning","heroImage":"$d:3:props:children:props:children:props:children:1:props:posts:6:fields:heroImage","description":"Ensemble methods","body":"$21","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-05T11:23+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"76PFPYIk42TimCl9mAXbIV","type":"Entry","createdAt":"2021-09-04T01:40:05.723Z","updatedAt":"2021-09-04T01:40:05.723Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":10,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Dimensionality Reduction","slug":"dimensionality-reduction","heroImage":"$d:3:props:children:props:children:props:children:1:props:posts:6:fields:heroImage","description":"Some techniques for Dimensionality Reduction ","body":"## Principal component analysis (PCA)\n\nIt is an unsupervised linear transformation technique that is widely used across different fields, most prominently for dimensionality reduction.\n\n## Linear Discriminant Analysis (LDA)\n\nIt can be used as a technique for feature extraction to increase the computational efficientcy and reduce the degreee of over-fitting due to the curse of dimensionality in nonregularized models.\n\n## Kernel principal component analysis\n\nIt will transform data that is not linearly separable onto a new, lower-dimensional subspace that is suitable for linear classifiers\n\nDownside: This approach is computational expesnsive, but it can be overcome by kernel trick.\n\n**Radial Basis Function (RBF)**\n","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-04T11:39+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2MqMbleTxTuaYcQPTq1ZSX","type":"Entry","createdAt":"2021-09-04T01:37:34.285Z","updatedAt":"2021-09-04T01:37:34.285Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Dealing with unbalanced dataset","slug":"dealing-with-unbalanced-dataset","heroImage":"$d:3:props:children:props:children:props:children:1:props:posts:6:fields:heroImage","description":"Some methods to deal with unbalanced dataset","body":"$22","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-04T11:36+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2G9S5HHykmpWEnApU4YTw9","type":"Entry","createdAt":"2021-09-04T01:08:35.670Z","updatedAt":"2021-09-04T01:08:35.670Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":16,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Data preprocessing techniques","slug":"data-preprocessing-techniques","heroImage":"$d:3:props:children:props:children:props:children:1:props:posts:6:fields:heroImage","description":"A note for data preprocessing","body":"$23","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-04T11:08+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3MSDEr5CT6AoQV3eTpfOkg","type":"Entry","createdAt":"2021-09-04T01:03:31.427Z","updatedAt":"2021-09-04T01:03:31.427Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":11,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Unsupervised learning - Clustering","slug":"unsupervised-learning-clustering","heroImage":"$d:3:props:children:props:children:props:children:1:props:posts:6:fields:heroImage","description":"A note for clustering","body":"$24","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-04T11:00+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"FjyDr4ndNxwfFC5S7ljaB","type":"Entry","createdAt":"2021-09-04T00:59:06.823Z","updatedAt":"2021-09-04T01:32:39.048Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":14,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Machine Learning Intro","slug":"machine-learning-intro","heroImage":"$d:3:props:children:props:children:props:children:1:props:posts:6:fields:heroImage","description":"A introduction for machine learning","body":"$25","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-04T10:58+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"743ZHV2BWyNRdtjvI3mwuD","type":"Entry","createdAt":"2021-09-02T01:31:46.966Z","updatedAt":"2025-05-12T11:16:14.916Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":26,"revision":5,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Key Takeaways from Designing Data-Intensive Applications","slug":"foundation-of-data-system","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1NjelDnYjtVM9u8vIfzgOA","type":"Asset","createdAt":"2021-09-02T01:31:00.174Z","updatedAt":"2025-05-12T11:31:57.017Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":22,"revision":5,"locale":"en-US"},"fields":{"title":"data-intensive applications","description":"datadata-intensive applications","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/1NjelDnYjtVM9u8vIfzgOA/0d7f9f05505ab490db94a61822fb4752/data-intensive.png","details":{"size":2866147,"image":{"width":1536,"height":1024}},"fileName":"data-intensive.png","contentType":"image/png"}}},"description":"This guide explores the architectural principles and design patterns behind data-intensive applications, covering core concerns like reliability, scalability, and maintainability. It compares OLTP and OLAP systems, dives into data encoding formats (e.g., JSON, Protobuf, Avro), communication protocols (REST, RPC, message brokers), and deployment strategies like rolling upgrades. Ideal for developers and system architects building scalable, resilient backend systems","body":"$26","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2025-05-12T21:00+10:00","tags":["software-architecture","data-engineering"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6vtJUQQwcVvh6JMlTWzASY","type":"Entry","createdAt":"2021-09-02T00:33:59.412Z","updatedAt":"2021-09-06T10:16:41.201Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":27,"revision":4,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Microservice Notes Part - 2","slug":"microservice-part-2","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4SIAsNl00Xw5uEh8sWWZ5S","type":"Asset","createdAt":"2021-09-02T00:26:37.088Z","updatedAt":"2021-09-02T01:26:38.043Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"microservice","description":"microservice","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/4SIAsNl00Xw5uEh8sWWZ5S/345af5c80b78c49661ff14cd5d2e88e6/cubes-2492010_640.jpg","details":{"size":22825,"image":{"width":640,"height":341}},"fileName":"cubes-2492010_640.jpg","contentType":"image/jpeg"}}},"description":"Microservice note part 2","body":"$27","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-02T18:00+10:00","tags":["microservice","architecture"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7oO5HEfsLDizpImAykKWUC","type":"Entry","createdAt":"2021-09-02T00:28:26.364Z","updatedAt":"2021-09-06T10:16:48.323Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Microservice Notes Part - 1","slug":"microservice-part-1","heroImage":"$d:3:props:children:props:children:props:children:1:props:posts:15:fields:heroImage","description":"Notes for microservice","body":"$28","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-09-02T18:00+10:00","tags":["microservice","architecture"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7fNsOoWbIENkL39HiS7nfZ","type":"Entry","createdAt":"2021-08-28T12:37:14.513Z","updatedAt":"2025-05-12T11:18:23.043Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":50,"revision":5,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Understanding Web Authentication: Sessions vs Tokens, Cookies vs LocalStorage","slug":"common-web-authentication-method","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7w7WYQz7bn8Z1F2JFZyCta","type":"Asset","createdAt":"2021-08-28T12:15:57.861Z","updatedAt":"2025-05-12T11:40:42.235Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":21,"revision":5,"locale":"en-US"},"fields":{"title":"authentication","description":"Note","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7w7WYQz7bn8Z1F2JFZyCta/52afb9bd9fd7362e8e2a480ad5d3dda0/authentication.png","details":{"size":2538787,"image":{"width":1536,"height":1024}},"fileName":"authentication.png","contentType":"image/png"}}},"description":"This guide explores the differences between session-based and token-based authentication, including detailed comparisons of storage mechanisms like cookies and localStorage. It covers best practices for securing web authentication, explains JWT and refresh token usage, introduces two-factor authentication, and outlines how modern standards like OAuth 2.0 fit into stateless authentication models. Ideal for developers and architects building secure, scalable web applications.","body":"$29","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2025-05-11T22:37+10:00","tags":["authentication","software-engineering"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1xC7lNvgPLmAxSCKOAvkwr","type":"Entry","createdAt":"2021-08-28T12:29:36.183Z","updatedAt":"2025-05-12T11:59:55.414Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":264,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Engineering Management 101: A Practical Overview Based on SWEBOK","slug":"engineering-management-101","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"21Hv10pnFgs6WYwfnvcoXJ","type":"Asset","createdAt":"2021-08-27T10:51:24.180Z","updatedAt":"2025-05-12T11:47:15.278Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":12,"revision":3,"locale":"en-US"},"fields":{"title":"Engineering Management","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/21Hv10pnFgs6WYwfnvcoXJ/e6bcd691a99a93280cddd9b332423987/engineering_management.png","details":{"size":2507401,"image":{"width":1536,"height":1024}},"fileName":"engineering management.png","contentType":"image/png"}}},"description":"This guide offers a practical introduction to Software Engineering Management based on the SWEBOK framework. Whether you're an aspiring engineering leader or a seasoned manager refining your approach, this post breaks down essential knowledge areas—from project initiation and planning to measurement and closure. Gain actionable insights into core management activities, tools, and lifecycle practices that drive successful software delivery.","body":"$2a","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2025-05-12T00:00+10:00","tags":["engineering management"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Bwz3jQ1Hjw82K427oMGTc","type":"Entry","createdAt":"2021-08-28T12:16:46.981Z","updatedAt":"2021-09-06T10:16:32.622Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":29,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Angular Notes","slug":"angular-notes","heroImage":"$d:3:props:children:props:children:props:children:1:props:posts:17:fields:heroImage","description":"Some important notes for Angular development","body":"$2b","author":"$d:3:props:children:props:children:props:children:1:props:posts:0:fields:author","publishDate":"2021-08-28T00:00+10:00","tags":["general","angular"]}}],"variant":"standard"}]]}]}]}],["$","footer",null,{"className":"w-full py-12 md:py-16 border-t border-border bg-muted/5","children":["$","div",null,{"className":"container mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-10","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","$Lc",null,{"href":"/","className":"text-2xl font-display font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary via-primary/90 to-secondary mb-4 inline-block","children":"Michael Luo"}],["$","p",null,{"className":"text-muted-foreground max-w-md mb-6","children":"Technology executive and engineering leader driving strategic transformation and innovation through technical excellence and visionary leadership."}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://github.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"GitHub","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]}],["$","a",null,{"href":"https://linkedin.com/in/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"LinkedIn","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-linkedin","children":[["$","path","c2jq9f",{"d":"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"}],["$","rect","mk3on5",{"width":"4","height":"12","x":"2","y":"9"}],["$","circle","bt5ra8",{"cx":"4","cy":"4","r":"2"}],"$undefined"]}]}],["$","a",null,{"href":"https://twitter.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"Twitter","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","a",null,{"href":"mailto:contact@michaelluo.com","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"Email","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail","children":[["$","rect","18n3k1",{"width":"20","height":"16","x":"2","y":"4","rx":"2"}],["$","path","1ocrg3",{"d":"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$Lc",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$Lc",null,{"href":"/about","className":"text-muted-foreground hover:text-primary transition-colors","children":"About"}]}],["$","li",null,{"children":["$","$Lc",null,{"href":"/projects","className":"text-muted-foreground hover:text-primary transition-colors","children":"Leadership"}]}],["$","li",null,{"children":["$","$Lc",null,{"href":"/blog","className":"text-muted-foreground hover:text-primary transition-colors","children":"Insights"}]}],["$","li",null,{"children":["$","$Lc",null,{"href":"/contact","className":"text-muted-foreground hover:text-primary transition-colors","children":"Contact"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-4","children":"Contact"}],["$","address",null,{"className":"not-italic","children":[["$","p",null,{"className":"text-muted-foreground mb-2","children":"San Francisco, California"}],["$","a",null,{"href":"mailto:contact@michaelluo.com","className":"text-muted-foreground hover:text-primary transition-colors block mb-2","children":"contact@michaelluo.com"}]]}]]}]]}],["$","div",null,{"className":"mt-12 pt-6 border-t border-border flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sm text-muted-foreground mb-4 md:mb-0","children":["© ",2025," Michael Luo. All rights reserved."]}],["$","div",null,{"className":"flex gap-6","children":[["$","$Lc",null,{"href":"/privacy","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Privacy Policy"}],["$","$Lc",null,{"href":"/terms","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Terms of Service"}]]}]]}]]}]}]]
