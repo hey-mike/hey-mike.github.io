@@ -13,83 +13,175 @@ e:I[3901,[],"MetadataBoundary"]
 :HL["/_next/static/media/a34f9d1faa5f3315-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/7a89e18f44dbeee0.css","style"]
 :HL["/_next/static/css/f02a09be07589398.css","style"]
-0:{"P":null,"b":"A6eKK5lT7VxYt48t6Skgk","p":"","c":["","blog","infrastructure-as-code",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","infrastructure-as-code","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7a89e18f44dbeee0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/f02a09be07589398.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_d65c78 __variable_bc0dcf font-sans antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L7",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","infrastructure-as-code","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8","$undefined",null,["$","$L9",null,{"children":["$La","$Lb",null]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","zgNMqgB0kBWZC7mYX03SN",{"children":[["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Le",null,{"children":"$Lf"}]]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"-rBcgn0oJK5MigTkT4WTk","p":"","c":["","blog","infrastructure-as-code",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","infrastructure-as-code","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7a89e18f44dbeee0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/f02a09be07589398.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_d65c78 __variable_bc0dcf font-sans antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L7",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","infrastructure-as-code","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8","$undefined",null,["$","$L9",null,{"children":["$La","$Lb",null]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","BlLPLxRERHElIeobewRjX",{"children":[["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Le",null,{"children":"$Lf"}]]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
 d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 a:null
 11:I[4140,["950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","609","static/chunks/609-6d7a31efd706c5eb.js","700","static/chunks/700-90fe45fc7677a939.js","932","static/chunks/932-c3cf7bb704d7be19.js","140","static/chunks/140-07cb123802c69e24.js","953","static/chunks/app/blog/%5Bslug%5D/page-ab2aaf3e027e5583.js"],"default"]
 12:I[2834,["950","static/chunks/950-288bbdfb4f085609.js","298","static/chunks/298-7d4136f15270c2e1.js","609","static/chunks/609-6d7a31efd706c5eb.js","700","static/chunks/700-90fe45fc7677a939.js","932","static/chunks/932-c3cf7bb704d7be19.js","140","static/chunks/140-07cb123802c69e24.js","953","static/chunks/app/blog/%5Bslug%5D/page-ab2aaf3e027e5583.js"],"default"]
-13:T1b59,## Infrastructure as Code
+13:T19e7,**Infrastructure as Code (IaC)** is the practice of managing and provisioning infrastructure—such as servers, databases, and networking—through code. This approach replaces manual, click-based infrastructure management with automated, repeatable scripts and configuration files.
 
-Infrastructure as code (IAC) is a concept in which you create, deploy, update, and destroy your infrastructure by writing and executing code.
+With IaC, teams can reliably **create, update, and destroy infrastructure environments** using the same principles and workflows used in software development.
 
-## Categories 
+---
 
-### Ad hoc scripts
-Bash, Ruby, Python scripts that execute on the servers. However, When you attempt to handle hundreds of servers, databases, load balancers, network settings, and so on using ad hoc scripts, things become complicated.
+## Key Categories of IaC Tools
 
-### Configuration management tools
-Examples include Chef, Puppet, Ansible, and SaltStack.
+### 1. Ad Hoc Scripts
 
-__Advanteages__:
-1. *Coding conventions*: Contrary to ad hoc scripts, most configuration management systems come with a set of standards that help developers traverse their code.
-2. *Idempotence*: Code that works correctly no matter how many times you run
-3. *Distribution*: Ad hoc scripts are intended to execute on a single computer. Ansible and other configuration management technologies are intended to handle a large number of remote servers.
+These are manual scripts written in **Bash**, **Python**, or **Ruby** to automate specific tasks like installing software or configuring a server.
 
-### Server templating tools
-Server templating technologies like Docker, Packer, and Vagrant have lately gained prominence as alternatives to configuration management. Instead of starting many servers and configuring them all with the same code, server templating tools generate a server image that contains a complete “snapshot” of the OS, software, files, and other important information. Then use another IaC programme to instal it on all your servers.
+**Limitations**:
+- Difficult to manage at scale
+- No consistency or reusability
+- Lack of idempotency or state tracking
 
-#### Tools for working with images
-*Virtual machines*: A virtual machine (VM) simulates a complete computer system, including the hardware. With VMWare, VirtualBox, or Parallels you virtualize  the CPU, memory, hard drive, and networking.
+Ad hoc scripts are effective for small setups but become fragile when managing hundreds of components across environments.
 
-__Pros__:
-Any VM image running on top of the hypervisor can only view virtualized hardware, keeping it completely isolated from the host system and other VM images (e.g., your computer, a QA server, a production server)
+---
 
-__Cons__:
-Each VM has its own OS, virtualizing all this hardware incurs significant cost in terms of CPU, memory, and startup time.
+### 2. Configuration Management Tools
 
-*Cotnainers*
-A container simulate an OS's user space, then you run a container engine like Docker, CoreOS rkt, or cri-o to generate separated processes.
+Tools like **Ansible**, **Chef**, **Puppet**, and **SaltStack** automate the installation, configuration, and ongoing management of software across many servers.
 
-__Pros__:
-The advantage is that each container running on top of the container engine can only view its own user space, keeping it isolated from the host system and other containers (your computer, a QA server, a production server, etc.)
+**Advantages**:
+- **Coding Conventions**: Provide structure and readability compared to free-form scripts
+- **Idempotency**: Ensure repeated runs produce the same results
+- **Remote Execution**: Designed to manage many remote systems efficiently
 
-__Cons__:
-The disadvantage is that all containers on a single server share the same OS kernel and hardware, making it impossible to achieve the same degree of isolation and security as a VM. However, because the kernel and hardware are shared, containers start up in milliseconds with little CPU and memory use.
+Configuration tools shine in environments where infrastructure exists long-term and must be updated frequently.
 
-#### Commom pattern
-Note that each server templating tool has a unique function. Use Packer to build images that operate directly on production servers, like an AMI in your production AWS account. Vagrant usually creates images for development machines, such a VirtualBox image for your Mac or Windows laptop. Docker is usually used to build app images.
+---
 
-A common pattern is to use Packer to build an AMI with the Docker Engine installed, then deploying that AMI on a cluster of machines in your AWS account to execute your apps.
+### 3. Server Templating and Containers
 
-#### Immutable infrastructure 
-This concept comes from functional programming and involves immutable variables, which means that once set, they can never be changed. Because variables don't change, they're simpler to reason about.
+Rather than running scripts repeatedly to configure servers, **server templating tools** create preconfigured images (snapshots) of entire systems.
 
-Immutable infrastructure works similarly: once deployed, a server is never changed again. To update anything, you generate a new image from your server template and deploy it on a new server. It's simpler to reason about what's deployed since servers never change.
+Popular tools:
+- **Packer**: Builds machine images for AWS AMIs, Azure images, etc.
+- **Vagrant**: Used for development VMs on local machines
+- **Docker**: Packages applications with their runtime environment into containers
 
-### Orchestration tools
-In real world, you will need the following steps to deploy the new infracturure:
+#### Containers vs. Virtual Machines
 
-- Deploy VMs and containers, making efficient use of your hardware.
-- Roll out updates to an existing fleet of VMs and containers using strategies such as *rolling deployment, blue-green deployment, and canary deployment.*
-- Monitor the health of your VMs and containers and automatically replace unhealthy ones (__auto healing__).
-- Scale the number of VMs and containers up or down in response to load (__auto scaling__).
-- Distribute traffic across your VMs and containers (load balancing).
-- Allow your VMs and containers to find and talk to one another over the network (__service discovery__).
+| Feature           | Virtual Machines (VMs)             | Containers                         |
+|------------------|------------------------------------|------------------------------------|
+| Isolation        | Full OS and hardware virtualization | Shares host OS kernel              |
+| Startup Time     | Minutes                            | Milliseconds                       |
+| Resource Usage   | High (RAM, CPU)                    | Low                                |
+| Tools            | VMware, VirtualBox, Parallels      | Docker, Podman, cri-o              |
 
-Orchestration tools like *Kubernetes, Marathon/Mesos, Amazon Elastic Container Service (Amazon ECS), Docker Swarm, and Nomad* can help software engineers to easily manage the those steps with less effort.
+**Pattern**: Use Packer to create an AMI with Docker pre-installed, then deploy that AMI across your production cluster.
 
-For example, Kubernetes lets you specify container management as code. You would first set up a Kubernetes cluster, which is a collection of servers managed by Kubernetes.
+---
 
-### Provisioning tools
-While configuration management, server templating, and orchestration tools specify the code that runs on each server, provisioning tools like Terraform, CloudFormation, and OpenStack Heat create the servers themselves, including database caches, load balancers, queues, monitoring, subnet configurations, firewall settings, routing rules, Secure Sockets Layer (SSL) certificates, and almost every other aspect of your infrastructure.
+### 4. Immutable Infrastructure
 
-## The Benefits of Infrastructure as Code
-1. __Self-service__: Since infrastructure is defined in code, the whole deployment process can be automated, and developers can initiate their own deployments as needed.
-2. __Speed and safety__: If the deployment process is automated, it will be considerably quicker since a computer can do the deployment stages much faster than a person; and safer because an automated process will be more consistent, repeatable, and less prone to human mistake.
-3. __Documentation__: IaC serves as documentation, enabling everyone in the company to understand how things operate even if the system administrator is away.
-4. __Version control__: Your IaC source files may be stored under version control, capturing the full history of your infrastructure in the commit log. When a problem arises, the first step is to examine the commit log to see what happened in your infrastructure, and the second is to simply rollback to a known-good version of your IaC code.
-5. __Validation__: If your infrastructure is specified in code, you may conduct code reviews, run automated tests, and analyse the code using static analysis tools after every update.
-6. __Reuse__: You can bundle your infrastructure into reusable modules so you don't have to recreate it for every product and environment.
-7. __Happiness__: Manually deploying code and maintaining infrastructure is tedious. No originality, no challenge, no acknowledgement, no reward. No one will notice if you release code flawlessly for months, unless you make a mistake. That causes tension and annoyance. Instead, IaC lets computers do what they do best (automation) and people do what they do best (development) (coding).8:[["$","$L11",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L12",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5TOZqmWzzaz9TGAIEocUKV","type":"Entry","createdAt":"2021-09-23T01:05:34.565Z","updatedAt":"2021-09-23T04:44:41.023Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":159,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Infrastructure as Code","slug":"infrastructure-as-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"119bssZxkeE51FEFgIQekD","type":"Asset","createdAt":"2021-09-22T22:52:18.064Z","updatedAt":"2025-05-12T12:22:54.136Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"DevOps","description":"DevOps","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/119bssZxkeE51FEFgIQekD/f8633f5db7a33a0072e9d3c44a0f5f2e/devops.png","details":{"size":2115839,"image":{"width":1536,"height":1024}},"fileName":"devops.png","contentType":"image/png"}}},"description":"Some notes of Infrastructure as Code","body":"$13","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-23T19:00+10:00","tags":["engineering management"]}}}]}],["$","footer",null,{"className":"w-full py-12 md:py-16 border-t border-border bg-muted/5","children":["$","div",null,{"className":"container mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-10","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","$L7",null,{"href":"/","className":"text-2xl font-display font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary via-primary/90 to-secondary mb-4 inline-block","children":"Michael Luo"}],["$","p",null,{"className":"text-muted-foreground max-w-md mb-6","children":"From 0 to global: I build and lead engineering teams that turn strategic roadmaps into delivered transformation through engineering excellence."}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://github.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"GitHub","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]}],["$","a",null,{"href":"https://linkedin.com/in/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"LinkedIn","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-linkedin","children":[["$","path","c2jq9f",{"d":"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"}],["$","rect","mk3on5",{"width":"4","height":"12","x":"2","y":"9"}],["$","circle","bt5ra8",{"cx":"4","cy":"4","r":"2"}],"$undefined"]}]}],["$","a",null,{"href":"https://twitter.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"Twitter","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L7",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/about","className":"text-muted-foreground hover:text-primary transition-colors","children":"About"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/projects","className":"text-muted-foreground hover:text-primary transition-colors","children":"Leadership"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/blog","className":"text-muted-foreground hover:text-primary transition-colors","children":"Insights"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/contact","className":"text-muted-foreground hover:text-primary transition-colors","children":"Contact"}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 pt-6 border-t border-border flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sm text-muted-foreground mb-4 md:mb-0","children":["© ",2025," Michael Luo. All rights reserved."]}],["$","div",null,{"className":"flex gap-6","children":[["$","$L7",null,{"href":"/privacy","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Privacy Policy"}],["$","$L7",null,{"href":"/terms","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Terms of Service"}]]}]]}]]}]}]]
+**Immutable infrastructure** means once a server is deployed, it is **never modified**. To apply changes, you create a new server image and redeploy.
+
+**Benefits**:
+- Eliminates configuration drift
+- Easier to reason about system state
+- Reduces human error during updates
+
+This concept comes from functional programming, where variables are immutable and side effects are minimized.
+
+---
+
+### 5. Provisioning Tools
+
+Provisioning tools automate the creation of **cloud resources** such as:
+
+- Virtual machines
+- Load balancers
+- Subnets and VPCs
+- Security groups and firewalls
+- Databases and DNS
+
+Popular tools:
+- **Terraform** (multi-cloud)
+- **AWS CloudFormation**
+- **OpenStack Heat**
+
+These tools allow you to manage **infrastructure as declarative code**, version it in Git, and deploy entire environments in minutes.
+
+---
+
+### 6. Orchestration Tools
+
+Once infrastructure is provisioned and containers are built, you need orchestration tools to:
+
+- Deploy workloads across compute resources
+- Perform rolling, blue-green, or canary updates
+- Monitor health and auto-replace failed components (auto-healing)
+- Scale resources up or down automatically (auto-scaling)
+- Balance traffic across services
+- Support dynamic service discovery
+
+**Popular orchestration platforms**:
+- **Kubernetes** (most common)
+- **Amazon ECS**
+- **Nomad**
+- **Docker Swarm**
+- **Mesos/Marathon**
+
+These tools express **deployment logic as code**, making container lifecycle predictable and repeatable.
+
+---
+
+## Visual Summary: Categories of IaC
+
+| Category               | Examples                             | Focus                                |
+|------------------------|--------------------------------------|--------------------------------------|
+| Ad Hoc Scripts         | Bash, Python                         | Manual, task-specific automation     |
+| Config Management      | Ansible, Chef, Puppet                | Software configuration across nodes  |
+| Server Templating      | Docker, Packer, Vagrant              | Image creation and reuse             |
+| Provisioning           | Terraform, CloudFormation            | Cloud resource setup and teardown    |
+| Orchestration          | Kubernetes, ECS, Nomad               | Deployment, scaling, healing         |
+
+---
+
+## Benefits of Infrastructure as Code
+
+### 1. **Self-Service**
+Developers can deploy and manage infrastructure independently using automated pipelines.
+
+### 2. **Speed and Safety**
+Automation makes deployments faster and more reliable by removing human error.
+
+### 3. **Documentation**
+IaC source files act as **living documentation** for how environments are configured.
+
+### 4. **Version Control**
+Track infrastructure changes through Git, enabling rollback, code reviews, and audits.
+
+### 5. **Validation**
+Infrastructure code can be tested using:
+- Static analysis (e.g., `tflint`)
+- Unit and integration testing (`Terratest`)
+- Peer-reviewed pull requests
+
+### 6. **Reusability**
+Modularize your IaC into reusable templates for projects, environments, or regions.
+
+### 7. **Team Happiness**
+IaC reduces manual ops work, increases consistency, and allows developers to focus on building features instead of firefighting infrastructure issues.
+
+---
+
+## Conclusion
+
+Infrastructure as Code is more than a DevOps buzzword—it's a paradigm shift that enables **repeatable, scalable, and secure infrastructure management**. By adopting the right combination of tools and practices—from provisioning to orchestration—you can build systems that are **resilient, observable, and easy to evolve**.
+
+Whether you're deploying a simple web app or managing a fleet of services across cloud regions, IaC empowers your team to move faster, collaborate better, and sleep easier.
+
+---
+
+## Further Reading
+
+- *Terraform: Up & Running* – Yevgeniy Brikman  
+- *Kubernetes: Up and Running* – Brendan Burns, Joe Beda  
+- *The Phoenix Project* – Gene Kim  
+- *Infrastructure as Code* – Kief Morris (O’Reilly)
+8:[["$","$L11",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L12",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5TOZqmWzzaz9TGAIEocUKV","type":"Entry","createdAt":"2021-09-23T01:05:34.565Z","updatedAt":"2025-05-14T12:08:50.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":170,"revision":8,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Infrastructure as Code (IaC): Tools, Patterns, and Principles","slug":"infrastructure-as-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6FAUCo0HieVKgPpYD0DeRg","type":"Asset","createdAt":"2025-05-14T12:08:25.546Z","updatedAt":"2025-05-14T12:08:25.546Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Infrastructure as Code (IaC) Tools, Patterns, and Principles","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6FAUCo0HieVKgPpYD0DeRg/39a546e174e6624b48a375fb9d38b496/Infrastructure_as_Code__IaC___Tools__Patterns__and_Principles.png","details":{"size":1822054,"image":{"width":1536,"height":1024}},"fileName":"Infrastructure as Code (IaC)_ Tools, Patterns, and Principles.png","contentType":"image/png"}}},"description":"Some notes of Infrastructure as CodeLearn how Infrastructure as Code (IaC) helps automate cloud infrastructure using tools like Terraform, Docker, Kubernetes, Ansible, and Packer. Understand key categories, benefits, and real-world applications.","body":"$13","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-23T19:00+10:00","tags":["Infrastructure as Code","IaC","Terraform"," Kubernetes","DevOps","Cloud Engineering"]}}}]}],["$","footer",null,{"className":"w-full py-12 md:py-16 border-t border-border bg-muted/5","children":["$","div",null,{"className":"container mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-10","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","$L7",null,{"href":"/","className":"text-2xl font-display font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary via-primary/90 to-secondary mb-4 inline-block","children":"Michael Luo"}],["$","p",null,{"className":"text-muted-foreground max-w-md mb-6","children":"From 0 to global: I build and lead engineering teams that turn strategic roadmaps into delivered transformation through engineering excellence."}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://github.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"GitHub","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]}],["$","a",null,{"href":"https://linkedin.com/in/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"LinkedIn","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-linkedin","children":[["$","path","c2jq9f",{"d":"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"}],["$","rect","mk3on5",{"width":"4","height":"12","x":"2","y":"9"}],["$","circle","bt5ra8",{"cx":"4","cy":"4","r":"2"}],"$undefined"]}]}],["$","a",null,{"href":"https://twitter.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"Twitter","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L7",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/about","className":"text-muted-foreground hover:text-primary transition-colors","children":"About"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/projects","className":"text-muted-foreground hover:text-primary transition-colors","children":"Leadership"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/blog","className":"text-muted-foreground hover:text-primary transition-colors","children":"Insights"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/contact","className":"text-muted-foreground hover:text-primary transition-colors","children":"Contact"}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 pt-6 border-t border-border flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sm text-muted-foreground mb-4 md:mb-0","children":["© ",2025," Michael Luo. All rights reserved."]}],["$","div",null,{"className":"flex gap-6","children":[["$","$L7",null,{"href":"/privacy","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Privacy Policy"}],["$","$L7",null,{"href":"/terms","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Terms of Service"}]]}]]}]]}]}]]
 b:null
-f:[["$","title","0",{"children":"Infrastructure as Code | Michael Luo"}],["$","meta","1",{"name":"description","content":"Some notes of Infrastructure as Code"}],["$","meta","2",{"name":"author","content":"Michael Luo"}],["$","meta","3",{"name":"keywords","content":"Michael Luo,Technology Leadership,Software Engineering,Blog"}],["$","meta","4",{"name":"creator","content":"Michael Luo"}],["$","meta","5",{"name":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self';"}],["$","meta","6",{"property":"og:title","content":"Michael Luo - Blog"}],["$","meta","7",{"property":"og:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}],["$","meta","8",{"property":"og:url","content":"https://michaelluo.com/"}],["$","meta","9",{"property":"og:site_name","content":"Michael Luo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@michaelluo"}],["$","meta","14",{"name":"twitter:title","content":"Michael Luo - Blog"}],["$","meta","15",{"name":"twitter:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}]]
+f:[["$","title","0",{"children":"Infrastructure as Code (IaC): Tools, Patterns, and Principles | Michael Luo"}],["$","meta","1",{"name":"description","content":"Some notes of Infrastructure as CodeLearn how Infrastructure as Code (IaC) helps automate cloud infrastructure using tools like Terraform, Docker, Kubernetes, Ansible, and Packer. Understand key categories, benefits, and real-world applications."}],["$","meta","2",{"name":"author","content":"Michael Luo"}],["$","meta","3",{"name":"keywords","content":"Michael Luo,Technology Leadership,Software Engineering,Blog"}],["$","meta","4",{"name":"creator","content":"Michael Luo"}],["$","meta","5",{"name":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self';"}],["$","meta","6",{"property":"og:title","content":"Michael Luo - Blog"}],["$","meta","7",{"property":"og:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}],["$","meta","8",{"property":"og:url","content":"https://michaelluo.com/"}],["$","meta","9",{"property":"og:site_name","content":"Michael Luo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@michaelluo"}],["$","meta","14",{"name":"twitter:title","content":"Michael Luo - Blog"}],["$","meta","15",{"name":"twitter:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}]]
