@@ -4,24 +4,3173 @@
 4:I[2763,[],""]
 5:I[5111,[],""]
 6:I[1926,["498","static/chunks/498-5cb0f29ca2031e54.js","460","static/chunks/460-b645e30d5b73ace9.js","312","static/chunks/312-197bb5817574b4f3.js","345","static/chunks/app/not-found-25c1096bdd20c741.js"],"default"]
-7:I[3974,[],"ClientPageRoot"]
-8:I[1022,["498","static/chunks/498-5cb0f29ca2031e54.js","460","static/chunks/460-b645e30d5b73ace9.js","827","static/chunks/827-2a4de372ff2a30e4.js","30","static/chunks/30-293168026dd75a44.js","312","static/chunks/312-197bb5817574b4f3.js","974","static/chunks/app/page-b08b5d59448a78a5.js"],"default"]
-b:I[6633,[],"MetadataBoundary"]
-d:I[6633,[],"OutletBoundary"]
-10:I[8919,[],"AsyncMetadataOutlet"]
-12:I[6633,[],"ViewportBoundary"]
-14:I[2862,[],""]
+8:I[6633,[],"MetadataBoundary"]
+a:I[6633,[],"OutletBoundary"]
+d:I[8919,[],"AsyncMetadataOutlet"]
+f:I[6633,[],"ViewportBoundary"]
+11:I[2862,[],""]
 :HL["/_next/static/media/7cba1811e3c25a15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/1c1e1cbfd9d2faad.css","style"]
-0:{"P":null,"b":"NQz1WHDKBlrH2rmW8KaO-","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c1e1cbfd9d2faad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_e8ce0c __variable_bc0dcf font-sans antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L7",null,{"Component":"$8","searchParams":{},"params":{},"promises":["$@9","$@a"]}],["$","$Lb",null,{"children":"$Lc"}],null,["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","oZMqAmB8W-mdaE6VyfYSA",{"children":[["$","$L12",null,{"children":"$L13"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
-15:"$Sreact.suspense"
-16:I[8919,[],"AsyncMetadata"]
-9:{}
-a:{}
-c:["$","$15",null,{"fallback":null,"children":["$","$L16",null,{"promise":"$@17"}]}]
-f:null
-13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-e:null
-17:{"metadata":[["$","title","0",{"children":"Michael Luo - Digital Artist & Engineer"}],["$","meta","1",{"name":"description","content":"Michael Luo's portfolio showcasing digital art, technology leadership, and creative engineering projects."}],["$","meta","2",{"name":"author","content":"Michael Luo"}],["$","meta","3",{"name":"keywords","content":"Michael Luo,Technology Leadership,Software Engineering,Blog"}],["$","meta","4",{"name":"creator","content":"Michael Luo"}],["$","meta","5",{"name":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self';"}],["$","meta","6",{"property":"og:title","content":"Michael Luo - Blog"}],["$","meta","7",{"property":"og:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}],["$","meta","8",{"property":"og:url","content":"https://michaelluo.com/"}],["$","meta","9",{"property":"og:site_name","content":"Michael Luo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@michaelluo"}],["$","meta","14",{"name":"twitter:title","content":"Michael Luo - Blog"}],["$","meta","15",{"name":"twitter:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}]],"error":null,"digest":"$undefined"}
-11:{"metadata":"$17:metadata","error":null,"digest":"$undefined"}
+0:{"P":null,"b":"7avmDyY0WbAqlBaFdcgmj","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c1e1cbfd9d2faad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_e8ce0c __variable_bc0dcf font-sans antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","i4jcBI7vypooVnBz-M4BS",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[8919,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Michael Luo - Digital Artist & Engineer"}],["$","meta","1",{"name":"description","content":"Michael Luo's portfolio showcasing digital art, technology leadership, and creative engineering projects."}],["$","meta","2",{"name":"author","content":"Michael Luo"}],["$","meta","3",{"name":"keywords","content":"Michael Luo,Technology Leadership,Software Engineering,Blog"}],["$","meta","4",{"name":"creator","content":"Michael Luo"}],["$","meta","5",{"name":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self';"}],["$","meta","6",{"property":"og:title","content":"Michael Luo - Blog"}],["$","meta","7",{"property":"og:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}],["$","meta","8",{"property":"og:url","content":"https://michaelluo.com/"}],["$","meta","9",{"property":"og:site_name","content":"Michael Luo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@michaelluo"}],["$","meta","14",{"name":"twitter:title","content":"Michael Luo - Blog"}],["$","meta","15",{"name":"twitter:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
+15:I[2382,["498","static/chunks/498-5cb0f29ca2031e54.js","460","static/chunks/460-b645e30d5b73ace9.js","827","static/chunks/827-2a4de372ff2a30e4.js","30","static/chunks/30-293168026dd75a44.js","312","static/chunks/312-197bb5817574b4f3.js","974","static/chunks/app/page-203121244b205c83.js"],"default"]
+16:T1920,In the previouse post, i have discussed about the foundational principles like **separation of concerns**, **modularity**, and **loose coupling**. Now in Part 2, we explore **software architecture patterns**—proven structural blueprints that bring these principles to life.
+
+Architecture patterns help you organize large systems for **scalability, changeability, testability**, and **deployment agility**. Choosing the right pattern depends on your system’s complexity, scale, and team structure.
+
+---
+
+## 1. Layered (N-Tier) Architecture
+
+**Overview**: One of the most traditional and widely adopted patterns. Responsibilities are separated into horizontal layers.
+
+### Common Layers:
+- **Presentation Layer**: Handles UI or API input/output
+- **Business Logic Layer**: Contains domain logic and rules
+- **Data Access Layer**: Manages persistence and database interactions
+
+### ✅ Pros:
+- Easy to understand and test
+- Clear separation of concerns
+- Good for monoliths and CRUD-heavy systems
+
+### ❌ Cons:
+- Changes ripple across layers
+- Difficult to scale parts independently
+- Can lead to “anemic domain models”
+
+**When to use**: Enterprise web apps, internal admin tools, legacy refactors
+
+---
+
+## 2. Hexagonal Architecture (Ports and Adapters)
+
+**Overview**: Also called “Ports and Adapters,” this pattern isolates the **core business logic** from the external world (UI, DB, network).
+
+### Structure:
+- **Core (Application + Domain logic)** at the center
+- **Ports**: Interfaces for external services (e.g., repository, messaging)
+- **Adapters**: Implement those interfaces (e.g., HTTP controllers, database clients)
+
+### ✅ Pros:
+- Very testable and maintainable
+- Easy to replace external technologies
+- Business logic is truly isolated
+
+### ❌ Cons:
+- Learning curve for juniors
+- More upfront design required
+
+**When to use**: Complex business rules, DDD, domain isolation
+
+---
+
+## 3. Microservices Architecture
+
+**Overview**: Breaks applications into **independently deployable services** that own their own data and responsibility.
+
+### Characteristics:
+- Services communicate via HTTP, gRPC, or messaging (e.g., Kafka)
+- Often aligned with bounded contexts in DDD
+- Supports polyglot persistence and tech stacks
+
+### ✅ Pros:
+- Horizontal scalability
+- Independent deployment
+- Encourages team autonomy
+
+### ❌ Cons:
+- Distributed system complexity (monitoring, debugging)
+- Data consistency challenges
+- DevOps maturity required
+
+**When to use**: Large teams, global scale, multi-product platforms
+
+---
+
+## 4. Event-Driven Architecture
+
+**Overview**: Components communicate via **asynchronous events**. Publishers emit events, and subscribers react to them.
+
+### Two types:
+- **Event Notification**: “Something happened” (e.g., user_created)
+- **Event-Carried State Transfer**: Events include relevant data
+
+### ✅ Pros:
+- Loose coupling between services
+- Supports real-time updates and reactive systems
+- Enables eventual consistency and high throughput
+
+### ❌ Cons:
+- Debugging and tracing flows is harder
+- Risk of data duplication
+- Requires strong observability tooling
+
+**When to use**: Systems requiring high decoupling, data pipelines, real-time processing
+
+---
+
+## 5. Microkernel (Plugin) Architecture
+
+**Overview**: Core system functionality is minimal and extensible through **plugins** or **extensions**.
+
+### Example:
+- IDEs like VS Code or IntelliJ
+- Content management systems (CMS)
+
+### ✅ Pros:
+- Highly flexible and extensible
+- New features don’t require touching the core
+
+### ❌ Cons:
+- Plugin management overhead
+- Versioning and interface stability needed
+
+**When to use**: Product platforms, extensible tools, SDK-based systems
+
+---
+
+## 6. Service-Oriented Architecture (SOA)
+
+**Overview**: A predecessor to microservices, SOA involves services communicating over a **service bus** or enterprise integration layer.
+
+### Differences from Microservices:
+| Feature              | SOA                             | Microservices                      |
+|----------------------|----------------------------------|-------------------------------------|
+| Communication        | Centralized ESB                  | Lightweight protocols (REST, gRPC) |
+| Data Ownership       | Shared databases                 | Private databases                   |
+| Deployment           | Often coarse-grained services    | Smaller, independently deployable   |
+
+**When to use**: Large enterprises with legacy investments or cross-system workflows
+
+---
+
+## Pattern Comparison Table
+
+| Pattern             | Scalability | Testability | Modularity | Complexity | Best For                          |
+|---------------------|-------------|-------------|------------|------------|-----------------------------------|
+| Layered             | Medium      | High        | Low        | Low        | Web apps, enterprise back-office  |
+| Hexagonal           | High        | Very High   | High       | Medium     | Domain-heavy apps                 |
+| Microservices       | Very High   | Medium      | Very High  | High       | Large, fast-moving teams          |
+| Event-Driven        | High        | Medium      | High       | High       | Real-time systems, integrations   |
+| Microkernel         | Medium      | High        | Very High  | Medium     | Plugin platforms, developer tools |
+| SOA                 | Medium      | Low         | Medium     | High       | Legacy enterprise integration     |
+
+---
+
+## Choosing the Right Architecture Pattern
+
+**There is no “one-size-fits-all” architecture.** Choose based on:
+
+- **Team size and skill**: Microservices require DevOps maturity
+- **System complexity**: Use modular or hexagonal for long-lived domain complexity
+- **Change frequency**: Event-driven patterns adapt well to evolving workflows
+- **Deployment needs**: If you need independent scaling, consider microservices or microkernel
+
+---
+
+## Final Thoughts
+
+Architecture patterns are **tools, not destinations**. The best systems evolve by mixing and adapting patterns over time.
+
+Start simple. Prioritize modularity and observability. And always remember: **good architecture makes change easy**.
+
+---
+
+## Further Reading
+
+- *Software Architecture Patterns* – Mark Richards  
+- *Building Microservices* – Sam Newman  
+- *Domain-Driven Design* – Eric Evans  
+- *Enterprise Integration Patterns* – Gregor Hohpe, Bobby Woolf  
+- *Reactive Design Patterns* – Roland Kuhn  
+17:T1b62,Modern software systems must evolve quickly, scale efficiently, and remain maintainable under continuous delivery pressure. Solid software architecture isn't about using the latest frameworks—it's about applying **timeless principles** that enable systems to grow, adapt, and perform under real-world conditions.
+
+This guide outlines the **key software architecture principles** every engineering leader should understand to build scalable, maintainable, and resilient systems.
+
+---
+
+## 1. Separation of Concerns (SoC)
+
+**Definition**: Each module, component, or layer in a system should have a **single, well-defined responsibility**.
+
+**Why it matters**: Mixing unrelated concerns leads to tightly coupled code that’s difficult to change, test, or scale.
+
+**Examples**:
+- Presentation logic should be separate from business logic
+- Authentication should be handled independently of data storage
+
+**Related Pattern**: Layered architecture (e.g., Controller → Service → Repository)
+
+---
+
+## 2. Modularity and High Cohesion
+
+- **Modularity**: Break systems into independent components or services  
+- **High Cohesion**: Each component should be focused and internally consistent
+
+**Benefits**:
+- Improves team autonomy (services owned by squads)
+- Facilitates independent development, testing, and deployment
+
+**Applied In**:
+- Microservices
+- Plugin-based monoliths
+- Feature modules in frontend apps (e.g., React or Angular)
+
+---
+
+## 3. Loose Coupling
+
+**Definition**: Minimize dependencies between components so they can evolve independently.
+
+**Why it matters**: Tightly coupled systems break easily when a single component changes.
+
+**How to implement**:
+- Use interfaces and dependency injection
+- Decouple communication with message queues (e.g., Kafka, RabbitMQ)
+- Use event-driven or API-driven communication patterns
+
+---
+
+## 4. Encapsulation and Information Hiding
+
+**Definition**: Internal details of a module or service should not be visible or accessible to others.
+
+**Benefits**:
+- Prevents unintended dependencies
+- Reduces ripple effects when internal changes occur
+
+**Examples**:
+- Expose only necessary API endpoints
+- Hide database schema details behind repositories
+
+---
+
+## 5. Scalability (Horizontal > Vertical)
+
+**Scalability Principle**: Design for horizontal scalability—**scale out** by adding more nodes rather than scaling up a single machine.
+
+**How to support it**:
+- Stateless services
+- Load balancing
+- Distributed data storage (e.g., sharding, partitioning)
+
+**Considerations**:
+- Use autoscaling in cloud environments
+- Design for eventual consistency where needed
+
+---
+
+## 6. Resilience and Fault Tolerance
+
+**Definition**: Systems should gracefully handle partial failures.
+
+**Techniques**:
+- Retry patterns with exponential backoff
+- Circuit breakers (e.g., Hystrix, Resilience4j)
+- Bulkheads to isolate failures
+
+**Tools**: AWS Auto Recovery, Kubernetes Pod Health Checks, Chaos Engineering (e.g., Chaos Monkey)
+
+---
+
+## 7. Consistency vs. Availability (CAP Theorem)
+
+In distributed systems, you must trade off **Consistency**, **Availability**, or **Partition Tolerance**.
+
+| Scenario                        | Preferred Strategy       |
+|---------------------------------|--------------------------|
+| Financial systems               | Favor consistency (e.g., ACID)  |
+| Real-time user interactions     | Favor availability (e.g., eventual consistency) |
+
+**Design Tip**: Make trade-offs explicit. Use tools like **event sourcing**, **SAGA patterns**, or **CRDTs** to balance concerns.
+
+---
+
+## 8. Single Responsibility Principle (Architectural Level)
+
+Just like at the code level, each **service or module** should be responsible for one domain or capability.
+
+**Examples**:
+- Auth Service → authentication and authorization
+- Notification Service → email, SMS, push
+
+This aligns with Domain-Driven Design (DDD) and promotes **bounded contexts**.
+
+---
+
+## 9. Observability and Monitoring
+
+**Definition**: Architect systems to be **observable by design**, not as an afterthought.
+
+**Best Practices**:
+- Emit structured logs, metrics, and traces
+- Centralize telemetry using tools like Prometheus, Grafana, or OpenTelemetry
+- Expose health endpoints (e.g., `/health`, `/metrics`)
+
+**Why it matters**: You can’t scale, secure, or troubleshoot what you can’t see.
+
+---
+
+## 10. Evolutionary Architecture
+
+**Definition**: Design architecture to **support incremental change** without rewriting the system.
+
+**How to do it**:
+- Use feature flags
+- Design for versioning in APIs
+- Decouple components so they can be swapped or scaled independently
+
+**Goal**: Systems evolve **gracefully** alongside user needs and business growth.
+
+---
+
+## Summary Table
+
+| Principle                      | Purpose                                          | Example                             |
+|-------------------------------|--------------------------------------------------|-------------------------------------|
+| Separation of Concerns (SoC)  | Isolate responsibilities                        | UI logic separate from DB access    |
+| Modularity + High Cohesion    | Focused, interchangeable components             | Microservices or plugin architecture|
+| Loose Coupling                | Isolate change impact                           | API interfaces, message queues      |
+| Encapsulation                 | Hide internal logic                             | Expose services via interfaces only |
+| Scalability                   | Handle load by distributing services            | Stateless REST APIs on k8s          |
+| Resilience                    | Survive failures without crashing               | Circuit breakers, retries           |
+| CAP Trade-offs                | Balance consistency, availability, partitioning | Choose based on business needs      |
+| SRP (Architectural)           | One function per module                         | Separate Auth, Billing, User services|
+| Observability                 | Make systems measurable                         | Logs, metrics, distributed tracing  |
+| Evolutionary Design           | Support safe, gradual change                    | Feature flags, API versioning       |
+
+---
+
+## Conclusion
+
+Software architecture isn't just about picking a pattern—it's about applying principles that make your systems **scalable**, **resilient**, and **easy to evolve**.
+
+By consistently applying these principles, you create systems that:
+
+- Scale horizontally with growing demand  
+- Handle failure gracefully  
+- Remain understandable even as teams and complexity grow  
+- Enable faster delivery without compromising on quality
+
+Investing in architectural principles today pays off in **team velocity, product stability, and long-term agility**.
+
+---
+
+## Further Reading
+
+- *Software Architecture: The Hard Parts* – Neal Ford, Mark Richards  
+- *Clean Architecture* – Robert C. Martin  
+- *Building Microservices* – Sam Newman  
+- *The Twelve-Factor App* – Heroku  
+- *Domain-Driven Design* – Eric Evans  
+18:T2221,Infrastructure as Code (IaC) is a core practice of modern DevOps and cloud engineering. It enables you to **provision, configure, manage, and decommission infrastructure** entirely through code—making infrastructure versionable, testable, and repeatable just like application software.
+
+In this post, you'll learn the categories of IaC tools, common deployment patterns, benefits, best practices, and how IaC fits into cloud-native and scalable system design.
+
+---
+
+## What Is Infrastructure as Code?
+
+Traditionally, infrastructure setup involved manually clicking through web UIs, writing wiki documentation, and hoping someone remembered how the last environment was configured. This process is:
+
+- Error-prone
+- Non-reproducible
+- Undocumented
+- Impossible to version-control or audit
+
+**IaC solves this** by defining infrastructure in code—whether declarative (`.tf`, `.yaml`) or imperative (`.sh`, `.py`)—so that environments can be built, destroyed, and rebuilt **automatically, consistently, and safely.**
+
+---
+
+## Categories of IaC Tools
+
+### 1. **Ad Hoc Scripts**
+
+Quick automation via shell or scripting languages (e.g., **Bash**, **Python**, **Ruby**) is the simplest form of IaC.
+
+**Use cases**:
+- One-off bootstrapping of dev VMs
+- Cron jobs and backups
+- Custom remote install scripts
+
+**Limitations**:
+- Not idempotent
+- Not reusable or testable
+- Hard to scale
+
+Ad hoc scripts are helpful for small tasks but are not sustainable for complex infrastructure.
+
+---
+
+### 2. **Configuration Management Tools**
+
+These tools **ensure infrastructure components are installed, configured, and kept in a desired state**.
+
+| Tool       | Language       | Notable Features                             |
+|------------|----------------|-----------------------------------------------|
+| Ansible    | YAML + Python  | Agentless, idempotent, widely adopted         |
+| Puppet     | DSL            | Agent-based, declarative                     |
+| Chef       | Ruby DSL       | Imperative, flexible                         |
+| SaltStack  | YAML + Python  | High-speed parallel execution                |
+
+**Common use cases**:
+- Install and configure NGINX or MySQL
+- Apply consistent OS settings
+- Patch and update across thousands of servers
+
+---
+
+### 3. **Server Templating and Containerization**
+
+Instead of installing software each time a VM starts, you can **bake everything into a base image**.
+
+| Tool       | Purpose                                  |
+|------------|------------------------------------------|
+| Packer     | Build AMIs or base machine images         |
+| Vagrant    | Dev-focused VM provisioning               |
+| Docker     | Package apps + dependencies into containers|
+
+**Example**:
+```json
+{
+  "builders": [{
+    "type": "amazon-ebs",
+    "ami_name": "myapp-base-image",
+    "instance_type": "t2.micro",
+    "source_ami": "ami-0c55b159cbfafe1f0"
+  }]
+}
+````
+
+Use **Docker** to build application images and **Packer** to generate cloud-optimized base images with Docker preinstalled.
+
+---
+
+### 4. **Immutable Infrastructure**
+
+With **immutable infrastructure**, once a server is deployed, it is **never modified** in place. Instead, any change requires creating a new image and redeploying.
+
+**Advantages**:
+
+* Prevents config drift
+* Easier rollback (just switch AMIs)
+* Safer deployment (fewer unknowns)
+
+**Common approach**:
+
+* Use Packer to create AMI
+* Deploy via Terraform
+* Blue/green or canary rollout via Kubernetes or ECS
+
+---
+
+### 5. **Provisioning Tools**
+
+These tools define and deploy infrastructure components (network, compute, databases, storage) via code.
+
+| Tool               | Highlights                                      |
+| ------------------ | ----------------------------------------------- |
+| Terraform          | Multi-cloud, declarative, modular               |
+| AWS CloudFormation | Native AWS IaC, YAML/JSON based                 |
+| Pulumi             | IaC with general-purpose languages (TS, Python) |
+
+**Terraform Example**:
+
+```hcl
+resource "aws_instance" "web" {
+  ami           = "ami-0c55b159cbfafe1f0"
+  instance_type = "t3.micro"
+}
+```
+
+These tools work well with **GitOps** and CI/CD workflows to deliver environments on demand.
+
+---
+
+### 6. **Orchestration Tools**
+
+Once infrastructure is provisioned and containers built, orchestration ensures the apps are running **at scale and with resilience**.
+
+| Tool         | Key Role                                  |
+| ------------ | ----------------------------------------- |
+| Kubernetes   | Cluster-level orchestration of containers |
+| Amazon ECS   | AWS-managed orchestration                 |
+| Nomad        | Lightweight multi-platform orchestrator   |
+| Docker Swarm | Simpler native Docker orchestration       |
+
+**Kubernetes Features**:
+
+* Declarative YAML
+* Auto-healing (restart failed pods)
+* Auto-scaling
+* Rolling deployments and blue/green support
+* Built-in service discovery
+
+**Example: Kubernetes Deployment**
+
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: myapp
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: myapp
+  template:
+    metadata:
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - name: myapp
+        image: myapp:v1
+        ports:
+        - containerPort: 8080
+```
+
+---
+
+## IaC Deployment Patterns
+
+| Pattern                | Description                                         | Tools Involved                           |
+| ---------------------- | --------------------------------------------------- | ---------------------------------------- |
+| Immutable Deployments  | Recreate infra instead of mutating                  | Packer, Terraform, Kubernetes            |
+| GitOps                 | Infra changes are Git-triggered                     | Terraform + GitHub Actions, ArgoCD       |
+| Blue/Green Deployments | Swap old/new environments for zero-downtime rollout | Load balancer + Terraform + Orchestrator |
+| Infrastructure Modules | Reusable templates across environments              | Terraform modules, CloudFormation stacks |
+
+---
+
+## Best Practices for IaC
+
+1. **Use version control** for all infrastructure code (Git)
+2. **Validate syntax and format** using linters (e.g., `tflint`, `ansible-lint`)
+3. **Use automated testing** (`Terratest`, `kitchen-terraform`, `inspec`)
+4. **Avoid hardcoded secrets**; use Vault, AWS Secrets Manager, or SSM
+5. **Tag and label all resources** for cost tracking and organization
+6. **Design for idempotency**—running the code twice shouldn’t cause errors
+7. **Modularize** your code (e.g., Terraform modules per service or team)
+8. **Use CI/CD** for deploying infrastructure safely and consistently
+9. **Document workflows and architecture** alongside code
+
+---
+
+## Security and Compliance in IaC (Optional but Important)
+
+* **Static Analysis Tools**: tfsec, Checkov, KICS
+* **Drift Detection**: Terraform plan vs. actual state
+* **Policy as Code**: Use OPA (Open Policy Agent) or Sentinel to enforce rules
+* **Secrets Management**: Never store secrets in Git—use encrypted backends
+
+---
+
+## Benefits of Infrastructure as Code
+
+| Benefit              | Description                                                               |
+| -------------------- | ------------------------------------------------------------------------- |
+| Speed & Efficiency   | Faster, automated provisioning across environments                        |
+| Consistency          | Prevents human error and config drift                                     |
+| Reusability          | Define once, reuse everywhere (e.g., staging, prod, dev)                  |
+| Visibility           | Infra changes are logged, reviewed, and auditable                         |
+| Recovery             | Rebuild environments from scratch with minimal effort                     |
+| Collaboration        | Developers and ops teams can share and collaborate on infra logic         |
+| Testing & Validation | Use test frameworks and Git-based workflows to ensure correctness         |
+| Self-service         | Teams can deploy their own infra without ticket queues or ops bottlenecks |
+
+---
+
+## Conclusion
+
+Infrastructure as Code enables you to **treat infrastructure as software**, applying the same principles of version control, automation, testing, and reuse to build stable, scalable systems.
+
+Whether you're managing a single cloud application or deploying hundreds of microservices globally, IaC gives you the tools and discipline to stay **fast, safe, and resilient**.
+
+---
+
+## Further Reading
+
+* *Terraform: Up & Running* – Yevgeniy Brikman
+* *Infrastructure as Code* – Kief Morris
+* *Kubernetes: Up & Running* – Brendan Burns, Joe Beda
+* *The Phoenix Project* – Gene Kim, Kevin Behr, George Spafford
+19:T1f25,## Introduction
+
+Traditional software deployment processes are often manual, slow, and prone to error. As application architectures and teams scale, the pain of pushing changes to production intensifies—leading to bottlenecks, reduced quality, and mounting technical debt.
+
+To address these challenges, many organizations have embraced **DevOps**: a set of practices, principles, and cultural norms that emphasize collaboration between development and operations teams. At its core, DevOps aims to streamline the **software development lifecycle (SDLC)** and deliver software quickly, reliably, and safely.
+
+---
+
+## The Problem with Snowflake Servers
+
+Legacy infrastructure is typically managed manually. Over time, inconsistent updates and ad hoc changes lead to configuration drift—where no two servers are the same. These unique, hard-to-replicate environments are known as **"snowflake servers."**
+
+### Common issues include:
+
+- Inability to reproduce production bugs in staging or dev environments  
+- Unreliable scaling due to inconsistent infrastructure  
+- Increased risk during deployments and disaster recovery
+
+### Solution: Infrastructure as Code (IaC)
+
+DevOps addresses this through **Infrastructure as Code**—defining and provisioning infrastructure using machine-readable code. Tools like Terraform, CloudFormation, and Pulumi help teams version, test, and deploy infrastructure predictably.
+
+---
+
+## What Is DevOps?
+
+Gartner defines DevOps as:
+
+> “A change in IT culture, focusing on rapid IT service delivery through the adoption of agile, lean practices in the context of a system-oriented approach. DevOps emphasizes people (and culture), and seeks to improve collaboration between operations and development teams.”
+
+### In Practice, DevOps Is:
+
+- A **mindset** focused on transparency, collaboration, and iteration  
+- A **practice** that emphasizes automation, fast feedback, and continuous delivery  
+- A **culture** of shared ownership, system thinking, and customer-centric outcomes
+
+The primary goal of DevOps is to accelerate delivery without sacrificing quality, by creating a **high-trust, low-friction environment** where change is safe and fast.
+
+---
+
+## The CAMS Model: Pillars of DevOps
+
+One of the most widely recognized DevOps frameworks is **CAMS**, which outlines four foundational pillars:
+
+| Pillar      | Description                                                                                   | Tools & Examples                          |
+|-------------|-----------------------------------------------------------------------------------------------|-------------------------------------------|
+| Culture     | Trust, collaboration, blameless retrospectives, shared responsibility                         | Cross-functional teams, postmortems       |
+| Automation  | CI/CD, infrastructure provisioning, testing, compliance                                        | Jenkins, GitHub Actions, Terraform        |
+| Measurement | Data-driven decisions using metrics like deployment frequency, MTTR, and change failure rate | Grafana, Prometheus, Datadog              |
+| Sharing     | Open communication, knowledge sharing, documentation, reusable scripts and playbooks          | Wikis, runbooks, Slack channels           |
+
+This model reinforces the idea that DevOps is not just about tooling—**people and process** matter most.
+
+---
+
+## Cargo Cult DevOps: A Common Pitfall
+
+A **cargo cult** occurs when organizations copy surface-level behaviors of successful teams—without understanding the rationale behind them.
+
+### Example:
+
+> A company adopts Kubernetes because large tech firms use it—despite lacking the scale, expertise, or needs for container orchestration.
+
+### How to Avoid This Trap:
+
+- Focus on solving **your specific problems**, not mimicking trends  
+- Ask **why** a practice exists before implementing it  
+- Prioritize context over convention—DevOps is not one-size-fits-all
+
+Sustainable DevOps success requires **intentional, fit-for-purpose decision-making**.
+
+---
+
+## How DevOps Works: Core Practices
+
+### 1. Collaboration
+
+- Break down silos between Dev, Ops, QA, and Security  
+- Foster shared accountability for uptime, performance, and delivery  
+- Use rituals like daily standups, retrospectives, and joint planning
+
+### 2. Continuous Integration (CI)
+
+- Developers integrate code into a shared repository frequently  
+- Automated builds and tests run with every commit  
+- Catch issues early to reduce integration risks
+
+**Common Tools**: GitHub Actions, CircleCI, GitLab CI
+
+### 3. Continuous Delivery (CD)
+
+- Code is always in a deployable state  
+- Releases can be pushed to production safely and on demand  
+- Requires strong test automation and confidence in the pipeline
+
+### 4. Continuous Deployment
+
+- Every passing build is automatically deployed to production  
+- Enables rapid iteration and short feedback cycles  
+- Requires observability, rollbacks, and feature toggles
+
+### 5. Continuous Monitoring
+
+- Real-time observability into applications and infrastructure  
+- Track availability, latency, error rates, and usage patterns  
+- Alert teams to potential failures before they impact users
+
+### 6. Automation Everywhere
+
+- Extend automation to compliance, security checks, infrastructure, and testing  
+- Treat everything as code: infrastructure, policy, and documentation  
+- Reduce manual intervention and operational toil
+
+---
+
+## A Modern DevOps Toolchain
+
+Here’s a breakdown of commonly used tools across categories in modern DevOps pipelines:
+
+| Category               | Popular Tools                                            |
+|------------------------|----------------------------------------------------------|
+| Version Control        | Git, GitHub, GitLab, Bitbucket                           |
+| CI/CD Pipelines        | Jenkins, GitHub Actions, GitLab CI/CD, Argo CD           |
+| Infrastructure as Code | Terraform, AWS CDK, Pulumi, CloudFormation               |
+| Config Management      | Ansible, Chef, Puppet                                    |
+| Containers             | Docker, Podman                                           |
+| Orchestration          | Kubernetes, Amazon ECS, Nomad                            |
+| Monitoring & Logging   | Prometheus, Grafana, ELK Stack, Datadog, New Relic       |
+| Collaboration          | Slack, Jira, Confluence, Notion                          |
+
+**Note**: Tooling is only effective when integrated thoughtfully into your team’s workflow.
+
+---
+
+## DevOps by the Numbers
+
+The 2021 [DORA State of DevOps Report](https://cloud.google.com/devops/state-of-devops) reveals the transformative impact of mature DevOps practices:
+
+| Metric                         | Elite Teams vs. Low Performers |
+|-------------------------------|--------------------------------|
+| Deployment Frequency          | 973x more frequent             |
+| Lead Time for Changes         | 6570x faster                   |
+| Change Failure Rate           | 3x lower                       |
+| Time to Restore Service (MTTR)| 6570x faster                   |
+
+These numbers aren't just technical wins—they drive **business agility, reliability, and customer satisfaction**.
+
+---
+
+## Conclusion
+
+DevOps is a fundamental shift in how teams build, deliver, and operate software. It's not just a technical solution—it's a cultural and strategic movement that aligns development and operations around shared goals.
+
+To succeed:
+
+- Start small, then scale  
+- Focus on culture before tools  
+- Automate wisely  
+- Continuously learn and adapt  
+
+Organizations that fully embrace DevOps unlock faster innovation, reduced operational risk, and more resilient systems.
+
+---
+
+## Further Reading
+
+- *The Phoenix Project* – Gene Kim, Kevin Behr, George Spafford  
+- *Accelerate: Building and Scaling High Performing Technology Organizations* – Nicole Forsgren, Jez Humble, Gene Kim  
+- *Site Reliability Engineering* – Google SRE Team  
+1a:T1cf7,# Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience
+
+In 2023, the DevOps Research and Assessment (DORA) team released its latest *State of DevOps* report, highlighting the evolving landscape of software delivery. The findings were clear: high-performing teams aren’t just faster—they’re safer, more resilient, and more developer-friendly.
+
+As engineering leaders, it's time we stop treating performance as just a speed game. Modern software delivery is a balance of **velocity**, **reliability**, and **developer experience**.
+
+This post reframes key engineering metrics through the lens of **DORA 2023**—and introduces a few complementary metrics that expose the hidden friction in your pipeline.
+
+---
+
+## The Core Five: DORA 2023 Metrics
+
+These metrics form the foundation of performance analysis in elite engineering organizations.
+
+### 1. Lead Time for Changes  
+**Definition**: Time from code committed to code successfully running in production.
+
+This reflects the speed of innovation and feedback loops. DORA 2023 reaffirms it as one of the strongest indicators of delivery performance.
+
+- **What to track**: Time from PR creation to successful deployment
+- **Why it matters**: Long lead times discourage iteration, delay feedback, and frustrate teams
+
+**2023 Benchmark**:
+- Elite: <1 hour  
+- Low: >6 months
+
+### 2. Deployment Frequency  
+**Definition**: How often your team deploys code to production.
+
+This measures how continuously you can deliver value. Frequent deploys typically correlate with small batch sizes, less risk, and healthier teams.
+
+- **What to track**: Daily or weekly prod/staging deployments per team
+- **Why it matters**: High deployment frequency enables fast fixes, feature flags, and continuous validation
+
+**2023 Benchmark**:
+- Elite: Multiple times per day  
+- Low: Fewer than once every 6 months
+
+### 3. Change Failure Rate  
+**Definition**: The percentage of deployments causing degraded service, bugs, or rollbacks.
+
+This represents the **cost of change**. DORA teams emphasize failure rate as a critical counterbalance to deployment speed.
+
+- **What to track**: Failed deployments / total deployments
+- **Why it matters**: High rates indicate poor test quality, integration issues, or insufficient validation
+
+**2023 Benchmark**:
+- Elite: 0–15%  
+- Low: 46–60%
+
+### 4. Mean Time to Recovery (MTTR)  
+**Definition**: Time from incident detection to full restoration of service.
+
+Failures happen. What matters is how quickly you can detect, diagnose, and recover.
+
+- **What to track**: Incident start to incident resolution
+- **Why it matters**: Fast MTTR builds trust in your system and your team
+
+**2023 Benchmark**:
+- Elite: <1 hour  
+- Low: >6 months
+
+### 5. Reliability  
+**Definition**: The degree to which your system meets operational expectations (uptime, latency, etc.).
+
+Added in recent years, **reliability** reflects customer-facing system health, not just internal delivery metrics.
+
+- **What to track**: SLAs, SLOs, incident frequency, alert fatigue
+- **Why it matters**: A fast pipeline is meaningless if your system is down or unstable
+
+---
+## Summary of DORA 2023 Core Metrics
+
+| Metric                 | Definition                                                | What to Track                            | Elite Benchmark         |
+|------------------------|------------------------------------------------------------|------------------------------------------|-------------------------|
+| Lead Time for Changes  | Time from commit to production                             | PR open to prod deploy                   | < 1 hour                |
+| Deployment Frequency   | How often code is deployed to prod                         | Prod deploys per day/week                | Multiple times per day  |
+| Change Failure Rate    | % of deployments causing incidents                         | Failed/rolled-back deployments           | 0–15%                   |
+| Mean Time to Recovery  | Time to restore service after failure                      | Time from incident to resolution         | < 1 hour                |
+| Reliability            | System’s ability to meet uptime and performance expectations| SLOs, uptime, incident rate              | SLO-compliant & stable  |
+
+## Beyond DORA: Metrics That Capture Developer Experience
+
+While DORA gives us delivery health, it doesn’t tell the whole story. Developer Experience (DevEx) has emerged as a critical success factor—and these supporting metrics help illuminate it.
+
+### 6. Build Time  
+**Definition**: Time to compile, test, and package a change.
+
+While not in DORA, build time directly affects lead time and developer flow. Long builds waste time, reduce confidence in the CI system, and lead to risky batch commits.
+
+- **What to track**: CI job duration (cold and hot builds)
+- **Why it matters**: Developers won’t iterate quickly if builds punish them for trying
+
+**Tip**: Watch for variance—flaky builds are worse than slow ones.
+
+---
+
+### 7. Queue Time  
+**Definition**: Time a CI/CD job waits before it starts executing.
+
+This is the **invisible bottleneck** in scaling engineering teams. When everyone’s building at once, even the best pipelines slow down.
+
+- **What to track**: Time from job submission to execution start
+- **Why it matters**: Queue time reflects infrastructure limits and resource contention
+
+**Insight**: DORA emphasizes speed, but speed can’t happen when runners are exhausted.
+
+---
+
+### 8. Frequency of Broken Main  
+**Definition**: How often the main branch is in a non-deployable state.
+
+This is a culture and process smell. A consistently broken main branch means poor test coverage, weak gating, or rushed reviews.
+
+- **What to track**: % of time main is red / incident count from merges
+- **Why it matters**: Main should be sacred. If you can’t trust it, everything slows down.
+
+**Actionable Tip**: Set up merge protection, fast revert paths, and daily "green checks".
+
+---
+
+### 9. Engineering Overhead  
+**Definition**: Time engineers spend on infra, CI tooling, and environment management instead of feature development.
+
+This metric ties directly to **platform maturity** and **DevEx quality**—themes DORA 2023 heavily emphasizes.
+
+- **What to track**: % of sprint hours spent on pipeline bugs, test flakiness, tooling fixes
+- **Why it matters**: Engineers drowning in overhead are engineers not shipping value
+
+**How to measure**: Use retros, dev satisfaction surveys, or tag internal tickets. Patterns emerge quickly.
+
+---
+
+## Closing Thoughts: DORA + DevEx Is the Future
+
+DORA’s metrics provide a science-backed foundation for measuring delivery performance. But they’re not the end of the story.
+
+In 2023, DORA explicitly emphasized:
+- **Developer Experience (DevEx)**
+- **Platform engineering**
+- **Psychological safety**
+- **Sustainable delivery culture**
+
+To build elite teams, you must **measure what matters and remove what hurts**. That includes invisible friction: long waits, flaky builds, overloaded tools, and broken feedback loops.
+
+Your goal isn’t just faster code—it’s a **system that enables developers to move confidently, safely, and joyfully**.
+
+That’s real velocity.
+
+---
+
+**References**:
+- [2023 State of DevOps Report – DORA](https://cloud.google.com/devops/state-of-devops)
+- *Accelerate: The Science of Lean Software and DevOps* by Forsgren, Humble, and Kim
+1b:T1aa5,# Introduction
+
+> “Clean code is code that is easy to understand and easy to change.” – Robert C. Martin
+
+As software projects grow in size and complexity, the ability to read, reason about, and safely change code becomes critical. Clean code isn’t just aesthetically pleasing—it’s essential for maintainability, collaboration, scalability, and long-term success.
+
+This post explores **clean code** and the most influential **software design principles** that help developers reduce complexity and build systems that stand the test of time.
+
+---
+
+## What Is Clean Code?
+
+Clean code refers to code that:
+
+- Is **readable** and clearly expresses its intent
+- Is **simple** in structure and function
+- Has minimal duplication
+- Is **modular**, making it easy to test and extend
+- Is **predictable** and consistent in style and logic
+
+When code is clean, developers can onboard faster, fix bugs with confidence, and make changes without fear of breaking unrelated parts of the system.
+
+---
+
+## Why Design Principles Matter
+
+Software design principles are not rules—they are **guidelines** that help you write clean, testable, and maintainable code. They make it easier to:
+
+- Understand logic in large codebases  
+- Avoid introducing bugs during changes  
+- Reuse and extend functionality without rewriting everything  
+- Reduce onboarding time for new developers  
+
+Well-applied design principles **scale with your system** and reduce cognitive overhead for everyone involved.
+
+---
+
+## SOLID: The Foundation of Object-Oriented Design
+
+The **SOLID** principles are a set of five foundational rules introduced by Robert C. Martin to improve object-oriented software design. They support modularity, encapsulation, and long-term flexibility.
+
+| Principle                     | Purpose                                                  | Key Idea                                              |
+|-------------------------------|-----------------------------------------------------------|--------------------------------------------------------|
+| Single Responsibility         | Maintain separation of concerns                          | A class should have only one reason to change         |
+| Open/Closed                   | Enable safe extension                                     | Open for extension, closed for modification           |
+| Liskov Substitution           | Promote polymorphism integrity                           | Subclasses should be substitutable for base classes   |
+| Interface Segregation         | Avoid bloated interfaces                                 | Prefer small, client-specific interfaces              |
+| Dependency Inversion          | Decouple modules                                         | Depend on abstractions, not concrete implementations  |
+
+### 1. Single Responsibility Principle (SRP)
+
+> “There should never be more than one reason for a class to change.”
+
+This principle encourages developers to keep **each class focused on a single task**. Mixing unrelated responsibilities in one class increases coupling and reduces maintainability.
+
+### 2. Open–Closed Principle (OCP)
+
+> “Software entities should be open for extension, but closed for modification.”
+
+Instead of changing existing code to add functionality, use **inheritance** or **composition** to extend behavior. This reduces the risk of breaking stable code.
+
+### 3. Liskov Substitution Principle (LSP)
+
+> “Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.”
+
+LSP ensures that **child classes remain behaviorally consistent** with their parent classes, supporting polymorphism and robust abstractions.
+
+### 4. Interface Segregation Principle (ISP)
+
+> “Many client-specific interfaces are better than one general-purpose interface.”
+
+This principle discourages designing large, generic interfaces that force classes to implement unused methods. Instead, **break interfaces into role-specific contracts**.
+
+### 5. Dependency Inversion Principle (DIP)
+
+> “Depend upon abstractions, not concretions.”
+
+High-level modules should not depend on low-level ones directly. Both should depend on **shared abstractions** (like interfaces), enabling better modularity and testability.
+
+---
+
+## DRY Principle: Don’t Repeat Yourself
+
+The **DRY** principle aims to eliminate **duplication of logic, data, and structure**. Repeating the same patterns leads to inconsistencies and bloated codebases.
+
+> “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.” – Andy Hunt & Dave Thomas, *The Pragmatic Programmer*
+
+### Examples of DRY in Practice:
+
+- Centralizing shared logic in **utility classes or helper functions**
+- Using **inheritance or composition** for shared behavior
+- Normalizing data structures in database design
+
+Avoiding duplication **improves maintainability** and minimizes the risk of bugs during updates.
+
+---
+
+## KISS Principle: Keep It Simple, Stupid
+
+The **KISS** principle emphasizes that systems should be as **simple as possible**. Over-engineering adds unnecessary complexity and reduces clarity.
+
+> “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
+
+### Guidelines for KISS:
+
+- Favor **clear logic** over clever tricks  
+- Write short, modular functions  
+- Avoid premature optimization  
+- Use design patterns only when truly needed  
+
+Code simplicity often correlates with **fewer bugs and faster onboarding**.
+
+---
+
+## YAGNI Principle: You Aren’t Gonna Need It
+
+The **YAGNI** principle is rooted in agile and extreme programming (XP) practices. It advises against building features **before they are truly required**.
+
+> “Always implement things when you actually need them, never when you just foresee that you need them.” – Ron Jeffries, XP co-founder
+
+Building speculative features adds maintenance overhead, increases code complexity, and often leads to waste. YAGNI promotes **just-in-time design** and a strong focus on delivering immediate business value.
+
+---
+
+## Conclusion
+
+Clean code isn’t a goal—it’s a process. By following principles like **SOLID, DRY, KISS, and YAGNI**, you create a codebase that:
+
+- Evolves without becoming brittle  
+- Enables fast onboarding and easy debugging  
+- Encourages reuse and automation  
+- Adapts to change without fear
+
+Great software is not just about functionality—it’s about sustainability. These principles give you the architectural foundation to build systems that last.
+
+---
+
+## Further Reading
+
+- *Clean Code* – Robert C. Martin  
+- *The Pragmatic Programmer* – Andy Hunt and Dave Thomas  
+- *Agile Software Development* – Robert C. Martin  
+- *Design Patterns: Elements of Reusable Object-Oriented Software* – Erich Gamma et al.  
+1c:T1bd2,## Introduction
+
+Effective software testing is a foundational part of modern engineering. With complex applications and distributed systems, it’s essential to apply the right type of test to the right scenario—ensuring quality, reliability, and resilience at every level.
+
+In this guide, we explore six core types of tests, from traditional unit tests to advanced monkey testing. We’ll explain their differences, where to apply them, and what pitfalls to avoid.
+
+---
+
+## Unit Testing
+
+Unit testing verifies the **smallest testable components** of a program, such as individual functions or methods. The goal is to ensure that a specific unit of logic behaves as expected in isolation.
+
+### Key Characteristics
+
+- Fast execution
+- Focuses on business logic, not infrastructure
+- Written and maintained by developers
+- Easy to run during development or CI pipelines
+
+### Challenge: Testability
+
+A major barrier to unit testing is code that is **not modular or testable**. Functions tightly coupled to external systems (like databases or APIs) are difficult to test effectively.
+
+### Solution: Use Mocks
+
+When unit testing code that interacts with external systems, use **mocking** to isolate the unit:
+
+- Replace database access or API calls with mock objects
+- Control the return values to simulate different scenarios
+- Prevent external dependencies from affecting test results
+
+This isolation ensures unit tests are **deterministic**, repeatable, and fast.
+
+---
+
+## Integration Testing
+
+Integration tests validate how multiple components or systems work together. Unlike unit tests, integration tests verify the flow across different parts of the system—like services, databases, and APIs.
+
+### Characteristics
+
+- Covers multiple units or modules
+- May involve real or stubbed infrastructure
+- Ensures correctness of communication and integration logic
+
+### In Microservices
+
+Integration testing is especially important in **microservice architectures**. A single flow may traverse several services, requiring coordinated data exchange and interface compatibility.
+
+For example, an integration test could validate:
+
+- Authentication → API Gateway → Order Service → Database  
+- API call from Service A → Kafka Topic → Service B processing
+
+---
+
+## End-to-End (E2E) Testing
+
+End-to-end tests verify the **entire application workflow** from the user’s perspective. These tests cover full business flows across services, infrastructure, and the UI.
+
+### Purpose
+
+- Ensure that **end-to-end business scenarios** function correctly
+- Detect failures caused by misaligned services, regressions, or UI issues
+
+### Example E2E Flow:
+
+1. Register a new user  
+2. Create news articles across categories (e.g., politics, sports)  
+3. Search for news using cookies/session state  
+4. Validate that recommendations reflect expected behavior
+
+### Difference from Integration Testing
+
+While both test across systems:
+
+| Feature           | Integration Test                   | End-to-End Test                       |
+|-------------------|-------------------------------------|---------------------------------------|
+| Focus             | System interactions (internal flow) | Full business process (user-focused) |
+| Interfaces        | APIs, services, databases           | UI, APIs, databases                   |
+| Speed             | Faster                              | Slower                                |
+
+---
+
+## Signature Testing
+
+In distributed microservice systems, services communicate using structured **payloads or contracts**, often referred to as **service signatures**.
+
+### The Problem
+
+When one team changes the structure of a service’s payload (e.g., removes a field), other dependent services may break—even if they weren’t informed.
+
+### Signature Tests Detect:
+
+- Schema violations
+- Incompatible payload changes
+- Backward-incompatible version upgrades
+
+### Best Practices
+
+- Implement **contract testing** (e.g., with Pact or Spring Cloud Contract)
+- Use schema validation and versioning
+- Automate tests to run before deployment in CI/CD
+
+This testing ensures inter-team coordination and avoids production regressions from undocumented interface changes.
+
+---
+
+## Monkey Testing
+
+Monkey testing introduces **randomized input or conditions** to identify unexpected failures or weak spots in an application.
+
+It is particularly useful for:
+
+- Testing input validation  
+- Finding performance bottlenecks under chaotic conditions  
+- Exposing edge-case failures not covered by structured tests
+
+---
+
+### Chaos Monkey and the Simian Army
+
+Originally developed by Netflix, **Chaos Monkey** intentionally disrupts systems in production to validate their resilience. It belongs to a broader set of tools called the **Simian Army**, which includes:
+
+| Tool              | Description                                                                 |
+|-------------------|-----------------------------------------------------------------------------|
+| Chaos Monkey      | Randomly terminates instances to test fault tolerance                       |
+| Chaos Gorilla     | Simulates loss of an entire availability zone                               |
+| Conformity Monkey | Terminates non-compliant resources (e.g., untagged EC2 instances)           |
+| Doctor Monkey     | Checks system health (CPU, memory, disk) and removes unhealthy instances    |
+| Janitor Monkey    | Identifies and removes unused resources to reduce cost                      |
+| Latency Monkey    | Adds artificial network latency to simulate degraded performance            |
+| Security Monkey   | Identifies security misconfigurations (e.g., open ports, weak credentials)  |
+
+These tools test how systems behave **under stress, degradation, or attack**, strengthening infrastructure for real-world reliability.
+
+---
+
+## Conclusion
+
+Each type of test plays a critical role in building reliable software systems:
+
+| Test Type         | Scope                        | Goal                                     | Who Uses It             |
+|-------------------|------------------------------|------------------------------------------|--------------------------|
+| Unit Test         | Individual functions/methods | Validate isolated logic                  | Developers               |
+| Integration Test  | Multiple components/services | Ensure systems interact as intended      | Developers, QA           |
+| End-to-End Test   | Full application workflows   | Confirm end-user functionality           | QA, Test Automation Team |
+| Signature Test    | API/service contracts        | Prevent breaking changes in integrations | DevOps, SRE, Developers  |
+| Monkey Test       | System chaos/random input    | Discover unexpected errors               | QA, SRE, Platform Teams  |
+
+Choosing the right testing strategy—and applying it consistently—helps teams detect defects early, reduce production incidents, and ship with confidence.
+
+---
+
+## Further Reading
+
+- *Test-Driven Development: By Example* – Kent Beck  
+- *Building Microservices* – Sam Newman  
+- *Chaos Engineering* – Casey Rosenthal, Nora Jones  
+1d:T1f7b,## Communicate Child to Parent
+
+Since there is no way to communicate between siblings (only
+parent to child and vice versa), keeping the state at the root
+of the hierarchy is the best strategy.
+
+## Spread Operator
+
+"spread" operator to pass the whole props object.
+
+```JSX
+function App1() {
+  return <Greeting firstName="Ben" lastName="Hector" />;
+}
+
+function App2() {
+  const props = {firstName: 'Ben', lastName: 'Hector'};
+  return <Greeting {...props} />;
+}
+```
+
+## Object rest spread (Redux example)
+
+http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
+
+## Required module as default
+
+- Create a index.js module
+- improt A from './folder_name'
+
+## React Router
+
+`withRouter` will cause rerender if enable it in `Route`, it has bo be used when export component.
+
+## Fragment
+
+A common pattern in React is for a component to return multiple elements. Fragments let you group a list of children without adding extra nodes to the DOM.
+
+## Using the state
+
+1. We should always keep in mind that only the minimal amount of data needed should be put into the state
+1. We should add to the state only the values that we want to update when an event happens, and for which we want to make the component re-render.
+
+## Should component update
+
+1. Dont' duplicate data from props in state, calculate what you can in render() method
+1. Don't keep something in the state if you don't use it for rendering, For example, API subscriptions are better off as custom private fields or variables in external modules.
+
+## Container and Presentational pattern
+
+`Container components`
+
+- They are more concerned about the behavior
+- They render their presentational components
+- They make API calls and manipulate data
+- They define event handlers
+- They are written as classes
+
+`Presentational components`
+
+- They are more concerned with the visual representation
+- They render the HTML markup (or other components)
+- They receive data from the parents in the form of props
+- They are often written as stateless functional components
+
+## Function as Child
+
+```React
+const FunctionAsChild = ({ children }) => children()
+
+FunctionAsChild.propTypes = {
+  children: React.PropTypes.func.isRequired,
+}
+```
+
+## Uncontrolled Components
+
+where we do not set the value of the input field, but we let the component manage its internal state.
+
+## Controlled Components
+
+We have full control over the value of the fields
+
+## Event
+
+- Synthetic Event
+
+A Synthetic Event is an object that wraps the original event object provided by the browser, and it has the same properties, no matter the browser where it is created.
+
+- single global handler
+- event bubbling: What it does instead is attach a single event handler to the root element, which listens to all the events,
+- single global handler : When an event we are interested in is fired by the browser, React calls the handler on the specific components on its behalf.
+
+## Server side rendering
+
+- SEO :One of the main reasons we may want to render our applications on the server-side is Search Engine Optimization (SEO).
+- A common code base: We do not have many options on the client: our applications have to be written in JavaScript. There are some languages that can be converted into JavaScript at build time, but the concept does not change.
+- Better performance:we all love client-side applications, because they are fast and responsive, but there is a problem: the bundle has to be loaded and run before users can take any action on the application.
+
+`SSR or not`
+
+- If your page is non-interactive don't render it in the browser (Only render the page to HTML on the server.) (Not only is computational time saved by skipping rendering to the DOM but also load time is saved by skipping loading JavaScript code.)
+
+- If your page is non-interactive and doesn't change on every request, then render it on the server at build-time.
+
+- The SSR should be enabled on when strictly needed. For example, if you need SEO or if you need to customize the social sharing information, you should start thinking about it.
+
+- If you realize that your application takes a lot of time to fully load and you have already done all the optimization (see the following chapter for more about this topic), you can consider using server-side rendering to offer a better experience to your users and improve the perceived speed.
+
+## Optimization
+
+- Webpack UglifyJsPlugin
+
+- Should component update
+
+- PurComponent
+
+A PureComponent will always re-render if the state or props reference a new object. This implies that if we do not want to lose the benefits of PureComponent, we should avoid such structures:
+
+```React
+<Entity values={this.props.values || []}/>
+```
+
+It is important to remember, that PureComponent skips the re-render operation not only for component itself, but also for all its children, so the best use case for PureComponent are presentational components which have no child components and no dependencies on the global state in the application.
+
+- Stateless functional components: Another concept that is sometimes counter-intuitive for beginners is the fact that stateless components do not give us any benefits regarding performance.
+
+## Testing
+
+There are generally two ways of testing React components, by:
+
+- Shallow rendering
+- Mounting the components into a detached DOM
+
+Before starting, it is important to have a clear idea about what we want to test and why.
+The following list represents more or less all the variations and functionalities of the component that are worth testing:
+
+- The state is initialized with the value coming from the props
+- The placeholder prop is correctly used in the element
+- The right class names are applied following the conditional logic
+- The state is updated whenever the value of the field changes
+- The onSave callback is fired according to the different states and conditions
+
+`Snapshot Testing`: Snapshots are pictures of the component with some props at a given point in time. Every time we run the tests, Jest creates new pictures and it compares them with the previous ones to check if something has changed, and It shows us what's changed in the current snapshot.
+
+`Test coverage`: in some scenarios it is useful to get some measurement of the coverage and keep track of the numbers. In big projects with many different modules, doing so makes it easy to spot files that have not been adequately tested or that have not been tested at all.
+
+### Common testing solutions
+
+- Testing Higher-Order Components
+- The Page Object pattern
+
+### Error handling with React
+
+The best thing we can do when problems happen in our applications is:
+
+- Notify the users and help them understand what happened and what they should do
+- Collect all useful information about the error and the state of the application in order to reproduce it and fix bugs quickly
+
+## Avoid Anti-pattern
+
+1. Map data key
+
+- The key has to be unique and stable, identifying one, and only one, item
+- use the value of the item if we expect it not to be repeated within the list, or create a unique identifier.
+
+1. Spreading props on DOM elements
+
+- create a prop called domProps that we can spread safely to the component because we are explicitly saying that it contains valid DOM properties
+
+## HOC
+
+`JavaScript
+import React from 'react';
+
+// We receive a component constructor as an argument
+const makeRed = (Component) => {
+// We make a new component constructor that takes props, just as any component
+const wrappedComponent = (props) => {
+// This new component returns the original component, but with the style applied
+return (
+// But we also use the ES6 spread operator to apply the regular props passed in.
+// The spread operator applies props like the text in <RedButton text="hello" />
+to our new component
+// It will "spread" any and all props across our component
+<Component style={{ backgroundColor: 'red', color: 'white' }} {...props} />
+);
+};
+// We return the new constructor, so it can be called as <RedButton /> or <RedAlertBox />
+return wrappedComponent;
+}
+
+export default makeRed;
+`
+1e:T92e,## Scifit-learn
+
+**Overfitting** means that the model captures the patterns in the training data well, but fails to generalize well to unseen data.
+
+- Training data: the slited data used to build machine learning model
+- Test data: the reset of the data is used to assess how well the model words
+- In scikit-learn, data is usually denoted with a capital X, while labels are denoted by a lowercase y. This is inspired by the standard formulation f(x) = y in mathematics, where x is the input to a function and y is the output.
+- X (capital) represents two-dimensional array ( a matrix) and a lowercase y represents one-dimensioanl array (a vector)
+
+## Pair plot
+
+It is difficult to plot datasets with more than three features, due to computer have only two dimentsions, which allows us to plot only two (or maybe three) features at a time.
+Pair plot looks at all possible pairs of features
+
+## Decision Tree
+
+- **Advantages**
+  - The resulting model can easily be visulized and understood by noexperts (at least for smaller trees),.
+  - The algorithms are completely invariant to scaling of the data.
+- **Disadvantage**
+  - Even it use pre-pruning, they tend to overfit and provide poor generalization performance
+- **Ensembles of Decision Tress**
+
+## Random Forests
+
+Random forests for regression and classification are currently among the most widely used machine learning methods.
+It requires more memory and are slower to train and to predict than linear models, so if time and memory are important in an application, it might make sense to use a linear model instead.
+
+**n_estimators**: larger is always better.
+
+## Gradient Boosted Regression Trees
+
+Gradient boosted trees are frequently the winning entries in machine learning competitions, and are widely used in industry. They are generally a bit more sensitive to parameter settings than random forests, but can provide better accuracy if the parameters are set correctly.
+
+## Kernelized Support Vector Machines
+
+## Neural Networks ( Deep Learning)
+
+Adanvatage:
+They are able to capture information contained in large amounts of data and build incredibly complex models. Given enough computation time, data, and careful tuning of the parameters, neural networks often beat other machine learning algorithms (for classifcation and regression tasks)
+
+Disadavantage
+Take a long time to train.
+1f:Ta44,## Holdout cross-validation
+
+A classic and popular approach for estimating the generalization performance of machine learning models is holdout cross-validation.
+
+**Model selection**: tuning and comparing different paramenter settings to further improve the performance for making predictions on unsee data, it refers to a givent classifcation problem for which we want to select the optimal values of tunning parameters. (**Hyperparameters**)
+
+A better way of using holdout method for modle selection is to separate the data into three parts: a traning set, a validation set, and a test set.
+
+The advantage of having a test set that the model hasn't seen before during the training and model selection steps is that we can objtain a less biased estimate of its ability to generalize to new data.
+
+A disadvantage of the holdout method is that the preformance estimate is sensitive to how we partition the training set into the training and validation subsets
+
+## K-fold cross-validation
+
+Randomly split the training dataset into k folds without replacement, wheere k - 1 folds are used for the model training and on fold is use for testing. This procedure is repeated k times so that we obtain k models and performance estimates.
+
+Random sampling without replacement: 2, 1, 3, 4, 0
+Random sampling with replacement: 1, 3, 3, 4, 1
+
+Benefits of cross validation:
+- each example will be in the test set exactly once
+- each example is in one of the folds, and each fold is the test set once
+- having multiple splits of data provides some information about how sensitive our model is to the selection of the traning dataset.
+- it is more effectively than train_test_split
+
+Disadvantage:
+it increase computational cost, since it trains k models instead of a single model, cross validation will be roughly k tims slower than doing a single split of data.
+
+## Debugging algorithms with learning and validation curves
+
+- Diagnosing bias and variance problems with learning curves
+- Addressing overfitting and underfitting with validation curves
+- Fine-tuning machine learning models via grid search
+- Algorithm selection with nested cross-validation
+- Looking at different performance evaluation metrics
+  - precision
+  - recall
+  - F1-score
+  - Receiver operator charateristic (ROC): this graphs are useful tools for selecting models for classification based on their performance with respect to the false positive and ture positive rates, which are computed by shifting the decision threshold of the classifer.
+  - Area under the cureve (AUC) can be computed based on ROC curve to charaterize the performance of a classification model
+20:T9fc,## Ensemble learning
+
+Ensemble methods: combine different classifiers into a meta-classifier that has a better generalization performance than each individual classifier alone.
+
+Example: assuming that we collected predictions from 10 experts, ensemble methods would allow us to strategically combine these predictions by the 10 experts to come up with a prediction that is more accurate and robust than the predictions by each individual expert.
+
+- Majority voting: select the class label that has been predicted by the majority of classifiers, that is, received more than 50 percent of the votes.Strictly speaking, it refers to binary class settings only.
+- Plurality voting: select the class label that received the most votes.
+
+## Why using logistic regression and k-nearest neighbors classifier as part of pipleline?
+
+Both algorithms(using the Euclidean distance metric) are not scale-invariant in contrast with decision trees.
+
+## Bagging ( boostrap aggregating)
+
+The convertional baggin algorithm involves generating 'n' different boostrap training samples with replacement. And training the algorithm on each boostrapped algorithm separately and then aggregating the predictions at the end.
+
+Bagging is used for reducing overfitting in order to create strong learners for generating accurate predictions. Unlike boosting, baggin allows replacement in the boostrapped sample.
+
+- Advantages
+  - Improves stability & accuracy of machine leraning algorithms
+  - Reduces variance
+  - Overcomes overfitting
+  - Improved misclassification ratre of the bagged classifier
+  - In noisy data enviroments bagging outperforms boosting
+- Disavantages
+  - Bagging works only if the base classifers are not bad to begin with. Bagging bad classifiers can further degrade performance
+
+## Adaptive Boosting (weak learner)
+
+Ada Boost is the first original boosting technique which creates a highly accurate prediction rule by combining many weak and inaccurate rules. Each classifer is serially trained with the goal of correcly classifying examples in every round that were incorrectly classified in the previous round.
+
+For a learned classifier to make strong predictions, it should follow the follwing 3 conditions:
+
+- The rules should be simple
+- Classifier should have been trained on sufficient number of training examples.
+- The classifer should have low training error for the traning instances
+
+Advantages
+
+- Very simple to implement
+- Good generalization - suited for any kind of classification problem 
+
+Disadvantages
+
+- Sensitive to noisy data and outliers
+21:T9a3,
+## Collect more data
+
+## Resampling
+
+Standard classifier algorithms like Decision Tree and Logistic Regression have a bias towards classes which have number of instances. They tend to only predict the majority class data. The featueres of minority class are treated as noise and are often ignored. Thus, there is a high probability of misclassification of the nimority class as compared to the majority class.
+
+### Random under-sampling
+
+    -   Advantages: It can help improve run time and storage problems by reducing the number of training data samples when the traing data set is huge.
+    -   Disadvantages
+        -   It can discard potentially useful information which could be important for building rule classifiers.
+        -   The sample chosen by random under sampling may be a biased sample. And it will not be an accurate representative of the population. Thereby, resulting in inaccurate results with the actual test data set.
+
+### Random over-sampling
+
+    -   Advantages:
+        -   No information loss
+        -   Outerperforms under sampling
+    -   Disadvantages
+        -   It increases the likelihood of overfitting since it replicates the minority class events
+
+### Cluster-based over sampleing
+
+    -   Advantages
+        -   This clustering technique helps overcome the challenge between class imbalance. Where the number of examples representing positive class differs from the number of examples representing a negative class.
+        -   Overcome challenges within class imbalance, where a class is composed of different sub clusters. And each sub cluster does not contain the same number of examples
+    -   disadvanteges
+        -   The main drawback of this algorithm, like most oversampling techniques is the possibility of over-fitting the traning data.
+
+### Informed over sampling: synthetic minority over-sampling technique
+
+    -   Advantages
+        -   Mitigates the problem of overfitting caused by random oversampling as synthetic examples are generated rather than replication of instances
+        -   No loss of useful infomation
+    -   Disadvantages
+        -   While generating sythetic examples SMOTE does not take into consideration neighboring examples from other classes. This can result in increase in overlapping of classes and can introduce additional noise
+        -   SMOTE is not very effective for high dimensional data
+
+### Modified synthetic minority oversampling technique (MSMOTE)
+
+## Ensemble techniques
+22:T6d5,## Dealling with Missing data
+
+-   Eliminating samples or feature with missing values
+    -   There are three types of missing data
+        -   Missing Completely At Random (MCAR)
+        -   Missing At Random (MAR)
+        -   Missing Not At Random (MNAR)
+    -   Missing categorical feature
+        -   KNN to predict the missing value
+        -   Fill in missing values with most frequent value
+-   Imputing missing values
+    -   Small amount value: KNN
+    -   Imputer
+-   scikit-leran estimater
+
+## Detecting outliers
+
+-   Looking as a whole: EllipticEnvelope
+-   Looking at individual feature (IQR)
+
+## Handling categorical data
+
+-   Mapping ordinal freatures
+-   Encodeing class labels
+-   Performing one-hot encoding on nominal features
+
+## Paritioning a dataset in training and test sets
+
+## Bringing features onto the same scale
+
+## Selecting meaningful features
+
+-   Sparse solutions with L1 regularization
+-   Sequential freature selection algorithms
+    -   feature slection : select a subset of the original freatures
+        -   Sequential Backward Selection (SBS) : reduce the dimensionality of the inital feature subspace with minimum decay in performance of the classifier to improve upon computational efficiency.
+    -   feature extraction : derive information from the feature set to construct a new feature subspace.
+
+## Assessing feature importance with random forests
+
+-   If two or more features are highly correlated, one feature may be ranked very highly while the information fo the other feature(s) may not be fully captured. On the other hand, we don't need to be concerned about this problem if we are merely interested in the predictive performance of a model rather than the interpretation of feature importtances.
+23:T55b,## Clustering
+
+Clustering (cluser analysis) is a technique that allows us to find groups of similar objects, objects that are more related to each other than to objects in other groups.
+Exaples of business-oriented applications of clustering include the grouping of documents, music, and moviews by different topics, or finding customers that share similar interests based on common purchase behaviors as a basis for recommendation egines.
+
+## k-means
+It belongs to the cateory of protoype-based clustering.
+
+- Drawbacks
+  - One or more clusters can be empty
+  - we have to specify the number of clusters, k, a priori
+
+## Hard VS Soft clustering
+
+Hard clustering: a family of algorithms where each sample in a dataset is assigned to exactly on cluster.
+Soft clustering: sometimes called fuzzy clustering, it assign a sample to one or more clusters.
+
+- fuzzy C-mean (FCM, also called soft k-means or fuzzy k-means).
+
+## hierachical
+
+- agglomerative
+  - single linkage
+  - complete linkage
+- divisive clustering
+
+## density-based clustering 
+
+Density-based spatial Clustering of Applications with Noice (DBSCAN)
+
+Advantages:it does not assume that the clusters have a spherical shape as in k-means.
+
+Disadvantage: With an increasing number of features in our dataset -assuming a fixed number of training examples - the negative effect of curse of dimensionality increases.
+24:T13b8,## A diagram of AI in computer science
+![Computer Science and AI](//images.contentful.com/2swoy9jddxd7/6jhGWPq3bcl01xYsb0UoGY/381dedb846a0bb91fe7ca00b53da60e7/Computer_Science.png)
+
+## Rule-based system VS Machine learning
+
+1. The logic required to make a decision is specific to a single domain and task. Changing the task even slightly might require a rewrite of the whole system.
+1. Designing rules requires a deep understanding of how a decision should be made by a human expert.
+
+Machine learning summarized in four categories.
+
+- Predictive learning: comprises two kinds of tasks where we aim to either predict a continuous valued phenomenon (like the future location of a celestial body), or distinguish between distinct kings of things (like different faces in an image)
+- Feature design: A broad set of engineering and mathematical tools which are crucial to the successful performance of predictive learning models in practice.
+- Function approximation: It is employed when we know too little abut a dataset to produce proper features ourselves (and therefore must learn them strictly from the data itself).
+- Numerical optimization  powers the first three and is the engine that makes machine learning run in practice.
+
+## Cost function
+One of the key ingredients of supervised machine learning algorithms is to define
+an objective function that is to be optimized during the learning process. This
+objective function is often a cost function that we want to minimize.
+
+## Predictive learning problems
+
+1. Regression:
+2. Classification: The key difference between the two is that instead of predicting a continuous-valued output (e.g., share price blood pressure, etc.), with classification what we aim at predicting takes on discrete values or classes.
+
+## Three types of machine learning
+
+- Supervised learning (making predictions about the future):
+  - **supervised** refers to a set of samples where the desired output signals (lables ) are already known.
+  - There are two sub categories:
+    - **classification**: the goal is to predict the categorical class labels of new instances based on the pas observations, which is a choice from a predfined list of possibilities.
+      - _i.e. distinguish spam and non-spam email_
+    - **regression**: for predicting continuous outcomes, given a number of _predictor_ ( explanatory) variables and a continuous response variable (outcome), and we try to find a relationship between those variables that allows us to predict an outcome.
+      - _i.e. predict a relationship between the time spent studying for the test and the final scores_
+  - examples:
+    - Identifying the ZIP code from handwritten digits on an envelope.
+    - Determining whether or not a tumor is benign based on a medical image.
+    - Detecting fraudulent activity in credit card transactions
+
+A easy way to distinguish between classifcation and regression tasks is to ask whether there is some kind of continuity in the output.
+
+- Unsupervised learning (Discovering hidden structures):
+  - In uservised learning, we know the right answer beforehand when we train our model, and in reinforcement learning, we define a measure of reward for particular actions by the agent. In unsupervised learning, however, we are dealling with unlabeled data or data of unkow structure.
+  - **cluster**: is an exploratory data analysis technique that allows us to organize a pile of information into meaningful subgroups (_clusters_) without having any prior knowledge of their group menmeberships.
+    - _i.e._ it allows marketers to discover customer groups based on their interests in order to develop distinct mareting programs
+  - **dimensionality reduction**
+    - It is a commonly used approach in feature preprocessing to remove noise from data, which can also degrade the predictive performance of certain algorithms, and compress the data onto a smaller dimensional subspace while retaining most of the relevant information. 
+  - Examples:
+    - Identifying topics in a set of blog posts.
+    - Segmenting customers into groups with similar preferences.
+    - Detecting abnormal access patterns to a website.
+
+unsupervised algorithms are used offten in an explortory setting, when a data scientist wants to understand the data better, rather than as part of a larger automatic system. Another common application for unsupervised algorithms is as a preprocessing step for supervised algorithms.
+
+- reinforcement learning (Solving interactive problems):
+  - The goal is to develop a system (_agent_) that improves its performance based on interactions with the _enviroment_.
+    - _i.e. chess engine_, the agent decides upon a series of moves depending on the state of the board (the enviroment) and reward can be difned as _win_ or _lose_ at the end of the game
+
+## Predictive modeling
+
+- Preprocessing
+  - Feature extraction and scalling
+  - Feature selection
+  - Dimensionality reduction
+  - sampling
+- Learning
+- Evaluation
+- Prediction
+
+## Feature python libaries
+
+- NumPy
+- SciPy
+- scikit-learn
+- pandas
+- matplotlib
+25:T1e38,
+## 1. What is a Data-Intensive Application?
+
+Modern applications increasingly rely on data, not just computational speed. These are known as **data-intensive applications**—systems where challenges stem from the **volume**, **complexity**, and **speed of change** of the data rather than from CPU constraints.
+
+Such applications are built from a collection of standard components, each serving a specialized role:
+
+* **Databases**: Persist data so it can be retrieved later.
+* **Caches**: Store the results of expensive computations to improve performance.
+* **Search Indexes**: Enable keyword or filter-based queries over datasets.
+* **Stream Processing**: Handle real-time data through asynchronous message passing.
+* **Batch Processing**: Periodically perform computations over large datasets.
+
+Understanding how these pieces interact is key to building scalable, maintainable systems.
+
+## 2. Core System Design Concerns
+
+Successful systems share three primary attributes:
+
+### Reliability
+
+A system is reliable if it continues to function correctly even when faced with failures—hardware issues, software bugs, or human mistakes. This means data should not be lost or corrupted, and services should remain available where possible.
+
+### Scalability
+
+Scalability is the system's ability to handle growth—whether in user traffic, dataset size, or feature complexity. An ideal system allows you to increase capacity by adding resources, rather than having to re-architect the entire solution.
+
+### Maintainability
+
+As systems evolve, they must remain easy to understand, debug, and extend. A maintainable system allows many developers to contribute without causing regressions, and adapts to new requirements with minimal disruption.
+
+## 3. OLTP vs OLAP Systems
+![OLTP vs OLAP](//images.ctfassets.net/2swoy9jddxd7/7lGfmdQuVKBGUahccizOp3/23b6109f13fa6a5650447e84db220195/OLTP_vs_OLAP.png)
+Data-intensive systems often fall into two categories:
+
+| Property      | Transaction Processing (OLTP)             | Analytic Processing (OLAP)                   |
+| ------------- | ----------------------------------------- | -------------------------------------------- |
+| Read Pattern  | Quick lookup by key (few records)         | Aggregations over large data sets            |
+| Write Pattern | Frequent small writes (e.g., user inputs) | Bulk loads from pipelines or data warehouses |
+| Users         | Customers interacting with applications   | Analysts querying for insights               |
+| Data Focus    | Current application state                 | Historical logs or event trails              |
+| Data Size     | Gigabytes to terabytes                    | Terabytes to petabytes                       |
+
+OLTP systems are designed for real-time responsiveness, while OLAP systems are optimized for high-throughput data analysis.
+
+## 4. Data Encoding and Evolution
+![transformation of data](//images.ctfassets.net/2swoy9jddxd7/7mvyzhutGYrh76iNOQlxNx/ca52d7512822247d70cf579eabfe54c5/transformation_of_data.png)
+
+### In-Memory vs Serialized Data
+
+Applications store data in memory using structures like arrays, maps, or objects for fast access. However, this in-memory form isn't portable across systems.
+
+When data is saved to disk or sent over the network, it must be **encoded** (or serialized) into a byte stream. This allows other systems to read or reconstruct it later using **decoding** (or deserialization).
+
+### Encoding Challenges
+
+* **Language Lock-In**: Language-specific serialization (e.g., Java Serialization) makes it hard to integrate with services written in other languages.
+* **Security Vulnerabilities**: Deserializing unknown input can expose systems to arbitrary code execution.
+* **Poor Versioning Support**: Many formats don’t handle forward or backward compatibility, breaking systems when schemas evolve.
+* **Performance Overheads**: Some encoders are bloated or slow, hindering throughput.
+
+### Format Comparisons
+
+* **Language-Specific (e.g., Java Serialization)**: Fast, but tightly coupled and insecure.
+* **Textual (e.g., JSON, XML)**: Human-readable and widely supported, but can be vague about types.
+* **Binary Schema-Driven (e.g., Protobuf, Avro)**: Efficient, compact, and explicitly versioned—ideal for internal service communication.
+
+## 5. Communication Patterns
+
+### RPC (Remote Procedure Call)
+
+RPC aims to abstract away the complexity of calling remote services by making them look like local function calls. However, this abstraction hides several issues:
+
+* **Unpredictability**: Network calls are affected by latency, failures, and timeouts.
+* **Partial Failures**: You might not know whether a request succeeded or failed if the response is lost.
+* **Duplicate Requests**: Retrying on failure can lead to repeated operations without safeguards.
+* **Serialization Overhead**: Complex objects must be encoded and decoded for each call.
+* **Cross-language Challenges**: Data types may not translate cleanly between languages.
+
+### REST vs RPC
+![RPC vs REST](//images.ctfassets.net/2swoy9jddxd7/6SyhnAmk99yeqCEU7tGeKK/34879c7d5b5966adcbca834b188f6f14/RPC_vs_REST.png)
+
+RESTful APIs offer a pragmatic alternative to RPC:
+
+* Easy to test and debug with HTTP tools (like `curl` or Postman).
+* Supported across all major platforms.
+* Large ecosystem of tools (e.g., load balancers, proxies).
+
+Custom RPC with binary formats can be faster, but REST is often preferred for public or heterogeneous systems.
+
+### Message-Passing with Brokers
+![message-passing architecture diagram](//images.ctfassets.net/2swoy9jddxd7/5udUpvprTjbKrS6G3Xw7cH/a3211f1dadb68e6b7d74110affa9dc7f/message-passing_architecture_diagram.png)
+
+Messaging systems like Kafka or RabbitMQ offer an alternative model:
+
+* **Buffering**: Acts as a queue when consumers are slow.
+* **Redelivery**: Handles failures gracefully.
+* **Decoupling**: Publishers don’t need to know consumers.
+* **Scalability**: Enables multiple consumers per message.
+* **Asynchronous Flow**: Send-and-forget communication.
+
+### Distributed Actor Frameworks
+
+Actor models (like Akka) treat each component as a stateful actor communicating via messages. This model is naturally scalable and resilient and is suitable for building concurrent, distributed systems.
+
+## 6. Deployment and Evolvability
+
+### Rolling Upgrades
+
+Rolling upgrades involve gradually deploying new versions of a service to small subsets of servers:
+
+* Reduce downtime and risk.
+* Enable monitoring and rollback of faulty changes.
+* Promote smaller, frequent deployments.
+
+This strategy enhances **evolvability**, ensuring the system remains adaptable and continuously deployable.
+
+## 7. Summary of Encoding Format Compatibility
+
+| Format Type          | Interoperability | Human-Readable | Versioning Support | Performance |
+| -------------------- | ---------------- | -------------- | ------------------ | ----------- |
+| Language-Specific    | Low              | No             | Poor               | Good        |
+| JSON/XML/CSV         | High             | Yes            | Medium             | Fair        |
+| Protobuf/Thrift/Avro | High             | No             | Strong             | Excellent   |
+
+## Conclusion
+
+Designing robust data-intensive applications means making thoughtful decisions about storage, encoding, communication, and deployment.
+
+Key takeaways:
+
+* Use **scalable architecture patterns** to manage data growth.
+* Choose encoding formats that support **interoperability and evolution**.
+* Favor **asynchronous communication** for resilience.
+* Implement **rolling upgrades** to deliver changes safely.
+
+By embracing these principles, teams can build systems that are reliable under pressure, flexible for future needs, and efficient at scale.
+26:T7e5d,## Principles and characteristics
+
+1. No monolithic modules
+2. Dumb communication pipes
+3. Decentralization or self-governance
+4. Service contracts and statelessness
+5. Lightweith
+6. Polylog
+
+## Good parts of microservices
+
+1. self-dependent teams
+2. Graceful degration of services
+3. Supports polygolt architecture and DevOps
+4. Event-driven architecture
+
+## Bad and challenge parts
+
+1. Organization and orchestration
+2. Platform
+3. Testing
+4. Service discovery
+
+## Twelve-factor application
+
+1. **Codebase**: We maintain a single code base here for each microservice, with a configuration specific to their own environments, such as development, QA, and prod. Each microservice would have its own repository in a version control system such as Git, mercurial, and so on.
+2. **Dependencies**: All microservices will have their dependencies as part of the application bundle. In Node.js, there is package.json, which mentions all the development dependencies and overall dependencies. We can even have a private repository from where dependencies will be pulled.
+3. **Configs**: All configurations should be externalized, based on the server environment. There should be a separation of config from code. You can set environment variables in Node.js or use Docker compose to define other variables.
+4. **Backing services**: Any service consumed over the network such as database, I/O operations, messaging queries, SMTP, the cache will be exposed as microservices and using Docker compose and be independent of the application.
+5. **Build, release, and run**: We will use automated tools like Docker and Git in distributed systems. Using Docker we can isolate all the three phases using its push, pull, and run commands.
+6. **Processes**: Microservices designed would be stateless and would share nothing, hence enabling zero fault tolerance and easy scaling. Volumes will be used to persist data thus avoiding data loss.
+7. **Port binding**: Microservices should be autonomous and self-contained. Microservices should embed service listeners as part of service itself. For example— in Node.js application using HTTP module, service network exposing services for handling ports for all processes.
+8. **Concurrency**: Microservices will be scaled out via replication. Microservices are scaled out rather than scaled up. Microservices can be scaled or shrunk based on the flow of workload diversity. Concurrency will be dynamically maintained.
+9. **Disposability**: To maximize the robustness of application with fast startup and graceful shutdown. Various options include restart policies, orchestration using Docker swarm, reverse proxy, and load balancing with service containers.
+10. **Dev/prod parity**: Keep development/production/staging environments exactly alike. Using containerized microservices helps via build once, run anywhere strategy. The same image is deployed across various DevOps stage.
+11. **Logs**: Creating separate microservice for logs for making it centralized, to treat as event streams and send it to frameworks such as elastic stack (ELK).
+12. **Admin processes**: Admin or any management tasks should be packed as one of the processes, so they can be easily executed, monitored, and managed. This will include tasks like database migrations, one-time scripts, fixing bad data, and so on.
+
+## Communication between microservices
+
+### Remote Procedure Invocation (PRI) - Apache Thrift and Google's gRPC
+
+RPI uses binary rather than text to keep the payload very compact and efficient. These requests are multiplexed over a single TCP connection, which can allow multiple concurrent messages to be in flight without having to compromise for network consumption usage.
+
+Pros:
+
+1. Request and reply are easy
+2. Simple to maintain as there is no middle broker
+3. Bidirectional streams with HTTP/2-based transportation methods
+4. Efficiently connecting polyglot services in microservices styled architectural ecosystems
+
+Cons:
+
+1. The caller needs to know the locations of service instances, that is, maintain a client-side registry and server-side registry
+2. It only supports the request and reply model and has no support for other patterns such as notifications, async responses, the publish/subscribe pattern, publish async responses, streams, and so on
+
+### Messaging and message bus
+
+Route messages coming from various clients to different microservices destinations. Changes messages to desired transformations as per need. Ability to do message aggregations, segregate a message into multiple messages, and send them to the destination as per need and recompose them. Respond to errors or events. Provide content and routing using the publish-subscribe pattern.
+
+Pros:
+
+1. The client is decoupled from the services; they don't need to discover any services. Loosely coupled architecture throughout.
+2. Highly available as the message broker persists messages until the consumer is able to process them for operations.
+3. It has support for a variety of communication patterns, including the widely used request/reply, notifications, async responses, publish-subscribe, and so on.
+
+### Protobufs
+
+**Protocol buffers** or **protobufs** are a binary format created by Google.Some demonstrations effectively show that protobufs is six times faster than JSON.
+
+> Pros:
+>
+> - Formats for protobufs are self-explaining—formal formats.
+> - It has RPC support; you can declare server RPC interfaces as part of protocol files.
+> - It has an option for structure validation. As it has larger datatype messages that are serialized on protobufs, it can be validated automatically by the code that is responsible for exchanging them.
+
+> Cons:
+>
+> - It is an upcoming pattern; hence you won't find many resources or detailed documentation for implementation of protobuf. If you just look for the protobuf tag on Stack Overflow, you will merely see a mere 10,000 questions.
+> - As it's binary format, it's non-readable when compared to JSON, which is simple to read and analyze on the other hand. The next generation of protobuf and flatbuffer is already available now.
+
+## Service discovery
+
+### Service registry for service-service communication
+
+1. `etcd`: A key-value store used for shared configuration and service discovery. Projects such as Kubernates and cloud foundry are based on etcd as it can be highly available, key-value based, and consistent.
+2. `consul`: Yet another tool for service discovery. It has wide options such as exposed API endpoints that allow the client to register and discover services and perform health checks to determine service availability.
+3. `ZooKeeper`: Very widely used, highly available, and a high performant coordinated service used in distributed applications. Originally a subproject of Hadoop, Zookeeper is a widely used top-level project and it comes preconfigured with various frameworks.
+
+#### Server-side discovery
+
+All requests made to any of the services are routed via a router or load balancers that run in a location known to client interfaces. The router then queries a maintained registry and forwards the request based on the query response
+
+Pros:
+
+1. The client does not need to know the location of different microservices. They just need to know the location of the router and the service discovery logic is completely abstracted from the client so there is zero logic at the client end.
+2. Some environments provide this component functionality for free.
+
+Cons:
+
+1. It has more network hops, that is, one from the client service registry and another from the service registry microservice.
+2. If the load balancer is not provided by the environment, then it has to be set up and managed. If not properly handled, then it can be a single point of failure.
+3. The selected router or load balancer must support different communication protocols for modes of communication.
+
+### Client-side discovery
+
+Under this mode of discovery, the client is responsible for handling the network location of available microservices and load balancing incoming requests across them. The client needs to query a service registry (a database of available services maintained on the client side). The client then selects service instances on the basis of an algorithm and then makes a request
+Netflix uses this pattern extensively and has open sourced their tools **Netflix OSS, Netflix Eureka, Netflix Ribbon, and Netflix Prana**. Using this pattern has the following advantages:
+
+1. High performance and availability as there are fewer transition hops, that is, the client just has to invoke the registry and the registry will redirect to the microservice as per their needs.
+2. This pattern is fairly simple and highly resilient as besides the service registry there are no moving parts. As the client knows about available microservices, they can make intelligent decisions easily such as to use a hash, when to trigger auto-scaling, and so on.
+3. **One significant drawback** of using this mode of service discovery is implementation of client-side service discovery logic has to be done in every programming language of the framework that is used by the service clients. For example, Java, JavaScript, Scala, Node.js, Ruby, and so on.
+
+### Registration partterns
+
+While using this pattern, any microservice instance is responsible for registering and deregistering itself from the maintained service registry. To maintain health checks, a service instance sends heartbeat requests to prevent its registry from expiring.
+
+Pros:
+
+- It couples the service tightly to the self-service registry, which forces us to enable the service registration code in each language we are using in the framework
+- Any microservice that is in running mode, but is not able to handle requests, will often be unaware of which state to pursue, and will often end up forgetting to unregister from the registry
+
+## Data management
+
+### Database per service
+
+- **Private tables/collections per service**: Each microservice has a set of defined tables or collections that can only be accessed by that service
+- **Schema per service**: Each service has a schema that can only be accessed via the microservice it is bound to
+- **Database per service**: Each microservice maintains its own database as per its needs and requirements
+
+Pros:
+
+- Loosely coupled services that can stand on their own; changes to one service's datastore won't affect any other services.
+  Each service has the liberty to select the datastore as required.
+- Each microservice has the option of whether to go for relational or non-relational databases as per need. For example, any service that needs intensive search results on text may go for **Solr** or **Elasticsearch**, whereas any service where there is structured data may go for any SQL database.
+
+Cons:
+
+- Handling complex scenarios that involve transactions spanning across multiple services. The CAP theorem states that it is impossible to have more than two out of the following three guarantees—consistency, availability, and partitions in the distributed datastore, so transactions are generally avoided.
+- Queries ranging across multiple databases are challenging and resource consuming.
+- The complexity of managing multiple SQL and non-SQL datastores.
+
+To overcome the drawbacks, the following patterns are used while maintaining a database per service:
+
+- **Sagas**: A saga is defined as a batch sequence of local transactions. Each entry in the batch updates the specified database and moves on by publishing a message or triggering an event for the next entry in the batch to happen. If any entry in the batch fails locally or any business rule is violated, then the saga executes a series of compensating transactions that compensate or undo the changes that were made by the saga batch updates.
+- **API Composition:** This pattern insists that the application should perform the join rather than the database. As an example, a service is dedicated to query composition. So, if we want to fetch monthly product distributions, then we first retrieve the products from the product service and then query the distribution service to return the distribution information of the retrieved products.
+- **Command Query Responsibility Segregation (CQRS)**: The principle of this pattern is to have one or more evolving views, which usually have data coming from various services. Fundamentally, it splits the application into two parts—the command or the operating side and the query or the executor side. It is more of a publisher-subscriber pattern where the command side operates create/update/delete requests and emits events whenever the data changes. The executor side listens for those events and handles those queries by maintaining views that are kept up to date, based on the subscription of events that are emitted by the command or operating side.
+
+## Sharing concerns
+
+- Externalized configuration
+- Observability
+  - Log aggregation
+  - Distributed tracing
+
+## Design patterns
+
+### Asynchronous messaging microservice design patterns
+
+To successfully implement this design, the following aspects should be considered:
+
+- When you need high scalability, or your current domain is already a message-based domain, then preference should be given to message-based commands over HTTP.
+- Publishing events across microservices, as well as changing the state in the original microservices.
+- Make sure that events are communicated across; mimicking the event would be a very bad design pattern.
+- Maintain the position of the subscriber's consumer to scale up performance.
+  When to make a rest call and when to use a messaging call. As HTTP is a synchronous call, it should be used only when needed.
+
+When to use:
+
+- When you want to use real-time streaming, use the Event Firehouse pattern, which has KAFKA as one of its key components.
+- When your complex system is orchestrated in various services, one of the variants of this system, RabbitMQ, is extremely helpful.
+- Often, instead of subscribing to services, directly subscribing to the datastore is advantageous. In such a case use, GemFire or Apache GeoCode following this pattern is helpful
+
+When not to use:
+
+- When you have heavy database operations during event transmission, as database calls are synchronous
+- When your services are coupled
+- When you don't have standard ways defined to handle data conflict situations
+
+### backend for frontends
+
+Thins to consider:
+
+- A fair consideration of the amount of BFFs to be maintained. A new BFF should only be created when concerns across a generally available service can be separated out for a specific interface.
+- A BFF should only contain client/interface-specific code to avoid code duplication.
+- Divide responsibilities across teams for maintaining BFFs.
+- This should not be confused with a **Shim**, a converter to the convert to interface-specific format required for that type of interface.
+
+When to use:
+
+- There are varying differences in a general-purpose backend service across multiple interfaces and there are multiple updates at any point in time in a single interface.
+- You want to optimize a single interface and not disturb the utility across other interfaces.
+- There are various teams, and implement an alternative language for a specific interface and you want to maintain it separately.
+
+When not to use:
+
+- Do not use this pattern to handle generic parameter concerns such as authentication, security, or authorization. This would just increase latency.
+- If the cost of deploying an extra service is too high.
+- When interfaces make the same requests and there is not much difference between them.
+- When there is only one interface and support for multiple interfaces is not there, a BFF won't make much sense.
+
+### Gateway aggregation and offloading
+
+**Gateway aggregator**: It receives the client request, then it decides to which different systems it has to dispatch the client request, gets the results, and then aggregates and sends them back to the client. For the client, it is just one request. Overall round trips between client and server are reduced.
+
+Things to consider:
+
+- Do not introduce service coupling, that is, the gateway can exist independently, without other service consumers or service implementers.
+- Here, every microservice will be dependent on the gateway. Hence, the network latency should be as low as possible.
+- Make sure to have multiple instances of the gateway, as only a single instance of the gateway may introduce it as a single point of failure.
+- Each of the requests goes through the gateway. Hence, it should be ensured that gateway has efficient memory and adequate performance, and can be easily scaled to handle the load. Have one round of load testing to make sure that it is able to handle bulk load.
+- Introduce other design patterns such as bulkheads, retry, throttle, and timeout for efficient design.
+- The gateway should handle logic such as the number of retries, waiting for service until.
+- The cache layer should be handled, which can improve performance.
+- The gateway aggregator should be behind the gateway, as the request aggregator will have another. Combining them in a gateway will likely impact the gateway and its functionalities.
+- While using the asynchronous approach, you will find yourself smacked by too many promises of callback hell. Go with the reactive approach, a more declarative style. Reactive programming is prevalent from Java to Node.js to Android. You can check out this link for reactive extensions across different links: https://github.com/reactivex.
+- Business logic should not be there in the gateway.
+
+When to use:
+
+- There are multiple microservices across and a client needs to communicate with multiple microservices.
+- Want to reduce the frequent network calls when the client is in lesser range network or cellular network. Breaking it in one request is efficient as then the frontend or the gateway will only have to cache one request.
+- When you want to encapsulate the internal structure or introduce an abstract layer to a large team present in your organization.
+
+When not to use:
+
+- When you just want to reduce the network calls. You cannot introduce a whole level of complexity for just that need.
+- The latency by the gateway is too much.
+- You don't have asynchronous options in the gateway. Your system makes too many synchronous calls for operations in the gateway. That would result in a blocking system.
+- Your application can't get rid of coupled services.
+
+### Proxy routing and throttling
+
+When you have multiple microservices that you want to expose across a single endpoint and that single endpoint routes to service as per need. This application is helpful when you need to handle imminent transient failures and have a retry loop on a failed operation, thus improve the stability of the application. This pattern is also helpful when you want to handle the consumption of resources used by a microservice.
+
+This pattern is used to meet the agreed SLAs and handle loads on resources and resource allocation consumption even when an increase in demand places loads on resources:
+
+Things to consider:
+
+- The gateway can be a single point of failure. Proper steps have to be taken to ensure that it has fault tolerant capabilities during development. Also, it should be run in multiple instances.
+- Gateway should have proper memory and resource allocation otherwise it will introduce a bottleneck. Proper load testing should be done to ensure that failures are not cascaded.
+- Routing can be done based on IP, header, port, URL, request parameter, and so on.
+- The retry policy should be crafted very carefully based on the business requirements. It's okay in some places to have a please try again rather than having waiting periods and retrials. The retry policy may also affect the responsiveness of the application.
+- For effective application, this pattern should be combined with **Circuit Breaker Application**.
+- If service is idempotent, then and only then should it be retried. Trying retrial on other services may have unhealthy consequences. For example, if there is a payment service that waits for responses from other payment gateways, the retry component may think it fails and may send another request and the customer gets charged twice.
+- Different exceptions should handle the retry logic accordingly, based on the exceptions.
+- Retry logic should not disturb transaction management. The retry policy should be used accordingly.
+- All failures that trigger a retry should be logged and handled properly for future scenarios.
+- An important point to be considered is this is no replacement for exception handling. The first priority should be given to exceptions always, as they would not introduce an extra layer and add latency.
+- Throttling should be added early in the system as it's difficult to add once the system is implemented; it should be carefully designed.
+- Throttling should be performed quickly. It should be smart enough to detect an increase in activity and react accordingly by taking appropriate measures.
+- Consideration between throttling and auto-scaling should be decided based on business requirements.
+  The requests that are throttled should be effectively placed in a queue based on priority.
+
+When to use:
+
+- To ensure that agreed LSAs are maintained.
+- To avoid a single microservice consuming the majority of the pool of resources and avoid resource depletion by a single microservice.
+- To handle sudden bursts in consumption of microservices.
+- To handle transient and short-lived faults.
+
+When not to use:
+
+- Throttling shouldn't be used as a means to handle exceptions.
+- When faults are long-lasting. If this pattern is applied in that case, it will severely affect the performance and responsiveness of the application.
+
+### Ambassador and sidecar pattern
+
+This pattern is used when we want to segregate common connectivity features such as monitoring, logging, routing, security, authentication, authorization, and more. It creates helper services that act as ambassadors and sidecars that do the objective of sending requests on behalf of a service. It is just another proxy that is located outside of the process. Specialized teams can work on it and let other people not worry about it so as to provide encapsulation and isolation. It also allows the application to be composed of multiple frameworks and technologies.
+
+Things to consider:
+
+- The ambassador can introduce some latency. Deep thought should be given on whether to use a proxy or expose common functionalities as the library.
+- Adding generalized functionalities in ambassador and sidecar is beneficial, but is it required for all scenarios? For example, consider the number of retries to a service, it might not be common for all use cases.
+- The language or framework in which ambassador and sidecar will be built, managed, and deployed strategy for it. The decision to create single or multiple instances of it based on need.
+- Flexibility to pass some parameters from service to ambassador and proxy and vice versa.
+- The deployment pattern: this is well suited when the ambassador and sidecar are deployed in containers.
+- The inter-micro service communication pattern should be such that it is framework agnostic or language agnostic. This would be beneficial in the long run.
+
+When to use:
+
+- When there are multiple frameworks and languages involved and you need a common set of general features such as client connectivity, logging, and so on throughout the application. An ambassador and sidecar can be consumed by any service across the application.
+- Services are owned by different teams or different organizations.
+- You need independent services for handling this cross-cutting functionality and they can be maintained independently.
+- When your team is huge and you want specialized teams to handle, manage, and maintain core cross-cutting functionalities.
+- You need to support the latest connectivity options in a legacy application or an application that is difficult to change.
+- You want to monitor resource consumption across the application and cut off a microservice if its resource consumption is huge.-
+
+When not to use
+
+- When network latency is utmost. Introducing a proxy layer would introduce some overhead that will create a slight delay, which may not be good for real-time scenarios.
+- When connectivity features cannot be generalized and require another level of integration and dependency with another service.
+- When creating a client library and distributing it to the microservices development team as a package.
+- For small applications where introducing an extra layer is actually an overhead.
+- When some services need to scale independently; if so, then the better alternative would be to deploy it separately and independently.
+
+### Anti-corruption microservice design pattern
+
+This design provides an easy solution for this by introducing a facade between modern and legacy applications. This design pattern ensures that the design of an application is not hampered or blocked by legacy system dependencies:
+
+Things to consider:
+
+- The ACL should be properly scaled and given a better resources pool, as it will add latency to calls made between two systems.
+- Make sure that the corruption layer you introduce is actually an improvement and you don't introduce yet another layer of corruption.
+- The ACL adds an extra service; hence it must be effectively managed and maintained and scaled.
+- Effectively decide the number of ACLs. There can be many reasons to introduce an ACL—a means to translate undesirable formats of the object in required formats means to communicate between different languages, and so on.
+- Effective measures to make sure that transactions and data consistency are maintained between both systems and can be monitored.
+- The duration of the ACL, will it be permanent, how will the communication be handled.
+- While an ACL should successfully handle exceptions from the corruption layer, it should not completely, otherwise it would be very difficult to preserve any information about the original error.
+
+When to use:
+
+- There is a huge system up for refactoring from monolithic to microservices and there is a phase-by-phase migration planned instead of the big bang migration wherein the legacy system and new system need to coexist and communicate with each other.
+- If the system that you are undertaking is dealing with any data source whose model is undesirable or not in sync with the needed model, this pattern can be introduced and it will do the task of translating from undesirable formats to needed formats.
+- Whenever there is a need to link two bounded contexts, that is, a system is developed by someone else entirely and there is very little understanding of it, this pattern can be introduced as a link between systems.
+
+When not to use:
+
+- There are no major differences between new and legacy systems. The new system can coexist without the legacy system.
+- You have lots of transactional operations and maintaining data consistency between the ACL and the corrupt layer adds too much latency. In such case, this pattern can be merged with other patterns.
+- Your organization doesn't have extra teams to maintain and scale the ACL as and when needed.
+
+### Bulkhead design pattern
+
+Separate out different services in the microservices application into various pools such that if one of the services fails, the others will continue to function irrespective of failure.
+
+Things to consider:
+
+- Define proper independent partitions in the application based on business and technical requirements.
+- Bulkheads can be introduced in forms of thread pools and processes. Decide which one is suitable for your application.
+- Isolation in the deployment of your microservices.
+
+When to use:
+
+- The application is huge and you want to protect it from cascading or spreading failures
+- You can isolate critical services from standard services and you can allocate separate pools for them
+
+When not to use:
+
+- When you don't have that much budget for maintaining separate overheads in terms of cost and management
+- The added level of complexity of maintaining separate pools is not necessary
+- Your resources usage is unexpected and you can't isolate your tenants and keep a limit on it as it is not acceptable when you would place several tenants in one partition
+
+### Circuit breaker
+
+Services sometimes need to collaborate with each other when they need to handle requests. In such cases, there is a very high scenario that the other service is not available, is showing high latency, or is unusable. This pattern essentially solves this issue by introducing a breakage in the circuit that stops propagation in the whole architecture:
+
+Things to consider:
+
+1. Since you are invoking a remote call, and there may be many remote call invocation asynchronous and reactive principles for using future, promises, async, and await is must.
+2. Maintain a queue of requests; when your queue is overcrowded, you can easily trip the circuit. Always monitor the circuit, as you will often need to activate it again for an efficient system. So, have a mechanism ready for reset and failure handlers.
+3. You have a persistent storage and network cache such as **Memcache** or **Redis** to record availability.
+4. Logging, exception handling, and relaying failed requests.
+
+When to use:
+
+- When you don't want your resources to be depleted, that is, an action that is doomed to fail shouldn't be tried until it is fixed. You can use it to check the availability of external services.
+- When you can compromise a bit on performance, but want to gain high availability of the system and not deplete resources.
+
+When not to use:
+
+- You don't have an efficient cache layer that monitors and maintains states of services for a given time for requests across the clustered nodes.
+- For handling in-memory structures or as the substitute for handling exceptions in business logic. This would add overhead to performance.
+
+#### Strangler pattern
+
+This pattern is about eventually migrating a legacy system by incrementally replacing particular parts of functionality with new microservices application and services. It eventually introduces a proxy that redirects either to the legacy or the new microservices, until the migration is complete and at the end, you can shut off the strangler or the proxy:
+
+- **Reconstruct**: Construct a new application or site (in serverless or AWS cloud-based on modern principles). Incrementally reconstruct the functionalities in an agile manner.
+- **Coexist**: Leave the legacy application as it is. Introduce a facade that eventually acts as a proxy and decides where to route the request based on the current migration status. This facade can be introduced at web server level or programming level based on various parameters such as IP address, user agent, or cookies.
+- **Terminate**: Redirect everything to the modern migrated application and loosen off all the ties with the legacy application.
+
+Things to consider:
+
+- The facade or the proxy needs to be updated with the migration.
+- The facade or the proxy shouldn't be a single point of failure or bottleneck.
+- When the migration is complete, facade will evolve as the adapter for legacy applications.
+- The new code written should be such that it can easily be intercepted, so in future, we can replace it in future migrations.
+
+When to use:
+
+- When you want to follow the test-driven on behavior-driven development, and run fast and comprehensive tests with the accessibility of code coverages and adapt CI/CD.
+- Your application can be contained bounded contexts within which a model applies in the region. As an example, in a shopping cart application, the product module would be one context.
+
+When not to use:
+
+- When you are not able to intercept the user agent request, or you are not able to introduce a facade in your architecture.
+- When you think of doing a page by page migration at a time or you are thinking of doing it all at once.
+- When your application is more frontend-driven; that's where you have to entirely change and rework the interacting framework based on the way the frontend is interacting with services, as you don't want to expose the various ways the user agent is interacting with services.
+27:T445b,## Domain-drive design
+
+It is very important to note that OOP is not only inheritance, interfaces, or anything else of the type. OOP's main ideas are as follows:
+
+- Code alignment with the business
+- Favoring of reuse
+- Minimal coupling
+
+three are more prominent for efficient microservices:
+
+- Context maps: These are the communication paths between microservices with appropriate interactions between microservices teams. After the analysis of the areas are already defined, the team can choose to be dependent on another team for domain language.
+- Anti-corruption layer (ACL): This is the function that translates foreign concepts for an internal model to provide loose coupling between the domains.
+- Interchange context: This provides an environment for both teams and discusses the meaning of each foreign term and translates the languages of microservices.
+
+## Independent deploy, update, scale and replace
+
+### Update
+
+- Never share libraries between microservices
+- Strong delimitation of microservice domains
+- Establish a client-server relationship between microservices
+- Deploy in separate containers
+
+### Scale
+
+**The Scale Cube**: 3 axis
+
+- x-axis: horizontal decomposition: with the same application server replicated n times in full and in a balanced order of 1/n.
+- y-axis: functional decomposition: a verb or route is used by the balancer to identify where to go with the request.
+- z-axis: data partitioning: is very similar to the x-axis when it comes to scalability structure, as it distributes exactly the same code on each server. The big difference is that each server responds to a specific subset of data
+
+## Communication
+
+|              |       One-to-One        |             One-to-Many |
+| ------------ | :---------------------: | ----------------------: |
+| Synchronous  |    Request/response     |                       - |
+| Asynchronous |      Notification       |        publish/subsribe |
+|              | Request/ async response | publish/async responses |
+
+### Synchronous
+
+- HTTP
+- TCP
+- WebSockets
+- Sockets
+- RPC
+- SOAP
+
+### Asynchronous
+
+For this approach, the message broker is just perfect. Some software applications appear a good choice for message brokers, such as RabbitMQ, ActiveMQ, ZeroMQ, Kafka, and Redis. Each of these options has its own peculiarities, some are faster, others are more resilient. Again, the business setting is going to determine which technology is used.
+
+### Mobile vs web endpoints
+
+Problems such as speed and weight information in the web world are not very common; we cannot say the same for the mobile world.
+
+### Caching at the client level
+
+request only passes to be processed on the backend, if really necessary. In other words, it tries to block direct access to the backend to requests that have already been implemented in the recent past.
+
+### Throttling for your client
+
+- Number of requests per minute from the same client
+- Number of requests per second from the same client
+- Number of requests per minute from the same client for similar information
+- Number of requests per second for the same client for the same information
+
+### Identification of an anemic domain
+
+- The microservice cannot perform the tasks itself with only the data received
+- The microservice needs to fetch data in more than one endpoint to perform a task
+- The microservice does not have a self-sufficient entity model
+- The microservice waits for the completion of a task in another microservice to follow up what you need to do
+- The microservice needs to share resources with other external microservices; these resources can be cached to the sample database
+
+If the microservice being developed is one of those items, then it can be a weak area. If a microservice has two or more characteristics of those listed, then it is definitely an anemic domain.
+
+Anemic domains are very harmful to the microservices ecosystem, because they have a tendency to be multiplied in order to correct the technical debt generated by the deficiency in the composition of their respective domains.
+
+### Fat domain - AAA (Authentication, Authorization, and Accounting
+
+The division of this fat domain can be held in two parts; the first part is AAAService and the second is UserService. Another approach is the AAA responsibility for a gateway API. The functional scalability and features of implementation with these separate domains is much more interesting for the growth of the product as a whol
+
+## Things to consider
+
+Cost and scability:
+
+- Programming languages
+- Microservices frameworks
+- Binary communication
+- Message broker
+- Caching tools
+- Fail alert tools
+- Locale proof performance
+
+## Death Start
+
+The Death Star is an anti-pattern where there is communication between the recursion microservices, and making progress becomes extremely complicated or expensive for a product.
+
+## Message broker - Async communication between services
+
+why not use this messaging for all types of communication between microservices?
+
+The answer to this question is quite simple. A message bus is a physical component within the stack of microservices. It needs to be scaled just like any other physical component-based data storage and cache. This means that with a high-volume message, the synchronous mode of communication could be committed to an unwanted delay in the responses of the processes.
+
+### Tools
+
+- ActiveMQ
+- RabbitMQ
+- Kafka
+
+#### Caching tools
+
+- Memcached
+  classic process of using cache, Memcached is simple and practical to use. The performance of Memcached is fully linked to the use of memory. If Memcached uses the disc to register any data, the performance is seriously compromised; moreover, Memcached does not have any record of disk capacity and always depends on third-party tools for this.
+- Redis
+
+#### Fail alert tools
+
+four major points of failure when it comes to microservices
+
+- Performance - New Relic and Datadog
+- Build - Jenkins, Travis
+- Components - Nagios and Zabbix are also very useful for making aid work to health check endpoints.
+- Implementation failures - Sentry
+  - See the impact of new deployments in real time
+  - Provide support to specific users interrupted by an error
+  - Detect and thwart fraud as it's attempted: unusual amounts of failures on purchases, authentication, and other critical areas
+  - External integrations
+
+### Locale proof performance
+
+- Apache Benchmark
+- WRK
+- Locust
+
+## Internal Patterns
+
+- Developing the structure
+- Caching strategies
+- CQRS – query strategy
+- Event sourcing – data integrity
+
+## CQRS(Command Query Responsibility Segregation)
+
+As the name implies, it is about separating the responsibility of writing and reading of data. CQRS is a code pattern and not an architectural pattern.
+
+`Will just scaling the application servers solve all our problems?`
+
+- Deadlocks, timeouts, and slowness mean that your database may be in too much demand.
+- Complex queries can be performed to obtain database data. ORMs can add even more complexity to the data filtering process by mapping entities and filtering data by using joins in different tables.
+- Content obsolescence could be true
+
+The CQRS teaches us the division of responsibility for writing and reading data, both conceptual and using different physical storages. This means that there will be separate means for recording and retrieving data from the databases. Queries are done synchronously in a separate denormalized database, and writes asynchronously to a normalized database. Caching first is still a type of CQRS implementation at the conceptual level.
+
+**Command** will be responsible for modifying the state of the data in the application, **Query** is the operation responsible for retrieving information from the database.
+
+**Synchronization**: The following are some strategies to keep the foundations of reading and recording synchronized, and it is necessary to choose the one that best meets your scenario:
+
+- Automatic updating: All changes in the state of a given recording database raise a synchronous process to update on the bench
+- Update possible: All state changes of a given recording database trigger an asynchronous process to update the reading bank, offering an eventual data consistency
+- Controlled update: A regular process and schedule is raised to synchronize the databases
+- Update on demand: Every query checks the consistency of the read base compared to the recording, and forces an update if it is out of date
+
+Any update is one of the most used strategies, because it assumes that any given displayed data may already be out of date, so it is not necessary to impose a synchronous update process.
+
+**Queueing**: Many CQRS implementations may require a message broker for the processing of commands and events.
+
+## Event sourcing – data integrity
+
+- Each change in the current state of your database would be a new event in a stream that only allows inclusion.
+- Each update on the table would generate a new line, the change of status
+- uses the append only model for database records
+
+## Aggregator Microservice Design Pattern
+
+Best practices:
+
+- Segregated database: This allows us to better scale our application, especially in the data storage layer.
+- Microservice encapsulation: This divides the microservices into two layers—Public Facing Services and Internal Services. Such a division allows for greater flexibility with respect to the signature microservices, as Internal Services can be modified more easily.
+- Applied CQRS: With CQRS, unnecessary stress points on the application were removed.
+- Applied event sourcing: With event sourcing, we are conducting a stream of information from a news article. This gives us a real vision of the history of each news article.
+- Applied pattern very scalable: With a strong pattern and understanding of how to scale the aggregator pattern, we have a clear vision of how to avoid anti-patterns.
+
+Pros:
+
+- Scalability of both the x-axis and z-axis
+- Tunneling microservices
+- Microservices signature flexibility to Internal Services
+- Providing a single access point for microservices
+
+Cons:
+
+- Complexity to orchestrate data
+- Bottleneck anti-pattern
+- Latency in communication between microservices
+
+## Proxy design pattern
+
+- Dumb proxy - the only goal is to provide a single endpoint to facilitate the application clients and encapsulate direct access to the routes of microservices.
+- Smart proxy - The most commonly seen task being executed by a Smart proxy is the content modification.
+
+Pros:
+
+- Practical data consumption by the application clients
+- Ease of implementation
+- Possibility of good programming techniques at proxy level, such as caching
+- Encapsulation of access to microservices
+- Control and diversion of requests
+
+Cons:
+
+- Bottleneck
+- Inappropriate change of response
+- Obstruction in the identification of overload
+
+## Chained Microservice Design pattern
+
+**Big Ball of Mud Anti-patern**:developing microservices that we do not define well in the domains, which makes microservices dependent on one another to complete trivial tasks. This type of error generates a series of unnecessary calls between the microservices, creating complex problems of being corrected, such as latency and, in the worst cases, cyclic-deployed dependency.
+
+Main characteristics:
+
+- **Poorly defined domain**: The domain is badly defined, forcing a direct connection with other microservices. Access points to the microservice do not require enough data to process a task, which forces the inference of data, searching in other microservices.
+- **Mandatory direct communication**: When direct communication between microservices is mandatory for most tasks or for all tasks, there is a problem. This indicates that the microservice is anemic or that the application as a whole is poorly developed.
+- **Deploy clustered**: When a microservice cannot be sent for production because it needs another microservice all together, or when the change of internal signatures of a microservice causes others to collapse, there is a Death Star anti-pattern issue. Creating business dependencies between microservices means that processes are not automated and fluid.
+
+_Solution_:
+Correlation ID: A simple way to implement correlation ID using HTTP would be to send a UUID in the header of the requests and use this UUID as an identifier to write the logs.
+
+### Purest microservices
+
+The microservices in your business design should be pure. This means that a microservice must be extremely small in its domain and fully capable of performing its function without outside interference from other microservices.
+
+Pros:
+
+- Practical implementation
+- Dynamism for business
+- Independent scalability
+- Encapsulation of access to microservices
+
+Cons:
+
+- The possibility of latency points
+- The difficulty in understanding data ownership
+- The difficulty of debugging
+
+## Branch Microservice Design Pattern
+
+Rules:
+
+- The composition of the response using direct call chains cannot extend one direct call to another microservice
+- If more values are required for the response, an aggregation logic is created that will trigger concurrent requests for as many chains as needed
+
+Internal communication within a microservice can be worked on in the following three ways:
+
+- Sequential: No concurrency or parallelism. This means that when we have to send messages from the commands to the microservices, the entire process will be a sequence. If you need to execute four commands to compose the data, all of them will be executed in a sequence.
+- Threads: In this case, both POSIX threads (pthreads) and green threads can be used. Controlling threads is often not simple for developers, and if a thread fails, data orchestration could be compromised. However, it is the most practical way because there is no need for any external components of the programming language to be used for creating some level of competition or parallelism in the execution of the commands.
+- Message Broker: The use of a transactional message broker for transmitting sensitive data within a microservice is quite usual. The disadvantage is the addition of a physical component within a microservice. However, the advantage is the ability to execute strategies that offer more resiliency in data transmission. The simple fact of working with transactions is already a great resource.
+
+Pros:
+
+- The flexibility of implementation
+- Independent scalability
+- Encapsulation of access to microservices
+- Compositional ability and orchestration
+
+Cons:
+
+- The possibility of latency points
+- The difficulty in understanding data ownership
+- The difficulty of debugging
+
+## Asynchronous messaing design pattern
+
+Pros:
+
+- Independent scalability
+- Extreme scalability
+- Lazy processing
+- Encapsulation of accesses to microservices
+
+Cons:
+
+- Complexity in the monitoring of requisitions
+- Complexity of the initial understanding of the pattern
+- Difficulty of debugging
+
+## replese piplelines
+
+Build -> Unit Test -> Integration Test -> End-to-End test -> realse
+
+## Monitoring a single service
+
+- `Active Monitoring`is when the server that is to be monitored sends the status information to the monitoring tool
+- `Passive Monitoring` is when the monitoring tool requests information about the state of the machine or application from the server
+
+## Multiple service instances per host
+
+**Pros**
+One of the key benefits is that it uses resources efficiently. Multiple instances of the service share the server and its operating system. Another benefit of this pattern is the relatively rapid deployment of a microservice instance.
+
+**Cons**
+A major disadvantage is that there is little to no isolation of instances of the service unless each service instance is a separate process. If the instances are not separated in different processes, an instance with errors could compromise the entire process, besides making the individual monitoring of instances impossible.
+
+## Service instance per host
+
+- Service instance per VM: Each instance of a microservice is a VM, and the execution of this VM enables the microservice to work.
+
+  - Pros: One of the main benefits of VMs is that each instance of microservice runs in a completely isolated manner, having fixed CPU and memory consumption, without competing for resource consumption with other microservices. Another great benefit of this pattern is the encapsulation of the technology used in the development of microservices.
+  - Cons: Each service instance has the overhead of a full VM, including the operating system. Another disadvantage of this approach is that deploying and booting a new version of a microservice is often slow because the cost of booting operating systems using VMs can be high.
+
+- Service instance per container: each microservice instance runs in a container unique to the instance.
+  - Pros: They isolate their instances of microservices from one another. Containers are easily monitored. In addition, similar to the VMs, the containers encapsulate the technology used to implement microservices. Unlike the virtual machines, the containers are lighter. The container images are usually very fast to build and initialize.
+  - Cons: There are some disadvantages to using containers. Containers are not as secure as VMs because they share the host operating system kernel with each other.Another disadvantage of the containers is the complexity of the infrastructure if they are not using any cloud platform that offers interesting mechanisms to manipulate the containers.
+28:T18f5,
+## Introduction
+
+Authentication is fundamental to securing modern web applications. Developers often choose between **session-based** and **token-based** approaches, depending on their app architecture and scalability needs. This guide explores these two models, compares storage options, explains common pitfalls, and provides best practices for implementation.
+
+---
+
+## 1. Session-Based Authentication
+
+### Overview
+
+* **Client-side**: Stores a session identifier in a cookie.
+* **Server-side**: Tracks session state using memory, disk, or external stores like Redis.
+
+### Common Issues
+
+* **Memory Overhead**: The server must manage growing session state as more users authenticate. While external stores reduce memory usage, they increase I/O and network load.
+* **Scalability**: Synchronizing sessions across a distributed server environment introduces complexity and potential bottlenecks.
+* **Cross-Domain Limitations**: Session cookies are bound to a single domain and cannot easily be shared between subdomains or different origins.
+* **Security Risks**: Sessions are vulnerable to:
+
+  * **XSS (Cross-Site Scripting)** – attackers can steal cookies.
+  * **CSRF (Cross-Site Request Forgery)** – malicious sites trick browsers into making authenticated requests.
+
+Mitigation strategies include setting the `HttpOnly`, `Secure`, and `SameSite` flags on cookies and using CSRF tokens.
+
+---
+
+## 2. Token-Based Authentication (Stateless)
+
+### Overview
+
+* **Client-side**: Stores access tokens in localStorage or cookies.
+* **Server-side**: Verifies the token on each request without tracking session state.
+
+This model is scalable and well-suited for modern SPAs and microservices.
+
+### Advantages
+
+* Stateless architecture reduces backend load.
+* Easily supports horizontal scaling across services or servers.
+* Decouples authentication from server memory or persistence.
+
+---
+
+### JSON Web Tokens (JWTs)
+
+A JWT consists of three base64-encoded parts:
+
+```
+<Header>.<Payload>.<Signature>
+```
+
+**Example:**
+
+```
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+.
+eyJ1c2VySWQiOiIxMjM0NTY3ODkwIiwiaWF0IjoxNjQzNTY4MjQwfQ
+.
+SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+```
+
+* **Header**: Defines algorithm (e.g., HS256).
+* **Payload**: Contains claims like `userId`, `exp`, `scope`.
+* **Signature**: Verifies token integrity.
+
+> Note: JWTs are base64-encoded, not encrypted. Anyone with access to a JWT can read its contents unless encryption (JWE) is used.
+
+---
+
+### Refresh Tokens
+
+Refresh tokens enable the issuance of new access tokens without re-authentication.
+
+**Best practices:**
+
+* Store securely in `httpOnly`, `Secure` cookies.
+* Rotate and expire refresh tokens after use or inactivity.
+* Maintain a revocation list for stolen or expired tokens.
+
+---
+
+## 3. Two-Factor Authentication (2FA)
+
+2FA enhances security by requiring a second factor beyond the password.
+
+### Flow
+
+1. User enters username and password.
+2. Server prompts for a second factor:
+
+   * OTP via SMS/email
+   * TOTP from an authenticator app
+   * Hardware-generated PIN (e.g., YubiKey)
+3. Upon successful validation, the user receives an access token or session.
+
+---
+
+## 4. Local Storage vs Cookies
+
+### Local Storage
+
+**Pros**
+
+* Not sent with every request → immune to CSRF.
+* Simple JavaScript API (`localStorage.getItem()`).
+* Larger storage limit (\~5–10MB).
+
+**Cons**
+
+* Vulnerable to XSS (JavaScript-accessible).
+* No built-in expiry or invalidation.
+* Cannot be used in SSR (data unavailable at initial request).
+* Manual logic needed to attach tokens to each request.
+
+---
+
+### Cookies
+
+**Pros**
+
+* Automatically sent with each HTTP request.
+* Works well with server-side rendering (SSR).
+* Supports `HttpOnly`, `Secure`, `SameSite` flags for security.
+* Built-in expiration support.
+* Domain/path scoping.
+
+**Cons**
+
+* Vulnerable to CSRF unless mitigated.
+* Harder to parse manually in JS.
+* Limited in storage capacity (\~4KB total).
+
+---
+
+## 5. Secure Cookie Configuration
+
+Use proper flags when setting cookies:
+
+```
+Set-Cookie: token=abc123; HttpOnly; Secure; SameSite=Strict; Path=/; Expires=Wed, 01 Jan 2030 00:00:00 GMT
+```
+
+* **HttpOnly**: Not accessible via JavaScript.
+* **Secure**: Only sent over HTTPS.
+* **SameSite=Strict**: Blocks cross-site requests.
+* **Path/Domain**: Scopes the cookie.
+
+---
+
+## 6. OAuth 2.0 and OpenID Connect
+
+Token-based systems often leverage **OAuth 2.0** and **OpenID Connect**.
+
+### Common Flows
+
+* **Authorization Code Flow (with PKCE)**: For SPAs and mobile apps.
+* **Client Credentials Flow**: For machine-to-machine APIs.
+* **Refresh Token Flow**: For long-lived sessions.
+
+These protocols provide a standardized, secure way to authenticate users across platforms.
+
+---
+
+## 7. Best Practices
+
+| Area                    | Recommendation                                           |
+| ----------------------- | -------------------------------------------------------- |
+| Token storage           | Use `httpOnly` cookies, avoid localStorage for secrets   |
+| Access token expiration | Use short-lived tokens (5–15 mins)                       |
+| Refresh token security  | Store securely, rotate frequently                        |
+| CSRF mitigation         | Use SameSite cookies or CSRF tokens                      |
+| XSS prevention          | Sanitize inputs and use a strong Content Security Policy |
+| Cookie security         | Always use `Secure`, `HttpOnly`, and `SameSite` flags    |
+| JWT validation          | Verify signature and expiration on every request         |
+
+---
+
+## 8. Real-World Examples
+
+* **Google**: Uses OAuth 2.0 and `httpOnly` cookies for refresh tokens.
+* **GitHub**: Uses personal access tokens and OAuth apps.
+* **AWS**: Uses temporary credentials managed via session tokens and federated roles.
+
+---
+
+## 9. Conclusion
+
+Choosing the right authentication strategy depends on your app’s architecture, scale, and user experience goals:
+
+* Use **sessions** for traditional SSR apps with centralized state.
+* Use **tokens (JWT)** for SPAs, mobile apps, and scalable APIs.
+* Prefer **cookies** (with `HttpOnly`) for security-critical tokens.
+* Store **refresh tokens** securely and manage revocation or rotation.
+* Layer with **2FA** for improved account protection.
+* Always implement **CSRF and XSS defenses** regardless of the method.
+
+Security is a continuous effort—design defensively, monitor actively, and adapt quickly.
+29:T2ce6,## Introduction
+
+Successful software delivery requires more than coding expertise. It demands strategic coordination, resource alignment, risk control, and stakeholder communication across the full project lifecycle. Recognizing this, the *Guide to the Software Engineering Body of Knowledge* (SWEBOK) defines **Software Engineering Management** as a core discipline essential to effective and sustainable software engineering.
+
+This guide presents a comprehensive interpretation of Software Engineering Management as outlined in SWEBOK. It expands each phase with modern methodologies, industry practices, and practical insights relevant to today’s fast-paced engineering environments.
+
+---
+
+## What Is Software Engineering Management?
+
+Software Engineering Management is the application of management techniques—including planning, monitoring, controlling, and reporting—to software projects. It ensures engineering initiatives are delivered:
+
+- Efficiently (with minimal waste)
+- Effectively (with high quality)
+- In alignment with business and stakeholder goals
+
+Importantly, this discipline is **lifecycle-agnostic**—it applies to Agile, Waterfall, hybrid, and DevOps methodologies alike. Whether launching a greenfield product or maintaining a complex legacy system, software engineering management ensures that objectives are clearly defined and responsibly delivered.
+
+---
+
+## 1. Initiation and Scope Definition
+
+The foundation of every successful software project lies in a well-defined scope and a feasible plan of execution.
+
+### Determination and Negotiation of Requirements
+
+Requirements gathering is not just a technical task—it’s a facilitative process that aligns diverse perspectives. This includes:
+
+- Collaborating with stakeholders to capture both functional and non-functional needs
+- Documenting clear, testable, and traceable requirements
+- Managing trade-offs between features, budget, and timeline
+
+Robust requirements prevent downstream confusion and rework.
+
+### Feasibility Analysis
+
+Before committing resources, evaluate feasibility from multiple dimensions:
+
+- **Technical**: Can existing systems support the solution?
+- **Financial**: Are projected costs aligned with expected returns?
+- **Operational**: Is the team prepared to build and maintain the system?
+- **Legal/Social**: Are compliance or ethical concerns involved?
+
+Feasibility analysis protects organizations from investing in unsustainable solutions.
+
+### Requirements Review and Change Management
+
+SWEBOK emphasizes structured review processes to:
+
+- Align all stakeholders on what’s being delivered
+- Identify ambiguities or contradictions
+- Establish a mechanism to evaluate and manage requirement changes
+
+This approach supports agility without sacrificing discipline.
+
+---
+
+## 2. Software Project Planning
+
+Planning translates a vision into a practical roadmap, allowing teams to allocate resources, forecast challenges, and track progress.
+
+### Process Planning
+
+Select an appropriate methodology for the context:
+
+- **Agile/Scrum** for adaptive environments
+- **Waterfall** for tightly regulated or scope-stable projects
+- **Hybrid** for combining predictable milestones with iterative delivery
+
+Clearly define development stages, reviews, and delivery cadence.
+
+### Deliverables and Documentation
+
+Explicitly define what the project will produce:
+
+- Source code and APIs
+- Design documents and user manuals
+- Compliance reports and support materials
+
+Align deliverables with both internal teams and external obligations.
+
+### Effort, Schedule, and Cost Estimation
+
+| Method                     | Description                                           | Best Used When                                |
+|----------------------------|-------------------------------------------------------|-----------------------------------------------|
+| Expert Judgment            | Based on team or SME experience                      | Projects with few historical comparables      |
+| Historical Data Extrapolation | Uses past project metrics                          | Teams with a history of similar work          |
+| Algorithmic Models (e.g., COCOMO) | Estimation based on formulas and size metrics | Large or complex systems with defined scope   |
+| Agile Story Points         | Estimates effort using relative sizing               | Agile teams with iterative development cycles |
+
+Re-estimation is critical as more information becomes available.
+
+### Resource Allocation
+
+Plan how people, time, and technology will be used. Consider:
+
+- Team size, experience, and availability
+- Cross-team dependencies
+- Budgetary constraints and tooling
+
+Effective allocation reduces bottlenecks and overextension.
+
+### Risk Management
+
+Mitigate uncertainty with a structured risk strategy:
+
+- Maintain a dynamic risk register
+- Quantify risks by likelihood and impact
+- Plan for mitigation (e.g., backups, alternate vendors, slack time)
+
+Proactive risk planning is essential in complex or mission-critical systems.
+
+### Quality Management
+
+Quality should be embedded into every stage, not treated as an afterthought. Define:
+
+- Testing strategies (unit, integration, system, UAT)
+- Code review workflows
+- Acceptance criteria for features
+
+Continuous quality assurance aligns development with stakeholder expectations.
+
+### Plan Management
+
+A static plan becomes obsolete quickly. Use plan management practices to:
+
+- Monitor actual progress against projections
+- Revise plans based on new risks or requirements
+- Communicate changes to all stakeholders
+
+---
+
+## 3. Software Project Enactment
+
+With the plan approved, project enactment focuses on execution, monitoring, and adaptation.
+
+### Implementation of the Plan
+
+Launch development using structured workflows. Foster transparency through:
+
+- Sprint boards
+- Daily standups
+- Pair programming and cross-functional check-ins
+
+Execution should be continuously aligned with quality, scope, and timelines.
+
+### Software Acquisition and Vendor Management
+
+Where third-party software or services are involved:
+
+- Establish clear vendor evaluation criteria
+- Draft detailed contracts and service level agreements (SLAs)
+- Monitor performance, cost, and risk exposure throughout the contract
+
+Poor vendor management can introduce technical debt and hidden costs.
+
+### Measurement Process Implementation
+
+Tracking key indicators gives early visibility into issues. Measure:
+
+- Lead time from requirement to deployment
+- Bug frequency and severity
+- Test coverage
+- Deployment frequency
+
+Define thresholds to trigger corrective actions.
+
+### Monitoring and Control
+
+Control mechanisms compare actual performance against the plan. Use:
+
+- Dashboards and automated reports
+- Earned value analysis
+- Retrospectives and feedback loops
+
+Monitoring ensures accountability and supports course correction.
+
+### Reporting
+
+Stakeholders require clear, regular updates. Reporting should cover:
+
+- Progress vs. roadmap
+- Resource consumption
+- Identified risks and mitigation steps
+- Delivery outlook
+
+Effective communication builds confidence and facilitates support.
+
+---
+
+## 4. Review and Evaluation
+
+Before closure, it’s critical to reflect and assess the project's outcomes.
+
+### Requirement Satisfaction Review
+
+Verify that:
+
+- All mandatory requirements are met
+- Any deviations are documented and approved
+- System testing confirms functionality and performance
+
+Traceability matrices can ensure complete coverage.
+
+### Performance Evaluation
+
+Assess the team’s effectiveness in terms of:
+
+- Delivery speed and quality
+- Budget compliance
+- Team morale and collaboration
+
+These insights inform future project improvements and team development.
+
+---
+
+## 5. Project Closure
+
+Project closure formalizes delivery and unlocks long-term value.
+
+### Closure Determination
+
+Ensure all:
+
+- Requirements have been addressed
+- Deliverables are accepted
+- Issues are resolved or formally transitioned
+
+Sign-off signifies the end of execution and the beginning of operational ownership.
+
+### Closure Activities
+
+Post-project activities include:
+
+### Closure Activities
+
+| Activity Type          | Actions                                                   | Purpose                                        |
+|------------------------|------------------------------------------------------------|------------------------------------------------|
+| Administrative         | Archive documents, finalize budgets                        | Ensure traceability and compliance             |
+| Team-related           | Release resources, reassign team members                   | Transition individuals to new projects         |
+| Knowledge Capture      | Conduct retrospectives, publish lessons learned            | Support organizational learning                |
+| Handover & Support     | Transition system ownership, set up operational monitoring | Maintain continuity post-delivery              |
+
+This creates institutional knowledge and reinforces best practices.
+
+---
+
+## 6. Software Engineering Measurement
+
+Measurement is central to continuous improvement.
+
+### Building a Measurement Culture
+
+To institutionalize measurement:
+
+- Promote leadership advocacy for data-driven decisions
+- Align metrics with business goals
+- Provide teams with tools and training
+
+Without cultural support, metrics become superficial.
+
+### Planning the Measurement Process
+
+Decide which indicators matter and how to collect them:
+
+- Operational: response time, uptime
+- Quality: defect density, rework effort
+- Productivity: cycle time, velocity
+- Satisfaction: NPS, stakeholder surveys
+
+Avoid vanity metrics. Focus on actionable insights.
+
+### Executing and Evaluating Measurements
+
+Analyze data in real-time or through periodic reviews. Use:
+
+- Dashboards and KPIs for teams and leadership
+- Retrospectives to identify trends
+- A/B testing for new process changes
+
+Insights from measurement should directly inform improvement cycles.
+
+---
+
+### Common Software Management Tools
+
+| Category             | Tools                                 | Purpose                                      |
+|----------------------|----------------------------------------|----------------------------------------------|
+| Project Tracking     | Jira, Trello, Microsoft Project        | Sprint boards, Gantt charts, backlog mgmt.   |
+| Risk Management      | Risk Register, Confluence              | Documenting, tracking, and reporting risks   |
+| Communication        | Slack, Microsoft Teams, Zoom           | Internal messaging, meetings, collaboration  |
+| Monitoring & Metrics | SonarQube, Grafana, Datadog            | Code quality, infrastructure, and analytics  |
+
+---
+
+## Conclusion
+
+Software Engineering Management is the structured orchestration of people, process, and technology to consistently deliver value through software. The SWEBOK framework provides a solid foundation, but its relevance grows when adapted to the realities of modern development environments.
+
+By blending traditional principles with Agile thinking, real-time data, and continuous improvement, engineering leaders can create resilient systems, empowered teams, and trusted stakeholder relationships. In a world where software is core to business success, mastering software engineering management is no longer optional—it is a strategic imperative.
+
+---
+
+## Reference
+
+[Software Engineering Course (SWEBOK) | IEEE Computer Society (2021)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+2a:T1395,## Angular is consisted of six parts:
+
+- Data Binding
+- Directive (There are three kinds of directives in Angular)
+- Components — directives with a template.
+    - are the most common of the three directives
+  - Artribuite Directive
+    - change the appearance or behaviour of an element, component, or another directive.
+  - Structural Directive
+    - change the DOM layout by adding and removing DOM elements.
+    - i.e. iterator for components
+- Forms
+  - Template-driven forms
+  - Reactive form
+- Pipe
+  - Applying data tranformation
+- Service
+  - Using Provider to apply Dependency Injection for service
+- Module
+  - Root module
+  - Feature modules
+
+## Design pattern
+
+- NgRx is using Observable pattern
+- Unidirectional Data Flow ( this is no really two way data-binding in angular 2)
+- Dependency intejection
+
+## Module
+
+_imports_ This property is used to import the modules that are required by the classes in the modules.
+_providers_ This property is used to define the module’s providers. When the feature module is
+loaded, the set of providers are combined with those in the root module, which means
+that the feature module’s services are available throughout the application (and not just
+within the module).
+_declarations_ This property is used to specify the directives, components, and pipes in the module.
+This property must contain the classes that are used within the module and those that are
+exposed by the module to the rest of the application.
+_exports_ This property is used to define the public exports from the module. It contains some or all
+of the directives, components, and pipes from the declarations property and some or all
+of the modules from the imports property.
+
+## RxJS
+
+_next(value)_ This method creates a new event using the specified value.
+_error(errorObject)_ This method reports an error, described using the argument, which can be any
+object.
+_complete()_ This method ends the sequence, indicating that no further events will be sent.
+
+## in-memory-web-api.
+
+it is used to simulate HTTP requests using data that has been defined locally. This provides a way to isolate a data source
+class and ensure that only its behavior is being tested
+
+## Test
+
+_Jasmine.JS_ BDD test for Angular
+
+- Define test component in testname.spec.ts
+- Create test component
+- describe test behaviour
+
+## Router bug
+
+https://stackoverflow.com/questions/38120756/angular2-router-navigate-refresh-page
+
+Input type (type = "button) is important to make naviation animation works in angular 4, without specifying type, it works on IE11 and Edge browsers, but would reload the application in Chrome.
+
+## Why Angular need state management?
+State management is one of the most important aspects of software development. With each development project, thre's some sort of tracking being done of data over time as well as of any updates made to that data.
+
+When come to user interface in front-end development, especially nowadays SPA is getting richer and more complex, it is important to have a single source of truth when it comes to data. Since JavaScript is using duck typing, it is very easy to lose a frerence to a data structure, and by using weak reference (ghost references) could cause a false presentation of the wrong data.
+
+Diffrerent parts of an appliation have different responsibilities (components, directives etc.) are segregated across manany different files, but they all need to reflect the same underlying state. One of the common best practices for keeping and tracking state was to manage it in services, however, how to traces the state is complately relied on the developer.
+
+Benefits:
+- **One place for state**: a store solution dicates keeping the sate of the application in one directory. This makes it esaier to predict updates or changes to the state's structure and how it is manipulated and stored before it is saved by the reducer.
+- **Perfomance**: Utilizing unidirectional flow, replying on individual state changes other changes all components, it will make change detection more precis and performant, as it is intented to make use of the marking of direct parths in need of updating.
+- **Testability**: Easy to test with reducers (pure functions which don't produce side effect), since the input and output should be the same.
+- **Devtools**: Monitor it for changes, helps develop to understand how, when and why things go wrong while developing.
+
+> Case one: When you have to deal with observables and when responsability for some observable data is shared between different components. In this case store actions and reducers ensure that data modifications will always be performed in the desired way. It can also provide a reliable solution for http requests caching. it can store the requets and responses, so that 
+
+> Case two: There no much difference when dealing with constant data, however, when serveral components will have to update the data, there will be a problem for angular to deal with change detection, and cause improper update issues.7:["$","$L15",null,{"posts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"76OSBpLU1EsAtvB1z5brSM","type":"Entry","createdAt":"2025-05-14T11:56:06.299Z","updatedAt":"2025-05-14T11:56:06.299Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":17,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Architecture Patterns: A Practical Guide for Designing Scalable Systems","slug":"software-architecture-patterns-a-practical-guide-for-designing-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2K2weCW3yn8JLVNeO4ViLc","type":"Asset","createdAt":"2025-05-14T11:56:00.696Z","updatedAt":"2025-05-14T11:56:00.696Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"A Practical Guide for Designing Scalable Systems","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2K2weCW3yn8JLVNeO4ViLc/d144498668080ab76c46dd738b6aabf9/A_Practical_Guide_for_Designing_Scalable_Systems.png","details":{"size":2702996,"image":{"width":1536,"height":1024}},"fileName":"A Practical Guide for Designing Scalable Systems.png","contentType":"image/png"}}},"description":"Learn key software architecture patterns—including layered, hexagonal, microservices, and event-driven—along with use cases, benefits, and trade-offs to guide modern system design.","body":"$16","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-14T22:00+10:00","tags":["Software Architecture","Architecture Patterns","Microservices","Layered Architecture","Hexagonal Architecture","Event-Driven Systems","System Design"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"61dIznTcV0uoolFRGkCRtQ","type":"Entry","createdAt":"2025-05-14T11:52:26.201Z","updatedAt":"2025-05-14T11:52:26.201Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Essential Software Architecture Principles for Scalable Systems","slug":"essential-software-architecture-principles-for-scalable-systems","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"VO3575l0Cc6BStji75BZ7","type":"Asset","createdAt":"2025-05-14T11:52:04.193Z","updatedAt":"2025-05-14T11:52:04.193Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Essential Software Architecture Principles for Scalable Systems","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/VO3575l0Cc6BStji75BZ7/a702edf6d6915afeaded848e39cfb2c0/Essential_Software_Architecture_Principles_for_Scalable_Systems.png","details":{"size":2424754,"image":{"width":1536,"height":1024}},"fileName":"Essential Software Architecture Principles for Scalable Systems.png","contentType":"image/png"}}},"description":"Discover foundational software architecture principles that enable scalability, maintainability, and system resilience. Learn how to apply proven patterns to real-world software systems.","body":"$17","author":"$7:props:posts:0:fields:author","publishDate":"2025-05-14T21:00+10:00","tags":["Software Architecture","Scalable Systems","Design Principles","Microservices","Cloud Architecture","System Design"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5TOZqmWzzaz9TGAIEocUKV","type":"Entry","createdAt":"2021-09-23T01:05:34.565Z","updatedAt":"2025-05-14T12:11:46.947Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":174,"revision":9,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Infrastructure as Code (IaC): Tools, Patterns, and Principles","slug":"infrastructure-as-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6FAUCo0HieVKgPpYD0DeRg","type":"Asset","createdAt":"2025-05-14T12:08:25.546Z","updatedAt":"2025-05-14T12:08:25.546Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Infrastructure as Code (IaC) Tools, Patterns, and Principles","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6FAUCo0HieVKgPpYD0DeRg/39a546e174e6624b48a375fb9d38b496/Infrastructure_as_Code__IaC___Tools__Patterns__and_Principles.png","details":{"size":1822054,"image":{"width":1536,"height":1024}},"fileName":"Infrastructure as Code (IaC)_ Tools, Patterns, and Principles.png","contentType":"image/png"}}},"description":"Some notes of Infrastructure as CodeLearn how Infrastructure as Code (IaC) helps automate cloud infrastructure using tools like Terraform, Docker, Kubernetes, Ansible, and Packer. Understand key categories, benefits, and real-world applications.","body":"$18","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-23T19:00+10:00","tags":["Infrastructure as Code","IaC","Terraform"," Kubernetes","DevOps","Cloud Engineering"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3Ghqn8vPPh07W8BmlB0Tax","type":"Entry","createdAt":"2021-09-22T23:15:10.554Z","updatedAt":"2025-05-13T09:57:00.413Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":117,"revision":9,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"DevOps: A Practical Guide to Modern Software Delivery","slug":"devops","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"119bssZxkeE51FEFgIQekD","type":"Asset","createdAt":"2021-09-22T22:52:18.064Z","updatedAt":"2025-05-12T12:22:54.136Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"DevOps","description":"DevOps","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/119bssZxkeE51FEFgIQekD/f8633f5db7a33a0072e9d3c44a0f5f2e/devops.png","details":{"size":2115839,"image":{"width":1536,"height":1024}},"fileName":"devops.png","contentType":"image/png"}}},"description":"Discover how DevOps transforms software delivery through automation, collaboration, and continuous improvement. Learn core practices, the CAMS model, real-world tools, and pitfalls to avoid.","body":"$19","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-23T18:00+10:00","tags":["engineering management"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"DrahUdUYNu35YSLbS7Uqd","type":"Entry","createdAt":"2021-09-21T00:51:47.450Z","updatedAt":"2025-05-12T11:12:39.511Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":168,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience","slug":"engineering-metrics","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Yw4si1jiCHmyWxX2zURAE","type":"Asset","createdAt":"2025-05-12T11:12:34.991Z","updatedAt":"2025-05-12T11:12:34.991Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":6,"revision":1,"locale":"en-US"},"fields":{"title":"devops","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Yw4si1jiCHmyWxX2zURAE/fac91879711d9be6def5c19c1af0563a/devops.png","details":{"size":2686316,"image":{"width":1536,"height":1024}},"fileName":"devops.png","contentType":"image/png"}}},"description":"DORA 2023 isn’t just about speed—it’s about reliability, feedback loops, and developer experience. This post breaks down the five core DORA metrics, adds supporting DevEx indicators, and shows how to spot hidden friction in your CI/CD pipeline.","body":"$1a","author":"$7:props:posts:0:fields:author","publishDate":"2025-05-12T18:00+10:00","tags":["engineering management"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4BHoGHgaM1nfXUafTg2bXr","type":"Entry","createdAt":"2021-09-08T05:19:19.962Z","updatedAt":"2025-05-13T10:17:59.884Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":96,"revision":5,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Clean Code and Essential Software Design Principles","slug":"clean-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7MkVUY39hPmWheGq9Cri9v","type":"Asset","createdAt":"2025-05-13T10:16:52.927Z","updatedAt":"2025-05-13T10:16:52.927Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"clean code","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7MkVUY39hPmWheGq9Cri9v/0c553e3b502fa090a82f52b20dd37b2b/clean_code.png","details":{"size":2286169,"image":{"width":1536,"height":1024}},"fileName":"clean code.png","contentType":"image/png"}}},"description":"Learn what clean code means and how SOLID, DRY, KISS, and YAGNI principles can help you write maintainable, scalable, and efficient software.","body":"$1b","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-08T12:00+10:00","tags":["software-engineering"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5KIdOY2X9vyocPsgrL4PKS","type":"Entry","createdAt":"2021-09-06T10:20:35.716Z","updatedAt":"2025-05-13T10:03:19.031Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":22,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Understanding Software Testing Types: From Unit to Chaos Monkey","slug":"software-testing-notes","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5vU0LlhWiHm7iEubyOGmxs","type":"Asset","createdAt":"2021-09-06T10:19:04.160Z","updatedAt":"2021-09-06T10:19:04.160Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"testing","description":"testing","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/5vU0LlhWiHm7iEubyOGmxs/9b74a19f55bfad1b945ac88c44fe1c16/software-762486_1920.jpg","details":{"size":152541,"image":{"width":1920,"height":1344}},"fileName":"software-762486_1920.jpg","contentType":"image/jpeg"}}},"description":"Explore the different types of software testing—unit, integration, end-to-end, signature, and monkey testing. Learn their purposes, differences, and best practices in modern development environments.","body":"$1c","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-06T20:19+10:00","tags":["quality-assurance","Testing","Software Quality","Unit Testing","Integration Testing","E2E Testing","Chaos Engineering"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1P84eirkAwCWtlZxrAiEcD","type":"Entry","createdAt":"2021-09-06T10:16:18.657Z","updatedAt":"2021-09-06T10:16:57.484Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":16,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"ReactJS Notes","slug":"reactjs-notes","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6yZIDYoNm3A0e9Ol2ZYTZX","type":"Asset","createdAt":"2021-09-06T10:14:26.473Z","updatedAt":"2021-09-06T10:14:26.473Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"React","description":"React","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6yZIDYoNm3A0e9Ol2ZYTZX/ff9ddbe5a970e8f9f304245fd2074e1d/reactjs.png","details":{"size":33012,"image":{"width":1600,"height":900}},"fileName":"reactjs.png","contentType":"image/png"}}},"description":"Some ReactJS note","body":"$1d","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-06T20:15+10:00","tags":["javascript","reactjs"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"52DOytFW4IFjSQ3gSWKeHu","type":"Entry","createdAt":"2021-09-06T10:12:13.722Z","updatedAt":"2021-09-06T10:12:13.722Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":9,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Scikit-learn Note","slug":"scikit-learn-note","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Qu7ZFVqByybcU5SwUZdvR","type":"Asset","createdAt":"2021-09-04T00:58:25.141Z","updatedAt":"2021-09-04T00:58:25.141Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"machine-learning","description":"machine-learning","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Qu7ZFVqByybcU5SwUZdvR/58f78d794adcb6d13a48cf49dacc9324/machine-learning-5720531_1280.png","details":{"size":85349,"image":{"width":1280,"height":804}},"fileName":"machine-learning-5720531_1280.png","contentType":"image/png"}}},"description":"A note for scikit-learn","body":"$1e","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-06T20:11+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"43ZrKEyGwpw7V6wV5eTFZV","type":"Entry","createdAt":"2021-09-05T01:24:48.165Z","updatedAt":"2021-09-05T01:24:48.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":10,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Machine Learning Model evaluation","slug":"machine-learning-model-evaluation","heroImage":"$7:props:posts:8:fields:heroImage","description":"methods for Machine Learning Model evaluation","body":"$1f","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-05T11:24+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4TwjcExznTbMAnFbDU6fjK","type":"Entry","createdAt":"2021-09-05T01:23:29.543Z","updatedAt":"2021-09-05T01:23:29.543Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":9,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Ensemble learning","slug":"ensemble-learning","heroImage":"$7:props:posts:8:fields:heroImage","description":"Ensemble methods","body":"$20","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-05T11:23+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"76PFPYIk42TimCl9mAXbIV","type":"Entry","createdAt":"2021-09-04T01:40:05.723Z","updatedAt":"2021-09-04T01:40:05.723Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":10,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Dimensionality Reduction","slug":"dimensionality-reduction","heroImage":"$7:props:posts:8:fields:heroImage","description":"Some techniques for Dimensionality Reduction ","body":"## Principal component analysis (PCA)\n\nIt is an unsupervised linear transformation technique that is widely used across different fields, most prominently for dimensionality reduction.\n\n## Linear Discriminant Analysis (LDA)\n\nIt can be used as a technique for feature extraction to increase the computational efficientcy and reduce the degreee of over-fitting due to the curse of dimensionality in nonregularized models.\n\n## Kernel principal component analysis\n\nIt will transform data that is not linearly separable onto a new, lower-dimensional subspace that is suitable for linear classifiers\n\nDownside: This approach is computational expesnsive, but it can be overcome by kernel trick.\n\n**Radial Basis Function (RBF)**\n","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-04T11:39+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2MqMbleTxTuaYcQPTq1ZSX","type":"Entry","createdAt":"2021-09-04T01:37:34.285Z","updatedAt":"2021-09-04T01:37:34.285Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Dealing with unbalanced dataset","slug":"dealing-with-unbalanced-dataset","heroImage":"$7:props:posts:8:fields:heroImage","description":"Some methods to deal with unbalanced dataset","body":"$21","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-04T11:36+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2G9S5HHykmpWEnApU4YTw9","type":"Entry","createdAt":"2021-09-04T01:08:35.670Z","updatedAt":"2021-09-04T01:08:35.670Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":16,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Data preprocessing techniques","slug":"data-preprocessing-techniques","heroImage":"$7:props:posts:8:fields:heroImage","description":"A note for data preprocessing","body":"$22","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-04T11:08+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3MSDEr5CT6AoQV3eTpfOkg","type":"Entry","createdAt":"2021-09-04T01:03:31.427Z","updatedAt":"2021-09-04T01:03:31.427Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":11,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Unsupervised learning - Clustering","slug":"unsupervised-learning-clustering","heroImage":"$7:props:posts:8:fields:heroImage","description":"A note for clustering","body":"$23","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-04T11:00+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"FjyDr4ndNxwfFC5S7ljaB","type":"Entry","createdAt":"2021-09-04T00:59:06.823Z","updatedAt":"2021-09-04T01:32:39.048Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":14,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Machine Learning Intro","slug":"machine-learning-intro","heroImage":"$7:props:posts:8:fields:heroImage","description":"A introduction for machine learning","body":"$24","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-04T10:58+10:00","tags":["machine-learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"743ZHV2BWyNRdtjvI3mwuD","type":"Entry","createdAt":"2021-09-02T01:31:46.966Z","updatedAt":"2025-05-13T09:57:25.305Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":28,"revision":6,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Key Takeaways from Designing Data-Intensive Applications","slug":"foundation-of-data-system","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1NjelDnYjtVM9u8vIfzgOA","type":"Asset","createdAt":"2021-09-02T01:31:00.174Z","updatedAt":"2025-05-12T11:31:57.017Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":22,"revision":5,"locale":"en-US"},"fields":{"title":"data-intensive applications","description":"datadata-intensive applications","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/1NjelDnYjtVM9u8vIfzgOA/0d7f9f05505ab490db94a61822fb4752/data-intensive.png","details":{"size":2866147,"image":{"width":1536,"height":1024}},"fileName":"data-intensive.png","contentType":"image/png"}}},"description":"This guide explores the architectural principles and design patterns behind data-intensive applications, covering core concerns like reliability, scalability, and maintainability. It compares OLTP and OLAP systems, dives into data encoding formats (e.g., JSON, Protobuf, Avro), communication protocols (REST, RPC, message brokers), and deployment strategies like rolling upgrades. Ideal for developers and system architects building scalable, resilient backend systems","body":"$25","author":"$7:props:posts:0:fields:author","publishDate":"2025-05-12T21:00+10:00","tags":["software-architecture","data-engineering"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6vtJUQQwcVvh6JMlTWzASY","type":"Entry","createdAt":"2021-09-02T00:33:59.412Z","updatedAt":"2021-09-06T10:16:41.201Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":27,"revision":4,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Microservice Notes Part - 2","slug":"microservice-part-2","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4SIAsNl00Xw5uEh8sWWZ5S","type":"Asset","createdAt":"2021-09-02T00:26:37.088Z","updatedAt":"2021-09-02T01:26:38.043Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"microservice","description":"microservice","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/4SIAsNl00Xw5uEh8sWWZ5S/345af5c80b78c49661ff14cd5d2e88e6/cubes-2492010_640.jpg","details":{"size":22825,"image":{"width":640,"height":341}},"fileName":"cubes-2492010_640.jpg","contentType":"image/jpeg"}}},"description":"Microservice note part 2","body":"$26","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-02T18:00+10:00","tags":["microservice","architecture"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7oO5HEfsLDizpImAykKWUC","type":"Entry","createdAt":"2021-09-02T00:28:26.364Z","updatedAt":"2021-09-06T10:16:48.323Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Microservice Notes Part - 1","slug":"microservice-part-1","heroImage":"$7:props:posts:17:fields:heroImage","description":"Notes for microservice","body":"$27","author":"$7:props:posts:0:fields:author","publishDate":"2021-09-02T18:00+10:00","tags":["microservice","architecture"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7fNsOoWbIENkL39HiS7nfZ","type":"Entry","createdAt":"2021-08-28T12:37:14.513Z","updatedAt":"2025-05-13T09:57:34.633Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":52,"revision":6,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Understanding Web Authentication: Sessions vs Tokens, Cookies vs LocalStorage","slug":"common-web-authentication-method","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7w7WYQz7bn8Z1F2JFZyCta","type":"Asset","createdAt":"2021-08-28T12:15:57.861Z","updatedAt":"2025-05-12T11:40:42.235Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":21,"revision":5,"locale":"en-US"},"fields":{"title":"authentication","description":"Note","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7w7WYQz7bn8Z1F2JFZyCta/52afb9bd9fd7362e8e2a480ad5d3dda0/authentication.png","details":{"size":2538787,"image":{"width":1536,"height":1024}},"fileName":"authentication.png","contentType":"image/png"}}},"description":"This guide explores the differences between session-based and token-based authentication, including detailed comparisons of storage mechanisms like cookies and localStorage. It covers best practices for securing web authentication, explains JWT and refresh token usage, introduces two-factor authentication, and outlines how modern standards like OAuth 2.0 fit into stateless authentication models. Ideal for developers and architects building secure, scalable web applications.","body":"$28","author":"$7:props:posts:0:fields:author","publishDate":"2025-05-11T22:37+10:00","tags":["authentication","software-engineering"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1xC7lNvgPLmAxSCKOAvkwr","type":"Entry","createdAt":"2021-08-28T12:29:36.183Z","updatedAt":"2025-05-13T09:57:12.052Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":278,"revision":9,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Engineering Management 101: A Practical Overview Based on SWEBOK","slug":"engineering-management-101","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"21Hv10pnFgs6WYwfnvcoXJ","type":"Asset","createdAt":"2021-08-27T10:51:24.180Z","updatedAt":"2025-05-12T11:47:15.278Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":12,"revision":3,"locale":"en-US"},"fields":{"title":"Engineering Management","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/21Hv10pnFgs6WYwfnvcoXJ/e6bcd691a99a93280cddd9b332423987/engineering_management.png","details":{"size":2507401,"image":{"width":1536,"height":1024}},"fileName":"engineering management.png","contentType":"image/png"}}},"description":"Discover the key principles of Software Engineering Management as defined by SWEBOK, including initiation, planning, execution, measurement, and closure—augmented with real-world insights and modern practices.","body":"$29","author":"$7:props:posts:0:fields:author","publishDate":"2025-05-12T00:00+10:00","tags":["engineering management"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Bwz3jQ1Hjw82K427oMGTc","type":"Entry","createdAt":"2021-08-28T12:16:46.981Z","updatedAt":"2021-09-06T10:16:32.622Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":29,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Angular Notes","slug":"angular-notes","heroImage":"$7:props:posts:19:fields:heroImage","description":"Some important notes for Angular development","body":"$2a","author":"$7:props:posts:0:fields:author","publishDate":"2021-08-28T00:00+10:00","tags":["general","angular"]}}]}]
