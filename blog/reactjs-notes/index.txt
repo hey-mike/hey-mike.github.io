@@ -13,7 +13,7 @@ e:I[8919,[],"AsyncMetadataOutlet"]
 :HL["/_next/static/media/7cba1811e3c25a15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/1c1e1cbfd9d2faad.css","style"]
-0:{"P":null,"b":"mn7obc719ZviMN7kEFf-c","p":"","c":["","blog","reactjs-notes",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","reactjs-notes","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c1e1cbfd9d2faad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_e8ce0c __variable_bc0dcf font-sans antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L7",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","reactjs-notes","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",["$","$L9",null,{"children":"$La"}],null,["$","$Lb",null,{"children":["$Lc","$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","wcxPgS5Qy_jXTijM_Sd8N",{"children":[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"GXwJAC6CxbvsslHU6n_qN","p":"","c":["","blog","reactjs-notes",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","reactjs-notes","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c1e1cbfd9d2faad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_e8ce0c __variable_bc0dcf font-sans antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L7",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","reactjs-notes","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",["$","$L9",null,{"children":"$La"}],null,["$","$Lb",null,{"children":["$Lc","$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Eww7MkXzrv90P60Najtku",{"children":[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
 13:"$Sreact.suspense"
 14:I[8919,[],"AsyncMetadata"]
 a:["$","$13",null,{"fallback":null,"children":["$","$L14",null,{"promise":"$@15"}]}]
@@ -22,200 +22,212 @@ d:null
 c:null
 16:I[4312,["498","static/chunks/498-5cb0f29ca2031e54.js","460","static/chunks/460-b645e30d5b73ace9.js","827","static/chunks/827-2a4de372ff2a30e4.js","471","static/chunks/471-2c9fa499a4b8711f.js","611","static/chunks/611-aa73fd9dbfeaeab4.js","312","static/chunks/312-197bb5817574b4f3.js","953","static/chunks/app/blog/%5Bslug%5D/page-6c6ac4bb10d345df.js"],"default"]
 17:I[6366,["498","static/chunks/498-5cb0f29ca2031e54.js","460","static/chunks/460-b645e30d5b73ace9.js","827","static/chunks/827-2a4de372ff2a30e4.js","471","static/chunks/471-2c9fa499a4b8711f.js","611","static/chunks/611-aa73fd9dbfeaeab4.js","312","static/chunks/312-197bb5817574b4f3.js","953","static/chunks/app/blog/%5Bslug%5D/page-6c6ac4bb10d345df.js"],"default"]
-18:T1f7b,## Communicate Child to Parent
-
-Since there is no way to communicate between siblings (only
-parent to child and vice versa), keeping the state at the root
-of the hierarchy is the best strategy.
-
-## Spread Operator
-
-"spread" operator to pass the whole props object.
-
-```JSX
-function App1() {
-  return <Greeting firstName="Ben" lastName="Hector" />;
-}
-
-function App2() {
-  const props = {firstName: 'Ben', lastName: 'Hector'};
-  return <Greeting {...props} />;
-}
-```
-
-## Object rest spread (Redux example)
-
-http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
-
-## Required module as default
-
-- Create a index.js module
-- improt A from './folder_name'
-
-## React Router
-
-`withRouter` will cause rerender if enable it in `Route`, it has bo be used when export component.
-
-## Fragment
-
-A common pattern in React is for a component to return multiple elements. Fragments let you group a list of children without adding extra nodes to the DOM.
-
-## Using the state
-
-1. We should always keep in mind that only the minimal amount of data needed should be put into the state
-1. We should add to the state only the values that we want to update when an event happens, and for which we want to make the component re-render.
-
-## Should component update
-
-1. Dont' duplicate data from props in state, calculate what you can in render() method
-1. Don't keep something in the state if you don't use it for rendering, For example, API subscriptions are better off as custom private fields or variables in external modules.
-
-## Container and Presentational pattern
-
-`Container components`
-
-- They are more concerned about the behavior
-- They render their presentational components
-- They make API calls and manipulate data
-- They define event handlers
-- They are written as classes
-
-`Presentational components`
-
-- They are more concerned with the visual representation
-- They render the HTML markup (or other components)
-- They receive data from the parents in the form of props
-- They are often written as stateless functional components
-
-## Function as Child
-
-```React
-const FunctionAsChild = ({ children }) => children()
-
-FunctionAsChild.propTypes = {
-  children: React.PropTypes.func.isRequired,
-}
-```
-
-## Uncontrolled Components
-
-where we do not set the value of the input field, but we let the component manage its internal state.
-
-## Controlled Components
-
-We have full control over the value of the fields
-
-## Event
-
-- Synthetic Event
-
-A Synthetic Event is an object that wraps the original event object provided by the browser, and it has the same properties, no matter the browser where it is created.
-
-- single global handler
-- event bubbling: What it does instead is attach a single event handler to the root element, which listens to all the events,
-- single global handler : When an event we are interested in is fired by the browser, React calls the handler on the specific components on its behalf.
-
-## Server side rendering
-
-- SEO :One of the main reasons we may want to render our applications on the server-side is Search Engine Optimization (SEO).
-- A common code base: We do not have many options on the client: our applications have to be written in JavaScript. There are some languages that can be converted into JavaScript at build time, but the concept does not change.
-- Better performance:we all love client-side applications, because they are fast and responsive, but there is a problem: the bundle has to be loaded and run before users can take any action on the application.
-
-`SSR or not`
-
-- If your page is non-interactive don't render it in the browser (Only render the page to HTML on the server.) (Not only is computational time saved by skipping rendering to the DOM but also load time is saved by skipping loading JavaScript code.)
-
-- If your page is non-interactive and doesn't change on every request, then render it on the server at build-time.
-
-- The SSR should be enabled on when strictly needed. For example, if you need SEO or if you need to customize the social sharing information, you should start thinking about it.
-
-- If you realize that your application takes a lot of time to fully load and you have already done all the optimization (see the following chapter for more about this topic), you can consider using server-side rendering to offer a better experience to your users and improve the perceived speed.
-
-## Optimization
-
-- Webpack UglifyJsPlugin
-
-- Should component update
-
-- PurComponent
-
-A PureComponent will always re-render if the state or props reference a new object. This implies that if we do not want to lose the benefits of PureComponent, we should avoid such structures:
-
-```React
-<Entity values={this.props.values || []}/>
-```
-
-It is important to remember, that PureComponent skips the re-render operation not only for component itself, but also for all its children, so the best use case for PureComponent are presentational components which have no child components and no dependencies on the global state in the application.
-
-- Stateless functional components: Another concept that is sometimes counter-intuitive for beginners is the fact that stateless components do not give us any benefits regarding performance.
-
-## Testing
-
-There are generally two ways of testing React components, by:
-
-- Shallow rendering
-- Mounting the components into a detached DOM
-
-Before starting, it is important to have a clear idea about what we want to test and why.
-The following list represents more or less all the variations and functionalities of the component that are worth testing:
-
-- The state is initialized with the value coming from the props
-- The placeholder prop is correctly used in the element
-- The right class names are applied following the conditional logic
-- The state is updated whenever the value of the field changes
-- The onSave callback is fired according to the different states and conditions
-
-`Snapshot Testing`: Snapshots are pictures of the component with some props at a given point in time. Every time we run the tests, Jest creates new pictures and it compares them with the previous ones to check if something has changed, and It shows us what's changed in the current snapshot.
-
-`Test coverage`: in some scenarios it is useful to get some measurement of the coverage and keep track of the numbers. In big projects with many different modules, doing so makes it easy to spot files that have not been adequately tested or that have not been tested at all.
-
-### Common testing solutions
-
-- Testing Higher-Order Components
-- The Page Object pattern
-
-### Error handling with React
-
-The best thing we can do when problems happen in our applications is:
-
-- Notify the users and help them understand what happened and what they should do
-- Collect all useful information about the error and the state of the application in order to reproduce it and fix bugs quickly
-
-## Avoid Anti-pattern
-
-1. Map data key
-
-- The key has to be unique and stable, identifying one, and only one, item
-- use the value of the item if we expect it not to be repeated within the list, or create a unique identifier.
-
-1. Spreading props on DOM elements
-
-- create a prop called domProps that we can spread safely to the component because we are explicitly saying that it contains valid DOM properties
-
-## HOC
-
-`JavaScript
-import React from 'react';
-
-// We receive a component constructor as an argument
-const makeRed = (Component) => {
-// We make a new component constructor that takes props, just as any component
-const wrappedComponent = (props) => {
-// This new component returns the original component, but with the style applied
-return (
-// But we also use the ES6 spread operator to apply the regular props passed in.
-// The spread operator applies props like the text in <RedButton text="hello" />
-to our new component
-// It will "spread" any and all props across our component
-<Component style={{ backgroundColor: 'red', color: 'white' }} {...props} />
-);
-};
-// We return the new constructor, so it can be called as <RedButton /> or <RedAlertBox />
-return wrappedComponent;
-}
-
-export default makeRed;
-`
-8:[["$","$L16",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L17",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1P84eirkAwCWtlZxrAiEcD","type":"Entry","createdAt":"2021-09-06T10:16:18.657Z","updatedAt":"2021-09-06T10:16:57.484Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":16,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"ReactJS Notes","slug":"reactjs-notes","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6yZIDYoNm3A0e9Ol2ZYTZX","type":"Asset","createdAt":"2021-09-06T10:14:26.473Z","updatedAt":"2021-09-06T10:14:26.473Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"React","description":"React","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6yZIDYoNm3A0e9Ol2ZYTZX/ff9ddbe5a970e8f9f304245fd2074e1d/reactjs.png","details":{"size":33012,"image":{"width":1600,"height":900}},"fileName":"reactjs.png","contentType":"image/png"}}},"description":"Some ReactJS note","body":"$18","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-06T20:15+10:00","tags":["javascript","reactjs"]}}}]}],["$","footer",null,{"className":"w-full py-12 md:py-16 border-t border-border bg-muted/5","children":["$","div",null,{"className":"container mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-10","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","$L7",null,{"href":"/","className":"text-2xl font-display font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary via-primary/90 to-secondary mb-4 inline-block","children":"Michael Luo"}],["$","p",null,{"className":"text-muted-foreground max-w-md mb-6","children":"From 0 to global: I build and lead engineering teams that turn strategic roadmaps into delivered transformation through engineering excellence."}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://github.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"GitHub","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]}],["$","a",null,{"href":"https://www.linkedin.com/in/michael-luo-10066110a/","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"LinkedIn","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-linkedin","aria-hidden":"true","children":[["$","path","c2jq9f",{"d":"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"}],["$","rect","mk3on5",{"width":"4","height":"12","x":"2","y":"9"}],["$","circle","bt5ra8",{"cx":"4","cy":"4","r":"2"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L7",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/about","className":"text-muted-foreground hover:text-primary transition-colors","children":"About"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/projects","className":"text-muted-foreground hover:text-primary transition-colors","children":"Leadership"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/blog","className":"text-muted-foreground hover:text-primary transition-colors","children":"Insights"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/contact","className":"text-muted-foreground hover:text-primary transition-colors","children":"Contact"}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 pt-6 border-t border-border flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sm text-muted-foreground mb-4 md:mb-0","children":["© ",2025," Michael Luo. All rights reserved."]}],["$","div",null,{"className":"flex gap-6","children":[["$","$L7",null,{"href":"/privacy","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Privacy Policy"}],["$","$L7",null,{"href":"/terms","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Terms of Service"}]]}]]}]]}]}]]
-15:{"metadata":[["$","title","0",{"children":"ReactJS Notes | Michael Luo"}],["$","meta","1",{"name":"description","content":"Some ReactJS note"}],["$","meta","2",{"name":"author","content":"Michael Luo"}],["$","meta","3",{"name":"keywords","content":"Michael Luo,Technology Leadership,Software Engineering,Blog"}],["$","meta","4",{"name":"creator","content":"Michael Luo"}],["$","meta","5",{"name":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self';"}],["$","meta","6",{"property":"og:title","content":"Michael Luo - Blog"}],["$","meta","7",{"property":"og:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}],["$","meta","8",{"property":"og:url","content":"https://michaelluo.com/"}],["$","meta","9",{"property":"og:site_name","content":"Michael Luo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@michaelluo"}],["$","meta","14",{"name":"twitter:title","content":"Michael Luo - Blog"}],["$","meta","15",{"name":"twitter:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}]],"error":null,"digest":"$undefined"}
+15:{"metadata":[["$","title","0",{"children":"Patterns, Pitfalls, and Performance: A React.js Engineer’s Advanced Guid | Michael Luo"}],["$","meta","1",{"name":"description","content":"This blog post explores advanced React.js patterns, performance techniques, and architectural trade-offs tailored for senior engineers. Moving beyond common best practices, it uncovers often-missed nuances in context performance, useEffect misuse, hydration mismatches in SSR, and concurrency behaviors in React 18+. \n"}],["$","meta","2",{"name":"author","content":"Michael Luo"}],["$","meta","3",{"name":"keywords","content":"Michael Luo,Technology Leadership,Software Engineering,Blog"}],["$","meta","4",{"name":"creator","content":"Michael Luo"}],["$","meta","5",{"name":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self';"}],["$","meta","6",{"property":"og:title","content":"Michael Luo - Blog"}],["$","meta","7",{"property":"og:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}],["$","meta","8",{"property":"og:url","content":"https://michaelluo.com/"}],["$","meta","9",{"property":"og:site_name","content":"Michael Luo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@michaelluo"}],["$","meta","14",{"name":"twitter:title","content":"Michael Luo - Blog"}],["$","meta","15",{"name":"twitter:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}]],"error":null,"digest":"$undefined"}
 f:{"metadata":"$15:metadata","error":null,"digest":"$undefined"}
+18:T17aa,
+## Introduction
+
+React’s evolution into a hooks-first, concurrent-friendly framework has shifted the landscape for how experienced engineers design, optimize, and test modern applications. This guide consolidates high-leverage patterns and strategic trade-offs that matter in real-world production codebases—especially when juggling performance, reusability, and architectural clarity. Whether you're refactoring legacy containers, building SSR-ready views, or auditing render trees, this reference speaks directly to the React engineer who already knows the basics and is aiming for architectural sharpness.
+
+---
+
+## 🧱 Component Architecture & State Ownership
+
+### Lift State Strategically
+
+Sibling communication flows through the parent. Don’t fight React’s unidirectional data model—**lift shared state to the nearest common ancestor** and memoize where necessary to avoid prop chain churn.
+
+* Prefer `useContext` only when truly global (theme, auth, locale).
+* Use `useReducer` for complex interdependent state logic.
+
+### Presentational vs Container (and the Death of the Pattern)
+
+While the “Container/Presentational” split helped in class-component days, modern hooks blur this. Today:
+
+* Colocate logic near UI where possible.
+* Use **custom hooks** (`useSomething`) to encapsulate behavior, not HOCs or inheritance trees.
+* Avoid logic duplication by extracting into composable hooks, not separate container layers.
+
+---
+
+## ⚡ Performance Optimization
+
+### `React.memo` ≠ Free Lunch
+
+React.memo is a **blunt tool**. It shallowly compares props—great for leaf nodes, misleading elsewhere.
+
+```tsx
+const OptimizedComponent = React.memo(({ items }) => {
+  return <div>{items.map(renderItem)}</div>;
+});
+```
+
+* 🚫 Avoid if `items` is redefined every render.
+* ✅ Wrap `items` in `useMemo` or manage at a higher level.
+
+### PureComponent & Pitfalls
+
+* `PureComponent` only prevents re-renders when props/state are **shallowly equal**.
+* Avoid using it with nested structures or mutable props like arrays/objects unless references are stable.
+
+```tsx
+<Entity values={values || []} /> // Re-renders on every call unless memoized
+```
+
+### Hook-Based Optimizations
+
+* `useMemo` → cache expensive computations
+* `useCallback` → stable event handlers to avoid re-renders in child components
+* `useTransition` / `useDeferredValue` → for smooth concurrent rendering (React 18+)
+
+---
+
+## 🧩 Patterns & Anti-Patterns
+
+### Object Spread: Props and Beyond
+
+Pass down props cleanly:
+
+```tsx
+const props = { firstName: 'Ben', lastName: 'Hector' };
+return <Greeting {...props} />;
+```
+
+Avoid overuse of prop spreading into DOM elements:
+
+```tsx
+// Anti-pattern: not all props are valid DOM attributes
+<input {...props} />
+
+// Safer
+<input {...domProps} />
+```
+
+### Avoid Derived State from Props
+
+```tsx
+// 🚫 Anti-pattern
+const [name, setName] = useState(props.name);
+
+// ✅ Derive during render
+const name = props.name.toUpperCase();
+```
+
+If you must respond to props, use `useEffect` with care—and only when props are truly dynamic.
+
+---
+
+## 🌐 Server-Side Rendering (SSR): When and Why
+
+### SSR Is Not Always Worth It
+
+Use SSR when:
+
+* You need SEO (marketing pages, blogs).
+* You want improved perceived performance for first paint.
+* You need social previews (OG tags, etc.)
+
+Avoid SSR when:
+
+* The page is highly interactive or personalized.
+* Your users mostly interact post-login (dashboards, internal tools).
+* You can prerender using SSG (e.g., Next.js `getStaticProps()`)
+
+> ⚠ SSR adds complexity: hydration bugs, slower builds, increased server load.
+
+---
+
+## 🔍 Testing Strategy for Experts
+
+Focus on **behavior**, not implementation.
+
+### What to Test
+
+* DOM updates based on state changes
+* Correct conditional rendering
+* Lifecycle behavior (if using legacy class components or effects)
+* Event handler triggers
+
+### Testing Tools
+
+* **React Testing Library**: preferred for UI behavior
+* **Jest**: snapshot testing and unit tests
+* **MSW**: intercept API calls in tests
+* **Vitest**: blazing fast test runner alternative to Jest
+
+### Snapshot Testing
+
+* Use sparingly. Great for component shape changes, not logic.
+* Review diffs like a code change—snapshots aren’t test replacements.
+
+---
+
+## ⚠ Common Anti-Patterns
+
+* **Index as `key` in lists**: breaks on insert/delete, leads to subtle bugs.
+
+  * ✅ Prefer stable IDs (`item.id`)
+* **State bloat**: store only what's essential for rendering. Compute the rest in render.
+* **Duplicated props in state**: leads to desynchronization bugs.
+
+---
+
+## 🧪 Controlled vs Uncontrolled Components
+
+* **Controlled**: value managed via state. Predictable, testable.
+* **Uncontrolled**: use when performance matters or with 3rd-party uncontrolled components.
+
+```tsx
+// Controlled
+<input value={value} onChange={e => setValue(e.target.value)} />
+
+// Uncontrolled (refs)
+<input ref={inputRef} />
+```
+
+---
+
+## 🔁 Advanced Patterns: Function-as-Child & HOCs
+
+### Function-as-Child
+
+Great for **inline render logic** without cluttering parent:
+
+```tsx
+<MyComponent>
+  {() => <div>Rendered by function</div>}
+</MyComponent>
+```
+
+### HOCs: Use Sparingly
+
+HOCs are still valid, but hooks are usually better.
+
+```tsx
+const withRedBackground = (Component) => (props) => (
+  <Component {...props} style={{ backgroundColor: 'red' }} />
+);
+```
+
+Use HOCs for:
+
+* Cross-cutting concerns (auth, permissions)
+* Legacy codebases that can't use hooks
+
+---
+
+## 📊 Coverage & Quality
+
+### Code Coverage ≠ Code Quality
+
+Track test coverage, but don’t chase 100%.
+
+* Focus on **critical paths**.
+* Coverage helps find untested edge cases, not guarantee correctness.
+
+---
+
+## Final Thoughts
+
+React rewards deep thinking around architecture and flow. As senior engineers, our goal is not just to “make it work,” but to make it **performant, predictable, and maintainable at scale**. Whether it’s choosing between SSR and CSR, optimizing re-renders, or drawing boundaries between logic and view—every pattern you apply is a trade-off worth being intentional about.
+8:[["$","$L16",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L17",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1P84eirkAwCWtlZxrAiEcD","type":"Entry","createdAt":"2021-09-06T10:16:18.657Z","updatedAt":"2025-06-15T04:03:09.978Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":27,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Patterns, Pitfalls, and Performance: A React.js Engineer’s Advanced Guid","slug":"reactjs-notes","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5Fcmc75b71tF1J20apTw8N","type":"Asset","createdAt":"2025-06-15T04:02:59.399Z","updatedAt":"2025-06-15T04:02:59.399Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Patterns, Pitfalls, and Performance","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/5Fcmc75b71tF1J20apTw8N/6b0b8677c577d2ff89f8d428aa29784c/Patterns__Pitfalls__and_Performance.png","details":{"size":1681939,"image":{"width":1536,"height":1024}},"fileName":"Patterns, Pitfalls, and Performance.png","contentType":"image/png"}}},"description":"This blog post explores advanced React.js patterns, performance techniques, and architectural trade-offs tailored for senior engineers. Moving beyond common best practices, it uncovers often-missed nuances in context performance, useEffect misuse, hydration mismatches in SSR, and concurrency behaviors in React 18+. \n","body":"$18","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-06T20:15+10:00","tags":["javascript","reactjs"]}}}]}],["$","footer",null,{"className":"w-full py-12 md:py-16 border-t border-border bg-muted/5","children":["$","div",null,{"className":"container mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-10","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","$L7",null,{"href":"/","className":"text-2xl font-display font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary via-primary/90 to-secondary mb-4 inline-block","children":"Michael Luo"}],["$","p",null,{"className":"text-muted-foreground max-w-md mb-6","children":"From 0 to global: I build and lead engineering teams that turn strategic roadmaps into delivered transformation through engineering excellence."}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://github.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"GitHub","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]}],["$","a",null,{"href":"https://www.linkedin.com/in/michael-luo-10066110a/","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"LinkedIn","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-linkedin","aria-hidden":"true","children":[["$","path","c2jq9f",{"d":"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"}],["$","rect","mk3on5",{"width":"4","height":"12","x":"2","y":"9"}],["$","circle","bt5ra8",{"cx":"4","cy":"4","r":"2"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L7",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/about","className":"text-muted-foreground hover:text-primary transition-colors","children":"About"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/projects","className":"text-muted-foreground hover:text-primary transition-colors","children":"Leadership"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/blog","className":"text-muted-foreground hover:text-primary transition-colors","children":"Insights"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/contact","className":"text-muted-foreground hover:text-primary transition-colors","children":"Contact"}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 pt-6 border-t border-border flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sm text-muted-foreground mb-4 md:mb-0","children":["© ",2025," Michael Luo. All rights reserved."]}],["$","div",null,{"className":"flex gap-6","children":[["$","$L7",null,{"href":"/privacy","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Privacy Policy"}],["$","$L7",null,{"href":"/terms","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Terms of Service"}]]}]]}]]}]}]]
