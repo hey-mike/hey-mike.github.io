@@ -13,7 +13,7 @@ e:I[8919,[],"AsyncMetadataOutlet"]
 :HL["/_next/static/media/7cba1811e3c25a15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/1c1e1cbfd9d2faad.css","style"]
-0:{"P":null,"b":"SKR7loEBQ2dbVrL2WW7_C","p":"","c":["","blog","microservice-part-1",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","microservice-part-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c1e1cbfd9d2faad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_e8ce0c __variable_bc0dcf font-sans antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L7",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","microservice-part-1","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",["$","$L9",null,{"children":"$La"}],null,["$","$Lb",null,{"children":["$Lc","$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","LWV9Vk4LdNvxgloKZHE_H",{"children":[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"OooOGhlLCGCzKj7IyFYQg","p":"","c":["","blog","microservice-part-1",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","microservice-part-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c1e1cbfd9d2faad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_e8ce0c __variable_bc0dcf font-sans antialiased","children":["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L7",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","microservice-part-1","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",["$","$L9",null,{"children":"$La"}],null,["$","$Lb",null,{"children":["$Lc","$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","5EsGtB1uGh2NSyyzv49IB",{"children":[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
 13:"$Sreact.suspense"
 14:I[8919,[],"AsyncMetadata"]
 a:["$","$13",null,{"fallback":null,"children":["$","$L14",null,{"promise":"$@15"}]}]
@@ -22,320 +22,459 @@ d:null
 c:null
 16:I[4312,["498","static/chunks/498-5cb0f29ca2031e54.js","460","static/chunks/460-b645e30d5b73ace9.js","827","static/chunks/827-2a4de372ff2a30e4.js","471","static/chunks/471-2c9fa499a4b8711f.js","611","static/chunks/611-aa73fd9dbfeaeab4.js","312","static/chunks/312-197bb5817574b4f3.js","953","static/chunks/app/blog/%5Bslug%5D/page-6c6ac4bb10d345df.js"],"default"]
 17:I[6366,["498","static/chunks/498-5cb0f29ca2031e54.js","460","static/chunks/460-b645e30d5b73ace9.js","827","static/chunks/827-2a4de372ff2a30e4.js","471","static/chunks/471-2c9fa499a4b8711f.js","611","static/chunks/611-aa73fd9dbfeaeab4.js","312","static/chunks/312-197bb5817574b4f3.js","953","static/chunks/app/blog/%5Bslug%5D/page-6c6ac4bb10d345df.js"],"default"]
-18:T445b,## Domain-drive design
+18:T4e35,# Microservices Architecture: A Comprehensive Guide - Part 1
 
-It is very important to note that OOP is not only inheritance, interfaces, or anything else of the type. OOP's main ideas are as follows:
+> *"The art of building scalable, resilient systems through intelligent decomposition"*
 
-- Code alignment with the business
-- Favoring of reuse
-- Minimal coupling
+## 🚀 Introduction
 
-three are more prominent for efficient microservices:
+Microservices architecture has **revolutionized** how we build and deploy applications at scale. Unlike monolithic architectures where all components are tightly coupled, microservices break down applications into **small, independent services** that communicate over well-defined APIs. 
 
-- Context maps: These are the communication paths between microservices with appropriate interactions between microservices teams. After the analysis of the areas are already defined, the team can choose to be dependent on another team for domain language.
-- Anti-corruption layer (ACL): This is the function that translates foreign concepts for an internal model to provide loose coupling between the domains.
-- Interchange context: This provides an environment for both teams and discusses the meaning of each foreign term and translates the languages of microservices.
+### Why Microservices Matter
 
-## Independent deploy, update, scale and replace
+This architectural approach enables organizations to achieve:
+- **Greater scalability** - Scale individual components based on demand
+- **Faster deployment cycles** - Deploy services independently without affecting others  
+- **Improved fault isolation** - Failures in one service don't cascade to others
+- **Technology diversity** - Choose the right tool for each job
+- **Team autonomy** - Small teams can own entire services end-to-end
 
-### Update
+In this comprehensive guide, we'll explore the fundamental principles, patterns, and best practices that make microservices successful, along with common pitfalls to avoid.
 
-- Never share libraries between microservices
-- Strong delimitation of microservice domains
-- Establish a client-server relationship between microservices
-- Deploy in separate containers
+## 🏗️ Core Principles of Microservices
 
-### Scale
+### Domain-Driven Design (DDD)
 
-**The Scale Cube**: 3 axis
+Domain-Driven Design forms the **foundation** of effective microservices architecture. While Object-Oriented Programming (OOP) encompasses inheritance and interfaces, its core principles align perfectly with microservices:
 
-- x-axis: horizontal decomposition: with the same application server replicated n times in full and in a balanced order of 1/n.
-- y-axis: functional decomposition: a verb or route is used by the balancer to identify where to go with the request.
-- z-axis: data partitioning: is very similar to the x-axis when it comes to scalability structure, as it distributes exactly the same code on each server. The big difference is that each server responds to a specific subset of data
+#### The Three Pillars
+1. **Code alignment with business domains**
+2. **Favoring reuse and modularity**  
+3. **Minimal coupling between services**
 
-## Communication
+#### Essential DDD Patterns for Microservices
 
-|              |       One-to-One        |             One-to-Many |
-| ------------ | :---------------------: | ----------------------: |
-| Synchronous  |    Request/response     |                       - |
-| Asynchronous |      Notification       |        publish/subsribe |
-|              | Request/ async response | publish/async responses |
+**🗺️ Context Maps**  
+Define communication paths between microservices and establish appropriate interactions between development teams. Once domain boundaries are analyzed and defined, teams can choose dependencies and shared domain languages strategically.
 
-### Synchronous
+**🛡️ Anti-Corruption Layer (ACL)**  
+Acts as a translation function between external concepts and internal models, providing loose coupling between domains. This pattern prevents external changes from corrupting your service's internal model.
 
-- HTTP
-- TCP
-- WebSockets
-- Sockets
-- RPC
-- SOAP
+**📋 Bounded Context**  
+Provides an environment where teams can discuss and translate the meaning of domain terms, ensuring clear communication between different microservices and their respective teams.
 
-### Asynchronous
+### Independence: Deploy, Update, Scale, and Replace
 
-For this approach, the message broker is just perfect. Some software applications appear a good choice for message brokers, such as RabbitMQ, ActiveMQ, ZeroMQ, Kafka, and Redis. Each of these options has its own peculiarities, some are faster, others are more resilient. Again, the business setting is going to determine which technology is used.
+> *"The ability to independently manage each microservice is crucial for organizational agility."*
 
-### Mobile vs web endpoints
+#### 🔄 Independent Updates
 
-Problems such as speed and weight information in the web world are not very common; we cannot say the same for the mobile world.
+**Golden Rules:**
+- **Never share libraries** between microservices to avoid version conflicts
+- **Establish clear domain boundaries** for each microservice  
+- **Maintain client-server relationships** between services
+- **Deploy in separate containers** for isolation
 
-### Caching at the client level
+#### ⚡ Independent Scaling: The Scale Cube
 
-request only passes to be processed on the backend, if really necessary. In other words, it tries to block direct access to the backend to requests that have already been implemented in the recent past.
+Microservices can be scaled along **three dimensions**:
 
-### Throttling for your client
+| Axis | Type | Description |
+|------|------|-------------|
+| **X-Axis** | Horizontal Scaling | Replicate the same application server multiple times with load balancing (1/n distribution) |
+| **Y-Axis** | Functional Decomposition | Route requests based on function or API endpoint to specialized services |
+| **Z-Axis** | Data Partitioning | Distribute identical code across servers, but each server handles a specific subset of data |
 
-- Number of requests per minute from the same client
-- Number of requests per second from the same client
-- Number of requests per minute from the same client for similar information
-- Number of requests per second for the same client for the same information
+## 🔗 Communication Patterns
 
-### Identification of an anemic domain
+Effective communication between microservices requires understanding both **synchronous** and **asynchronous** patterns.
 
-- The microservice cannot perform the tasks itself with only the data received
-- The microservice needs to fetch data in more than one endpoint to perform a task
-- The microservice does not have a self-sufficient entity model
-- The microservice waits for the completion of a task in another microservice to follow up what you need to do
-- The microservice needs to share resources with other external microservices; these resources can be cached to the sample database
+### Communication Types Matrix
 
-If the microservice being developed is one of those items, then it can be a weak area. If a microservice has two or more characteristics of those listed, then it is definitely an anemic domain.
+|              | **One-to-One** | **One-to-Many** |
+|--------------|----------------|-----------------|
+| **Synchronous**  | Request/Response | *(Not applicable)* |
+| **Asynchronous** | Notification<br/>Request/Async Response | Publish/Subscribe<br/>Publish/Async Response |
 
-Anemic domains are very harmful to the microservices ecosystem, because they have a tendency to be multiplied in order to correct the technical debt generated by the deficiency in the composition of their respective domains.
+### ⚡ Synchronous Communication
 
-### Fat domain - AAA (Authentication, Authorization, and Accounting
+**🔧 Technologies**: HTTP • TCP • WebSockets • RPC • SOAP
 
-The division of this fat domain can be held in two parts; the first part is AAAService and the second is UserService. Another approach is the AAA responsibility for a gateway API. The functional scalability and features of implementation with these separate domains is much more interesting for the growth of the product as a whol
+**📋 Use Cases**: When immediate response is required and you can tolerate tight coupling.
 
-## Things to consider
+**⚖️ Trade-offs**: 
+- ✅ Simple to implement and debug
+- ❌ Can create cascading failures  
+- ❌ Performance bottlenecks under high load
 
-Cost and scability:
+### 🔄 Asynchronous Communication
 
-- Programming languages
-- Microservices frameworks
-- Binary communication
-- Message broker
-- Caching tools
-- Fail alert tools
-- Locale proof performance
+**🔧 Technologies**: Message brokers like **RabbitMQ** • **ActiveMQ** • **ZeroMQ** • **Kafka** • **Redis**
 
-## Death Start
+**✨ Benefits**: Better fault tolerance, improved scalability, and loose coupling between services.
 
-The Death Star is an anti-pattern where there is communication between the recursion microservices, and making progress becomes extremely complicated or expensive for a product.
+> **⚠️ Important Consideration**: While message brokers provide excellent asynchronous communication, they shouldn't be used for *all* communication types. Message brokers are physical components that need scaling and maintenance. Under high message volume, they can introduce unwanted delays.
 
-## Message broker - Async communication between services
+### 📱 Client Considerations
 
-why not use this messaging for all types of communication between microservices?
+#### Mobile vs Web Endpoints
+**Mobile applications** face unique challenges around **bandwidth** and **latency** that web applications typically don't encounter. Design APIs with mobile constraints in mind.
 
-The answer to this question is quite simple. A message bus is a physical component within the stack of microservices. It needs to be scaled just like any other physical component-based data storage and cache. This means that with a high-volume message, the synchronous mode of communication could be committed to an unwanted delay in the responses of the processes.
+#### Client-Level Caching  
+Implement caching strategies to **reduce backend load** by serving repeated requests from cache when possible.
 
-### Tools
+#### Client Throttling
+Implement **rate limiting** based on:
+- 🕐 Requests per minute/second from the same client
+- 🔄 Requests for similar information from the same client  
+- 🎯 Requests for identical information from the same client
 
-- ActiveMQ
-- RabbitMQ
-- Kafka
+## 🎨 Design Patterns
 
-#### Caching tools
+### 🔀 Aggregator Microservice Pattern
 
-- Memcached
-  classic process of using cache, Memcached is simple and practical to use. The performance of Memcached is fully linked to the use of memory. If Memcached uses the disc to register any data, the performance is seriously compromised; moreover, Memcached does not have any record of disk capacity and always depends on third-party tools for this.
-- Redis
+The Aggregator pattern **collects data** from multiple microservices and presents a unified response to clients.
 
-#### Fail alert tools
+#### 🏆 Best Practices
+- **Segregated databases** for better scalability in the data layer
+- **Microservice encapsulation** with Public Facing Services and Internal Services layers
+- **Apply CQRS** to remove unnecessary stress points  
+- **Apply Event Sourcing** for complete audit trails
+- **Design for scalability** from the start
 
-four major points of failure when it comes to microservices
+#### ✅ Pros & ❌ Cons
 
-- Performance - New Relic and Datadog
-- Build - Jenkins, Travis
-- Components - Nagios and Zabbix are also very useful for making aid work to health check endpoints.
-- Implementation failures - Sentry
-  - See the impact of new deployments in real time
-  - Provide support to specific users interrupted by an error
-  - Detect and thwart fraud as it's attempted: unusual amounts of failures on purchases, authentication, and other critical areas
-  - External integrations
+| ✅ **Pros** | ❌ **Cons** |
+|-------------|-------------|
+| Scalability on both X-axis and Z-axis | Complex data orchestration |
+| Service tunneling capabilities | Potential bottleneck anti-pattern |
+| Flexible signatures for Internal Services | Increased latency in service communication |
+| Single access point for clients | |
 
-### Locale proof performance
+### 🚪 Proxy Design Pattern
 
-- Apache Benchmark
-- WRK
-- Locust
+Proxy patterns provide a **gateway layer** between clients and microservices.
 
-## Internal Patterns
+#### Pattern Variations
 
-- Developing the structure
-- Caching strategies
-- CQRS – query strategy
-- Event sourcing – data integrity
+**🔲 Dumb Proxy**  
+Simply provides a single endpoint to facilitate client access and encapsulate direct microservice routing.
 
-## CQRS(Command Query Responsibility Segregation)
+**🧠 Smart Proxy**  
+Performs additional tasks like content modification, authentication, or request transformation.
 
-As the name implies, it is about separating the responsibility of writing and reading of data. CQRS is a code pattern and not an architectural pattern.
+#### ✅ Pros & ❌ Cons
 
-`Will just scaling the application servers solve all our problems?`
+| ✅ **Pros** | ❌ **Cons** |
+|-------------|-------------|
+| Simplified data consumption for clients | Potential bottleneck |
+| Easy implementation | Risk of inappropriate response modification |
+| Opportunity for proxy-level optimizations | Can obscure service overload identification |
+| Encapsulated microservice access | |
+| Request control and routing | |
 
-- Deadlocks, timeouts, and slowness mean that your database may be in too much demand.
-- Complex queries can be performed to obtain database data. ORMs can add even more complexity to the data filtering process by mapping entities and filtering data by using joins in different tables.
-- Content obsolescence could be true
+### ⛓️ Chained Microservice Pattern
 
-The CQRS teaches us the division of responsibility for writing and reading data, both conceptual and using different physical storages. This means that there will be separate means for recording and retrieving data from the databases. Queries are done synchronously in a separate denormalized database, and writes asynchronously to a normalized database. Caching first is still a type of CQRS implementation at the conceptual level.
+This pattern involves **direct service-to-service communication** in a chain.
 
-**Command** will be responsible for modifying the state of the data in the application, **Query** is the operation responsible for retrieving information from the database.
+> **⚠️ Warning - Big Ball of Mud Anti-Pattern**: Poorly defined domains can create microservices that depend on each other for trivial tasks, generating unnecessary calls and complex problems like latency and cyclic dependencies.
 
-**Synchronization**: The following are some strategies to keep the foundations of reading and recording synchronized, and it is necessary to choose the one that best meets your scenario:
+#### 🚨 Red Flags of Poor Implementation
+- **Poorly defined domains** forcing direct connections to other microservices
+- **Mandatory direct communication** for most or all tasks  
+- **Clustered deployments** where services can't be deployed independently
 
-- Automatic updating: All changes in the state of a given recording database raise a synchronous process to update on the bench
-- Update possible: All state changes of a given recording database trigger an asynchronous process to update the reading bank, offering an eventual data consistency
-- Controlled update: A regular process and schedule is raised to synchronize the databases
-- Update on demand: Every query checks the consistency of the read base compared to the recording, and forces an update if it is out of date
+#### 💡 Solution: Correlation ID
+Implement **correlation IDs** using UUIDs in HTTP headers for request tracking and logging across service chains.
 
-Any update is one of the most used strategies, because it assumes that any given displayed data may already be out of date, so it is not necessary to impose a synchronous update process.
+#### 🎯 Pure Microservices Philosophy
 
-**Queueing**: Many CQRS implementations may require a message broker for the processing of commands and events.
+> *"Microservices should be pure in their business design - extremely focused in domain and fully capable of performing their function without external microservice interference."*
 
-## Event sourcing – data integrity
+#### Internal Communication Strategies
 
-- Each change in the current state of your database would be a new event in a stream that only allows inclusion.
-- Each update on the table would generate a new line, the change of status
-- uses the append only model for database records
+| Strategy | Description | Best For |
+|----------|-------------|----------|
+| **Sequential** | No concurrency - commands execute in sequence | Simple, linear workflows |
+| **Threads** | Use POSIX or green threads for parallel execution | CPU-bound operations with careful management |
+| **Message Broker** | Transactional message broker for sensitive data | High reliability requirements |
 
-## Aggregator Microservice Design Pattern
+### 🌿 Branch Microservice Pattern
 
-Best practices:
+This pattern involves **parallel calls** to multiple microservices with response aggregation.
 
-- Segregated database: This allows us to better scale our application, especially in the data storage layer.
-- Microservice encapsulation: This divides the microservices into two layers—Public Facing Services and Internal Services. Such a division allows for greater flexibility with respect to the signature microservices, as Internal Services can be modified more easily.
-- Applied CQRS: With CQRS, unnecessary stress points on the application were removed.
-- Applied event sourcing: With event sourcing, we are conducting a stream of information from a news article. This gives us a real vision of the history of each news article.
-- Applied pattern very scalable: With a strong pattern and understanding of how to scale the aggregator pattern, we have a clear vision of how to avoid anti-patterns.
+#### 📋 Implementation Rules
+1. Response composition using direct call chains **cannot extend beyond one direct call** to another microservice
+2. If more data is required, create **aggregation logic** that triggers concurrent requests
 
-Pros:
+#### ✅ Pros & ❌ Cons
 
-- Scalability of both the x-axis and z-axis
-- Tunneling microservices
-- Microservices signature flexibility to Internal Services
-- Providing a single access point for microservices
+| ✅ **Pros** | ❌ **Cons** |
+|-------------|-------------|
+| Implementation flexibility | Potential latency points |
+| Independent scalability | Complex data ownership |
+| Encapsulated service access | Debugging challenges |
+| Composition and orchestration capabilities | |
 
-Cons:
+### 📨 Asynchronous Messaging Pattern
 
-- Complexity to orchestrate data
-- Bottleneck anti-pattern
-- Latency in communication between microservices
+This pattern relies heavily on **message brokers** for service communication.
 
-## Proxy design pattern
+#### ✅ Pros & ❌ Cons
 
-- Dumb proxy - the only goal is to provide a single endpoint to facilitate the application clients and encapsulate direct access to the routes of microservices.
-- Smart proxy - The most commonly seen task being executed by a Smart proxy is the content modification.
+| ✅ **Pros** | ❌ **Cons** |
+|-------------|-------------|
+| Independent scalability | Complex request monitoring |
+| Extreme scalability potential | Initial pattern complexity |
+| Lazy processing capabilities | Debugging difficulties |
+| Encapsulated service access | |
 
-Pros:
+## 💾 Data Management Patterns
 
-- Practical data consumption by the application clients
-- Ease of implementation
-- Possibility of good programming techniques at proxy level, such as caching
-- Encapsulation of access to microservices
-- Control and diversion of requests
+### 🔄 CQRS (Command Query Responsibility Segregation)
 
-Cons:
+CQRS separates the responsibility for **writing** and **reading** data - it's a code pattern, not an architectural pattern.
 
-- Bottleneck
-- Inappropriate change of response
-- Obstruction in the identification of overload
+#### 🤔 The Problem
+*"Will scaling application servers solve all our problems?"*
 
-## Chained Microservice Design pattern
+- **Database bottlenecks**: Deadlocks, timeouts, and slowness indicate high database demand
+- **Query complexity**: Complex queries and ORM mappings add filtering complexity  
+- **Content obsolescence**: Becomes a real concern in high-traffic systems
 
-**Big Ball of Mud Anti-patern**:developing microservices that we do not define well in the domains, which makes microservices dependent on one another to complete trivial tasks. This type of error generates a series of unnecessary calls between the microservices, creating complex problems of being corrected, such as latency and, in the worst cases, cyclic-deployed dependency.
+#### 💡 The Solution
+CQRS teaches **separation of write and read responsibilities**, both conceptually and using different physical storage:
 
-Main characteristics:
+| Operation | Database Type | Execution Style |
+|-----------|---------------|-----------------|
+| **Queries** | Denormalized read database | Synchronous |
+| **Commands** | Normalized write database | Asynchronous |
 
-- **Poorly defined domain**: The domain is badly defined, forcing a direct connection with other microservices. Access points to the microservice do not require enough data to process a task, which forces the inference of data, searching in other microservices.
-- **Mandatory direct communication**: When direct communication between microservices is mandatory for most tasks or for all tasks, there is a problem. This indicates that the microservice is anemic or that the application as a whole is poorly developed.
-- **Deploy clustered**: When a microservice cannot be sent for production because it needs another microservice all together, or when the change of internal signatures of a microservice causes others to collapse, there is a Death Star anti-pattern issue. Creating business dependencies between microservices means that processes are not automated and fluid.
+#### 🎯 Core Concepts
 
-_Solution_:
-Correlation ID: A simple way to implement correlation ID using HTTP would be to send a UUID in the header of the requests and use this UUID as an identifier to write the logs.
+**🔧 Command**  
+Responsible for **modifying** application data state
 
-### Purest microservices
+**🔍 Query**  
+Responsible for **retrieving** information from the database
 
-The microservices in your business design should be pure. This means that a microservice must be extremely small in its domain and fully capable of performing its function without outside interference from other microservices.
+#### 🔄 Synchronization Strategies
 
-Pros:
+| Strategy | Description | Use Case |
+|----------|-------------|----------|
+| **Automatic updating** | Changes trigger synchronous read database updates | Critical consistency requirements |
+| **Eventual updating** ⭐ | Changes trigger asynchronous updates, eventual consistency | Most common - assumes data may be outdated |
+| **Controlled updating** | Scheduled synchronization process | Batch processing scenarios |
+| **On-demand updating** | Query-time consistency checks with forced updates | Low-frequency access patterns |
 
-- Practical implementation
-- Dynamism for business
-- Independent scalability
-- Encapsulation of access to microservices
+> **💡 Pro Tip**: Eventual updating is most commonly used since it assumes displayed data may already be outdated, eliminating the need for synchronous update processes.
 
-Cons:
+**🚀 Queueing**: Many CQRS implementations require **message brokers** for processing commands and events.
 
-- The possibility of latency points
-- The difficulty in understanding data ownership
-- The difficulty of debugging
+### 📚 Event Sourcing - Data Integrity
 
-## Branch Microservice Design Pattern
+Event Sourcing ensures **data integrity** through immutable event streams:
 
-Rules:
+#### 🔑 Key Principles
+- **Immutable events**: Each state change becomes a new event in an append-only stream
+- **Complete audit trail**: Every update generates a new record showing the state change  
+- **State reconstruction**: Uses the append-only model for database records
+- **Historical analysis**: Provides complete audit trail and state reconstruction capabilities
 
-- The composition of the response using direct call chains cannot extend one direct call to another microservice
-- If more values are required for the response, an aggregation logic is created that will trigger concurrent requests for as many chains as needed
+> *"Instead of storing current state, store the sequence of events that led to that state."*
 
-Internal communication within a microservice can be worked on in the following three ways:
+## ⚠️ Anti-Patterns to Avoid
 
-- Sequential: No concurrency or parallelism. This means that when we have to send messages from the commands to the microservices, the entire process will be a sequence. If you need to execute four commands to compose the data, all of them will be executed in a sequence.
-- Threads: In this case, both POSIX threads (pthreads) and green threads can be used. Controlling threads is often not simple for developers, and if a thread fails, data orchestration could be compromised. However, it is the most practical way because there is no need for any external components of the programming language to be used for creating some level of competition or parallelism in the execution of the commands.
-- Message Broker: The use of a transactional message broker for transmitting sensitive data within a microservice is quite usual. The disadvantage is the addition of a physical component within a microservice. However, the advantage is the ability to execute strategies that offer more resiliency in data transmission. The simple fact of working with transactions is already a great resource.
+### 💀 Death Star Anti-Pattern
 
-Pros:
+> *"When microservices become more tangled than the Death Star's ventilation system"*
 
-- The flexibility of implementation
-- Independent scalability
-- Encapsulation of access to microservices
-- Compositional ability and orchestration
+The **Death Star** occurs when recursive communication between microservices makes progress extremely complicated or expensive. This creates a **tangled web of dependencies** that's difficult to maintain, deploy, or scale.
 
-Cons:
+**🔍 Symptoms:**
+- Services calling services calling services in endless loops
+- Deployment requires coordination across multiple teams
+- Performance debugging becomes nearly impossible
+- Simple changes require updates to many services
 
-- The possibility of latency points
-- The difficulty in understanding data ownership
-- The difficulty of debugging
+### 🩸 Anemic Domain
 
-## Asynchronous messaing design pattern
+An **anemic domain** lacks the business logic and behavior that should be encapsulated within the service.
 
-Pros:
+#### 🚨 Identification Checklist
 
-- Independent scalability
-- Extreme scalability
-- Lazy processing
-- Encapsulation of accesses to microservices
+**Your microservice might be anemic if it:**
 
-Cons:
+- [ ] **Cannot perform tasks** with only received data
+- [ ] **Needs multiple endpoints** to fetch data for single tasks  
+- [ ] **Lacks self-sufficient** entity model
+- [ ] **Waits for other microservices** to complete before proceeding
+- [ ] **Must share resources** with external microservices
 
-- Complexity in the monitoring of requisitions
-- Complexity of the initial understanding of the pattern
-- Difficulty of debugging
+> **⚠️ Critical Warning**: If your microservice exhibits **two or more** of these characteristics, it's definitely an anemic domain. Anemic domains harm the microservices ecosystem by multiplying to correct technical debt from poor domain composition.
 
-## replese piplelines
+### 🐘 Fat Domain Example: AAA Services
 
-Build -> Unit Test -> Integration Test -> End-to-End test -> realse
+**Problem**: Authentication, Authorization, and Accounting (AAA) as a single monolithic service.
 
-## Monitoring a single service
+#### 💡 Solutions
 
-- `Active Monitoring`is when the server that is to be monitored sends the status information to the monitoring tool
-- `Passive Monitoring` is when the monitoring tool requests information about the state of the machine or application from the server
+| Approach | Description | Benefits |
+|----------|-------------|----------|
+| **Split Services** | Divide into `AAAService` and `UserService` | Clear separation of concerns |
+| **Gateway Pattern** | Move AAA responsibility to API gateway | Centralized security management |
 
-## Multiple service instances per host
+**Result**: Functional scalability and implementation features improve significantly with properly separated domains.
 
-**Pros**
-One of the key benefits is that it uses resources efficiently. Multiple instances of the service share the server and its operating system. Another benefit of this pattern is the relatively rapid deployment of a microservice instance.
+## 🛠️ Tools and Technologies
 
-**Cons**
-A major disadvantage is that there is little to no isolation of instances of the service unless each service instance is a separate process. If the instances are not separated in different processes, an instance with errors could compromise the entire process, besides making the individual monitoring of instances impossible.
+### 📨 Message Brokers
 
-## Service instance per host
+| Tool | Strengths | Best For |
+|------|-----------|----------|
+| **ActiveMQ** | Enterprise-grade messaging, JMS compliance | Enterprise Java environments |
+| **RabbitMQ** | Reliable, feature-rich, easy clustering | General-purpose messaging |
+| **Kafka** | High-throughput, distributed streaming | Event streaming, big data |
 
-- Service instance per VM: Each instance of a microservice is a VM, and the execution of this VM enables the microservice to work.
+### ⚡ Caching Tools
 
-  - Pros: One of the main benefits of VMs is that each instance of microservice runs in a completely isolated manner, having fixed CPU and memory consumption, without competing for resource consumption with other microservices. Another great benefit of this pattern is the encapsulation of the technology used in the development of microservices.
-  - Cons: Each service instance has the overhead of a full VM, including the operating system. Another disadvantage of this approach is that deploying and booting a new version of a microservice is often slow because the cost of booting operating systems using VMs can be high.
+#### 🗄️ Memcached
+- **Strengths**: Classic caching solution, simple and practical
+- **Performance**: Directly linked to memory usage
+- **Limitations**: Performance severely compromised if using disk, no built-in persistence
+- **Best for**: Simple key-value caching scenarios
 
-- Service instance per container: each microservice instance runs in a container unique to the instance.
-  - Pros: They isolate their instances of microservices from one another. Containers are easily monitored. In addition, similar to the VMs, the containers encapsulate the technology used to implement microservices. Unlike the virtual machines, the containers are lighter. The container images are usually very fast to build and initialize.
-  - Cons: There are some disadvantages to using containers. Containers are not as secure as VMs because they share the host operating system kernel with each other.Another disadvantage of the containers is the complexity of the infrastructure if they are not using any cloud platform that offers interesting mechanisms to manipulate the containers.
-8:[["$","$L16",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L17",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7oO5HEfsLDizpImAykKWUC","type":"Entry","createdAt":"2021-09-02T00:28:26.364Z","updatedAt":"2021-09-06T10:16:48.323Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Microservice Notes Part - 1","slug":"microservice-part-1","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4SIAsNl00Xw5uEh8sWWZ5S","type":"Asset","createdAt":"2021-09-02T00:26:37.088Z","updatedAt":"2021-09-02T01:26:38.043Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"microservice","description":"microservice","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/4SIAsNl00Xw5uEh8sWWZ5S/345af5c80b78c49661ff14cd5d2e88e6/cubes-2492010_640.jpg","details":{"size":22825,"image":{"width":640,"height":341}},"fileName":"cubes-2492010_640.jpg","contentType":"image/jpeg"}}},"description":"Notes for microservice","body":"$18","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-02T18:00+10:00","tags":["microservice","architecture"]}}}]}],["$","footer",null,{"className":"w-full py-12 md:py-16 border-t border-border bg-muted/5","children":["$","div",null,{"className":"container mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-10","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","$L7",null,{"href":"/","className":"text-2xl font-display font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary via-primary/90 to-secondary mb-4 inline-block","children":"Michael Luo"}],["$","p",null,{"className":"text-muted-foreground max-w-md mb-6","children":"From 0 to global: I build and lead engineering teams that turn strategic roadmaps into delivered transformation through engineering excellence."}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://github.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"GitHub","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]}],["$","a",null,{"href":"https://www.linkedin.com/in/michael-luo-10066110a/","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"LinkedIn","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-linkedin","aria-hidden":"true","children":[["$","path","c2jq9f",{"d":"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"}],["$","rect","mk3on5",{"width":"4","height":"12","x":"2","y":"9"}],["$","circle","bt5ra8",{"cx":"4","cy":"4","r":"2"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L7",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/about","className":"text-muted-foreground hover:text-primary transition-colors","children":"About"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/projects","className":"text-muted-foreground hover:text-primary transition-colors","children":"Leadership"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/blog","className":"text-muted-foreground hover:text-primary transition-colors","children":"Insights"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/contact","className":"text-muted-foreground hover:text-primary transition-colors","children":"Contact"}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 pt-6 border-t border-border flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sm text-muted-foreground mb-4 md:mb-0","children":["© ",2025," Michael Luo. All rights reserved."]}],["$","div",null,{"className":"flex gap-6","children":[["$","$L7",null,{"href":"/privacy","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Privacy Policy"}],["$","$L7",null,{"href":"/terms","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Terms of Service"}]]}]]}]]}]}]]
-15:{"metadata":[["$","title","0",{"children":"Microservice Notes Part - 1 | Michael Luo"}],["$","meta","1",{"name":"description","content":"Notes for microservice"}],["$","meta","2",{"name":"author","content":"Michael Luo"}],["$","meta","3",{"name":"keywords","content":"Michael Luo,Technology Leadership,Software Engineering,Blog"}],["$","meta","4",{"name":"creator","content":"Michael Luo"}],["$","meta","5",{"name":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self';"}],["$","meta","6",{"property":"og:title","content":"Michael Luo - Blog"}],["$","meta","7",{"property":"og:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}],["$","meta","8",{"property":"og:url","content":"https://michaelluo.com/"}],["$","meta","9",{"property":"og:site_name","content":"Michael Luo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@michaelluo"}],["$","meta","14",{"name":"twitter:title","content":"Michael Luo - Blog"}],["$","meta","15",{"name":"twitter:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}]],"error":null,"digest":"$undefined"}
+#### 🔴 Redis  
+- **Strengths**: Advanced data structures and persistence options
+- **Features**: Pub/sub, transactions, clustering
+- **Best for**: Complex caching scenarios, session storage
+
+### 📊 Monitoring and Alerting
+
+#### The Four Pillars of Microservices Monitoring
+
+| Failure Type | Tools | Purpose |
+|--------------|-------|---------|
+| **📈 Performance** | New Relic, Datadog | Application performance monitoring |
+| **🔨 Build** | Jenkins, Travis CI | CI/CD pipeline monitoring |
+| **🏥 Component Health** | Nagios, Zabbix | Infrastructure and health check endpoints |
+| **🐛 Implementation** | Sentry | Error tracking and user impact analysis |
+
+#### 🎯 Sentry Capabilities
+- **Real-time visibility** into deployment impact
+- **User-specific error** support and debugging
+- **Fraud detection** through unusual failure patterns
+- **External integration** monitoring
+
+### 🧪 Load Testing Tools
+
+| Tool | Description | Best For |
+|------|-------------|----------|
+| **Apache Benchmark** | Simple HTTP benchmarking | Quick API testing |
+| **WRK** | Modern HTTP benchmarking tool | Advanced HTTP scenarios |
+| **Locust** | Python-based with web UI | Complex user behavior simulation |
+
+## 🚀 Deployment Patterns
+
+### 🏠 Multiple Service Instances per Host
+
+**The Shared Housing Model**
+
+#### ✅ Pros & ❌ Cons
+
+| ✅ **Pros** | ❌ **Cons** |
+|-------------|-------------|
+| Efficient resource utilization | Limited isolation between instances |
+| Services share server and OS resources | Error propagation risk |
+| Rapid microservice deployment | Individual monitoring challenges |
+
+### 🏢 Service Instance per Host
+
+#### 🖥️ Service Instance per VM
+
+**The Luxury Apartment Model**
+
+| ✅ **Pros** | ❌ **Cons** |
+|-------------|-------------|
+| Complete isolation between instances | Full VM overhead including OS |
+| Fixed CPU and memory allocation | Slow deployment and boot times |
+| Technology encapsulation | High resource consumption |
+
+#### 📦 Service Instance per Container
+
+**The Modern Condo Model**
+
+| ✅ **Pros** | ❌ **Cons** |
+|-------------|-------------|
+| Service instance isolation | Less secure than VMs (shared OS kernel) |
+| Easy monitoring capabilities | Infrastructure complexity without cloud support |
+| Technology encapsulation | |
+| Lightweight compared to VMs | |
+| Fast image building and initialization | |
+
+## 🔄 Testing and Release Pipeline
+
+A **robust pipeline** ensures quality and reliability:
+
+```
+🔨 Build → 🧪 Unit Tests → 🔗 Integration Tests → 🌐 End-to-End Tests → 🚀 Release
+```
+
+### Pipeline Best Practices
+- **Automated testing** at every stage
+- **Fast feedback loops** for developers
+- **Gradual rollout** strategies (blue-green, canary)
+- **Rollback capabilities** for quick recovery
+
+## 👁️ Monitoring Strategies
+
+### Single Service Monitoring Approaches
+
+| Type | Description | When to Use |
+|------|-------------|-------------|
+| **📤 Active Monitoring** | Service sends status to monitoring tools | Proactive health reporting |
+| **📥 Passive Monitoring** | Tools request status from services | Centralized monitoring control |
+
+> **💡 Pro Tip**: Choose the appropriate strategy based on your infrastructure and monitoring requirements. Hybrid approaches often work best.
+
+## 🎯 Conclusion
+
+Microservices architecture offers **powerful benefits** for scalability, deployment flexibility, and organizational agility. However, success requires careful attention to several key areas:
+
+### 🔑 Critical Success Factors
+
+| Factor | Why It Matters |
+|--------|----------------|
+| **🏗️ Domain-driven design** | Proper service boundaries prevent tight coupling |
+| **🔗 Communication patterns** | Right patterns for your specific use cases |
+| **💾 Data management strategies** | Maintain consistency across distributed systems |
+| **👁️ Monitoring and testing** | Visibility across distributed systems |
+| **⚠️ Avoiding anti-patterns** | Prevent technical debt accumulation |
+
+### 🚀 The Path Forward
+
+> *"The key to successful microservices lies not in the technology choices alone, but in the thoughtful application of these patterns and principles to solve real business problems."*
+
+**🎯 Recommended Approach:**
+1. **Start small** - Begin with a well-defined service
+2. **Learn continuously** - Each implementation teaches valuable lessons  
+3. **Build expertise gradually** - Distributed systems require different skills
+4. **Focus on business value** - Technology should serve business goals
+
+### 📚 What's Next?
+
+In **Part 2**, we'll dive deeper into practical implementation topics including:
+- **📐 Core principles and characteristics** of microservices
+- **📋 Twelve-factor methodology** for cloud-native applications
+- **🔍 Service discovery patterns** and implementation strategies
+- **💾 Advanced data management** patterns and techniques
+- **🎨 Comprehensive design patterns** for real-world scenarios
+- **🔄 Migration strategies** using the Strangler pattern
+
+---
+
+> **💡 Remember**: This guide provides foundational knowledge for implementing microservices architecture. Each organization's context will influence which patterns and tools work best for their specific needs.
+
+**Ready to start your microservices journey?** Begin with a single, well-bounded service and gradually expand your expertise from there.8:[["$","$L16",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L17",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7oO5HEfsLDizpImAykKWUC","type":"Entry","createdAt":"2021-09-02T00:28:26.364Z","updatedAt":"2025-06-16T11:45:38.148Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":18,"revision":4,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Microservices Architecture: A Comprehensive Guide - Part 1","slug":"microservice-part-1","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"4SIAsNl00Xw5uEh8sWWZ5S","type":"Asset","createdAt":"2021-09-02T00:26:37.088Z","updatedAt":"2021-09-02T01:26:38.043Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"microservice","description":"microservice","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/4SIAsNl00Xw5uEh8sWWZ5S/345af5c80b78c49661ff14cd5d2e88e6/cubes-2492010_640.jpg","details":{"size":22825,"image":{"width":640,"height":341}},"fileName":"cubes-2492010_640.jpg","contentType":"image/jpeg"}}},"description":"Notes for microservice","body":"$18","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-02T18:00+10:00","tags":["microservice","architecture"]}}}]}],["$","footer",null,{"className":"w-full py-12 md:py-16 border-t border-border bg-muted/5","children":["$","div",null,{"className":"container mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-10","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","$L7",null,{"href":"/","className":"text-2xl font-display font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary via-primary/90 to-secondary mb-4 inline-block","children":"Michael Luo"}],["$","p",null,{"className":"text-muted-foreground max-w-md mb-6","children":"From 0 to global: I build and lead engineering teams that turn strategic roadmaps into delivered transformation through engineering excellence."}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://github.com/michaelluo","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"GitHub","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]}],["$","a",null,{"href":"https://www.linkedin.com/in/michael-luo-10066110a/","target":"_blank","rel":"noreferrer","className":"p-2 rounded-full bg-muted/30 text-foreground hover:bg-primary/20 hover:text-primary transition-colors","aria-label":"LinkedIn","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-linkedin","aria-hidden":"true","children":[["$","path","c2jq9f",{"d":"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"}],["$","rect","mk3on5",{"width":"4","height":"12","x":"2","y":"9"}],["$","circle","bt5ra8",{"cx":"4","cy":"4","r":"2"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L7",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/about","className":"text-muted-foreground hover:text-primary transition-colors","children":"About"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/projects","className":"text-muted-foreground hover:text-primary transition-colors","children":"Leadership"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/blog","className":"text-muted-foreground hover:text-primary transition-colors","children":"Insights"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/contact","className":"text-muted-foreground hover:text-primary transition-colors","children":"Contact"}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 pt-6 border-t border-border flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sm text-muted-foreground mb-4 md:mb-0","children":["© ",2025," Michael Luo. All rights reserved."]}],["$","div",null,{"className":"flex gap-6","children":[["$","$L7",null,{"href":"/privacy","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Privacy Policy"}],["$","$L7",null,{"href":"/terms","className":"text-sm text-muted-foreground hover:text-foreground transition-colors","children":"Terms of Service"}]]}]]}]]}]}]]
+15:{"metadata":[["$","title","0",{"children":"Microservices Architecture: A Comprehensive Guide - Part 1 | Michael Luo"}],["$","meta","1",{"name":"description","content":"Notes for microservice"}],["$","meta","2",{"name":"author","content":"Michael Luo"}],["$","meta","3",{"name":"keywords","content":"Michael Luo,Technology Leadership,Software Engineering,Blog"}],["$","meta","4",{"name":"creator","content":"Michael Luo"}],["$","meta","5",{"name":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self';"}],["$","meta","6",{"property":"og:title","content":"Michael Luo - Blog"}],["$","meta","7",{"property":"og:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}],["$","meta","8",{"property":"og:url","content":"https://michaelluo.com/"}],["$","meta","9",{"property":"og:site_name","content":"Michael Luo"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@michaelluo"}],["$","meta","14",{"name":"twitter:title","content":"Michael Luo - Blog"}],["$","meta","15",{"name":"twitter:description","content":"An immersive digital art portfolio showcasing the intersection of technology and creativity"}]],"error":null,"digest":"$undefined"}
 f:{"metadata":"$15:metadata","error":null,"digest":"$undefined"}
