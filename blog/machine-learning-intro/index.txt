@@ -19,7 +19,7 @@ e:I[6633,[],"MetadataBoundary"]
 :HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/5348b8e410dcf427.css","style"]
 :HL["/_next/static/css/b1501ad6c6aeab59.css","style"]
-0:{"P":null,"b":"7x59dyXxpM6ETjfE5-Vtd","p":"","c":["","blog","machine-learning-intro",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","machine-learning-intro","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5348b8e410dcf427.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_f367f3 __variable_dd5b2f font-sans antialiased","children":[["$","$L2",null,{"children":["$","$L3",null,{"children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{"children":["$","$La",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center text-center px-4","children":["$","div",null,{"className":"max-w-md space-y-6","children":[["$","h1",null,{"className":"text-6xl md:text-8xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary via-accent to-secondary","children":"404"}],["$","h2",null,{"className":"text-2xl md:text-3xl font-bold","children":"Page not found"}],["$","p",null,{"className":"text-muted-foreground","children":"The page you're looking for doesn't exist or has been moved."}],["$","$Lb",null,{"href":"/","className":"inline-flex items-center px-4 py-2 rounded-md bg-primary text-primary-foreground hover:bg-primary/90 transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-house mr-2 h-4 w-4","aria-hidden":"true","children":[["$","path","5wwlr5",{"d":"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"}],["$","path","1d0kgt",{"d":"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],"$undefined"]}],"Return Home"]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}],["$","$Lc",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$Lb",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","machine-learning-intro","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Ld",["$","$Le",null,{"children":"$Lf"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","pDRmqe4ATz0WYxsCr_LTY",{"children":[["$","$L15",null,{"children":"$L16"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$17","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"w9fz4sSAcn5gw4rVT7nCP","p":"","c":["","blog","machine-learning-intro",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","machine-learning-intro","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5348b8e410dcf427.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_f367f3 __variable_dd5b2f font-sans antialiased","children":[["$","$L2",null,{"children":["$","$L3",null,{"children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{"children":["$","$La",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center text-center px-4","children":["$","div",null,{"className":"max-w-md space-y-6","children":[["$","h1",null,{"className":"text-6xl md:text-8xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary via-accent to-secondary","children":"404"}],["$","h2",null,{"className":"text-2xl md:text-3xl font-bold","children":"Page not found"}],["$","p",null,{"className":"text-muted-foreground","children":"The page you're looking for doesn't exist or has been moved."}],["$","$Lb",null,{"href":"/","className":"inline-flex items-center px-4 py-2 rounded-md bg-primary text-primary-foreground hover:bg-primary/90 transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-house mr-2 h-4 w-4","aria-hidden":"true","children":[["$","path","5wwlr5",{"d":"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"}],["$","path","1d0kgt",{"d":"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],"$undefined"]}],"Return Home"]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}],["$","$Lc",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$Lb",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","machine-learning-intro","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Ld",["$","$Le",null,{"children":"$Lf"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","bJCr2rcsrGURdrErbuIvu",{"children":[["$","$L15",null,{"children":"$L16"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$17","$undefined"],"s":false,"S":true}
 18:"$Sreact.suspense"
 19:I[8919,[],"AsyncMetadata"]
 f:["$","$18",null,{"fallback":null,"children":["$","$L19",null,{"promise":"$@1a"}]}]
@@ -27,35 +27,49 @@ f:["$","$18",null,{"fallback":null,"children":["$","$L19",null,{"promise":"$@1a"
 16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 11:null
 1b:I[8688,["976","static/chunks/cec493ea-cf38a2912d48ae0f.js","820","static/chunks/820-27b4c4976ea3c0cb.js","498","static/chunks/498-2bb94b5c019f9d84.js","723","static/chunks/723-cd23d3aab12abbe4.js","953","static/chunks/app/blog/%5Bslug%5D/page-3b2d986c87840f1d.js"],"default"]
-1c:T16db,## A Diagram of AI in Computer Science
+1c:T1b13,## A Diagram of AI in Computer Science
 
 ![Computer Science and AI](//images.contentful.com/2swoy9jddxd7/6jhGWPq3bcl01xYsb0UoGY/381dedb846a0bb91fe7ca00b53da60e7/Computer_Science.png)
 
-This diagram shows how Artificial Intelligence sits within Computer Science, and how different approaches to building intelligent systems are structured.
+Artificial Intelligence (AI) is often described as complex and abstract—but in reality, it follows a structured set of ideas built on top of computer science.
+
+This diagram shows how AI fits within computer science and how different approaches to building intelligent systems are organized.
 
 At a high level, AI can be divided into two main paradigms:
-- Symbolic (rule-based) systems  
-- Machine learning (data-driven systems)  
 
-This distinction reflects a fundamental shift in how we build intelligent systems.
+- **Symbolic (rule-based) systems**  
+- **Machine learning (data-driven systems)**  
+
+This distinction reflects a fundamental shift in how we build intelligent systems—from *explicitly defining intelligence* to *learning it from data*.
 
 ---
 
 ## Rule-Based System vs Machine Learning
 
-In a rule-based system, the logic required to make decisions is explicitly defined.
+In a **rule-based system**, decision logic is explicitly defined by humans.
 
-- The logic is often specific to a single domain and task  
+- The logic is specific to a domain or task  
 - Even small changes may require rewriting the system  
-- Designing rules requires deep understanding from human experts  
+- It relies heavily on expert knowledge  
 
-Machine learning approaches this differently.
+**Example:**  
+A traditional fraud detection system might use rules like:  
+- “If transaction > $10,000 and overseas → flag as suspicious”
 
-Instead of defining rules, we allow the system to learn patterns from data. This makes it more adaptable, especially for complex or uncertain environments.
+This works—but only for known patterns.
 
-A useful way to think about it:
+---
 
-> Rule-based systems encode intelligence. Machine learning learns it.
+Machine learning takes a different approach. Instead of writing rules, the system learns patterns from data.
+
+- It adapts as new data becomes available  
+- It handles complex patterns that are hard to define manually  
+- However, it is often less interpretable  
+
+**Example:**  
+A machine learning fraud system learns patterns across thousands of transactions and detects subtle anomalies that rules would miss.
+
+> **Rule-based systems encode intelligence. Machine learning learns it.**
 
 ---
 
@@ -64,147 +78,173 @@ A useful way to think about it:
 Machine learning can be understood through four core components:
 
 - **Predictive learning**  
-  This includes two types of tasks:
-  - Predicting continuous values (e.g. future position, price)  
-  - Distinguishing between categories (e.g. faces in an image)
+  Mapping inputs to outputs  
+  - Example: predicting house prices  
+  - Example: classifying images as “cat” or “dog”  
 
 - **Feature design**  
-  A set of engineering and mathematical techniques used to represent raw data in a way that improves model performance  
+  Transforming raw data into meaningful representations  
 
-  In many cases, the quality of features determines the success of a model:
-  - Poor features → weak predictions, regardless of algorithm  
-  - Good features → simple models can perform well  
+  For example:
+  - Raw data: transaction timestamp  
+  - Feature: “number of transactions in last 5 minutes”  
+
+  In practice:
+  - Poor features → weak predictions  
+  - Good features → strong performance, even with simple models  
 
 - **Function approximation**  
-  Used when we cannot explicitly define relationships in data, so the model must learn them directly  
+  Learning relationships when they cannot be explicitly defined  
+
+  Example:  
+  Instead of writing rules for recognizing faces, the model learns patterns from pixel data.
 
 - **Numerical optimization**  
-  The underlying process that powers learning by iteratively improving the model  
+  Iteratively improving the model to reduce error  
 
-These components do not operate independently—they interact during training, where data representation, model structure, and optimization combine to produce the final outcome.
+These components interact during training, forming the foundation of machine learning systems.
 
 ---
 
 ## Cost Function
 
-One of the key ingredients in supervised machine learning is the objective function, often called a **cost function**.
+A **cost function** measures how wrong a model is.
 
-It defines what the model is trying to optimize.
+- It compares predictions with actual values  
+- The goal is to minimize this error  
 
-- It measures how far predictions are from actual values  
-- The goal is to minimize this error during training  
+**Example:**  
+If a model predicts a house price of $900k but the actual price is $1M, the cost function captures this difference.
 
-For example, in a regression problem, a common cost function is the mean squared error:
+A common example is **Mean Squared Error (MSE)**:
 
 \[
 \text{MSE} = \frac{1}{n} \sum (y_{\text{pred}} - y_{\text{actual}})^2
 \]
 
-In practice, optimization techniques such as gradient descent are used:
-- The model makes predictions  
-- The cost function measures the error  
-- The parameters are adjusted to reduce the error  
+Training works like this:
 
-This loop—**predict → measure error → adjust → repeat**—is what allows machine learning models to improve over time.
+1. The model makes predictions  
+2. The cost function measures error  
+3. The model adjusts its parameters  
+
+This loop—**predict → measure → adjust → repeat**—is the core of learning.
+
+---
+
+## How AI Actually Works
+
+So how does everything come together?
+
+At a high level, most machine learning systems follow a simple cycle:
+
+1. **Input data**  
+   Example: images, transaction records, or user behavior  
+
+2. **Prediction**  
+   The model produces an output  
+   - “This is a cat”  
+   - “This transaction is suspicious”  
+
+3. **Error calculation**  
+   Compare prediction with the actual outcome  
+
+4. **Optimization**  
+   Adjust the model to reduce error  
+
+5. **Iteration**  
+   Repeat many times until performance improves  
+
+Once trained, the model can make predictions on new, unseen data.
 
 ---
 
 ## Predictive Learning Problems
 
-There are two main types of predictive learning problems:
+There are two main types of predictive problems:
 
-1. **Regression**  
-   Predicting continuous values (e.g. share price, blood pressure)
+- **Regression**  
+  Predicting continuous values  
+  - Example: house prices  
+  - Example: stock prices  
 
-2. **Classification**  
-   Predicting discrete categories  
+- **Classification**  
+  Predicting categories  
+  - Example: spam vs non-spam  
+  - Example: fraud vs normal  
 
-The key difference:
-- Regression → continuous output  
-- Classification → discrete output  
+**Key distinction:**
+- Continuous output → regression  
+- Discrete output → classification  
 
 ---
 
 ## Three Types of Machine Learning
 
-### Supervised Learning (learning from labeled data)
+### Supervised Learning (Learning from Labeled Data)
 
-Supervised learning uses datasets where the correct outputs are already known.
+The model learns from data where correct outputs are known.
 
 - **Classification**
-  - Predicts categorical labels  
-  - Example: spam vs non-spam  
+  - Example: email spam detection  
 
 - **Regression**
-  - Predicts continuous outcomes  
-  - Example: relationship between study time and exam score  
+  - Example: predicting exam scores  
 
-Examples:
-- Identifying ZIP codes from handwritten digits  
-- Detecting fraud in transactions  
-- Medical diagnosis from images  
-
-A simple rule:
-> If the output has continuity → regression  
-> If it does not → classification  
+Other examples:
+- Detecting fraudulent transactions  
+- Diagnosing diseases from medical images  
 
 ---
 
-### Unsupervised Learning (discovering structure)
+### Unsupervised Learning (Discovering Structure)
 
-In unsupervised learning, the data has no labels.
-
-The goal is to uncover patterns or structure.
+The model works with unlabeled data and identifies patterns.
 
 - **Clustering**
-  - Grouping similar data points  
-  - Example: customer segmentation  
+  - Example: grouping customers by behavior  
 
 - **Dimensionality reduction**
-  - Reducing complexity while retaining important information  
+  - Example: compressing high-dimensional data for visualization  
 
-This is often used for:
-- Exploratory data analysis  
-- Preprocessing for supervised learning  
+Often used for:
+- Data exploration  
+- Preprocessing  
 
 ---
 
-### Reinforcement Learning (interactive learning)
+### Reinforcement Learning (Learning Through Interaction)
 
-Reinforcement learning focuses on agents interacting with environments.
+An **agent** interacts with an **environment** and learns from feedback.
 
-- The agent takes actions  
-- Receives rewards or penalties  
-- Learns strategies over time  
+- Actions → outcomes → rewards/penalties  
 
-Example:
-- A chess engine learning optimal moves  
+**Example:**  
+A chess engine learns by playing many games and improving its strategy over time.
 
 ---
 
 ## Predictive Modeling Pipeline
 
-In practice, machine learning follows a structured pipeline:
+In real-world systems, machine learning follows a structured pipeline:
 
 1. **Preprocessing**
-   - Clean and prepare raw data  
-   - Perform feature extraction and scaling  
-   - Reduce dimensionality if needed  
+   - Clean missing or inconsistent data  
+   - Transform raw data into features  
+   - Scale or normalize values  
 
 2. **Learning**
-   - Train the model using prepared data  
-   - The model improves by minimizing the cost function  
+   - Train the model  
+   - Improve performance by minimizing error  
 
 3. **Evaluation**
-   - Test performance on unseen data  
-   - Ensure the model generalizes well  
+   - Test on unseen data  
+   - Detect overfitting  
 
 4. **Prediction**
-   - Apply the model to real-world data  
+   - Apply the model to real-world scenarios  
 
-A key insight:
-
-> Good predictions depend more on data quality and preparation than on model complexity.
+> **Key insight:** Most performance gains come from better data and features—not just better models.
 
 ---
 
@@ -212,20 +252,37 @@ A key insight:
 
 Common libraries used in machine learning:
 
-- NumPy  
-- SciPy  
-- scikit-learn  
-- pandas  
-- matplotlib  
+- **NumPy** — numerical computation  
+- **pandas** — data manipulation  
+- **scikit-learn** — machine learning models  
+- **SciPy** — scientific computing  
+- **matplotlib** — data visualization  
 
-These tools enable the implementation of the concepts described above in real-world systems.
+These tools help turn concepts into real systems.
 
 ---
 
 ## Final Thought
 
-Artificial Intelligence is not a single technique, but a structured system built on clear principles.
+Artificial Intelligence is not a single technique—it is a system built on a few core ideas:
 
-Understanding how these pieces fit together—rather than memorizing isolated concepts—is what makes the field practical and usable.d:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24","children":["$","$L1b",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"FjyDr4ndNxwfFC5S7ljaB","type":"Entry","createdAt":"2021-09-04T00:59:06.823Z","updatedAt":"2026-03-30T01:10:02.644Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":26,"revision":5,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"How AI and Machine Learning Work (A Clear, Practical Guide)","slug":"machine-learning-intro","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Qu7ZFVqByybcU5SwUZdvR","type":"Asset","createdAt":"2021-09-04T00:58:25.141Z","updatedAt":"2021-09-04T00:58:25.141Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"machine-learning","description":"machine-learning","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Qu7ZFVqByybcU5SwUZdvR/58f78d794adcb6d13a48cf49dacc9324/machine-learning-5720531_1280.png","details":{"size":85349,"image":{"width":1280,"height":804}},"fileName":"machine-learning-5720531_1280.png","contentType":"image/png"}}},"description":"An introduction to artificial intelligence and machine learning, explaining supervised, unsupervised, and reinforcement learning, cost functions, and the machine learning pipeline in a clear, structured way.","body":"$1c","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-04T10:58+10:00","tags":["machine-learning"]}}}]}]
+- Learning from data  
+- Measuring error  
+- Improving through optimization  
+- Applying structured pipelines  
+
+When you understand how these pieces fit together, AI becomes less of a black box—and more of an engineering discipline.
+
+---
+
+## What to Do Next
+
+If you're learning AI, try this:
+
+- Take a simple dataset (e.g. house prices or spam emails)  
+- Build a basic model using scikit-learn  
+- Observe how predictions improve as the model trains  
+
+Understanding comes faster when you see the system working end-to-end.d:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24","children":["$","$L1b",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"FjyDr4ndNxwfFC5S7ljaB","type":"Entry","createdAt":"2021-09-04T00:59:06.823Z","updatedAt":"2026-03-30T01:22:57.846Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":29,"revision":6,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"How AI and Machine Learning Work (A Clear, Practical Guide)","slug":"machine-learning-intro","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Qu7ZFVqByybcU5SwUZdvR","type":"Asset","createdAt":"2021-09-04T00:58:25.141Z","updatedAt":"2021-09-04T00:58:25.141Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"machine-learning","description":"machine-learning","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Qu7ZFVqByybcU5SwUZdvR/58f78d794adcb6d13a48cf49dacc9324/machine-learning-5720531_1280.png","details":{"size":85349,"image":{"width":1280,"height":804}},"fileName":"machine-learning-5720531_1280.png","contentType":"image/png"}}},"description":"An introduction to artificial intelligence and machine learning, explaining supervised, unsupervised, and reinforcement learning, cost functions, and the machine learning pipeline in a clear, structured way.","body":"$1c","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-04T10:58+10:00","tags":["machine-learning"]}}}]}]
 1a:{"metadata":[["$","title","0",{"children":"How AI and Machine Learning Work (A Clear, Practical Guide) — Michael Luo"}],["$","meta","1",{"name":"description","content":"An introduction to artificial intelligence and machine learning, explaining supervised, unsupervised, and reinforcement learning, cost functions, and the machine learning pipeline in a clear, structured way."}],["$","meta","2",{"name":"keywords","content":"Michael Luo,Software Engineer,Technology Leadership,Creative Portfolio"}],["$","meta","3",{"property":"og:title","content":"Michael Luo — Engineer / Creator / Builder"}],["$","meta","4",{"property":"og:description","content":"Creative showcase — engineering leadership, system architecture, and digital craft."}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Michael Luo — Engineer / Creator / Builder"}],["$","meta","9",{"name":"twitter:description","content":"Creative showcase — engineering leadership, system architecture, and digital craft."}]],"error":null,"digest":"$undefined"}
 14:{"metadata":"$1a:metadata","error":null,"digest":"$undefined"}
