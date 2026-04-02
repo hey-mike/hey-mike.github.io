@@ -23,57 +23,17 @@ f:I[3619,["202","static/chunks/202-993fd3e4892ffe2f.js","498","static/chunks/498
 :HL["/_next/static/media/36966cca54120369-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/48663219eb782a14.css","style"]
 :HL["/_next/static/css/b1501ad6c6aeab59.css","style"]
-0:{"P":null,"b":"m_WqATIyYu0Ccr2sRnzme","p":"","c":["","blog","machine-learning-model-evaluation",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","machine-learning-model-evaluation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48663219eb782a14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_dd5b2f font-sans antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{"children":["$","$Ld",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$Le",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}],["$","$Lf",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L10",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","machine-learning-model-evaluation","d"],["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L11",["$","$L12",null,{"children":"$L13"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$L15","$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","_7iVISu0r48bgdL-9Im3E",{"children":[["$","$L19",null,{"children":"$L1a"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$1b","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"m_WqATIyYu0Ccr2sRnzme","p":"","c":["","blog","beyond-the-chatbot-mastering-harness-engineering-for-the-agentic-era",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","beyond-the-chatbot-mastering-harness-engineering-for-the-agentic-era","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48663219eb782a14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_dd5b2f font-sans antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{"children":["$","$Ld",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$Le",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}],["$","$Lf",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L10",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","beyond-the-chatbot-mastering-harness-engineering-for-the-agentic-era","d"],["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L11",["$","$L12",null,{"children":"$L13"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$L15","$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","yde-2XpwuTnASyJjbYZjx",{"children":[["$","$L19",null,{"children":"$L1a"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$1b","$undefined"],"s":false,"S":true}
 1c:"$Sreact.suspense"
 1d:I[8919,[],"AsyncMetadata"]
 13:["$","$1c",null,{"fallback":null,"children":["$","$L1d",null,{"promise":"$@1e"}]}]
 16:null
 1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 15:null
-1e:{"metadata":[["$","title","0",{"children":"Machine Learning Model evaluation — Michael Luo"}],["$","meta","1",{"name":"description","content":"methods for Machine Learning Model evaluation"}],["$","meta","2",{"name":"keywords","content":"Michael Luo,Software Engineer,Technology Leadership,Creative Portfolio"}],["$","meta","3",{"property":"og:title","content":"Michael Luo — Engineer / Creator / Builder"}],["$","meta","4",{"property":"og:description","content":"Creative showcase — engineering leadership, system architecture, and digital craft."}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Michael Luo — Engineer / Creator / Builder"}],["$","meta","9",{"name":"twitter:description","content":"Creative showcase — engineering leadership, system architecture, and digital craft."}]],"error":null,"digest":"$undefined"}
+1e:{"metadata":[["$","title","0",{"children":"Beyond the Chatbot: Mastering Harness Engineering for the Agentic Era — Michael Luo"}],["$","meta","1",{"name":"description","content":"AI is shifting from interaction to delegation. As agents take on real work, reliability becomes the core challenge. This article explores why the future of AI isn’t about better models—but better harnesses that control, guide, and scale agent behavior."}],["$","meta","2",{"name":"keywords","content":"Michael Luo,Software Engineer,Technology Leadership,Creative Portfolio"}],["$","meta","3",{"property":"og:title","content":"Michael Luo — Engineer / Creator / Builder"}],["$","meta","4",{"property":"og:description","content":"Creative showcase — engineering leadership, system architecture, and digital craft."}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Michael Luo — Engineer / Creator / Builder"}],["$","meta","9",{"name":"twitter:description","content":"Creative showcase — engineering leadership, system architecture, and digital craft."}]],"error":null,"digest":"$undefined"}
 18:{"metadata":"$1e:metadata","error":null,"digest":"$undefined"}
 1f:I[8688,["976","static/chunks/cec493ea-cf38a2912d48ae0f.js","202","static/chunks/202-993fd3e4892ffe2f.js","498","static/chunks/498-ca3d597fde13a517.js","723","static/chunks/723-5c5d32f3ac70dbfa.js","953","static/chunks/app/blog/%5Bslug%5D/page-f851d8e904acabf3.js"],"default"]
-20:Ta44,## Holdout cross-validation
-
-A classic and popular approach for estimating the generalization performance of machine learning models is holdout cross-validation.
-
-**Model selection**: tuning and comparing different paramenter settings to further improve the performance for making predictions on unsee data, it refers to a givent classifcation problem for which we want to select the optimal values of tunning parameters. (**Hyperparameters**)
-
-A better way of using holdout method for modle selection is to separate the data into three parts: a traning set, a validation set, and a test set.
-
-The advantage of having a test set that the model hasn't seen before during the training and model selection steps is that we can objtain a less biased estimate of its ability to generalize to new data.
-
-A disadvantage of the holdout method is that the preformance estimate is sensitive to how we partition the training set into the training and validation subsets
-
-## K-fold cross-validation
-
-Randomly split the training dataset into k folds without replacement, wheere k - 1 folds are used for the model training and on fold is use for testing. This procedure is repeated k times so that we obtain k models and performance estimates.
-
-Random sampling without replacement: 2, 1, 3, 4, 0
-Random sampling with replacement: 1, 3, 3, 4, 1
-
-Benefits of cross validation:
-- each example will be in the test set exactly once
-- each example is in one of the folds, and each fold is the test set once
-- having multiple splits of data provides some information about how sensitive our model is to the selection of the traning dataset.
-- it is more effectively than train_test_split
-
-Disadvantage:
-it increase computational cost, since it trains k models instead of a single model, cross validation will be roughly k tims slower than doing a single split of data.
-
-## Debugging algorithms with learning and validation curves
-
-- Diagnosing bias and variance problems with learning curves
-- Addressing overfitting and underfitting with validation curves
-- Fine-tuning machine learning models via grid search
-- Algorithm selection with nested cross-validation
-- Looking at different performance evaluation metrics
-  - precision
-  - recall
-  - F1-score
-  - Receiver operator charateristic (ROC): this graphs are useful tools for selecting models for classification based on their performance with respect to the false positive and ture positive rates, which are computed by shifting the decision threshold of the classifer.
-  - Area under the cureve (AUC) can be computed based on ROC curve to charaterize the performance of a classification model
-21:T16bf,# Harness Engineering: The Real Challenge in the Agentic Era
+20:T16bf,# Harness Engineering: The Real Challenge in the Agentic Era
 
 The AI industry is undergoing a fundamental shift. We are moving from the era of *chatbots* to the era of **agents**.
 
@@ -282,7 +242,7 @@ You are:
 
 Success no longer depends on the model alone.
 
-> **The model is a commodity. The harness is your moat.**22:T44c7,In the previous post, I explored foundational architecture principles such as **separation of concerns**, **modularity**, and **loose coupling**. Those ideas are essential, but principles alone are not enough. At some point, every engineering team needs to translate them into a concrete system shape. That is where **software architecture patterns** come in.
+> **The model is a commodity. The harness is your moat.**21:T44c7,In the previous post, I explored foundational architecture principles such as **separation of concerns**, **modularity**, and **loose coupling**. Those ideas are essential, but principles alone are not enough. At some point, every engineering team needs to translate them into a concrete system shape. That is where **software architecture patterns** come in.
 
 Architecture patterns are proven structural approaches for organizing software systems. They help teams make deliberate trade-offs around **scalability**, **maintainability**, **testability**, **resilience**, and **deployment speed**. They also provide a shared language for discussing how a system should evolve as business needs become more complex.
 
@@ -608,7 +568,7 @@ The real goal is not architectural purity. The real goal is **making change easi
 - *Building Microservices* — Sam Newman  
 - *Domain-Driven Design* — Eric Evans  
 - *Enterprise Integration Patterns* — Gregor Hohpe, Bobby Woolf  
-- *Reactive Design Patterns* — Roland Kuhn  23:T1b62,Modern software systems must evolve quickly, scale efficiently, and remain maintainable under continuous delivery pressure. Solid software architecture isn't about using the latest frameworks—it's about applying **timeless principles** that enable systems to grow, adapt, and perform under real-world conditions.
+- *Reactive Design Patterns* — Roland Kuhn  22:T1b62,Modern software systems must evolve quickly, scale efficiently, and remain maintainable under continuous delivery pressure. Solid software architecture isn't about using the latest frameworks—it's about applying **timeless principles** that enable systems to grow, adapt, and perform under real-world conditions.
 
 This guide outlines the **key software architecture principles** every engineering leader should understand to build scalable, maintainable, and resilient systems.
 
@@ -789,4 +749,236 @@ Investing in architectural principles today pays off in **team velocity, product
 - *Building Microservices* – Sam Newman  
 - *The Twelve-Factor App* – Heroku  
 - *Domain-Driven Design* – Eric Evans  
-11:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24","children":["$","$L1f",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"43ZrKEyGwpw7V6wV5eTFZV","type":"Entry","createdAt":"2021-09-05T01:24:48.165Z","updatedAt":"2021-09-05T01:24:48.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":10,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Machine Learning Model evaluation","slug":"machine-learning-model-evaluation","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Qu7ZFVqByybcU5SwUZdvR","type":"Asset","createdAt":"2021-09-04T00:58:25.141Z","updatedAt":"2021-09-04T00:58:25.141Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"machine-learning","description":"machine-learning","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Qu7ZFVqByybcU5SwUZdvR/58f78d794adcb6d13a48cf49dacc9324/machine-learning-5720531_1280.png","details":{"size":85349,"image":{"width":1280,"height":804}},"fileName":"machine-learning-5720531_1280.png","contentType":"image/png"}}},"description":"methods for Machine Learning Model evaluation","body":"$20","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-05T11:24+10:00","tags":["machine-learning"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3XR77yFcmtBXhGRebhTmuS","type":"Entry","createdAt":"2026-04-02T11:01:53.521Z","updatedAt":"2026-04-02T11:01:53.521Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":26,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Beyond the Chatbot: Mastering Harness Engineering for the Agentic Era","slug":"beyond-the-chatbot-mastering-harness-engineering-for-the-agentic-era","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T10:45:00.691Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/3791a10e401171c2ce83ab0ba3e49e30/image.png","details":{"size":3621103,"image":{"width":2560,"height":1428}},"fileName":"image.png","contentType":"image/png"}}},"description":"AI is shifting from interaction to delegation. As agents take on real work, reliability becomes the core challenge. This article explores why the future of AI isn’t about better models—but better harnesses that control, guide, and scale agent behavior.","body":"$21","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2026-04-02T21:00+11:00","tags":["Harness Engineering","AI"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"76OSBpLU1EsAtvB1z5brSM","type":"Entry","createdAt":"2025-05-14T11:56:06.299Z","updatedAt":"2026-03-26T11:32:34.470Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":24,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Architecture Patterns: A Practical Guide for Designing Scalable Systems","slug":"software-architecture-patterns-a-practical-guide-for-designing-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2K2weCW3yn8JLVNeO4ViLc","type":"Asset","createdAt":"2025-05-14T11:56:00.696Z","updatedAt":"2025-05-14T11:56:00.696Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"A Practical Guide for Designing Scalable Systems","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2K2weCW3yn8JLVNeO4ViLc/d144498668080ab76c46dd738b6aabf9/A_Practical_Guide_for_Designing_Scalable_Systems.png","details":{"size":2702996,"image":{"width":1536,"height":1024}},"fileName":"A Practical Guide for Designing Scalable Systems.png","contentType":"image/png"}}},"description":"Learn key software architecture patterns—including layered, hexagonal, microservices, and event-driven—along with use cases, benefits, and trade-offs to guide modern system design.","body":"$22","author":"$11:props:children:props:recentPosts:0:fields:author","publishDate":"2025-05-14T22:00+10:00","tags":["Software Architecture","Architecture Patterns","Microservices","Layered Architecture","Hexagonal Architecture","Event-Driven Systems","System Design"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"61dIznTcV0uoolFRGkCRtQ","type":"Entry","createdAt":"2025-05-14T11:52:26.201Z","updatedAt":"2025-05-14T11:52:26.201Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Essential Software Architecture Principles for Scalable Systems","slug":"essential-software-architecture-principles-for-scalable-systems","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"VO3575l0Cc6BStji75BZ7","type":"Asset","createdAt":"2025-05-14T11:52:04.193Z","updatedAt":"2025-05-14T11:52:04.193Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Essential Software Architecture Principles for Scalable Systems","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/VO3575l0Cc6BStji75BZ7/a702edf6d6915afeaded848e39cfb2c0/Essential_Software_Architecture_Principles_for_Scalable_Systems.png","details":{"size":2424754,"image":{"width":1536,"height":1024}},"fileName":"Essential Software Architecture Principles for Scalable Systems.png","contentType":"image/png"}}},"description":"Discover foundational software architecture principles that enable scalability, maintainability, and system resilience. Learn how to apply proven patterns to real-world software systems.","body":"$23","author":"$11:props:children:props:recentPosts:0:fields:author","publishDate":"2025-05-14T21:00+10:00","tags":["Software Architecture","Scalable Systems","Design Principles","Microservices","Cloud Architecture","System Design"]}}]}]}]
+23:T221e,Infrastructure as Code (IaC) is a core practice of modern DevOps and cloud engineering. It enables you to **provision, configure, manage, and decommission infrastructure** entirely through code—making infrastructure versionable, testable, and repeatable just like application software.
+
+In this post, you'll learn the categories of IaC tools, common deployment patterns, benefits, best practices, and how IaC fits into cloud-native and scalable system design.
+
+---
+
+## What Is Infrastructure as Code?
+
+Traditionally, infrastructure setup involved manually clicking through web UIs, writing wiki documentation, and hoping someone remembered how the last environment was configured. This process is:
+
+- Error-prone
+- Non-reproducible
+- Undocumented
+- Impossible to version-control or audit
+
+**IaC solves this** by defining infrastructure in code—whether declarative (`.tf`, `.yaml`) or imperative (`.sh`, `.py`)—so that environments can be built, destroyed, and rebuilt **automatically, consistently, and safely.**
+
+---
+
+## Categories of IaC Tools
+
+### 1. **Ad Hoc Scripts**
+
+Quick automation via shell or scripting languages (e.g., **Bash**, **Python**, **Ruby**) is the simplest form of IaC.
+
+**Use cases**:
+- One-off bootstrapping of dev VMs
+- Cron jobs and backups
+- Custom remote install scripts
+
+**Limitations**:
+- Not idempotent
+- Not reusable or testable
+- Hard to scale
+
+Ad hoc scripts are helpful for small tasks but are not sustainable for complex infrastructure.
+
+---
+
+### 2. **Configuration Management Tools**
+
+These tools **ensure infrastructure components are installed, configured, and kept in a desired state**.
+
+| Tool       | Language       | Notable Features                             |
+|------------|----------------|-----------------------------------------------|
+| Ansible    | YAML + Python  | Agentless, idempotent, widely adopted         |
+| Puppet     | DSL            | Agent-based, declarative                     |
+| Chef       | Ruby DSL       | Imperative, flexible                         |
+| SaltStack  | YAML + Python  | High-speed parallel execution                |
+
+**Common use cases**:
+- Install and configure NGINX or MySQL
+- Apply consistent OS settings
+- Patch and update across thousands of servers
+
+---
+
+### 3. **Server Templating and Containerization**
+
+Instead of installing software each time a VM starts, you can **bake everything into a base image**.
+
+| Tool       | Purpose                                  |
+|------------|------------------------------------------|
+| Packer     | Build AMIs or base machine images         |
+| Vagrant    | Dev-focused VM provisioning               |
+| Docker     | Package apps + dependencies into containers|
+
+**Example**:
+```json
+{
+  "builders": [{
+    "type": "amazon-ebs",
+    "ami_name": "myapp-base-image",
+    "instance_type": "t2.micro",
+    "source_ami": "ami-0c55b159cbfafe1f0"
+  }]
+}
+````
+
+Use **Docker** to build application images and **Packer** to generate cloud-optimized base images with Docker preinstalled.
+
+---
+
+### 4. **Immutable Infrastructure**
+
+With**immutable infrastructure**, once a server is deployed, it is**never modified**in place. Instead, any change requires creating a new image and redeploying.
+
+**Advantages**:
+
+* Prevents config drift
+* Easier rollback (just switch AMIs)
+* Safer deployment (fewer unknowns)
+
+**Common approach**:
+
+* Use Packer to create AMI
+* Deploy via Terraform
+* Blue/green or canary rollout via Kubernetes or ECS
+
+---
+
+### 5. **Provisioning Tools**
+
+These tools define and deploy infrastructure components (network, compute, databases, storage) via code.
+
+| Tool               | Highlights                                      |
+| ------------------ | ----------------------------------------------- |
+| Terraform          | Multi-cloud, declarative, modular               |
+| AWS CloudFormation | Native AWS IaC, YAML/JSON based                 |
+| Pulumi             | IaC with general-purpose languages (TS, Python) |
+
+**Terraform Example**:
+
+```hcl
+resource "aws_instance" "web" {
+  ami           = "ami-0c55b159cbfafe1f0"
+  instance_type = "t3.micro"
+}
+```
+
+These tools work well with **GitOps** and CI/CD workflows to deliver environments on demand.
+
+---
+
+### 6. **Orchestration Tools**
+
+Once infrastructure is provisioned and containers built, orchestration ensures the apps are running **at scale and with resilience**.
+
+| Tool         | Key Role                                  |
+| ------------ | ----------------------------------------- |
+| Kubernetes   | Cluster-level orchestration of containers |
+| Amazon ECS   | AWS-managed orchestration                 |
+| Nomad        | Lightweight multi-platform orchestrator   |
+| Docker Swarm | Simpler native Docker orchestration       |
+
+**Kubernetes Features**:
+
+* Declarative YAML
+* Auto-healing (restart failed pods)
+* Auto-scaling
+* Rolling deployments and blue/green support
+* Built-in service discovery
+
+**Example: Kubernetes Deployment**
+
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: myapp
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: myapp
+  template:
+    metadata:
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - name: myapp
+        image: myapp:v1
+        ports:
+        - containerPort: 8080
+```
+
+---
+
+## IaC Deployment Patterns
+
+| Pattern                | Description                                         | Tools Involved                           |
+| ---------------------- | --------------------------------------------------- | ---------------------------------------- |
+| Immutable Deployments  | Recreate infra instead of mutating                  | Packer, Terraform, Kubernetes            |
+| GitOps                 | Infra changes are Git-triggered                     | Terraform + GitHub Actions, ArgoCD       |
+| Blue/Green Deployments | Swap old/new environments for zero-downtime rollout | Load balancer + Terraform + Orchestrator |
+| Infrastructure Modules | Reusable templates across environments              | Terraform modules, CloudFormation stacks |
+
+---
+
+## Best Practices for IaC
+
+1. **Use version control** for all infrastructure code (Git)
+2. **Validate syntax and format** using linters (e.g., `tflint`, `ansible-lint`)
+3. **Use automated testing** (`Terratest`, `kitchen-terraform`, `inspec`)
+4. **Avoid hardcoded secrets**; use Vault, AWS Secrets Manager, or SSM
+5. **Tag and label all resources** for cost tracking and organization
+6. **Design for idempotency**—running the code twice shouldn’t cause errors
+7. **Modularize** your code (e.g., Terraform modules per service or team)
+8. **Use CI/CD** for deploying infrastructure safely and consistently
+9. **Document workflows and architecture** alongside code
+
+---
+
+## Security and Compliance in IaC (Optional but Important)
+
+* **Static Analysis Tools**: tfsec, Checkov, KICS
+* **Drift Detection**: Terraform plan vs. actual state
+* **Policy as Code**: Use OPA (Open Policy Agent) or Sentinel to enforce rules
+* **Secrets Management**: Never store secrets in Git—use encrypted backends
+
+---
+
+## Benefits of Infrastructure as Code
+
+| Benefit              | Description                                                               |
+| -------------------- | ------------------------------------------------------------------------- |
+| Speed & Efficiency   | Faster, automated provisioning across environments                        |
+| Consistency          | Prevents human error and config drift                                     |
+| Reusability          | Define once, reuse everywhere (e.g., staging, prod, dev)                  |
+| Visibility           | Infra changes are logged, reviewed, and auditable                         |
+| Recovery             | Rebuild environments from scratch with minimal effort                     |
+| Collaboration        | Developers and ops teams can share and collaborate on infra logic         |
+| Testing & Validation | Use test frameworks and Git-based workflows to ensure correctness         |
+| Self-service         | Teams can deploy their own infra without ticket queues or ops bottlenecks |
+
+---
+
+## Conclusion
+
+Infrastructure as Code enables you to **treat infrastructure as software**, applying the same principles of version control, automation, testing, and reuse to build stable, scalable systems.
+
+Whether you're managing a single cloud application or deploying hundreds of microservices globally, IaC gives you the tools and discipline to stay **fast, safe, and resilient**.
+
+---
+
+## Further Reading
+
+* *Terraform: Up & Running* – Yevgeniy Brikman
+* *Infrastructure as Code* – Kief Morris
+* *Kubernetes: Up & Running* – Brendan Burns, Joe Beda
+* *The Phoenix Project* – Gene Kim, Kevin Behr, George Spafford
+11:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24","children":["$","$L1f",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3XR77yFcmtBXhGRebhTmuS","type":"Entry","createdAt":"2026-04-02T11:01:53.521Z","updatedAt":"2026-04-02T11:01:53.521Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":26,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Beyond the Chatbot: Mastering Harness Engineering for the Agentic Era","slug":"beyond-the-chatbot-mastering-harness-engineering-for-the-agentic-era","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T10:45:00.691Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/3791a10e401171c2ce83ab0ba3e49e30/image.png","details":{"size":3621103,"image":{"width":2560,"height":1428}},"fileName":"image.png","contentType":"image/png"}}},"description":"AI is shifting from interaction to delegation. As agents take on real work, reliability becomes the core challenge. This article explores why the future of AI isn’t about better models—but better harnesses that control, guide, and scale agent behavior.","body":"$20","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2026-04-02T21:00+11:00","tags":["Harness Engineering","AI"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"76OSBpLU1EsAtvB1z5brSM","type":"Entry","createdAt":"2025-05-14T11:56:06.299Z","updatedAt":"2026-03-26T11:32:34.470Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":24,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Architecture Patterns: A Practical Guide for Designing Scalable Systems","slug":"software-architecture-patterns-a-practical-guide-for-designing-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2K2weCW3yn8JLVNeO4ViLc","type":"Asset","createdAt":"2025-05-14T11:56:00.696Z","updatedAt":"2025-05-14T11:56:00.696Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"A Practical Guide for Designing Scalable Systems","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2K2weCW3yn8JLVNeO4ViLc/d144498668080ab76c46dd738b6aabf9/A_Practical_Guide_for_Designing_Scalable_Systems.png","details":{"size":2702996,"image":{"width":1536,"height":1024}},"fileName":"A Practical Guide for Designing Scalable Systems.png","contentType":"image/png"}}},"description":"Learn key software architecture patterns—including layered, hexagonal, microservices, and event-driven—along with use cases, benefits, and trade-offs to guide modern system design.","body":"$21","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-14T22:00+10:00","tags":["Software Architecture","Architecture Patterns","Microservices","Layered Architecture","Hexagonal Architecture","Event-Driven Systems","System Design"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"61dIznTcV0uoolFRGkCRtQ","type":"Entry","createdAt":"2025-05-14T11:52:26.201Z","updatedAt":"2025-05-14T11:52:26.201Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Essential Software Architecture Principles for Scalable Systems","slug":"essential-software-architecture-principles-for-scalable-systems","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"VO3575l0Cc6BStji75BZ7","type":"Asset","createdAt":"2025-05-14T11:52:04.193Z","updatedAt":"2025-05-14T11:52:04.193Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Essential Software Architecture Principles for Scalable Systems","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/VO3575l0Cc6BStji75BZ7/a702edf6d6915afeaded848e39cfb2c0/Essential_Software_Architecture_Principles_for_Scalable_Systems.png","details":{"size":2424754,"image":{"width":1536,"height":1024}},"fileName":"Essential Software Architecture Principles for Scalable Systems.png","contentType":"image/png"}}},"description":"Discover foundational software architecture principles that enable scalability, maintainability, and system resilience. Learn how to apply proven patterns to real-world software systems.","body":"$22","author":"$11:props:children:props:recentPosts:0:fields:author","publishDate":"2025-05-14T21:00+10:00","tags":["Software Architecture","Scalable Systems","Design Principles","Microservices","Cloud Architecture","System Design"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5TOZqmWzzaz9TGAIEocUKV","type":"Entry","createdAt":"2021-09-23T01:05:34.565Z","updatedAt":"2025-06-15T03:46:44.233Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":177,"revision":10,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Infrastructure as Code (IaC): Tools, Patterns, and Principles","slug":"infrastructure-as-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6FAUCo0HieVKgPpYD0DeRg","type":"Asset","createdAt":"2025-05-14T12:08:25.546Z","updatedAt":"2025-05-14T12:08:25.546Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Infrastructure as Code (IaC) Tools, Patterns, and Principles","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6FAUCo0HieVKgPpYD0DeRg/39a546e174e6624b48a375fb9d38b496/Infrastructure_as_Code__IaC___Tools__Patterns__and_Principles.png","details":{"size":1822054,"image":{"width":1536,"height":1024}},"fileName":"Infrastructure as Code (IaC)_ Tools, Patterns, and Principles.png","contentType":"image/png"}}},"description":"Some notes of Infrastructure as CodeLearn how Infrastructure as Code (IaC) helps automate cloud infrastructure using tools like Terraform, Docker, Kubernetes, Ansible, and Packer. Understand key categories, benefits, and real-world applications.","body":"$23","author":"$11:props:children:props:recentPosts:0:fields:author","publishDate":"2021-09-23T19:00+10:00","tags":["Infrastructure as Code","IaC","Terraform"," Kubernetes","DevOps","Cloud Engineering"]}}]}]}]

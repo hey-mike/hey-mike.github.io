@@ -23,7 +23,7 @@ f:I[3619,["202","static/chunks/202-993fd3e4892ffe2f.js","498","static/chunks/498
 :HL["/_next/static/media/36966cca54120369-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/48663219eb782a14.css","style"]
 :HL["/_next/static/css/b1501ad6c6aeab59.css","style"]
-0:{"P":null,"b":"yBgegHusCz73wFhm4RJnL","p":"","c":["","blog","software-architecture-patterns-a-practical-guide-for-designing-scalable",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","software-architecture-patterns-a-practical-guide-for-designing-scalable","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48663219eb782a14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_dd5b2f font-sans antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{"children":["$","$Ld",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$Le",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}],["$","$Lf",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L10",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","software-architecture-patterns-a-practical-guide-for-designing-scalable","d"],["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L11",["$","$L12",null,{"children":"$L13"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$L15","$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Df8FqwYzodiMjZwMqkK4c",{"children":[["$","$L19",null,{"children":"$L1a"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$1b","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"m_WqATIyYu0Ccr2sRnzme","p":"","c":["","blog","software-architecture-patterns-a-practical-guide-for-designing-scalable",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","software-architecture-patterns-a-practical-guide-for-designing-scalable","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48663219eb782a14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_dd5b2f font-sans antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{"children":["$","$Ld",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$Le",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}],["$","$Lf",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L10",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","software-architecture-patterns-a-practical-guide-for-designing-scalable","d"],["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L11",["$","$L12",null,{"children":"$L13"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$L15","$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","QFnuh4kHcReIED9ToBI3O",{"children":[["$","$L19",null,{"children":"$L1a"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$1b","$undefined"],"s":false,"S":true}
 1c:"$Sreact.suspense"
 1d:I[8919,[],"AsyncMetadata"]
 13:["$","$1c",null,{"fallback":null,"children":["$","$L1d",null,{"promise":"$@1e"}]}]
@@ -359,7 +359,216 @@ The real goal is not architectural purity. The real goal is **making change easi
 - *Building Microservices* — Sam Newman  
 - *Domain-Driven Design* — Eric Evans  
 - *Enterprise Integration Patterns* — Gregor Hohpe, Bobby Woolf  
-- *Reactive Design Patterns* — Roland Kuhn  21:T1b62,Modern software systems must evolve quickly, scale efficiently, and remain maintainable under continuous delivery pressure. Solid software architecture isn't about using the latest frameworks—it's about applying **timeless principles** that enable systems to grow, adapt, and perform under real-world conditions.
+- *Reactive Design Patterns* — Roland Kuhn  21:T16bf,# Harness Engineering: The Real Challenge in the Agentic Era
+
+The AI industry is undergoing a fundamental shift. We are moving from the era of *chatbots* to the era of **agents**.
+
+Until recently, interacting with AI meant a back-and-forth conversation. Today, it means assigning a goal to an AI system that can independently use tools, navigate environments, and execute multi-step workflows.
+
+But there is a quiet reality many developers have already discovered:  
+**agents are unreliable when left on their own.**
+
+The emerging consensus is becoming clear:
+
+> **The agent isn’t the hard part — the harness is.**
+
+This post introduces **Harness Engineering** — the discipline of making AI agents reliable, scalable, and production-ready.
+
+---
+
+## The Shift from Chatbots to Agents
+
+The “Agentic Era” marks a clean break from the past.
+
+We are no longer simply prompting models — we are **delegating work**.
+
+Modern AI systems:
+- Use tools and APIs
+- Navigate files and browsers
+- Execute multi-step reasoning
+- Operate semi-autonomously
+
+This evolution elevates the importance of something often overlooked:
+
+**the harness — the system that governs how the agent operates.**
+
+---
+
+## What is Harness Engineering? (A Useful Metaphor)
+
+The concept of a *harness* comes from horse equipment — reins, saddles, and bits.
+
+- **The Horse** → the AI model  
+  Powerful, fast, and capable — but inherently unpredictable  
+
+- **The Harness** → the infrastructure  
+  The constraints, guardrails, and feedback loops that channel that power  
+
+Harness Engineering is the practice of **designing this environment** — ensuring agents remain controlled while becoming more capable.
+
+---
+
+## The CAR Framework (Control, Agency, Runtime)
+
+![Harness Engineering CAR framework](//images.ctfassets.net/2swoy9jddxd7/7m8sEB1spNIARCPryVpXTv/618dbfa6c8ac52e230ef1cad0856d0d8/image.png)
+
+Reliable agents don’t emerge by chance — they are engineered.  
+The foundation is the **CAR framework**, built on three pillars:
+
+### 1. Control
+
+![Control](//images.ctfassets.net/2swoy9jddxd7/1XgNRIXSYOA1BSbS5qOHop/27eb9820ca98ed7d1af559820998fdea/image.png)
+
+Control defines the constraints under which agents operate:
+- `AGENTS.md` specifications
+- Repository maps
+- Architectural rules
+- Machine-readable policies
+
+These are not optional — they are the *contract* between the system and the agent.
+
+---
+
+### 2. Agency
+
+![Agency](//images.ctfassets.net/2swoy9jddxd7/1TQ7DdlYH5Lhn1xeSX1zfk/6ab74c5d6f18adba8e0b8366e549720c/image.png)
+
+Agency is the **action surface** available to the agent:
+- Tools (CLI, APIs, databases)
+- Browsers and environments
+- Delegation structures (e.g., Planner → Worker)
+
+The key is not unlimited freedom — it’s **structured capability**.
+
+---
+
+### 3. Runtime
+
+![Runtime](//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/189e563103514cc5bd7663eef0938f42/image.png)
+
+Runtime governs execution over time:
+- State persistence
+- Retry mechanisms
+- Rollbacks and recovery
+- Context management and compaction
+
+This is where most real-world systems fail — not in intelligence, but in **execution discipline**.
+
+---
+
+## Loosely-Structured Software (LSS) and Entropy
+
+As multi-agent systems scale, they behave less like deterministic programs and more like **living systems**.  
+With that comes **entropy** — increasing disorder.
+
+Three forms dominate:
+
+### 1. Context Entropy
+The gap between what the agent sees and what it *should* see:
+- Too much → *context pollution*
+- Too little → *context starvation*
+
+---
+
+### 2. Self-Organization Entropy
+Agents and tools connect incorrectly:
+- Wrong tool usage
+- Misaligned delegation
+- Emergent but incorrect workflows
+
+---
+
+### 3. Evolutionary Entropy
+Over time, systems degrade:
+- Prompt drift
+- Instruction corruption
+- “Knowledge rot” from self-modification
+
+---
+
+## Key Design Patterns: Taming Entropy
+
+To manage entropy, Harness Engineering relies on a set of practical patterns:
+
+### Progressive Disclosure
+Start with minimal context. Expand only when uncertainty increases.
+
+---
+
+### Semantic Lens
+A dedicated filtering layer (or agent) that:
+- Reduces large datasets
+- Extracts only relevant information
+- Feeds workers a clean, focused view
+
+---
+
+### Semantic Router
+Routes tasks and information to the *right* agent:
+- Based on meaning, not rules alone
+- Prevents overload and misalignment
+
+---
+
+## Three Dimensions of Scalability
+
+Harness Engineering enables scaling along three independent axes:
+
+### 1. Temporal Scalability
+Keeping a **single agent** effective over long-running tasks.
+
+Achieved through:
+- Planner → Generator → Evaluator separation
+- Avoiding self-evaluation bias
+
+---
+
+### 2. Spatial Scalability
+Running **many agents in parallel**.
+
+Requires:
+- Recursive Planner–Worker architecture
+- Strict information flow (upward aggregation)
+- Isolated execution environments
+
+---
+
+### 3. Interaction Scalability
+Managing systems with **minimal human input**.
+
+Example:
+- Turning tickets (e.g., Linear) into automated execution pipelines
+- Systems like *Symphony* acting as orchestration layers
+
+---
+
+## The Ralph Loop: Iteration Over Perfection
+
+One of the most effective reliability patterns is the **Ralph Loop**.
+
+Mechanism:
+- A **Stop Hook** intercepts premature completion
+- The system checks against a *Completion Promise* (e.g., tests passing)
+- If unmet → the task is re-injected
+
+This transforms failure into **iterative improvement**, not terminal error.
+
+---
+
+## The New Role of the Engineer
+
+In the agentic era, the role of the engineer is shifting.
+
+You are no longer just writing code.
+
+You are:
+- Designing environments
+- Defining constraints
+- Orchestrating systems of intelligence
+
+Success no longer depends on the model alone.
+
+> **The model is a commodity. The harness is your moat.**22:T1b62,Modern software systems must evolve quickly, scale efficiently, and remain maintainable under continuous delivery pressure. Solid software architecture isn't about using the latest frameworks—it's about applying **timeless principles** that enable systems to grow, adapt, and perform under real-world conditions.
 
 This guide outlines the **key software architecture principles** every engineering leader should understand to build scalable, maintainable, and resilient systems.
 
@@ -540,7 +749,7 @@ Investing in architectural principles today pays off in **team velocity, product
 - *Building Microservices* – Sam Newman  
 - *The Twelve-Factor App* – Heroku  
 - *Domain-Driven Design* – Eric Evans  
-22:T221e,Infrastructure as Code (IaC) is a core practice of modern DevOps and cloud engineering. It enables you to **provision, configure, manage, and decommission infrastructure** entirely through code—making infrastructure versionable, testable, and repeatable just like application software.
+23:T221e,Infrastructure as Code (IaC) is a core practice of modern DevOps and cloud engineering. It enables you to **provision, configure, manage, and decommission infrastructure** entirely through code—making infrastructure versionable, testable, and repeatable just like application software.
 
 In this post, you'll learn the categories of IaC tools, common deployment patterns, benefits, best practices, and how IaC fits into cloud-native and scalable system design.
 
@@ -772,173 +981,4 @@ Whether you're managing a single cloud application or deploying hundreds of micr
 * *Infrastructure as Code* – Kief Morris
 * *Kubernetes: Up & Running* – Brendan Burns, Joe Beda
 * *The Phoenix Project* – Gene Kim, Kevin Behr, George Spafford
-23:T1f25,## Introduction
-
-Traditional software deployment processes are often manual, slow, and prone to error. As application architectures and teams scale, the pain of pushing changes to production intensifies—leading to bottlenecks, reduced quality, and mounting technical debt.
-
-To address these challenges, many organizations have embraced **DevOps**: a set of practices, principles, and cultural norms that emphasize collaboration between development and operations teams. At its core, DevOps aims to streamline the **software development lifecycle (SDLC)** and deliver software quickly, reliably, and safely.
-
----
-
-## The Problem with Snowflake Servers
-
-Legacy infrastructure is typically managed manually. Over time, inconsistent updates and ad hoc changes lead to configuration drift—where no two servers are the same. These unique, hard-to-replicate environments are known as **"snowflake servers."**
-
-### Common issues include:
-
-- Inability to reproduce production bugs in staging or dev environments  
-- Unreliable scaling due to inconsistent infrastructure  
-- Increased risk during deployments and disaster recovery
-
-### Solution: Infrastructure as Code (IaC)
-
-DevOps addresses this through **Infrastructure as Code**—defining and provisioning infrastructure using machine-readable code. Tools like Terraform, CloudFormation, and Pulumi help teams version, test, and deploy infrastructure predictably.
-
----
-
-## What Is DevOps?
-
-Gartner defines DevOps as:
-
-> “A change in IT culture, focusing on rapid IT service delivery through the adoption of agile, lean practices in the context of a system-oriented approach. DevOps emphasizes people (and culture), and seeks to improve collaboration between operations and development teams.”
-
-### In Practice, DevOps Is:
-
-- A **mindset** focused on transparency, collaboration, and iteration  
-- A **practice** that emphasizes automation, fast feedback, and continuous delivery  
-- A **culture** of shared ownership, system thinking, and customer-centric outcomes
-
-The primary goal of DevOps is to accelerate delivery without sacrificing quality, by creating a **high-trust, low-friction environment** where change is safe and fast.
-
----
-
-## The CAMS Model: Pillars of DevOps
-
-One of the most widely recognized DevOps frameworks is **CAMS**, which outlines four foundational pillars:
-
-| Pillar      | Description                                                                                   | Tools & Examples                          |
-|-------------|-----------------------------------------------------------------------------------------------|-------------------------------------------|
-| Culture     | Trust, collaboration, blameless retrospectives, shared responsibility                         | Cross-functional teams, postmortems       |
-| Automation  | CI/CD, infrastructure provisioning, testing, compliance                                        | Jenkins, GitHub Actions, Terraform        |
-| Measurement | Data-driven decisions using metrics like deployment frequency, MTTR, and change failure rate | Grafana, Prometheus, Datadog              |
-| Sharing     | Open communication, knowledge sharing, documentation, reusable scripts and playbooks          | Wikis, runbooks, Slack channels           |
-
-This model reinforces the idea that DevOps is not just about tooling—**people and process** matter most.
-
----
-
-## Cargo Cult DevOps: A Common Pitfall
-
-A **cargo cult** occurs when organizations copy surface-level behaviors of successful teams—without understanding the rationale behind them.
-
-### Example:
-
-> A company adopts Kubernetes because large tech firms use it—despite lacking the scale, expertise, or needs for container orchestration.
-
-### How to Avoid This Trap:
-
-- Focus on solving **your specific problems**, not mimicking trends  
-- Ask **why** a practice exists before implementing it  
-- Prioritize context over convention—DevOps is not one-size-fits-all
-
-Sustainable DevOps success requires **intentional, fit-for-purpose decision-making**.
-
----
-
-## How DevOps Works: Core Practices
-
-### 1. Collaboration
-
-- Break down silos between Dev, Ops, QA, and Security  
-- Foster shared accountability for uptime, performance, and delivery  
-- Use rituals like daily standups, retrospectives, and joint planning
-
-### 2. Continuous Integration (CI)
-
-- Developers integrate code into a shared repository frequently  
-- Automated builds and tests run with every commit  
-- Catch issues early to reduce integration risks
-
-**Common Tools**: GitHub Actions, CircleCI, GitLab CI
-
-### 3. Continuous Delivery (CD)
-
-- Code is always in a deployable state  
-- Releases can be pushed to production safely and on demand  
-- Requires strong test automation and confidence in the pipeline
-
-### 4. Continuous Deployment
-
-- Every passing build is automatically deployed to production  
-- Enables rapid iteration and short feedback cycles  
-- Requires observability, rollbacks, and feature toggles
-
-### 5. Continuous Monitoring
-
-- Real-time observability into applications and infrastructure  
-- Track availability, latency, error rates, and usage patterns  
-- Alert teams to potential failures before they impact users
-
-### 6. Automation Everywhere
-
-- Extend automation to compliance, security checks, infrastructure, and testing  
-- Treat everything as code: infrastructure, policy, and documentation  
-- Reduce manual intervention and operational toil
-
----
-
-## A Modern DevOps Toolchain
-
-Here’s a breakdown of commonly used tools across categories in modern DevOps pipelines:
-
-| Category               | Popular Tools                                            |
-|------------------------|----------------------------------------------------------|
-| Version Control        | Git, GitHub, GitLab, Bitbucket                           |
-| CI/CD Pipelines        | Jenkins, GitHub Actions, GitLab CI/CD, Argo CD           |
-| Infrastructure as Code | Terraform, AWS CDK, Pulumi, CloudFormation               |
-| Config Management      | Ansible, Chef, Puppet                                    |
-| Containers             | Docker, Podman                                           |
-| Orchestration          | Kubernetes, Amazon ECS, Nomad                            |
-| Monitoring & Logging   | Prometheus, Grafana, ELK Stack, Datadog, New Relic       |
-| Collaboration          | Slack, Jira, Confluence, Notion                          |
-
-**Note**: Tooling is only effective when integrated thoughtfully into your team’s workflow.
-
----
-
-## DevOps by the Numbers
-
-The 2021 [DORA State of DevOps Report](https://cloud.google.com/devops/state-of-devops) reveals the transformative impact of mature DevOps practices:
-
-| Metric                         | Elite Teams vs. Low Performers |
-|-------------------------------|--------------------------------|
-| Deployment Frequency          | 973x more frequent             |
-| Lead Time for Changes         | 6570x faster                   |
-| Change Failure Rate           | 3x lower                       |
-| Time to Restore Service (MTTR)| 6570x faster                   |
-
-These numbers aren't just technical wins—they drive **business agility, reliability, and customer satisfaction**.
-
----
-
-## Conclusion
-
-DevOps is a fundamental shift in how teams build, deliver, and operate software. It's not just a technical solution—it's a cultural and strategic movement that aligns development and operations around shared goals.
-
-To succeed:
-
-- Start small, then scale  
-- Focus on culture before tools  
-- Automate wisely  
-- Continuously learn and adapt  
-
-Organizations that fully embrace DevOps unlock faster innovation, reduced operational risk, and more resilient systems.
-
----
-
-## Further Reading
-
-- *The Phoenix Project* – Gene Kim, Kevin Behr, George Spafford  
-- *Accelerate: Building and Scaling High Performing Technology Organizations* – Nicole Forsgren, Jez Humble, Gene Kim  
-- *Site Reliability Engineering* – Google SRE Team  
-11:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24","children":["$","$L1f",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"76OSBpLU1EsAtvB1z5brSM","type":"Entry","createdAt":"2025-05-14T11:56:06.299Z","updatedAt":"2026-03-26T11:32:34.470Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":24,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Architecture Patterns: A Practical Guide for Designing Scalable Systems","slug":"software-architecture-patterns-a-practical-guide-for-designing-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2K2weCW3yn8JLVNeO4ViLc","type":"Asset","createdAt":"2025-05-14T11:56:00.696Z","updatedAt":"2025-05-14T11:56:00.696Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"A Practical Guide for Designing Scalable Systems","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2K2weCW3yn8JLVNeO4ViLc/d144498668080ab76c46dd738b6aabf9/A_Practical_Guide_for_Designing_Scalable_Systems.png","details":{"size":2702996,"image":{"width":1536,"height":1024}},"fileName":"A Practical Guide for Designing Scalable Systems.png","contentType":"image/png"}}},"description":"Learn key software architecture patterns—including layered, hexagonal, microservices, and event-driven—along with use cases, benefits, and trade-offs to guide modern system design.","body":"$20","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-14T22:00+10:00","tags":["Software Architecture","Architecture Patterns","Microservices","Layered Architecture","Hexagonal Architecture","Event-Driven Systems","System Design"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"61dIznTcV0uoolFRGkCRtQ","type":"Entry","createdAt":"2025-05-14T11:52:26.201Z","updatedAt":"2025-05-14T11:52:26.201Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Essential Software Architecture Principles for Scalable Systems","slug":"essential-software-architecture-principles-for-scalable-systems","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"VO3575l0Cc6BStji75BZ7","type":"Asset","createdAt":"2025-05-14T11:52:04.193Z","updatedAt":"2025-05-14T11:52:04.193Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Essential Software Architecture Principles for Scalable Systems","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/VO3575l0Cc6BStji75BZ7/a702edf6d6915afeaded848e39cfb2c0/Essential_Software_Architecture_Principles_for_Scalable_Systems.png","details":{"size":2424754,"image":{"width":1536,"height":1024}},"fileName":"Essential Software Architecture Principles for Scalable Systems.png","contentType":"image/png"}}},"description":"Discover foundational software architecture principles that enable scalability, maintainability, and system resilience. Learn how to apply proven patterns to real-world software systems.","body":"$21","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-14T21:00+10:00","tags":["Software Architecture","Scalable Systems","Design Principles","Microservices","Cloud Architecture","System Design"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5TOZqmWzzaz9TGAIEocUKV","type":"Entry","createdAt":"2021-09-23T01:05:34.565Z","updatedAt":"2025-06-15T03:46:44.233Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":177,"revision":10,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Infrastructure as Code (IaC): Tools, Patterns, and Principles","slug":"infrastructure-as-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6FAUCo0HieVKgPpYD0DeRg","type":"Asset","createdAt":"2025-05-14T12:08:25.546Z","updatedAt":"2025-05-14T12:08:25.546Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Infrastructure as Code (IaC) Tools, Patterns, and Principles","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6FAUCo0HieVKgPpYD0DeRg/39a546e174e6624b48a375fb9d38b496/Infrastructure_as_Code__IaC___Tools__Patterns__and_Principles.png","details":{"size":1822054,"image":{"width":1536,"height":1024}},"fileName":"Infrastructure as Code (IaC)_ Tools, Patterns, and Principles.png","contentType":"image/png"}}},"description":"Some notes of Infrastructure as CodeLearn how Infrastructure as Code (IaC) helps automate cloud infrastructure using tools like Terraform, Docker, Kubernetes, Ansible, and Packer. Understand key categories, benefits, and real-world applications.","body":"$22","author":"$11:props:children:props:recentPosts:0:fields:author","publishDate":"2021-09-23T19:00+10:00","tags":["Infrastructure as Code","IaC","Terraform"," Kubernetes","DevOps","Cloud Engineering"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3Ghqn8vPPh07W8BmlB0Tax","type":"Entry","createdAt":"2021-09-22T23:15:10.554Z","updatedAt":"2025-05-13T09:57:00.413Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":117,"revision":9,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"DevOps: A Practical Guide to Modern Software Delivery","slug":"devops","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"119bssZxkeE51FEFgIQekD","type":"Asset","createdAt":"2021-09-22T22:52:18.064Z","updatedAt":"2025-05-12T12:22:54.136Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"DevOps","description":"DevOps","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/119bssZxkeE51FEFgIQekD/f8633f5db7a33a0072e9d3c44a0f5f2e/devops.png","details":{"size":2115839,"image":{"width":1536,"height":1024}},"fileName":"devops.png","contentType":"image/png"}}},"description":"Discover how DevOps transforms software delivery through automation, collaboration, and continuous improvement. Learn core practices, the CAMS model, real-world tools, and pitfalls to avoid.","body":"$23","author":"$11:props:children:props:recentPosts:0:fields:author","publishDate":"2021-09-23T18:00+10:00","tags":["engineering management"]}}]}]}]
+11:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24","children":["$","$L1f",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"76OSBpLU1EsAtvB1z5brSM","type":"Entry","createdAt":"2025-05-14T11:56:06.299Z","updatedAt":"2026-03-26T11:32:34.470Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":24,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Architecture Patterns: A Practical Guide for Designing Scalable Systems","slug":"software-architecture-patterns-a-practical-guide-for-designing-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2K2weCW3yn8JLVNeO4ViLc","type":"Asset","createdAt":"2025-05-14T11:56:00.696Z","updatedAt":"2025-05-14T11:56:00.696Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"A Practical Guide for Designing Scalable Systems","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2K2weCW3yn8JLVNeO4ViLc/d144498668080ab76c46dd738b6aabf9/A_Practical_Guide_for_Designing_Scalable_Systems.png","details":{"size":2702996,"image":{"width":1536,"height":1024}},"fileName":"A Practical Guide for Designing Scalable Systems.png","contentType":"image/png"}}},"description":"Learn key software architecture patterns—including layered, hexagonal, microservices, and event-driven—along with use cases, benefits, and trade-offs to guide modern system design.","body":"$20","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-14T22:00+10:00","tags":["Software Architecture","Architecture Patterns","Microservices","Layered Architecture","Hexagonal Architecture","Event-Driven Systems","System Design"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3XR77yFcmtBXhGRebhTmuS","type":"Entry","createdAt":"2026-04-02T11:01:53.521Z","updatedAt":"2026-04-02T11:01:53.521Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":26,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Beyond the Chatbot: Mastering Harness Engineering for the Agentic Era","slug":"beyond-the-chatbot-mastering-harness-engineering-for-the-agentic-era","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T10:45:00.691Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":4,"revision":1,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/3791a10e401171c2ce83ab0ba3e49e30/image.png","details":{"size":3621103,"image":{"width":2560,"height":1428}},"fileName":"image.png","contentType":"image/png"}}},"description":"AI is shifting from interaction to delegation. As agents take on real work, reliability becomes the core challenge. This article explores why the future of AI isn’t about better models—but better harnesses that control, guide, and scale agent behavior.","body":"$21","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2026-04-02T21:00+11:00","tags":["Harness Engineering","AI"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"61dIznTcV0uoolFRGkCRtQ","type":"Entry","createdAt":"2025-05-14T11:52:26.201Z","updatedAt":"2025-05-14T11:52:26.201Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":15,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Essential Software Architecture Principles for Scalable Systems","slug":"essential-software-architecture-principles-for-scalable-systems","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"VO3575l0Cc6BStji75BZ7","type":"Asset","createdAt":"2025-05-14T11:52:04.193Z","updatedAt":"2025-05-14T11:52:04.193Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Essential Software Architecture Principles for Scalable Systems","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/VO3575l0Cc6BStji75BZ7/a702edf6d6915afeaded848e39cfb2c0/Essential_Software_Architecture_Principles_for_Scalable_Systems.png","details":{"size":2424754,"image":{"width":1536,"height":1024}},"fileName":"Essential Software Architecture Principles for Scalable Systems.png","contentType":"image/png"}}},"description":"Discover foundational software architecture principles that enable scalability, maintainability, and system resilience. Learn how to apply proven patterns to real-world software systems.","body":"$22","author":"$11:props:children:props:recentPosts:0:fields:author","publishDate":"2025-05-14T21:00+10:00","tags":["Software Architecture","Scalable Systems","Design Principles","Microservices","Cloud Architecture","System Design"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"5TOZqmWzzaz9TGAIEocUKV","type":"Entry","createdAt":"2021-09-23T01:05:34.565Z","updatedAt":"2025-06-15T03:46:44.233Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":177,"revision":10,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Infrastructure as Code (IaC): Tools, Patterns, and Principles","slug":"infrastructure-as-code","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6FAUCo0HieVKgPpYD0DeRg","type":"Asset","createdAt":"2025-05-14T12:08:25.546Z","updatedAt":"2025-05-14T12:08:25.546Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":1,"locale":"en-US"},"fields":{"title":"Infrastructure as Code (IaC) Tools, Patterns, and Principles","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6FAUCo0HieVKgPpYD0DeRg/39a546e174e6624b48a375fb9d38b496/Infrastructure_as_Code__IaC___Tools__Patterns__and_Principles.png","details":{"size":1822054,"image":{"width":1536,"height":1024}},"fileName":"Infrastructure as Code (IaC)_ Tools, Patterns, and Principles.png","contentType":"image/png"}}},"description":"Some notes of Infrastructure as CodeLearn how Infrastructure as Code (IaC) helps automate cloud infrastructure using tools like Terraform, Docker, Kubernetes, Ansible, and Packer. Understand key categories, benefits, and real-world applications.","body":"$23","author":"$11:props:children:props:recentPosts:0:fields:author","publishDate":"2021-09-23T19:00+10:00","tags":["Infrastructure as Code","IaC","Terraform"," Kubernetes","DevOps","Cloud Engineering"]}}]}]}]
