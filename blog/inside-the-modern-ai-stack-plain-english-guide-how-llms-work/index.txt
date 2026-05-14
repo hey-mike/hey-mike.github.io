@@ -1,0 +1,1218 @@
+1:"$Sreact.fragment"
+2:I[3463,["498","static/chunks/498-2bb94b5c019f9d84.js","21","static/chunks/21-8e2b088798ada2aa.js","889","static/chunks/889-2d84c1c802489152.js","177","static/chunks/app/layout-aed0389362846064.js"],"default"]
+3:I[8531,["498","static/chunks/498-2bb94b5c019f9d84.js","21","static/chunks/21-8e2b088798ada2aa.js","889","static/chunks/889-2d84c1c802489152.js","177","static/chunks/app/layout-aed0389362846064.js"],"default"]
+4:I[7733,["498","static/chunks/498-2bb94b5c019f9d84.js","21","static/chunks/21-8e2b088798ada2aa.js","889","static/chunks/889-2d84c1c802489152.js","177","static/chunks/app/layout-aed0389362846064.js"],"default"]
+5:I[2763,[],""]
+6:I[5111,[],""]
+7:I[4552,["498","static/chunks/498-2bb94b5c019f9d84.js","21","static/chunks/21-8e2b088798ada2aa.js","345","static/chunks/app/not-found-b9e0267930dfe57d.js"],"default"]
+8:I[3619,["498","static/chunks/498-2bb94b5c019f9d84.js","21","static/chunks/21-8e2b088798ada2aa.js","889","static/chunks/889-2d84c1c802489152.js","177","static/chunks/app/layout-aed0389362846064.js"],""]
+9:I[6498,["498","static/chunks/498-2bb94b5c019f9d84.js","482","static/chunks/app/blog/not-found-89f03323ebeec11a.js"],""]
+b:I[6633,[],"MetadataBoundary"]
+d:I[6633,[],"OutletBoundary"]
+10:I[8919,[],"AsyncMetadataOutlet"]
+12:I[6633,[],"ViewportBoundary"]
+14:I[2862,[],""]
+:HL["/_next/static/media/26d0ba92e140f0dc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fa3e259cafa8f47e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/9f779d7edb21781b.css","style"]
+:HL["/_next/static/css/b1501ad6c6aeab59.css","style"]
+0:{"P":null,"b":"wuUcVqx7DC0fyklZIvoTV","p":"","c":["","blog","inside-the-modern-ai-stack-plain-english-guide-how-llms-work",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","inside-the-modern-ai-stack-plain-english-guide-how-llms-work","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9f779d7edb21781b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_0e4539 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[300] focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","inside-the-modern-ai-stack-plain-english-guide-how-llms-work","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",["$","$Lb",null,{"children":"$Lc"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","LmIU4AIKFucs5u6cXwrbi",{"children":[["$","$L12",null,{"children":"$L13"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
+15:"$Sreact.suspense"
+16:I[8919,[],"AsyncMetadata"]
+c:["$","$15",null,{"fallback":null,"children":["$","$L16",null,{"promise":"$@17"}]}]
+f:null
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+e:null
+17:{"metadata":[["$","title","0",{"children":"Inside the Modern AI Stack: A Plain-English Guide to How LLMs Really Work — Michael Luo"}],["$","meta","1",{"name":"description","content":"Modern AI systems are not magic. They are layered software systems built from tokenizers, embeddings, transformer networks, context management, alignment techniques, retrieval pipelines, tool orchestration, and evaluation frameworks."}],["$","meta","2",{"name":"keywords","content":"Michael Luo,Engineering Leadership,Platform Strategy,Technical Leadership,AI-Native"}],["$","meta","3",{"property":"og:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","4",{"property":"og:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-native ways of working."}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","7",{"property":"og:image:width","content":"1659"}],["$","meta","8",{"property":"og:image:height","content":"948"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","12",{"name":"twitter:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-native ways of working."}],["$","meta","13",{"name":"twitter:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","14",{"name":"twitter:image:width","content":"1659"}],["$","meta","15",{"name":"twitter:image:height","content":"948"}]],"error":null,"digest":"$undefined"}
+11:{"metadata":"$17:metadata","error":null,"digest":"$undefined"}
+18:I[8688,["976","static/chunks/cec493ea-cf38a2912d48ae0f.js","498","static/chunks/498-2bb94b5c019f9d84.js","21","static/chunks/21-8e2b088798ada2aa.js","702","static/chunks/702-c6f74966730b7fab.js","953","static/chunks/app/blog/%5Bslug%5D/page-b0c126c29b8737c7.js"],"default"]
+19:T34bd,Large Language Models feel magical from the outside. You type a question, wait a few seconds, and receive a fluent, structured answer that appears to understand your intent. But under the surface, modern AI systems are not magic. They are layered software systems built from tokenizers, embeddings, transformer networks, context management, alignment techniques, retrieval pipelines, tool orchestration, and evaluation frameworks.
+
+A useful way to understand modern AI is to stop thinking of it as "one model" and start thinking of it as a full-stack system. The model is the engine, but the real product experience comes from everything wrapped around it: memory, tools, documents, APIs, feedback loops, safety controls, and evaluation.
+
+## 1. Tokenization and Embeddings: Turning Language into Machine-Readable Structure
+
+Before an AI model can understand a sentence, it has to convert human language into something a neural network can process.
+
+LLMs do not read words the way humans do. They break text into smaller units called **tokens**. A token might be a whole word, part of a word, punctuation, or even a small character sequence. For example, a rare technical word may be split into several subword fragments, while a common word may remain as a single token.
+
+A good software analogy is a **compiler**. Just as a compiler transforms human-readable source code into bytecode or an intermediate representation, tokenization transforms raw text into a sequence of numerical IDs.
+
+But token IDs alone do not carry meaning. That is where **embeddings** come in. Embeddings map each token into a high-dimensional vector space. In simple terms, they place related ideas close to each other in a mathematical map. "King" and "queen" may sit closer together than "king" and "voltage." "Database," "query," and "index" may cluster together because they often appear in related contexts.
+
+This is why embeddings power semantic search, recommendation systems, vector databases, and many RAG applications. They allow systems to search by meaning rather than exact keyword matching.
+
+The important product lesson is this: **tokenization affects cost, speed, and accuracy**. A poorly handled input can consume too many tokens, reduce available context, and increase API cost. For AI product builders, tokens are not just a technical detail. They are the unit of economics.
+
+## 2. Transformers and Self-Attention: The Engine Behind Modern LLMs
+
+The transformer is the architecture that made modern LLMs possible. Its core innovation is **self-attention**.
+
+A simple way to describe self-attention is this: the model looks at every token in a sequence and decides how much each token should pay attention to every other token.
+
+In the sentence:
+
+> The engineer fixed the bug because it caused the app to crash.
+
+The model needs to understand what "it" refers to. Self-attention helps the model connect "it" back to "the bug," not "the engineer" or "the app."
+
+From a software architecture perspective, self-attention is like a **massively parallel event router**. Instead of processing each word one by one in a strict queue, the transformer examines the whole sequence and dynamically routes contextual information between tokens.
+
+Technically, transformers do this using **Query, Key, and Value** matrices. Each token produces a query, key, and value representation. The model compares queries against keys to calculate relevance, then uses those relevance scores to decide how much information from each value should be passed forward.
+
+This mechanism allows transformers to capture long-range relationships, process training data efficiently on GPUs, and scale to enormous model sizes.
+
+A common misconception is that LLMs "read" text from left to right like humans. During training and prompt processing, transformers process the sequence in parallel. Order is injected through positional encoding techniques, such as Rotary Positional Embeddings. During generation, however, they produce output one token at a time, which is why responses stream progressively.
+
+## 3. Context Window and KV Cache: The Runtime Memory of an LLM
+
+The **context window** is the model's working memory. It defines how many tokens the model can consider at once, including system instructions, chat history, documents, user input, and the answer it is generating.
+
+A 128k-token context window sounds huge, but it is not unlimited. Every instruction, pasted document, retrieved chunk, and generated response competes for the same budget.
+
+The **KV cache** is another critical part of inference. When a model generates text, it does not want to recompute the entire conversation every time it produces a new token. So it caches the Key and Value tensors from previous tokens. This makes generation faster, but it also creates a large memory-management problem.
+
+A good analogy is **session state plus virtual memory**. The context window is the memory allocated to a session. The KV cache is runtime state that grows as the conversation grows. Serving frameworks such as vLLM improve efficiency by managing this memory more intelligently, using techniques like paged attention.
+
+This matters because many AI product bottlenecks are not caused by raw compute alone. During generation, memory bandwidth often becomes the limiting factor. Long context, large batches, and deep models can create latency spikes or out-of-memory failures if the serving infrastructure is poorly designed.
+
+There is also a quality issue. Bigger context does not automatically mean better answers. Models can suffer from the **lost-in-the-middle** problem, where information placed deep inside a long prompt is more likely to be ignored or underweighted.
+
+For product design, this means context engineering is just as important as prompt engineering. The question is not "How much can I stuff into the prompt?" The better question is "What does the model need, where should I place it, and how do I make it easy to use?"
+
+## 4. Alignment: Turning a Raw Predictor into a Useful Assistant
+
+Pre-training gives an LLM broad language and reasoning capability. But a raw pre-trained model is not automatically a helpful assistant. It predicts likely text. It does not naturally know how to follow instructions, refuse unsafe requests, format answers, or behave conversationally.
+
+That is where **alignment** comes in.
+
+The first stage is often **Supervised Fine-Tuning**, or SFT. The model is trained on examples of high-quality instruction-following behavior. This teaches it the shape of helpful answers.
+
+Then techniques such as **Reinforcement Learning from Human Feedback** help refine the model further. In RLHF, humans compare model outputs, and a reward model learns which answers people prefer. The model is then optimized to produce responses that score better under that reward model.
+
+Newer methods such as **Direct Preference Optimization**, or DPO, simplify this process by directly training on preferred versus rejected responses without requiring a separate reward model.
+
+A useful analogy is this: pre-training builds the raw operating system, while alignment adds the user interface, guardrails, defaults, and safety sandbox.
+
+This is also where many people misunderstand fine-tuning. Fine-tuning is usually not the best way to teach a model constantly changing facts. It is better for teaching behavior, tone, structure, or domain-specific response patterns. For fresh or proprietary knowledge, Retrieval-Augmented Generation is usually a better pattern.
+
+## 5. RAG: Giving the Model an Open-Book Exam
+
+Retrieval-Augmented Generation, or **RAG**, is one of the most important patterns in practical AI applications.
+
+Instead of relying only on the model's internal training data, a RAG system retrieves relevant documents at runtime and places them into the prompt. The model then answers using that supplied context.
+
+The simplest analogy is an **open-book exam**. The model may already know a lot, but RAG gives it the specific material it should use for this particular question.
+
+A more technical software analogy is a **runtime database query**. Rather than hardcoding all knowledge into the model weights, the application retrieves relevant information from an external knowledge store when needed.
+
+A typical RAG pipeline includes:
+
+1. splitting documents into chunks
+2. embedding those chunks into vectors
+3. storing them in a vector database
+4. retrieving the most relevant chunks for a user query
+5. optionally reranking the chunks
+6. injecting them into the model's context
+7. generating an answer grounded in the retrieved material
+
+RAG is powerful because it helps reduce hallucination, supports proprietary knowledge, and allows AI systems to work with changing information without retraining the model.
+
+But RAG is not magic. Poor chunking, weak retrieval, irrelevant documents, bad ranking, or excessive context can still produce poor answers. A RAG system is only as good as its retrieval quality and context design.
+
+The key misconception is that putting documents into a prompt "teaches" the model permanently. It does not. The model only has access to those documents during that specific request. Once the request ends, that temporary context disappears unless it is stored somewhere else.
+
+## 6. Agents and Tool Use: From Chatbot to Digital Operator
+
+The next major shift is from passive chatbots to **agentic systems**.
+
+A normal chatbot answers questions. An agent can plan, call tools, inspect results, revise its plan, and continue working toward a goal.
+
+Tool use gives the model external capabilities. It can call a calculator, search the web, query a database, read a file, execute code, create a calendar event, or interact with business systems.
+
+Architecturally, this resembles **microservices orchestration through an API gateway**. The LLM interprets the user's request, decides which tool is needed, generates a structured payload, waits for the tool result, and then continues reasoning.
+
+Importantly, the model itself does not literally browse the web or execute code internally. It emits a tool call request. An external orchestrator executes that request, then returns the result to the model.
+
+This distinction matters because building reliable agents is not just about choosing a stronger model. It is about designing the orchestration layer: permissions, tool schemas, retries, memory, state management, observability, and failure handling.
+
+Agentic systems are powerful because they turn LLMs from text generators into action-taking systems. But they also introduce new risks. If the model has access to real tools, then mistakes can have real-world consequences. That is why strong guardrails, approval flows, audit logs, and bounded permissions are essential.
+
+## 7. Evaluation: The CI/CD Pipeline for AI Quality
+
+Traditional software can be tested with deterministic unit tests. AI systems are harder because outputs are probabilistic, subjective, and context-dependent.
+
+A good AI answer may depend on accuracy, usefulness, tone, safety, format, reasoning quality, latency, cost, and user preference. No single metric captures all of this.
+
+That is why modern AI evaluation uses several layers.
+
+Static benchmarks such as coding tests, knowledge exams, or reasoning datasets provide baseline signals. Human preference testing provides real-world feedback. Arena-style pairwise comparisons allow users to choose which response is better. LLM-as-a-judge systems use strong models to evaluate outputs at scale.
+
+The software analogy is **CI/CD for AI quality**. Evaluation pipelines detect regressions, compare model versions, validate prompts, and measure whether changes improve or degrade the user experience.
+
+However, evaluation has traps. Static benchmarks can be contaminated if test data appears in training data. LLM judges can have biases, such as preferring longer responses, more confident wording, or outputs similar to their own style. Human preference data can also be inconsistent.
+
+The lesson is that AI evaluation must be multi-dimensional. A model with the highest benchmark score is not always the best model for your product. The best model is the one that performs reliably on your actual use case, with your users, your data, your latency requirements, and your risk profile.
+
+## The Bigger Picture: Modern AI Is a System, Not Just a Model
+
+The most important mindset shift is this:
+
+**Modern AI products are not built by simply calling an LLM API. They are built by designing an intelligent system around the model.**
+
+The model matters, but so do the surrounding layers:
+
+* tokenization affects cost and context efficiency
+* embeddings enable semantic search and memory
+* transformers provide the reasoning substrate
+* KV caching affects latency and scalability
+* alignment shapes usability and safety
+* RAG grounds answers in trusted knowledge
+* tools turn language into action
+* agents orchestrate multi-step workflows
+* evaluation keeps quality from drifting
+
+This is why the AI landscape is moving from "prompt engineering" to **AI systems engineering**.
+
+The winners will not simply be the teams using the largest model. They will be the teams that understand how to combine models, retrieval, tools, memory, orchestration, observability, and evaluation into reliable products.
+
+In other words, the future of AI belongs not only to model builders, but to system designers.
+
+The text box is only the surface. The real intelligence is in the architecture behind it.1a:T5d43,For years, most people understood AI through the metaphor of a chatbot. You typed a question, the model replied, and the interaction ended.
+
+That mental model is now outdated.
+
+Modern AI is moving from passive text generation toward **agentic systems**: software architectures where large language models act as reasoning engines inside broader execution frameworks. These systems do not simply answer questions. They plan, call tools, inspect results, revise their approach, use memory, request approvals, and sometimes coordinate with other agents to complete complex work.
+
+The most important shift is this:
+
+**The model is no longer the whole application. It is the reasoning layer inside a much larger operating system of tools, workflows, memory, protocols, sandboxes, and governance.**
+
+This is the real story of agentic AI. Not just smarter prompts. Not just better chat. A new software architecture is emerging.
+
+## 1. AI Models Do Not Actually “Do” Things
+
+Before we talk about agents, we need to correct a common misconception.
+
+AI models do not directly execute actions.
+
+They do not truly send emails, query databases, move money, deploy software, create Jira tickets, edit files, or click buttons by themselves. What they do is generate structured intent.
+
+In modern AI systems, the model acts as the reasoning engine. The surrounding application, runtime, server, or sandbox acts as the execution environment. The model decides what should happen. The system around the model performs the action.
+
+That is the foundation of the **tool-use contract**.
+
+A user gives the system a goal. The model interprets the goal and emits a structured request, often in JSON. The execution layer receives that request, runs the relevant tool or function, captures the result, and returns it to the model. The model then decides whether to continue, correct course, ask for approval, or produce a final answer.
+
+This repeated cycle is often called the **agentic loop**:
+
+```text
+Perceive → Plan → Execute → Observe → Verify → Continue or Finish
+```
+
+This loop is what makes agentic AI feel different from traditional chat. The system is no longer producing one answer. It is operating through a sequence of decisions and actions.
+
+A chatbot says:
+
+> “Here is how you could analyze those sales records.”
+
+An agentic system can:
+
+> Read the files, write a script, run the analysis, identify anomalies, generate a chart, summarize the findings, and create a draft email for human approval.
+
+That is not just a better prompt. That is a different architecture.
+
+## 2. Agents vs Workflows
+
+Not every AI system needs to be an agent. In fact, one of the biggest mistakes in modern AI engineering is using agents where a simple deterministic workflow would be safer, cheaper, and easier to maintain.
+
+A **workflow** is a predefined sequence of steps. It is predictable. It follows rules. Given the same input, it should produce the same output. Workflows are excellent for regulated, repeatable, and safety-critical processes.
+
+Examples include:
+
+```text
+Validate form → Check policy → Route to approver → Send notification
+```
+
+or:
+
+```text
+Receive payment request → Validate account → Run fraud check → Process payment
+```
+
+Workflows are reliable because they are constrained.
+
+An **agent**, by contrast, is adaptive. It can interpret a goal, choose tools, reason through ambiguity, and decide the next step dynamically. Agents are useful when the path to the answer is not known in advance.
+
+Examples include:
+
+```text
+Investigate why a deployment failed
+```
+
+or:
+
+```text
+Research competitors and produce a strategic briefing
+```
+
+or:
+
+```text
+Refactor this codebase while preserving existing behavior
+```
+
+These tasks cannot always be reduced to a fixed path. The agent needs to inspect, decide, act, observe, and adjust.
+
+The practical rule is simple:
+
+**Use workflows when the process is known. Use agents when the path must be discovered. Use both when the system needs adaptability inside controlled boundaries.**
+
+The best production systems are rarely pure agents. They are usually hybrid systems: deterministic workflows for structure and compliance, agents for reasoning and dynamic problem-solving.
+
+## 3. Tool Calling and Function Calling
+
+Tool calling is the mechanism that allows an AI system to interact with the outside world.
+
+A tool could be anything the model is allowed to request:
+
+```text
+Search the web
+Read a file
+Query a database
+Create a calendar event
+Run Python code
+Open a GitHub issue
+Send a Slack message
+Call an internal API
+```
+
+The model does not execute the tool directly. It emits a structured request. The system executes it and returns the result.
+
+**Function calling** is a specific implementation of this idea. In function calling, developers define available functions with names, parameters, and schemas. The model then returns structured arguments for one of those functions.
+
+For example:
+
+```json
+{
+  "function": "search_customer_records",
+  "arguments": {
+    "customer_id": "CUST-12345",
+    "include_recent_cases": true
+  }
+}
+```
+
+The application receives this request, validates it, runs the function, and returns the output to the model.
+
+The distinction is useful:
+
+**Tool calling** is the broader concept.
+**Function calling** is the structured API-level pattern.
+**Agents** are systems that repeatedly use these mechanisms to make progress toward a goal.
+
+In a simple assistant, the model may call one function and stop. In an agentic system, the model may call many tools over multiple steps, using each result to decide the next action.
+
+## 4. MCP: The Interoperability Layer for Agents
+
+This is where **MCP**, or **Model Context Protocol**, becomes important.
+
+As agents become more capable, they need access to more tools and more context: files, databases, APIs, code repositories, browsers, calendars, design tools, observability platforms, CRMs, cloud environments, and internal business systems.
+
+Without a standard protocol, every AI application has to build custom integrations for every external system. That does not scale.
+
+MCP solves this by creating a standard way for AI applications to connect to external tools and context sources. Instead of hardcoding every integration into the AI app, developers can expose capabilities through MCP servers. The AI client can then discover and use those capabilities through a consistent interface.
+
+A simple way to frame it:
+
+**Function calling lets a model call a specific function. MCP standardizes how AI applications connect to many external tools, resources, and context providers.**
+
+For example, an MCP server might expose:
+
+```text
+Read files from a local project
+Search a codebase
+Query a database
+Access GitHub issues
+Inspect logs
+Fetch documentation
+Interact with a design tool
+```
+
+This makes MCP especially relevant for agentic systems because agents need reliable access to the world around them. They need to know what tools exist, what inputs those tools accept, what resources are available, and what permissions apply.
+
+MCP is not the agent itself. It is part of the connective tissue around the agent.
+
+If the LLM is the reasoning engine, MCP is one way to standardize the agent’s access to tools and context.
+
+## 5. Planner/Executor Patterns
+
+As agentic systems become more complex, it becomes useful to separate planning from execution.
+
+In a simple agent, the same model may decide the plan, call tools, inspect results, and produce the final answer. That can work for small tasks. But for larger tasks, it can become messy. The system may lose track of the goal, overuse tools, skip verification, or get distracted by irrelevant context.
+
+The **planner/executor pattern** introduces clearer separation.
+
+The **planner** decides the strategy:
+
+```text
+What is the goal?
+What steps are required?
+Which tools may be needed?
+What risks or constraints matter?
+What should be verified?
+```
+
+The **executor** performs specific actions:
+
+```text
+Call this API
+Run this command
+Read this file
+Query this table
+Apply this code change
+```
+
+A stronger architecture may also include a **verifier**:
+
+```text
+Did the action succeed?
+Did the output match the goal?
+Did tests pass?
+Was anything unsafe or unexpected?
+```
+
+This creates a more disciplined loop:
+
+```text
+Planner → Executor → Verifier → Planner
+```
+
+The planner updates the strategy based on what the executor and verifier discover.
+
+This pattern matters because production agents need control. We do not want a model blindly taking actions. We want a system that can reason, act, check, and revise.
+
+In software engineering, this might look like:
+
+```text
+Planner: identify the likely cause of a failing test
+Executor: inspect files and run targeted commands
+Verifier: confirm whether the test now passes
+Planner: decide whether more changes are needed
+```
+
+In business operations, it might look like:
+
+```text
+Planner: determine what information is needed for a customer escalation
+Executor: gather CRM notes, support tickets, and account history
+Verifier: check whether the evidence supports the recommendation
+Planner: produce a response for human approval
+```
+
+The more serious the use case, the more valuable this separation becomes.
+
+## 6. Single-Agent vs Multi-Agent Systems
+
+A **single-agent system** uses one agent to interpret the goal, manage the task, call tools, and produce the result.
+
+Single-agent systems are useful when the task is focused, the toolset is limited, and the relevant context can fit within one working memory. They are simpler to build, easier to debug, and often cheaper to run.
+
+Examples include:
+
+```text
+Summarize a document
+Generate a report from one dataset
+Fix a small bug
+Answer a question using a few tools
+```
+
+But single-agent systems have limits. As the task grows, the context window can become overloaded. The model may see too much information, lose focus, select the wrong tool, or carry forward a bad assumption from an earlier step.
+
+A **multi-agent system** breaks work across specialized agents.
+
+For example:
+
+```text
+Manager agent → coordinates the task
+Research agent → gathers information
+Coding agent → modifies implementation
+Review agent → checks quality
+Security agent → checks risk
+Verifier agent → confirms outcome
+```
+
+This can improve focus because each agent receives a narrower context. A research agent does not need the full implementation history. A security reviewer does not need every brainstorming note. A coding agent does not need the full executive summary.
+
+Multi-agent systems are useful when tasks are complex, parallel, or multi-domain.
+
+But they are not free. They introduce coordination overhead. Agents may duplicate work, disagree, pass poor context to each other, or increase latency and cost.
+
+So the design principle is:
+
+**Start with the simplest architecture that works. Move from workflow to single agent to multi-agent only when the task complexity justifies it.**
+
+Multi-agent architecture is powerful, but it is not automatically better.
+
+## 7. Agent Memory and Context Engineering
+
+A human worker does not operate only from the current sentence. They rely on memory: what they know, what they have seen before, what they are trying to achieve, what happened earlier, and what preferences or constraints matter.
+
+Agents need memory too, but memory must be engineered carefully.
+
+There are several useful types of agent memory.
+
+**Short-term memory** is the immediate conversation or task context. It contains the current user request, recent tool results, and active instructions.
+
+**Working memory** is the temporary scratchpad used during a task. This may include intermediate notes, partial calculations, task state, or a plan.
+
+**Long-term memory** stores persistent information across sessions, such as user preferences, project facts, prior decisions, or known constraints.
+
+**Episodic memory** stores previous task traces. For example, how a similar incident was resolved last time.
+
+**Semantic memory** stores general knowledge or reusable concepts, often retrieved through RAG.
+
+**Procedural memory** stores learned ways of doing things, such as preferred workflows, coding conventions, review checklists, or operational playbooks.
+
+This is where **context engineering** becomes more important than simple prompt engineering.
+
+Prompt engineering asks:
+
+```text
+What should I tell the model?
+```
+
+Context engineering asks:
+
+```text
+What should the model know right now?
+What should be hidden?
+What should be retrieved?
+What should be summarized?
+What should be stored outside the context window?
+What should be isolated in another agent or sandbox?
+```
+
+This matters because the model’s context window is not infinite, and more context is not always better.
+
+Too little context makes the agent ignorant.
+Too much context makes it distracted.
+Wrong context makes it dangerous.
+Stale context makes it misleading.
+
+A production-grade agent needs deliberate context management: selecting relevant information, compressing long histories, writing durable state outside the prompt, and isolating heavy data from the model unless needed.
+
+This is one of the biggest shifts in modern AI engineering:
+
+**Prompt engineering tells the model what to do. Context engineering designs the environment in which the model thinks.**
+
+## 8. Programmatic Tool Calling and Code Execution
+
+One of the most important advances in agentic systems is **programmatic tool calling**, also known as code execution.
+
+In a naive agent loop, the model calls tools one by one and pulls every intermediate result back into its context window. That quickly becomes inefficient.
+
+Imagine an agent needs to analyze thousands of expense records. A weak design would retrieve all records, stuff them into the context window, and ask the model to reason through them. That is expensive, slow, and error-prone.
+
+A better design lets the model write and run code.
+
+The agent can generate a Python or TypeScript script that:
+
+```text
+Loads the records
+Filters irrelevant rows
+Groups expenses by employee
+Calculates totals
+Detects policy breaches
+Produces a final summary
+```
+
+Only the final result needs to return to the model.
+
+This is powerful because code is better than language models at deterministic computation. The model should not manually reason over thousands of rows. It should write code, execute the code, and interpret the output.
+
+This pattern makes agents more scalable because large data processing can happen outside the model’s context window.
+
+The model provides judgment.
+The code provides computation.
+The sandbox provides safe execution.
+
+## 9. Sandboxing: Safe Places for Agents to Work
+
+If agents can write code, run commands, edit files, or interact with systems, they need safe execution environments.
+
+A sandbox is an isolated workspace where an agent can operate without directly endangering production systems or the user’s machine.
+
+A good sandbox may provide:
+
+```text
+A temporary filesystem
+A terminal
+A package manager
+A code editor
+Test execution
+Network restrictions
+Secret isolation
+Resource limits
+Audit logs
+```
+
+This allows the agent to inspect code, run tests, make changes, and verify outcomes in a controlled environment.
+
+Sandboxing matters because tool use increases risk. An agent with poorly constrained shell access could delete files, leak secrets, consume resources, or make unintended changes.
+
+The goal is not to prevent agents from acting. The goal is to let them act within a bounded environment.
+
+For software engineering agents, this is essential. The agent should be able to explore and test, but not freely mutate production infrastructure. It should work in a branch, a container, a microVM, or another isolated runtime before changes are reviewed and committed.
+
+The principle is:
+
+**Give the agent enough freedom to solve the problem, but not enough freedom to create uncontrolled damage.**
+
+## 10. Human-in-the-Loop and Approval Gates
+
+As agents become more autonomous, approvals become more important.
+
+Not every action needs human approval. If an agent reformats a local draft or summarizes a document, automatic execution may be fine. But if the action is irreversible, regulated, expensive, public, or high-impact, the agent should not directly commit the change.
+
+It should propose.
+
+This is the principle of **separating intent from execution**.
+
+The agent can generate a structured proposed action:
+
+```json
+{
+  "action": "send_customer_email",
+  "recipient": "customer@example.com",
+  "subject": "Update on your support case",
+  "risk_level": "medium",
+  "evidence": [
+    "Case notes reviewed",
+    "Refund policy checked",
+    "Manager approval required"
+  ]
+}
+```
+
+Then the system pauses and routes the proposal to a human reviewer.
+
+The reviewer can approve, reject, edit, or request more information.
+
+This pattern is critical for:
+
+```text
+Sending customer communications
+Changing production systems
+Approving financial transactions
+Deleting or modifying important data
+Granting access permissions
+Making legal, compliance, or HR-sensitive decisions
+```
+
+Approval design can vary by risk level.
+
+For low-risk actions, the system may use automatic approval.
+For medium-risk actions, it may require one human reviewer.
+For high-risk actions, it may require two-person approval.
+For mature workflows, it may use exception-only review.
+For regulated environments, it may require a full evidence pack and audit trail.
+
+This is how organizations move from manual work to supervised autonomy.
+
+The objective is not blind automation. It is controlled delegation.
+
+## 11. Guardrails and Policy Enforcement
+
+Human approval is one kind of guardrail, but production systems need more than that.
+
+They also need automated policy enforcement.
+
+A model may request an action that looks plausible but violates a rule. For example:
+
+```text
+Access a file it should not read
+Call an API outside its permission scope
+Send data to an external service
+Run a destructive shell command
+Modify production configuration
+Expose credentials in a response
+```
+
+Guardrails should sit around the model, not only inside the prompt.
+
+That means the system should enforce:
+
+```text
+Tool permissions
+Role-based access control
+Data boundaries
+Rate limits
+Allowed action types
+Blocked commands
+Approval thresholds
+Logging and auditability
+```
+
+The model may reason, but the platform must govern.
+
+A serious production agent should never rely only on “the model knows not to do that.” The system itself must prevent dangerous behavior.
+
+This is especially important in enterprise environments, where AI agents may interact with customer data, financial systems, internal platforms, cloud infrastructure, and regulated workflows.
+
+## 12. Idempotency and Verification
+
+Agentic systems are still software systems. In fact, they are often distributed systems with probabilistic reasoning inside them.
+
+That means traditional engineering discipline becomes more important, not less.
+
+One essential concept is **idempotency**.
+
+If an agent retries an action after a timeout, the system must not accidentally perform the same side effect twice. For example, it should not send the same customer email twice, create duplicate tickets, approve the same payment twice, or apply the same database update multiple times.
+
+This is why approved actions should use idempotency keys.
+
+Another essential concept is **verification**.
+
+After an agent acts, the system should check whether the action actually worked.
+
+Examples:
+
+```text
+Did the file change correctly?
+Did the tests pass?
+Was the ticket created?
+Did the database update affect the expected rows?
+Was the email saved as a draft?
+Did the deployment succeed?
+Did monitoring show recovery?
+```
+
+A weak agent acts and assumes success.
+
+A strong agent acts, observes, verifies, and corrects.
+
+That is the difference between a demo and a production system.
+
+## 13. Agent Evaluation
+
+Evaluating agents is harder than evaluating simple chatbot responses.
+
+A chatbot can be judged on the final answer. An agent must be judged on the full trajectory.
+
+Did it understand the goal?
+Did it choose the right tools?
+Did it avoid unnecessary actions?
+Did it recover from errors?
+Did it verify the result?
+Did it follow safety rules?
+Did it stop at the right time?
+Did it ask for approval when needed?
+
+This requires multiple types of evaluation.
+
+**Outcome evals** check whether the final result was correct.
+
+**Trajectory evals** check whether the agent followed a sensible path.
+
+**Safety evals** check whether the agent avoided dangerous actions.
+
+**Regression evals** check whether previously reliable capabilities still work after changes.
+
+**Capability evals** test whether the agent can handle harder tasks.
+
+**Cost and latency evals** check whether the agent solved the task efficiently.
+
+A mature agent platform should capture real execution traces, review failures, convert failures into test cases, and use those tests to improve prompts, tools, policies, and orchestration logic.
+
+This creates an **agent improvement loop**:
+
+```text
+Run agent → Capture trace → Evaluate outcome and trajectory → Identify failure → Create regression test → Improve system → Run again
+```
+
+This is where agent development starts to look like modern software engineering.
+
+You need observability.
+You need tests.
+You need review.
+You need versioning.
+You need feedback loops.
+
+Agents do not become reliable by accident. They become reliable through systematic evaluation.
+
+## 14. The Production Agent Stack
+
+When you put all of this together, a production-grade agentic system is not just an LLM with a prompt.
+
+It is a layered architecture.
+
+```text
+User goal
+↓
+Agent orchestration layer
+↓
+Planner / executor / verifier pattern
+↓
+Tool calling and function calling
+↓
+MCP and integration layer
+↓
+Context engineering and memory
+↓
+Sandboxed execution environment
+↓
+Human approval and policy gates
+↓
+Deterministic workflows and system APIs
+↓
+Observability, evaluation, and audit trails
+```
+
+Each layer solves a different problem.
+
+The LLM provides reasoning.
+Tools provide capability.
+Function calling provides structured action.
+MCP provides integration standardization.
+Memory provides continuity.
+Context engineering controls what the model sees.
+The planner/executor pattern structures action.
+Sandboxes reduce execution risk.
+Approvals preserve human control.
+Workflows provide reliability.
+Evals drive continuous improvement.
+
+This is the real architecture of agentic AI.
+
+## 15. The Future Is Not “Agents Everywhere”
+
+The future of AI is not simply replacing every workflow with an autonomous agent.
+
+That would be dangerous, expensive, and unnecessary.
+
+The better future is **agentic systems inside governed workflows**.
+
+In this future, deterministic systems still handle what must be predictable. Agents handle ambiguity, reasoning, investigation, synthesis, and dynamic decision-making. Humans remain involved where judgment, accountability, ethics, or high-impact approval is required.
+
+The winning systems will not be the ones that give agents unlimited freedom.
+
+They will be the ones that combine:
+
+```text
+Autonomy with control
+Reasoning with verification
+Memory with context discipline
+Tool use with permissions
+Speed with approval gates
+Adaptability with deterministic guardrails
+```
+
+This is why modern AI architecture is not just about choosing the best model.
+
+It is about designing the system around the model.
+
+The next generation of AI products will not feel like chatbots. They will feel like coordinated digital teams: able to reason, use tools, remember context, execute tasks, verify results, and collaborate with humans.
+
+But the teams that succeed will be the ones that understand the deeper lesson:
+
+**Agentic AI is not a feature. It is an architecture.**
+1b:T3b6e,Retrieval-Augmented Generation, or RAG, started as a practical workaround for a simple problem: large language models do not know everything, and they are often out of date. The early solution was straightforward. Take a user's question, search a vector database, retrieve a few relevant chunks, place them into the prompt, and ask the model to answer.
+
+That basic pattern still works for prototypes. But it is no longer enough for serious enterprise AI.
+
+Modern RAG has evolved from a lightweight wrapper around a vector store into a full knowledge architecture. It now involves document parsing, chunking strategy, embedding design, hybrid search, reranking, graph-based reasoning, agentic orchestration, evaluation pipelines, and governance. In other words, RAG is no longer just "search plus LLM." It is becoming the operating layer for enterprise knowledge systems.
+
+## Why RAG Matters More Than Ever
+
+The promise of enterprise AI is not simply that a model can write fluent text. The real value comes when AI can reason over the organisation's actual knowledge: policies, contracts, architecture documents, support tickets, product manuals, meeting notes, customer records, codebases, and operational data.
+
+That is where pure language models fall short.
+
+A model's training data is static. It may not know your company's latest product decision, your internal risk policy, your system dependency map, or the exact customer case being discussed this morning. RAG solves this by giving the model access to relevant external knowledge at inference time.
+
+But the quality of the answer depends heavily on the quality of the retrieval layer. If the wrong context is retrieved, the model will produce a polished but unreliable answer. If the retrieved context is noisy, incomplete, stale, or poorly structured, the model's reasoning will degrade.
+
+This is why modern RAG should be treated as an engineering discipline, not just a prompt engineering technique.
+
+## The First Bottleneck: Chunking
+
+Every RAG system begins with a deceptively simple question: how should documents be broken down?
+
+This matters because chunking sets the ceiling for what the model can know. If a document is split badly, the relevant meaning may be scattered across multiple chunks, or the model may receive only half of the idea it needs.
+
+The simplest and most common method is recursive character splitting. It breaks documents into chunks while trying to respect natural boundaries such as paragraphs, sentences, and words. For many use cases, this is good enough. A typical production starting point is somewhere around 400 to 512 tokens per chunk with a small overlap between chunks.
+
+But more advanced systems are moving beyond fixed-size splitting.
+
+Semantic chunking looks at meaning rather than length. It groups sentences together until the semantic similarity shifts significantly, then creates a break. This can improve retrieval because each chunk is more conceptually coherent. The downside is cost: every sentence needs to be embedded or analysed.
+
+Page-level chunking is especially useful for PDFs, financial reports, and table-heavy documents. Instead of breaking content purely by text length, each page becomes a retrieval unit. This preserves visual and document structure, which can matter a lot when interpreting reports, forms, invoices, or regulatory material.
+
+Then there is late chunking, a newer technique where the model first processes the entire document before chunks are created. This means each chunk can carry broader document-level context. For example, a pronoun or abbreviation inside one chunk can still retain meaning from an earlier part of the document.
+
+The lesson is simple: chunking is not a preprocessing detail. It is a core design decision.
+
+## Vector Search Is Powerful, but Not Enough
+
+Once documents are chunked, they are usually converted into embeddings. These embeddings place text into a high-dimensional vector space where related meanings sit closer together. When a user asks a question, the query is embedded and compared against stored document embeddings.
+
+This is the foundation of semantic search.
+
+Vector databases make this possible at scale. Instead of comparing a query against every single document, they use Approximate Nearest Neighbour algorithms to search quickly across millions or billions of vectors.
+
+Different indexing approaches offer different trade-offs.
+
+FLAT search compares the query against every vector. It is accurate but slow at scale.
+
+IVF clusters vectors into groups and searches only the most relevant clusters. It is faster but may miss some results.
+
+HNSW builds a graph-like structure that allows very fast search with high recall. It has become one of the most common production choices, although it can require significant memory.
+
+The vector database market has also matured. Pinecone focuses on managed production scale. Qdrant is known for performance and strong metadata filtering. Weaviate is strong in hybrid search. Milvus and Zilliz are built for very large-scale vector workloads. LanceDB is emerging as an AI-native lakehouse approach where vectors live closer to the underlying data.
+
+But vector search has a weakness: it is not always good at exact matching.
+
+If the user asks about an invoice ID, a policy number, a code name, a customer reference, or a very specific phrase, semantic similarity may not be enough. The system needs lexical precision.
+
+That is where hybrid search comes in.
+
+## Hybrid Search: Combining Meaning and Precision
+
+A mature RAG system usually combines semantic search with keyword search.
+
+Semantic search is good at understanding meaning. Keyword search is good at exact matches. Hybrid search brings both together.
+
+For example, if a user asks, "What does policy ABC-472 say about access reviews?", a pure vector search may retrieve documents about access reviews generally but miss the exact policy. A keyword search may find the exact policy but miss related explanations. A hybrid system can do both.
+
+Techniques such as BM25, SPLADE, and Reciprocal Rank Fusion allow the system to merge results from different retrieval methods into a stronger candidate set.
+
+This is one of the biggest differences between demo RAG and production RAG. In a demo, semantic search alone may look impressive. In enterprise environments, exactness matters. Names, IDs, dates, clauses, and system identifiers cannot be treated loosely.
+
+## Reranking: The Precision Layer
+
+After the first retrieval step, the system may have 20, 50, or even 100 candidate chunks. But not all of them are equally useful.
+
+This is where reranking comes in.
+
+Initial retrieval is usually optimised for speed. It finds a broad set of likely relevant documents. Reranking is optimised for precision. It re-evaluates the query and each candidate document together, then ranks the best results at the top.
+
+This matters because the final LLM answer is only as good as the context it receives. A reranker acts like a quality gate between retrieval and generation.
+
+Modern rerankers can also follow instructions. For example, they can be told to prioritise titles, ignore abstracts, prefer recent documents, or favour policy documents over informal notes. This makes retrieval more controllable and business-aware.
+
+In practical terms, reranking is one of the highest-impact upgrades for a RAG system. Before jumping to exotic architectures, many teams should first improve retrieval quality with hybrid search and reranking.
+
+## GraphRAG: When Knowledge Is Relational
+
+Traditional RAG is strong when the answer lives in a small number of relevant chunks. But some questions require understanding relationships.
+
+For example:
+
+"How are these suppliers connected to this operational risk?"
+
+"Which systems depend on this deprecated service?"
+
+"What legal precedents are related across multiple cases?"
+
+"What themes are emerging across hundreds of customer complaints?"
+
+These are not simple lookup questions. They require multi-hop reasoning.
+
+GraphRAG addresses this by converting documents into entities and relationships. Instead of treating knowledge as isolated chunks, it builds a knowledge graph.
+
+A graph might represent facts as relationships such as:
+
+Customer A uses Product B. Product B depends on Service C. Service C is owned by Team D. Team D has an unresolved operational risk.
+
+With this structure, the system can traverse connections and reason across them.
+
+Local GraphRAG starts from entities in the user's query and explores nearby relationships. This is useful for targeted, multi-hop questions.
+
+Global GraphRAG looks across the whole graph, detects communities or clusters, and generates summaries of broader domains. This is useful for large-scale synthesis, such as summarising patterns across many documents.
+
+However, GraphRAG is not free. It requires entity extraction, relationship extraction, graph maintenance, deduplication, metadata governance, and ongoing freshness management. If the graph is poorly maintained, it can create more confusion than value.
+
+The sensible approach is not "use GraphRAG everywhere." It is to start with strong traditional RAG, then introduce GraphRAG only where the use case genuinely requires relational reasoning.
+
+## Agentic RAG: From Static Pipeline to Dynamic Reasoning
+
+The next major evolution is agentic RAG.
+
+Classic RAG follows a fixed path: retrieve, augment, generate. Agentic RAG is more dynamic. The system can decide what to do based on the user's intent, the complexity of the question, and the quality of retrieved evidence.
+
+Several patterns are emerging.
+
+An agentic router can decide whether a query should go to vector search, SQL, web search, an internal API, or a knowledge graph.
+
+Adaptive RAG can classify the complexity of the question. A simple factual query may need only one retrieval step. A complex question may require multiple rounds of search and reasoning.
+
+Corrective RAG evaluates whether the retrieved documents are good enough. If they are weak, ambiguous, or irrelevant, the system can search again or use another tool.
+
+Self-reflective RAG allows the model to critique its own retrieval and answer quality. It can decide whether more evidence is needed before responding.
+
+Speculative RAG uses a smaller model to generate candidate answers quickly, while a larger model verifies and selects the best response. This can reduce latency while preserving quality.
+
+This is where RAG starts to feel less like a search pipeline and more like an intelligent research assistant.
+
+## Does Long Context Replace RAG?
+
+A common question is whether million-token context windows make RAG obsolete.
+
+The answer is no.
+
+Long-context models are powerful, but they do not remove the need for retrieval. They change how retrieval should be designed.
+
+There are three main reasons.
+
+First, cost and latency. Sending huge amounts of text into a model is expensive and slow. In many enterprise use cases, it is far more efficient to retrieve the most relevant 2,000 to 10,000 tokens than to pass an entire document library into the prompt.
+
+Second, context degradation. Even if a model can technically accept a huge context window, it may not reliably use every part of that context. Important details buried in the middle can be missed.
+
+Third, scale and freshness. RAG can search across live systems, databases, APIs, and hundreds of millions of documents. A context window is still bounded. Retrieval lets the system select what matters now.
+
+The best architecture is not "RAG versus long context." It is retrieval-first, long-context containment.
+
+In other words, use RAG to filter a massive knowledge space into a concentrated, high-signal context package. Then use a long-context model to reason deeply over that curated material.
+
+## Evaluation: The Missing Discipline in Many RAG Projects
+
+Many RAG systems fail not because the idea is wrong, but because teams do not evaluate them properly.
+
+A RAG system has multiple possible failure points. It may retrieve the wrong documents. It may retrieve the right documents but include too much noise. It may generate an answer that is not supported by the retrieved context. Or it may answer fluently but miss the user's actual intent.
+
+Modern evaluation frameworks such as RAGAS, TruLens, and DeepEval focus on three key dimensions:
+
+Context relevance: did the system retrieve useful information?
+
+Faithfulness: is the answer grounded in the retrieved context?
+
+Answer relevance: did the answer actually address the question?
+
+This evaluation needs to be part of CI/CD. When teams change chunking strategies, embedding models, prompts, rerankers, or document ingestion logic, they need regression tests. Otherwise, a system can silently get worse.
+
+But there is another layer that matters even more in enterprises: context governance.
+
+The system should know which documents are current, which are deprecated, who owns them, when they were last reviewed, whether they are authoritative, and whether the user is allowed to access them.
+
+A RAG system without governance is just a faster way to spread stale or unauthorised information.
+
+## What a Modern RAG Architecture Looks Like
+
+A strong enterprise RAG architecture usually includes several layers:
+
+The ingestion layer parses documents, extracts metadata, handles permissions, and tracks freshness.
+
+The chunking layer chooses the right strategy for each document type.
+
+The embedding layer converts content into semantic representations.
+
+The retrieval layer combines vector search, keyword search, metadata filtering, and sometimes graph traversal.
+
+The reranking layer improves precision before generation.
+
+The orchestration layer decides which tools or retrieval paths to use.
+
+The generation layer produces the final answer with citations and guardrails.
+
+The evaluation layer continuously measures retrieval and answer quality.
+
+The governance layer manages access control, lineage, freshness, ownership, and compliance.
+
+This is why RAG is becoming a serious architecture concern. It touches data engineering, AI engineering, security, platform engineering, product design, and enterprise governance.
+
+## The Real Future of RAG
+
+The future of RAG is not just better vector search. It is the emergence of intelligent knowledge systems.
+
+These systems will not simply retrieve documents. They will understand intent, inspect evidence, compare sources, reason across relationships, detect uncertainty, cite their work, and know when not to answer.
+
+For engineering leaders, this creates a major opportunity. RAG is not just a technical capability; it is a way to make organisational knowledge usable. It can reduce support load, accelerate onboarding, improve decision-making, preserve institutional memory, and help teams operate with more clarity.
+
+But the winning systems will not be the ones with the flashiest demos. They will be the ones with the strongest foundations: clean data, thoughtful chunking, hybrid retrieval, precise reranking, robust evaluation, secure access control, and continuous governance.
+
+The next generation of enterprise AI will not be powered by language models alone.
+
+It will be powered by well-engineered context.1c:T32e9,For the first wave of generative AI adoption, everyone talked about "prompt engineering."
+
+The idea was simple: if you could phrase your request better, the model would give you a better answer. Add more detail. Give examples. Tell it to act like an expert. Ask it to think step by step. For many use cases, that worked surprisingly well.
+
+But as AI systems move from simple chatbots to autonomous agents, coding assistants, research copilots, enterprise workflow tools, and multi-step reasoning systems, prompt engineering by itself is no longer enough.
+
+The real discipline is now **context engineering**.
+
+Prompting is about what you say to the model.
+
+Context engineering is about everything the model is allowed to see, remember, retrieve, use, and act on.
+
+That difference matters because modern AI systems are not just responding to isolated instructions. They are operating inside a carefully designed environment made up of system prompts, memory, retrieved documents, tool definitions, API outputs, schemas, user preferences, prior decisions, and task-specific data. The quality of that environment determines whether the AI behaves like a helpful assistant, a confused intern, or a reliable digital colleague.
+
+## From Prompt Engineering to Context Engineering
+
+Traditional prompt engineering focused heavily on wording.
+
+You learned to write clearer instructions. You experimented with tone. You added examples. You asked the model to follow a specific format. This was useful, but it treated the model as a text-completion engine that simply needed better instructions.
+
+Context engineering takes a more systemic view.
+
+It asks:
+
+What should the model know before answering?
+
+What should it not see?
+
+Which memories are relevant?
+
+Which documents should be retrieved?
+
+Which tools should be available?
+
+How should outputs be structured?
+
+How do we prevent hallucinations?
+
+How do we manage long conversations without overwhelming the model?
+
+This shift is important because large language models have a finite **attention budget**. Even if a model supports a massive context window, it does not mean every token receives equal attention. More context can help, but it can also confuse the model if the information is noisy, stale, duplicated, or poorly structured.
+
+In other words, bigger context windows do not remove the need for context engineering. They make it more important.
+
+## The New Skill: Designing the Model's Environment
+
+A useful way to think about context engineering is to imagine the AI model as a very capable but highly literal worker.
+
+It can reason, write, summarize, classify, code, and operate tools. But it only knows what you place in front of it. It does not automatically understand which piece of information is most important unless the surrounding system makes that clear.
+
+This is why modern AI systems need deliberate context design.
+
+A strong AI application usually manages context across three layers.
+
+The first is the **persistent layer**. This includes system instructions, role definitions, safety boundaries, product rules, and core behavioral expectations. These instructions stay active across interactions and define the agent's operating model.
+
+The second is the **semi-persistent layer**. This includes memory, user preferences, previous decisions, and conversation history. It gives the system continuity so the user does not need to repeat themselves every time.
+
+The third is the **transient layer**. This includes task-specific information such as retrieved documents, API results, logs, search results, or temporary reasoning notes. This layer changes depending on the immediate job.
+
+The art is not simply adding more information. The art is selecting the right information, placing it in the right structure, and removing what no longer matters.
+
+## Better Prompts Still Matter
+
+Context engineering does not replace prompting. It upgrades it.
+
+The best systems still rely on clear, well-structured instructions. But instead of treating prompts as clever wordplay, they treat them as operational contracts.
+
+One useful principle is **outcome-first prompting**. Rather than micromanaging every step, you define the desired result, success criteria, constraints, and available context. This gives the model enough direction while still allowing it to choose an effective reasoning path.
+
+Another important technique is using **structural delimiters**. Markdown headings, XML tags, and clear section boundaries help the model distinguish between instructions, reference material, examples, and user input. This becomes especially important when working with long documents or complex tool instructions.
+
+There is also the problem of information getting "lost in the middle." Models often pay more attention to the beginning and end of long context than to the middle. One practical tactic is to place critical constraints both near the start and near the end of the prompt.
+
+Few-shot examples remain powerful too. But the goal is not to provide endless examples. The goal is to provide a small number of high-quality, representative examples that teach the model the expected pattern.
+
+A great prompt does not just ask a question. It creates a decision frame.
+
+## Context Management: The Hidden Engineering Challenge
+
+As AI systems handle longer tasks, context management becomes one of the most important engineering problems.
+
+A long-running coding agent, for example, may need to understand the architecture, inspect files, run tests, remember previous failures, track decisions, and update its plan. If all raw information is kept in the active context window, the model eventually becomes slower, more expensive, and less reliable.
+
+This is where techniques like **context caching**, **compaction**, and **offloading** become valuable.
+
+Context caching reduces cost and latency by reusing static information, such as system instructions or large reference documents. If foundational context is stable, it should be structured in a way that maximizes cache reuse.
+
+Compaction replaces long conversation history with a structured summary. Instead of carrying every raw message forward, the system preserves the task goal, key decisions, open questions, and current state.
+
+Offloading moves large data out of the prompt and into external storage. For example, instead of pasting an entire log file into the model's context, an agent can store it in a file and keep only the relevant extracted findings or a pointer to the source.
+
+This is the difference between an AI system that "remembers everything" and one that remembers what matters.
+
+## Tools Turn Models Into Agents
+
+The next major layer of context engineering is tool design.
+
+A model without tools can only generate text. A model with tools can search, calculate, retrieve documents, query databases, call APIs, inspect code, update files, send emails, or trigger workflows.
+
+But tools also consume context. Every tool definition, schema, and instruction adds cognitive load. If there are too many overlapping tools, the model may choose the wrong one or waste tokens deciding what to use.
+
+This creates a new engineering discipline: **tool engineering**.
+
+Good tools need descriptive names, clear input schemas, minimal overlap, and predictable outputs. They should expose just enough capability for the model to act effectively, without flooding the model with unnecessary options.
+
+For large tool libraries, one emerging pattern is a **tool search tool**. Instead of loading every available tool into the context window, the model first searches for the relevant tool and only loads what it needs. This can preserve a huge portion of the context window and improve reliability.
+
+Another powerful pattern is **programmatic tool calling**. Rather than asking the model to manually process massive raw outputs, the model can write a script in a sandbox, call multiple tools, process the data, and return only the final structured result. This keeps the active context lean and reduces the chance of confusion.
+
+The principle is simple: do not make the model read everything if software can filter, calculate, or aggregate first.
+
+## Structured Outputs Are the Contract Layer
+
+For serious applications, free-form text is often not enough.
+
+If an AI system is feeding data into another system, triggering workflows, creating records, or making decisions, the output must be predictable. This is where **structured outputs** become essential.
+
+Instead of asking the model to "return JSON," modern systems define strict schemas. The model must produce outputs that match required fields, types, and constraints. No missing properties. No extra fields. No creative formatting.
+
+This turns the model from a conversational generator into a reliable component in a software pipeline.
+
+Structured outputs are especially important for enterprise AI, where downstream systems need type-safe data contracts. Without schemas, developers often end up building retry loops, validators, and messy post-processing logic. With strict structured outputs, the AI becomes easier to integrate, test, and monitor.
+
+## RAG Is Evolving Into Agentic Retrieval
+
+Retrieval-Augmented Generation, or RAG, has become a standard way to ground AI responses in private or external knowledge.
+
+Classic RAG usually works like this: the application receives a query, searches a knowledge base, retrieves relevant chunks, and passes them to the model to answer.
+
+That approach works well for simple questions. But complex questions often require more.
+
+A user might ask something that spans multiple documents, time periods, systems, teams, or data sources. One search query may not be enough. The system needs to break the question down, retrieve from multiple sources, compare evidence, and cite the answer properly.
+
+This is where **agentic retrieval** comes in.
+
+Instead of relying on a single application-led search, the model helps decompose the user's request into focused subqueries. It can search different knowledge sources, combine results, resolve conflicts, and return a grounded answer with citations.
+
+This is much closer to how a human analyst works. They do not search once and stop. They investigate, refine, compare, and synthesize.
+
+Agentic retrieval is one of the clearest examples of context engineering in action. The value comes not from the model alone, but from how the system gives the model access to the right evidence at the right time.
+
+## Reliability Requires Guardrails and Evaluation
+
+The biggest risk with AI systems is not that they fail obviously. It is that they fail confidently.
+
+A model can produce an answer that sounds polished, plausible, and completely wrong. This is why anti-hallucination design is a core part of context engineering.
+
+One simple but powerful guardrail is allowing the model to say, "I don't know." Many systems accidentally pressure the model to answer everything. That encourages it to fill gaps with fiction. A reliable system should explicitly permit uncertainty.
+
+Another useful pattern is requiring factual claims to be grounded in source material. For high-stakes outputs, the model should quote or cite evidence rather than rely on memory.
+
+More advanced systems use **verification fences**. Before producing a final answer, the model must cross-check key claims against a trusted fact registry, retrieved documents, or external validation logic.
+
+But guardrails are not enough. AI applications also need evaluation.
+
+Vibe checks are useful during early experimentation, but they are not sufficient for production systems. Teams need structured evaluation suites with realistic tasks, expected outputs, automated graders, human review, and regression tracking.
+
+Metrics such as `pass@k` and `pass^k` can help measure not only whether the model can solve a problem occasionally, but whether it can solve it consistently across attempts.
+
+That consistency is what separates a demo from a dependable product.
+
+## The Future Belongs to Context Architects
+
+The next generation of AI builders will not just be prompt writers.
+
+They will be context architects.
+
+They will design memory systems, retrieval pipelines, tool ecosystems, evaluation suites, schema contracts, and agent workflows. They will understand that the model is only one part of the system. The surrounding context determines how capable, reliable, and useful the model becomes.
+
+This is the mindset shift:
+
+Prompt engineering asks, "What should I type?"
+
+Context engineering asks, "What does the model need to know, access, remember, verify, and output to complete this task reliably?"
+
+That second question is much more powerful.
+
+As AI moves deeper into software engineering, business operations, research, customer support, strategy, and enterprise automation, context engineering will become one of the most important skills in modern technology.
+
+The winners will not be the people who write the cleverest prompts.
+
+The winners will be the people who design the best environments for intelligence to operate.a:["$","main",null,{"className":"content-layer mx-auto max-w-3xl px-6 pb-24","children":["$","$L18",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7s9vezaT3OubGGG8Dnhmol","type":"Entry","createdAt":"2026-05-14T12:19:54.890Z","updatedAt":"2026-05-14T12:19:54.890Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Inside the Modern AI Stack: A Plain-English Guide to How LLMs Really Work","slug":"inside-the-modern-ai-stack-plain-english-guide-how-llms-work","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T11:13:18.580Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/f0c3857838896efff67e061654df8a19/image.png","details":{"size":2486287,"image":{"width":1962,"height":1130}},"fileName":"image.png","contentType":"image/png"}}},"description":"Modern AI systems are not magic. They are layered software systems built from tokenizers, embeddings, transformer networks, context management, alignment techniques, retrieval pipelines, tool orchestration, and evaluation frameworks.","body":"$19","publishDate":"2026-05-14","tags":["AI","LLMs","Machine Learning","Software Engineering","Technology"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"zlJcEkmj6HRHjXgkG3kwq","type":"Entry","createdAt":"2026-05-14T13:07:58.414Z","updatedAt":"2026-05-14T13:12:18.870Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":10,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From Workflows to Agents: The Modern Architecture of Agentic AI","slug":"from-workflows-to-agents-modern-architecture-agentic-ai","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1TQ7DdlYH5Lhn1xeSX1zfk","type":"Asset","createdAt":"2026-04-02T10:48:36.205Z","updatedAt":"2026-04-02T11:11:53.649Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Agency","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/1TQ7DdlYH5Lhn1xeSX1zfk/18401e588f36ba22375e8003f656feb6/image.png","details":{"size":2323932,"image":{"width":2050,"height":1074}},"fileName":"image.png","contentType":"image/png"}}},"description":"Modern AI is moving from passive text generation toward agentic systems where LLMs act as reasoning engines inside broader execution frameworks. This is not just smarter prompts — it is a new software architecture of tools, workflows, memory, protocols, sandboxes, and governance.","body":"$1a","publishDate":"2026-05-14","tags":["AI","Agentic AI","Software Architecture","LLMs","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3BFRcPD1WalbZbr9KHj3xR","type":"Entry","createdAt":"2026-05-14T12:37:25.956Z","updatedAt":"2026-05-14T12:37:25.956Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Beyond Basic RAG: How Modern Knowledge Systems Are Becoming Enterprise AI Architecture","slug":"beyond-basic-rag-modern-knowledge-systems-enterprise-ai-architecture","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6dXjmZM50RdYNEtcd7IU1V","type":"Asset","createdAt":"2026-04-02T11:07:16.011Z","updatedAt":"2026-04-02T11:13:52.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Loosely structured software","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6dXjmZM50RdYNEtcd7IU1V/7306a90989c87d2b3c40e8de61c68a3b/image.png","details":{"size":2995429,"image":{"width":2106,"height":1156}},"fileName":"image.png","contentType":"image/png"}}},"description":"RAG has evolved from a lightweight wrapper around a vector store into a full knowledge architecture. It now involves document parsing, chunking strategy, hybrid search, reranking, graph-based reasoning, agentic orchestration, and governance — becoming the operating layer for enterprise AI.","body":"$1b","publishDate":"2026-05-14","tags":["AI","RAG","Enterprise AI","LLMs","Machine Learning"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"31XBaB0ubopQLu29NyWltj","type":"Entry","createdAt":"2026-05-14T12:30:14.717Z","updatedAt":"2026-05-14T12:30:14.717Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Prompting Is No Longer Enough: Why Context Engineering Is the New AI Superpower","slug":"prompting-is-no-longer-enough-context-engineering-new-ai-superpower","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"As AI systems move from chatbots to autonomous agents and enterprise workflows, prompt engineering alone is no longer sufficient. The real discipline is context engineering: designing everything the model is allowed to see, remember, retrieve, use, and act on.","body":"$1c","publishDate":"2026-05-14","tags":["AI","Prompt Engineering","Context Engineering","LLMs","Technology"]}}]}]}]
