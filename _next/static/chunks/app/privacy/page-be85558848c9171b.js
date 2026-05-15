@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[877],{2022:(e,r,n)=>{"use strict";n.d(r,{default:()=>u});var s=n(7679),l=n(6498),t=n.n(l);function u(e){let{portalColor:r,children:n,...l}=e;return(0,s.jsx)(t(),{...l,children:n})}},3832:(e,r,n)=>{Promise.resolve().then(n.bind(n,2022))}},e=>{var r=r=>e(e.s=r);e.O(0,[498,208,328,358],()=>r(3832)),_N_E=e.O()}]);
