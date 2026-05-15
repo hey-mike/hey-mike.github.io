@@ -16,171 +16,17 @@ d:I[6633,[],"OutletBoundary"]
 :HL["/_next/static/media/fa3e259cafa8f47e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/9f779d7edb21781b.css","style"]
 :HL["/_next/static/css/b1501ad6c6aeab59.css","style"]
-0:{"P":null,"b":"YWSgfOfJ5VgK4-kgEeo-v","p":"","c":["","blog","engineering-metrics",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","engineering-metrics","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9f779d7edb21781b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_0e4539 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[300] focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","engineering-metrics","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",["$","$Lb",null,{"children":"$Lc"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","i0ojLErWsa8q9k1rzea-V",{"children":[["$","$L12",null,{"children":"$L13"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"YWSgfOfJ5VgK4-kgEeo-v","p":"","c":["","blog","from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9f779d7edb21781b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_0e4539 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[300] focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",["$","$Lb",null,{"children":"$Lc"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","cdAqQs9QC921V9j4QV26R",{"children":[["$","$L12",null,{"children":"$L13"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
 15:"$Sreact.suspense"
 16:I[8919,[],"AsyncMetadata"]
 c:["$","$15",null,{"fallback":null,"children":["$","$L16",null,{"promise":"$@17"}]}]
 f:null
 13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 e:null
-17:{"metadata":[["$","title","0",{"children":"Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience — Michael Luo"}],["$","meta","1",{"name":"description","content":"DORA 2023 isn’t just about speed—it’s about reliability, feedback loops, and developer experience. This post breaks down the five core DORA metrics, adds supporting DevEx indicators, and shows how to spot hidden friction in your CI/CD pipeline."}],["$","meta","2",{"name":"keywords","content":"Michael Luo,Engineering Leadership,Platform Strategy,Technical Leadership,AI-Native"}],["$","meta","3",{"property":"og:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","4",{"property":"og:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-native ways of working."}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","7",{"property":"og:image:width","content":"1659"}],["$","meta","8",{"property":"og:image:height","content":"948"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","12",{"name":"twitter:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-native ways of working."}],["$","meta","13",{"name":"twitter:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","14",{"name":"twitter:image:width","content":"1659"}],["$","meta","15",{"name":"twitter:image:height","content":"948"}]],"error":null,"digest":"$undefined"}
+17:{"metadata":[["$","title","0",{"children":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab — Michael Luo"}],["$","meta","1",{"name":"description","content":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies."}],["$","meta","2",{"name":"keywords","content":"Michael Luo,Engineering Leadership,Platform Strategy,Technical Leadership,AI-Native"}],["$","meta","3",{"property":"og:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","4",{"property":"og:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-native ways of working."}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","7",{"property":"og:image:width","content":"1659"}],["$","meta","8",{"property":"og:image:height","content":"948"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","12",{"name":"twitter:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-native ways of working."}],["$","meta","13",{"name":"twitter:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","14",{"name":"twitter:image:width","content":"1659"}],["$","meta","15",{"name":"twitter:image:height","content":"948"}]],"error":null,"digest":"$undefined"}
 11:{"metadata":"$17:metadata","error":null,"digest":"$undefined"}
 18:I[8688,["976","static/chunks/cec493ea-cf38a2912d48ae0f.js","498","static/chunks/498-2bb94b5c019f9d84.js","21","static/chunks/21-8e2b088798ada2aa.js","702","static/chunks/702-c6f74966730b7fab.js","953","static/chunks/app/blog/%5Bslug%5D/page-b0c126c29b8737c7.js"],"default"]
-19:T1cf7,# Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience
-
-In 2023, the DevOps Research and Assessment (DORA) team released its latest *State of DevOps* report, highlighting the evolving landscape of software delivery. The findings were clear: high-performing teams aren’t just faster—they’re safer, more resilient, and more developer-friendly.
-
-As engineering leaders, it's time we stop treating performance as just a speed game. Modern software delivery is a balance of **velocity**, **reliability**, and **developer experience**.
-
-This post reframes key engineering metrics through the lens of **DORA 2023**—and introduces a few complementary metrics that expose the hidden friction in your pipeline.
-
----
-
-## The Core Five: DORA 2023 Metrics
-
-These metrics form the foundation of performance analysis in elite engineering organizations.
-
-### 1. Lead Time for Changes  
-**Definition**: Time from code committed to code successfully running in production.
-
-This reflects the speed of innovation and feedback loops. DORA 2023 reaffirms it as one of the strongest indicators of delivery performance.
-
-- **What to track**: Time from PR creation to successful deployment
-- **Why it matters**: Long lead times discourage iteration, delay feedback, and frustrate teams
-
-**2023 Benchmark**:
-- Elite: <1 hour  
-- Low: >6 months
-
-### 2. Deployment Frequency  
-**Definition**: How often your team deploys code to production.
-
-This measures how continuously you can deliver value. Frequent deploys typically correlate with small batch sizes, less risk, and healthier teams.
-
-- **What to track**: Daily or weekly prod/staging deployments per team
-- **Why it matters**: High deployment frequency enables fast fixes, feature flags, and continuous validation
-
-**2023 Benchmark**:
-- Elite: Multiple times per day  
-- Low: Fewer than once every 6 months
-
-### 3. Change Failure Rate  
-**Definition**: The percentage of deployments causing degraded service, bugs, or rollbacks.
-
-This represents the **cost of change**. DORA teams emphasize failure rate as a critical counterbalance to deployment speed.
-
-- **What to track**: Failed deployments / total deployments
-- **Why it matters**: High rates indicate poor test quality, integration issues, or insufficient validation
-
-**2023 Benchmark**:
-- Elite: 0–15%  
-- Low: 46–60%
-
-### 4. Mean Time to Recovery (MTTR)  
-**Definition**: Time from incident detection to full restoration of service.
-
-Failures happen. What matters is how quickly you can detect, diagnose, and recover.
-
-- **What to track**: Incident start to incident resolution
-- **Why it matters**: Fast MTTR builds trust in your system and your team
-
-**2023 Benchmark**:
-- Elite: <1 hour  
-- Low: >6 months
-
-### 5. Reliability  
-**Definition**: The degree to which your system meets operational expectations (uptime, latency, etc.).
-
-Added in recent years, **reliability** reflects customer-facing system health, not just internal delivery metrics.
-
-- **What to track**: SLAs, SLOs, incident frequency, alert fatigue
-- **Why it matters**: A fast pipeline is meaningless if your system is down or unstable
-
----
-## Summary of DORA 2023 Core Metrics
-
-| Metric                 | Definition                                                | What to Track                            | Elite Benchmark         |
-|------------------------|------------------------------------------------------------|------------------------------------------|-------------------------|
-| Lead Time for Changes  | Time from commit to production                             | PR open to prod deploy                   | < 1 hour                |
-| Deployment Frequency   | How often code is deployed to prod                         | Prod deploys per day/week                | Multiple times per day  |
-| Change Failure Rate    | % of deployments causing incidents                         | Failed/rolled-back deployments           | 0–15%                   |
-| Mean Time to Recovery  | Time to restore service after failure                      | Time from incident to resolution         | < 1 hour                |
-| Reliability            | System’s ability to meet uptime and performance expectations| SLOs, uptime, incident rate              | SLO-compliant & stable  |
-
-## Beyond DORA: Metrics That Capture Developer Experience
-
-While DORA gives us delivery health, it doesn’t tell the whole story. Developer Experience (DevEx) has emerged as a critical success factor—and these supporting metrics help illuminate it.
-
-### 6. Build Time  
-**Definition**: Time to compile, test, and package a change.
-
-While not in DORA, build time directly affects lead time and developer flow. Long builds waste time, reduce confidence in the CI system, and lead to risky batch commits.
-
-- **What to track**: CI job duration (cold and hot builds)
-- **Why it matters**: Developers won’t iterate quickly if builds punish them for trying
-
-**Tip**: Watch for variance—flaky builds are worse than slow ones.
-
----
-
-### 7. Queue Time  
-**Definition**: Time a CI/CD job waits before it starts executing.
-
-This is the **invisible bottleneck** in scaling engineering teams. When everyone’s building at once, even the best pipelines slow down.
-
-- **What to track**: Time from job submission to execution start
-- **Why it matters**: Queue time reflects infrastructure limits and resource contention
-
-**Insight**: DORA emphasizes speed, but speed can’t happen when runners are exhausted.
-
----
-
-### 8. Frequency of Broken Main  
-**Definition**: How often the main branch is in a non-deployable state.
-
-This is a culture and process smell. A consistently broken main branch means poor test coverage, weak gating, or rushed reviews.
-
-- **What to track**: % of time main is red / incident count from merges
-- **Why it matters**: Main should be sacred. If you can’t trust it, everything slows down.
-
-**Actionable Tip**: Set up merge protection, fast revert paths, and daily "green checks".
-
----
-
-### 9. Engineering Overhead  
-**Definition**: Time engineers spend on infra, CI tooling, and environment management instead of feature development.
-
-This metric ties directly to **platform maturity** and **DevEx quality**—themes DORA 2023 heavily emphasizes.
-
-- **What to track**: % of sprint hours spent on pipeline bugs, test flakiness, tooling fixes
-- **Why it matters**: Engineers drowning in overhead are engineers not shipping value
-
-**How to measure**: Use retros, dev satisfaction surveys, or tag internal tickets. Patterns emerge quickly.
-
----
-
-## Closing Thoughts: DORA + DevEx Is the Future
-
-DORA’s metrics provide a science-backed foundation for measuring delivery performance. But they’re not the end of the story.
-
-In 2023, DORA explicitly emphasized:
-- **Developer Experience (DevEx)**
-- **Platform engineering**
-- **Psychological safety**
-- **Sustainable delivery culture**
-
-To build elite teams, you must **measure what matters and remove what hurts**. That includes invisible friction: long waits, flaky builds, overloaded tools, and broken feedback loops.
-
-Your goal isn’t just faster code—it’s a **system that enables developers to move confidently, safely, and joyfully**.
-
-That’s real velocity.
-
----
-
-**References**:
-- [2023 State of DevOps Report – DORA](https://cloud.google.com/devops/state-of-devops)
-- *Accelerate: The Science of Lean Software and DevOps* by Forsgren, Humble, and Kim
-1a:T57ab,# From AI Learning to Product Strategy: Building Your Personal AI Product Lab
+19:T57ab,# From AI Learning to Product Strategy: Building Your Personal AI Product Lab
 
 AI is no longer just something to study. It is something to build with.
 
@@ -863,7 +709,7 @@ Not just experiments.
 
 Not just prompts.
 
-A system for turning ideas into products.1b:T4020,Software engineering is entering a new phase.
+A system for turning ideas into products.1a:T4020,Software engineering is entering a new phase.
 
 For decades, developers have been judged largely by their ability to manually translate requirements into code. The workflow was familiar: understand the problem, design the solution, write the code, run the tests, fix the bugs, open a pull request, and wait for review.
 
@@ -1182,7 +1028,7 @@ That is the real shift.
 
 Not from human to machine.
 
-From manual coding to agentic engineering.1c:T439b,AI is no longer just a feature you add to an application. It is becoming a new execution layer for software.
+From manual coding to agentic engineering.1b:T439b,AI is no longer just a feature you add to an application. It is becoming a new execution layer for software.
 
 In the early wave of generative AI adoption, many teams focused on prompts, chat interfaces, and proof-of-concept demos. That was understandable. The fastest way to experiment was to connect an application directly to a model API, write a few prompts, and see what happened.
 
@@ -1362,4 +1208,643 @@ A powerful model without these foundations is a prototype.
 
 A well-governed AI platform with these foundations becomes an enterprise capability.
 
-The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.a:["$","main",null,{"className":"content-layer mx-auto max-w-3xl px-6 pb-24","children":["$","$L18",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"DrahUdUYNu35YSLbS7Uqd","type":"Entry","createdAt":"2021-09-21T00:51:47.450Z","updatedAt":"2025-05-12T11:12:39.511Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":168,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience","slug":"engineering-metrics","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Yw4si1jiCHmyWxX2zURAE","type":"Asset","createdAt":"2025-05-12T11:12:34.991Z","updatedAt":"2025-05-12T11:12:34.991Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":6,"revision":1,"locale":"en-US"},"fields":{"title":"devops","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Yw4si1jiCHmyWxX2zURAE/fac91879711d9be6def5c19c1af0563a/devops.png","details":{"size":2686316,"image":{"width":1536,"height":1024}},"fileName":"devops.png","contentType":"image/png"}}},"description":"DORA 2023 isn’t just about speed—it’s about reliability, feedback loops, and developer experience. This post breaks down the five core DORA metrics, adds supporting DevEx indicators, and shows how to spot hidden friction in your CI/CD pipeline.","body":"$19","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-12T18:00+10:00","tags":["engineering management"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-15T12:08:11.800Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6dXjmZM50RdYNEtcd7IU1V","type":"Asset","createdAt":"2026-04-02T11:07:16.011Z","updatedAt":"2026-04-02T11:13:52.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Loosely structured software","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6dXjmZM50RdYNEtcd7IU1V/7306a90989c87d2b3c40e8de61c68a3b/image.png","details":{"size":2995429,"image":{"width":2106,"height":1156}},"fileName":"image.png","contentType":"image/png"}}},"description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$1a","publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-15T11:26:27.077Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$1b","publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-15T10:12:14.562Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T11:13:18.580Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/f0c3857838896efff67e061654df8a19/image.png","details":{"size":2486287,"image":{"width":1962,"height":1130}},"fileName":"image.png","contentType":"image/png"}}},"description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$1c","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}}]}]}]
+The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.1c:T5d43,For years, most people understood AI through the metaphor of a chatbot. You typed a question, the model replied, and the interaction ended.
+
+That mental model is now outdated.
+
+Modern AI is moving from passive text generation toward **agentic systems**: software architectures where large language models act as reasoning engines inside broader execution frameworks. These systems do not simply answer questions. They plan, call tools, inspect results, revise their approach, use memory, request approvals, and sometimes coordinate with other agents to complete complex work.
+
+The most important shift is this:
+
+**The model is no longer the whole application. It is the reasoning layer inside a much larger operating system of tools, workflows, memory, protocols, sandboxes, and governance.**
+
+This is the real story of agentic AI. Not just smarter prompts. Not just better chat. A new software architecture is emerging.
+
+## 1. AI Models Do Not Actually “Do” Things
+
+Before we talk about agents, we need to correct a common misconception.
+
+AI models do not directly execute actions.
+
+They do not truly send emails, query databases, move money, deploy software, create Jira tickets, edit files, or click buttons by themselves. What they do is generate structured intent.
+
+In modern AI systems, the model acts as the reasoning engine. The surrounding application, runtime, server, or sandbox acts as the execution environment. The model decides what should happen. The system around the model performs the action.
+
+That is the foundation of the **tool-use contract**.
+
+A user gives the system a goal. The model interprets the goal and emits a structured request, often in JSON. The execution layer receives that request, runs the relevant tool or function, captures the result, and returns it to the model. The model then decides whether to continue, correct course, ask for approval, or produce a final answer.
+
+This repeated cycle is often called the **agentic loop**:
+
+```text
+Perceive → Plan → Execute → Observe → Verify → Continue or Finish
+```
+
+This loop is what makes agentic AI feel different from traditional chat. The system is no longer producing one answer. It is operating through a sequence of decisions and actions.
+
+A chatbot says:
+
+> “Here is how you could analyze those sales records.”
+
+An agentic system can:
+
+> Read the files, write a script, run the analysis, identify anomalies, generate a chart, summarize the findings, and create a draft email for human approval.
+
+That is not just a better prompt. That is a different architecture.
+
+## 2. Agents vs Workflows
+
+Not every AI system needs to be an agent. In fact, one of the biggest mistakes in modern AI engineering is using agents where a simple deterministic workflow would be safer, cheaper, and easier to maintain.
+
+A **workflow** is a predefined sequence of steps. It is predictable. It follows rules. Given the same input, it should produce the same output. Workflows are excellent for regulated, repeatable, and safety-critical processes.
+
+Examples include:
+
+```text
+Validate form → Check policy → Route to approver → Send notification
+```
+
+or:
+
+```text
+Receive payment request → Validate account → Run fraud check → Process payment
+```
+
+Workflows are reliable because they are constrained.
+
+An **agent**, by contrast, is adaptive. It can interpret a goal, choose tools, reason through ambiguity, and decide the next step dynamically. Agents are useful when the path to the answer is not known in advance.
+
+Examples include:
+
+```text
+Investigate why a deployment failed
+```
+
+or:
+
+```text
+Research competitors and produce a strategic briefing
+```
+
+or:
+
+```text
+Refactor this codebase while preserving existing behavior
+```
+
+These tasks cannot always be reduced to a fixed path. The agent needs to inspect, decide, act, observe, and adjust.
+
+The practical rule is simple:
+
+**Use workflows when the process is known. Use agents when the path must be discovered. Use both when the system needs adaptability inside controlled boundaries.**
+
+The best production systems are rarely pure agents. They are usually hybrid systems: deterministic workflows for structure and compliance, agents for reasoning and dynamic problem-solving.
+
+## 3. Tool Calling and Function Calling
+
+Tool calling is the mechanism that allows an AI system to interact with the outside world.
+
+A tool could be anything the model is allowed to request:
+
+```text
+Search the web
+Read a file
+Query a database
+Create a calendar event
+Run Python code
+Open a GitHub issue
+Send a Slack message
+Call an internal API
+```
+
+The model does not execute the tool directly. It emits a structured request. The system executes it and returns the result.
+
+**Function calling** is a specific implementation of this idea. In function calling, developers define available functions with names, parameters, and schemas. The model then returns structured arguments for one of those functions.
+
+For example:
+
+```json
+{
+  "function": "search_customer_records",
+  "arguments": {
+    "customer_id": "CUST-12345",
+    "include_recent_cases": true
+  }
+}
+```
+
+The application receives this request, validates it, runs the function, and returns the output to the model.
+
+The distinction is useful:
+
+**Tool calling** is the broader concept.
+**Function calling** is the structured API-level pattern.
+**Agents** are systems that repeatedly use these mechanisms to make progress toward a goal.
+
+In a simple assistant, the model may call one function and stop. In an agentic system, the model may call many tools over multiple steps, using each result to decide the next action.
+
+## 4. MCP: The Interoperability Layer for Agents
+
+This is where **MCP**, or **Model Context Protocol**, becomes important.
+
+As agents become more capable, they need access to more tools and more context: files, databases, APIs, code repositories, browsers, calendars, design tools, observability platforms, CRMs, cloud environments, and internal business systems.
+
+Without a standard protocol, every AI application has to build custom integrations for every external system. That does not scale.
+
+MCP solves this by creating a standard way for AI applications to connect to external tools and context sources. Instead of hardcoding every integration into the AI app, developers can expose capabilities through MCP servers. The AI client can then discover and use those capabilities through a consistent interface.
+
+A simple way to frame it:
+
+**Function calling lets a model call a specific function. MCP standardizes how AI applications connect to many external tools, resources, and context providers.**
+
+For example, an MCP server might expose:
+
+```text
+Read files from a local project
+Search a codebase
+Query a database
+Access GitHub issues
+Inspect logs
+Fetch documentation
+Interact with a design tool
+```
+
+This makes MCP especially relevant for agentic systems because agents need reliable access to the world around them. They need to know what tools exist, what inputs those tools accept, what resources are available, and what permissions apply.
+
+MCP is not the agent itself. It is part of the connective tissue around the agent.
+
+If the LLM is the reasoning engine, MCP is one way to standardize the agent’s access to tools and context.
+
+## 5. Planner/Executor Patterns
+
+As agentic systems become more complex, it becomes useful to separate planning from execution.
+
+In a simple agent, the same model may decide the plan, call tools, inspect results, and produce the final answer. That can work for small tasks. But for larger tasks, it can become messy. The system may lose track of the goal, overuse tools, skip verification, or get distracted by irrelevant context.
+
+The **planner/executor pattern** introduces clearer separation.
+
+The **planner** decides the strategy:
+
+```text
+What is the goal?
+What steps are required?
+Which tools may be needed?
+What risks or constraints matter?
+What should be verified?
+```
+
+The **executor** performs specific actions:
+
+```text
+Call this API
+Run this command
+Read this file
+Query this table
+Apply this code change
+```
+
+A stronger architecture may also include a **verifier**:
+
+```text
+Did the action succeed?
+Did the output match the goal?
+Did tests pass?
+Was anything unsafe or unexpected?
+```
+
+This creates a more disciplined loop:
+
+```text
+Planner → Executor → Verifier → Planner
+```
+
+The planner updates the strategy based on what the executor and verifier discover.
+
+This pattern matters because production agents need control. We do not want a model blindly taking actions. We want a system that can reason, act, check, and revise.
+
+In software engineering, this might look like:
+
+```text
+Planner: identify the likely cause of a failing test
+Executor: inspect files and run targeted commands
+Verifier: confirm whether the test now passes
+Planner: decide whether more changes are needed
+```
+
+In business operations, it might look like:
+
+```text
+Planner: determine what information is needed for a customer escalation
+Executor: gather CRM notes, support tickets, and account history
+Verifier: check whether the evidence supports the recommendation
+Planner: produce a response for human approval
+```
+
+The more serious the use case, the more valuable this separation becomes.
+
+## 6. Single-Agent vs Multi-Agent Systems
+
+A **single-agent system** uses one agent to interpret the goal, manage the task, call tools, and produce the result.
+
+Single-agent systems are useful when the task is focused, the toolset is limited, and the relevant context can fit within one working memory. They are simpler to build, easier to debug, and often cheaper to run.
+
+Examples include:
+
+```text
+Summarize a document
+Generate a report from one dataset
+Fix a small bug
+Answer a question using a few tools
+```
+
+But single-agent systems have limits. As the task grows, the context window can become overloaded. The model may see too much information, lose focus, select the wrong tool, or carry forward a bad assumption from an earlier step.
+
+A **multi-agent system** breaks work across specialized agents.
+
+For example:
+
+```text
+Manager agent → coordinates the task
+Research agent → gathers information
+Coding agent → modifies implementation
+Review agent → checks quality
+Security agent → checks risk
+Verifier agent → confirms outcome
+```
+
+This can improve focus because each agent receives a narrower context. A research agent does not need the full implementation history. A security reviewer does not need every brainstorming note. A coding agent does not need the full executive summary.
+
+Multi-agent systems are useful when tasks are complex, parallel, or multi-domain.
+
+But they are not free. They introduce coordination overhead. Agents may duplicate work, disagree, pass poor context to each other, or increase latency and cost.
+
+So the design principle is:
+
+**Start with the simplest architecture that works. Move from workflow to single agent to multi-agent only when the task complexity justifies it.**
+
+Multi-agent architecture is powerful, but it is not automatically better.
+
+## 7. Agent Memory and Context Engineering
+
+A human worker does not operate only from the current sentence. They rely on memory: what they know, what they have seen before, what they are trying to achieve, what happened earlier, and what preferences or constraints matter.
+
+Agents need memory too, but memory must be engineered carefully.
+
+There are several useful types of agent memory.
+
+**Short-term memory** is the immediate conversation or task context. It contains the current user request, recent tool results, and active instructions.
+
+**Working memory** is the temporary scratchpad used during a task. This may include intermediate notes, partial calculations, task state, or a plan.
+
+**Long-term memory** stores persistent information across sessions, such as user preferences, project facts, prior decisions, or known constraints.
+
+**Episodic memory** stores previous task traces. For example, how a similar incident was resolved last time.
+
+**Semantic memory** stores general knowledge or reusable concepts, often retrieved through RAG.
+
+**Procedural memory** stores learned ways of doing things, such as preferred workflows, coding conventions, review checklists, or operational playbooks.
+
+This is where **context engineering** becomes more important than simple prompt engineering.
+
+Prompt engineering asks:
+
+```text
+What should I tell the model?
+```
+
+Context engineering asks:
+
+```text
+What should the model know right now?
+What should be hidden?
+What should be retrieved?
+What should be summarized?
+What should be stored outside the context window?
+What should be isolated in another agent or sandbox?
+```
+
+This matters because the model’s context window is not infinite, and more context is not always better.
+
+Too little context makes the agent ignorant.
+Too much context makes it distracted.
+Wrong context makes it dangerous.
+Stale context makes it misleading.
+
+A production-grade agent needs deliberate context management: selecting relevant information, compressing long histories, writing durable state outside the prompt, and isolating heavy data from the model unless needed.
+
+This is one of the biggest shifts in modern AI engineering:
+
+**Prompt engineering tells the model what to do. Context engineering designs the environment in which the model thinks.**
+
+## 8. Programmatic Tool Calling and Code Execution
+
+One of the most important advances in agentic systems is **programmatic tool calling**, also known as code execution.
+
+In a naive agent loop, the model calls tools one by one and pulls every intermediate result back into its context window. That quickly becomes inefficient.
+
+Imagine an agent needs to analyze thousands of expense records. A weak design would retrieve all records, stuff them into the context window, and ask the model to reason through them. That is expensive, slow, and error-prone.
+
+A better design lets the model write and run code.
+
+The agent can generate a Python or TypeScript script that:
+
+```text
+Loads the records
+Filters irrelevant rows
+Groups expenses by employee
+Calculates totals
+Detects policy breaches
+Produces a final summary
+```
+
+Only the final result needs to return to the model.
+
+This is powerful because code is better than language models at deterministic computation. The model should not manually reason over thousands of rows. It should write code, execute the code, and interpret the output.
+
+This pattern makes agents more scalable because large data processing can happen outside the model’s context window.
+
+The model provides judgment.
+The code provides computation.
+The sandbox provides safe execution.
+
+## 9. Sandboxing: Safe Places for Agents to Work
+
+If agents can write code, run commands, edit files, or interact with systems, they need safe execution environments.
+
+A sandbox is an isolated workspace where an agent can operate without directly endangering production systems or the user’s machine.
+
+A good sandbox may provide:
+
+```text
+A temporary filesystem
+A terminal
+A package manager
+A code editor
+Test execution
+Network restrictions
+Secret isolation
+Resource limits
+Audit logs
+```
+
+This allows the agent to inspect code, run tests, make changes, and verify outcomes in a controlled environment.
+
+Sandboxing matters because tool use increases risk. An agent with poorly constrained shell access could delete files, leak secrets, consume resources, or make unintended changes.
+
+The goal is not to prevent agents from acting. The goal is to let them act within a bounded environment.
+
+For software engineering agents, this is essential. The agent should be able to explore and test, but not freely mutate production infrastructure. It should work in a branch, a container, a microVM, or another isolated runtime before changes are reviewed and committed.
+
+The principle is:
+
+**Give the agent enough freedom to solve the problem, but not enough freedom to create uncontrolled damage.**
+
+## 10. Human-in-the-Loop and Approval Gates
+
+As agents become more autonomous, approvals become more important.
+
+Not every action needs human approval. If an agent reformats a local draft or summarizes a document, automatic execution may be fine. But if the action is irreversible, regulated, expensive, public, or high-impact, the agent should not directly commit the change.
+
+It should propose.
+
+This is the principle of **separating intent from execution**.
+
+The agent can generate a structured proposed action:
+
+```json
+{
+  "action": "send_customer_email",
+  "recipient": "customer@example.com",
+  "subject": "Update on your support case",
+  "risk_level": "medium",
+  "evidence": [
+    "Case notes reviewed",
+    "Refund policy checked",
+    "Manager approval required"
+  ]
+}
+```
+
+Then the system pauses and routes the proposal to a human reviewer.
+
+The reviewer can approve, reject, edit, or request more information.
+
+This pattern is critical for:
+
+```text
+Sending customer communications
+Changing production systems
+Approving financial transactions
+Deleting or modifying important data
+Granting access permissions
+Making legal, compliance, or HR-sensitive decisions
+```
+
+Approval design can vary by risk level.
+
+For low-risk actions, the system may use automatic approval.
+For medium-risk actions, it may require one human reviewer.
+For high-risk actions, it may require two-person approval.
+For mature workflows, it may use exception-only review.
+For regulated environments, it may require a full evidence pack and audit trail.
+
+This is how organizations move from manual work to supervised autonomy.
+
+The objective is not blind automation. It is controlled delegation.
+
+## 11. Guardrails and Policy Enforcement
+
+Human approval is one kind of guardrail, but production systems need more than that.
+
+They also need automated policy enforcement.
+
+A model may request an action that looks plausible but violates a rule. For example:
+
+```text
+Access a file it should not read
+Call an API outside its permission scope
+Send data to an external service
+Run a destructive shell command
+Modify production configuration
+Expose credentials in a response
+```
+
+Guardrails should sit around the model, not only inside the prompt.
+
+That means the system should enforce:
+
+```text
+Tool permissions
+Role-based access control
+Data boundaries
+Rate limits
+Allowed action types
+Blocked commands
+Approval thresholds
+Logging and auditability
+```
+
+The model may reason, but the platform must govern.
+
+A serious production agent should never rely only on “the model knows not to do that.” The system itself must prevent dangerous behavior.
+
+This is especially important in enterprise environments, where AI agents may interact with customer data, financial systems, internal platforms, cloud infrastructure, and regulated workflows.
+
+## 12. Idempotency and Verification
+
+Agentic systems are still software systems. In fact, they are often distributed systems with probabilistic reasoning inside them.
+
+That means traditional engineering discipline becomes more important, not less.
+
+One essential concept is **idempotency**.
+
+If an agent retries an action after a timeout, the system must not accidentally perform the same side effect twice. For example, it should not send the same customer email twice, create duplicate tickets, approve the same payment twice, or apply the same database update multiple times.
+
+This is why approved actions should use idempotency keys.
+
+Another essential concept is **verification**.
+
+After an agent acts, the system should check whether the action actually worked.
+
+Examples:
+
+```text
+Did the file change correctly?
+Did the tests pass?
+Was the ticket created?
+Did the database update affect the expected rows?
+Was the email saved as a draft?
+Did the deployment succeed?
+Did monitoring show recovery?
+```
+
+A weak agent acts and assumes success.
+
+A strong agent acts, observes, verifies, and corrects.
+
+That is the difference between a demo and a production system.
+
+## 13. Agent Evaluation
+
+Evaluating agents is harder than evaluating simple chatbot responses.
+
+A chatbot can be judged on the final answer. An agent must be judged on the full trajectory.
+
+Did it understand the goal?
+Did it choose the right tools?
+Did it avoid unnecessary actions?
+Did it recover from errors?
+Did it verify the result?
+Did it follow safety rules?
+Did it stop at the right time?
+Did it ask for approval when needed?
+
+This requires multiple types of evaluation.
+
+**Outcome evals** check whether the final result was correct.
+
+**Trajectory evals** check whether the agent followed a sensible path.
+
+**Safety evals** check whether the agent avoided dangerous actions.
+
+**Regression evals** check whether previously reliable capabilities still work after changes.
+
+**Capability evals** test whether the agent can handle harder tasks.
+
+**Cost and latency evals** check whether the agent solved the task efficiently.
+
+A mature agent platform should capture real execution traces, review failures, convert failures into test cases, and use those tests to improve prompts, tools, policies, and orchestration logic.
+
+This creates an **agent improvement loop**:
+
+```text
+Run agent → Capture trace → Evaluate outcome and trajectory → Identify failure → Create regression test → Improve system → Run again
+```
+
+This is where agent development starts to look like modern software engineering.
+
+You need observability.
+You need tests.
+You need review.
+You need versioning.
+You need feedback loops.
+
+Agents do not become reliable by accident. They become reliable through systematic evaluation.
+
+## 14. The Production Agent Stack
+
+When you put all of this together, a production-grade agentic system is not just an LLM with a prompt.
+
+It is a layered architecture.
+
+```text
+User goal
+↓
+Agent orchestration layer
+↓
+Planner / executor / verifier pattern
+↓
+Tool calling and function calling
+↓
+MCP and integration layer
+↓
+Context engineering and memory
+↓
+Sandboxed execution environment
+↓
+Human approval and policy gates
+↓
+Deterministic workflows and system APIs
+↓
+Observability, evaluation, and audit trails
+```
+
+Each layer solves a different problem.
+
+The LLM provides reasoning.
+Tools provide capability.
+Function calling provides structured action.
+MCP provides integration standardization.
+Memory provides continuity.
+Context engineering controls what the model sees.
+The planner/executor pattern structures action.
+Sandboxes reduce execution risk.
+Approvals preserve human control.
+Workflows provide reliability.
+Evals drive continuous improvement.
+
+This is the real architecture of agentic AI.
+
+## 15. The Future Is Not “Agents Everywhere”
+
+The future of AI is not simply replacing every workflow with an autonomous agent.
+
+That would be dangerous, expensive, and unnecessary.
+
+The better future is **agentic systems inside governed workflows**.
+
+In this future, deterministic systems still handle what must be predictable. Agents handle ambiguity, reasoning, investigation, synthesis, and dynamic decision-making. Humans remain involved where judgment, accountability, ethics, or high-impact approval is required.
+
+The winning systems will not be the ones that give agents unlimited freedom.
+
+They will be the ones that combine:
+
+```text
+Autonomy with control
+Reasoning with verification
+Memory with context discipline
+Tool use with permissions
+Speed with approval gates
+Adaptability with deterministic guardrails
+```
+
+This is why modern AI architecture is not just about choosing the best model.
+
+It is about designing the system around the model.
+
+The next generation of AI products will not feel like chatbots. They will feel like coordinated digital teams: able to reason, use tools, remember context, execute tasks, verify results, and collaborate with humans.
+
+But the teams that succeed will be the ones that understand the deeper lesson:
+
+**Agentic AI is not a feature. It is an architecture.**
+a:["$","main",null,{"className":"content-layer mx-auto max-w-3xl px-6 pb-24","children":["$","$L18",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-15T12:08:11.800Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6dXjmZM50RdYNEtcd7IU1V","type":"Asset","createdAt":"2026-04-02T11:07:16.011Z","updatedAt":"2026-04-02T11:13:52.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Loosely structured software","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6dXjmZM50RdYNEtcd7IU1V/7306a90989c87d2b3c40e8de61c68a3b/image.png","details":{"size":2995429,"image":{"width":2106,"height":1156}},"fileName":"image.png","contentType":"image/png"}}},"description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$19","publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-15T11:26:27.077Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$1a","publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-15T10:12:14.562Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T11:13:18.580Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/f0c3857838896efff67e061654df8a19/image.png","details":{"size":2486287,"image":{"width":1962,"height":1130}},"fileName":"image.png","contentType":"image/png"}}},"description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$1b","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"zlJcEkmj6HRHjXgkG3kwq","type":"Entry","createdAt":"2026-05-14T13:07:58.414Z","updatedAt":"2026-05-15T11:26:25.320Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":12,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From Workflows to Agents: The Modern Architecture of Agentic AI","slug":"from-workflows-to-agents-modern-architecture-agentic-ai","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1TQ7DdlYH5Lhn1xeSX1zfk","type":"Asset","createdAt":"2026-04-02T10:48:36.205Z","updatedAt":"2026-04-02T11:11:53.649Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Agency","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/1TQ7DdlYH5Lhn1xeSX1zfk/18401e588f36ba22375e8003f656feb6/image.png","details":{"size":2323932,"image":{"width":2050,"height":1074}},"fileName":"image.png","contentType":"image/png"}}},"description":"A full breakdown of the production agentic AI stack: tool calling, MCP, planner/executor patterns, multi-agent design, memory management, sandboxing, human approval gates, and evaluation loops.","body":"$1c","publishDate":"2026-05-14","tags":["AI","Agentic AI","Software Architecture","LLMs","Technology"]}}]}]}]

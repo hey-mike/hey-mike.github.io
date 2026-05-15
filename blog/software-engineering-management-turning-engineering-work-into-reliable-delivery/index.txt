@@ -16,170 +16,603 @@ d:I[6633,[],"OutletBoundary"]
 :HL["/_next/static/media/fa3e259cafa8f47e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/9f779d7edb21781b.css","style"]
 :HL["/_next/static/css/b1501ad6c6aeab59.css","style"]
-0:{"P":null,"b":"YWSgfOfJ5VgK4-kgEeo-v","p":"","c":["","blog","engineering-metrics",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","engineering-metrics","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9f779d7edb21781b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_0e4539 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[300] focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","engineering-metrics","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",["$","$Lb",null,{"children":"$Lc"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","i0ojLErWsa8q9k1rzea-V",{"children":[["$","$L12",null,{"children":"$L13"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"YWSgfOfJ5VgK4-kgEeo-v","p":"","c":["","blog","software-engineering-management-turning-engineering-work-into-reliable-delivery",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","software-engineering-management-turning-engineering-work-into-reliable-delivery","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9f779d7edb21781b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_0e4539 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[300] focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","software-engineering-management-turning-engineering-work-into-reliable-delivery","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",["$","$Lb",null,{"children":"$Lc"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b1501ad6c6aeab59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","BJlT1eHj0uRvAEPQY4Iar",{"children":[["$","$L12",null,{"children":"$L13"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
 15:"$Sreact.suspense"
 16:I[8919,[],"AsyncMetadata"]
 c:["$","$15",null,{"fallback":null,"children":["$","$L16",null,{"promise":"$@17"}]}]
 f:null
 13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 e:null
-17:{"metadata":[["$","title","0",{"children":"Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience — Michael Luo"}],["$","meta","1",{"name":"description","content":"DORA 2023 isn’t just about speed—it’s about reliability, feedback loops, and developer experience. This post breaks down the five core DORA metrics, adds supporting DevEx indicators, and shows how to spot hidden friction in your CI/CD pipeline."}],["$","meta","2",{"name":"keywords","content":"Michael Luo,Engineering Leadership,Platform Strategy,Technical Leadership,AI-Native"}],["$","meta","3",{"property":"og:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","4",{"property":"og:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-native ways of working."}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","7",{"property":"og:image:width","content":"1659"}],["$","meta","8",{"property":"og:image:height","content":"948"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","12",{"name":"twitter:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-native ways of working."}],["$","meta","13",{"name":"twitter:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","14",{"name":"twitter:image:width","content":"1659"}],["$","meta","15",{"name":"twitter:image:height","content":"948"}]],"error":null,"digest":"$undefined"}
+17:{"metadata":[["$","title","0",{"children":"Software Engineering Management: Turning Engineering Work into Reliable Delivery — Michael Luo"}],["$","meta","1",{"name":"description","content":"Most software projects fail not from lack of coding ability, but from unclear goals, unmanaged scope, and quality treated as an afterthought. This guide covers the full discipline of software engineering management — planning, estimation, risk, quality, configuration control, and team leadership — grounded in SWEBOK and adapted for modern Agile and DevOps environments."}],["$","meta","2",{"name":"keywords","content":"Michael Luo,Engineering Leadership,Platform Strategy,Technical Leadership,AI-Native"}],["$","meta","3",{"property":"og:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","4",{"property":"og:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-native ways of working."}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","7",{"property":"og:image:width","content":"1659"}],["$","meta","8",{"property":"og:image:height","content":"948"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","12",{"name":"twitter:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-native ways of working."}],["$","meta","13",{"name":"twitter:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","14",{"name":"twitter:image:width","content":"1659"}],["$","meta","15",{"name":"twitter:image:height","content":"948"}]],"error":null,"digest":"$undefined"}
 11:{"metadata":"$17:metadata","error":null,"digest":"$undefined"}
 18:I[8688,["976","static/chunks/cec493ea-cf38a2912d48ae0f.js","498","static/chunks/498-2bb94b5c019f9d84.js","21","static/chunks/21-8e2b088798ada2aa.js","702","static/chunks/702-c6f74966730b7fab.js","953","static/chunks/app/blog/%5Bslug%5D/page-b0c126c29b8737c7.js"],"default"]
-19:T1cf7,# Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience
+19:T6fcd,# Software Engineering Management: Turning Engineering Work into Reliable Delivery
 
-In 2023, the DevOps Research and Assessment (DORA) team released its latest *State of DevOps* report, highlighting the evolving landscape of software delivery. The findings were clear: high-performing teams aren’t just faster—they’re safer, more resilient, and more developer-friendly.
+Most software projects do not fail because engineers cannot code. They fail because goals are unclear, scope keeps shifting, dependencies are unmanaged, quality is treated as a final checkpoint, risks are discovered too late, and stakeholders are not aligned on what success actually means.
 
-As engineering leaders, it's time we stop treating performance as just a speed game. Modern software delivery is a balance of **velocity**, **reliability**, and **developer experience**.
+That is why software engineering management matters.
 
-This post reframes key engineering metrics through the lens of **DORA 2023**—and introduces a few complementary metrics that expose the hidden friction in your pipeline.
+At its core, software engineering management is the discipline of turning engineering effort into reliable, valuable, and sustainable delivery. It is not simply project administration. It is not just running stand-ups, updating Jira tickets, or producing status reports. It is the management system that connects engineering work with business outcomes.
 
----
+The Guide to the Software Engineering Body of Knowledge, commonly known as SWEBOK, defines Software Engineering Management as a core area of software engineering. It covers the planning, coordination, measurement, monitoring, control, and reporting activities required to deliver software effectively. But in modern engineering environments, this discipline must go beyond traditional project management. It must also account for Agile delivery, DevOps, platform ownership, product thinking, technical debt, operational resilience, and increasingly, AI-assisted software development. 
 
-## The Core Five: DORA 2023 Metrics
+Software engineering management is therefore not about controlling engineers. It is about creating the conditions for engineering teams to make good decisions, manage uncertainty, and deliver valuable software consistently.
 
-These metrics form the foundation of performance analysis in elite engineering organizations.
+## What Software Engineering Management Really Means
 
-### 1. Lead Time for Changes  
-**Definition**: Time from code committed to code successfully running in production.
+Software engineering management applies management principles to software engineering work. It ensures that software initiatives are delivered efficiently, effectively, and in alignment with business and stakeholder goals.
 
-This reflects the speed of innovation and feedback loops. DORA 2023 reaffirms it as one of the strongest indicators of delivery performance.
+A simple way to think about it is this:
 
-- **What to track**: Time from PR creation to successful deployment
-- **Why it matters**: Long lead times discourage iteration, delay feedback, and frustrate teams
+Software engineering creates the solution.
+Software engineering management creates the system that allows the solution to be delivered reliably.
 
-**2023 Benchmark**:
-- Elite: <1 hour  
-- Low: >6 months
+That system includes:
 
-### 2. Deployment Frequency  
-**Definition**: How often your team deploys code to production.
+* Clear goals and scope
+* Feasible plans
+* Realistic estimates
+* Effective team structures
+* Risk and dependency management
+* Quality practices
+* Measurement and reporting
+* Stakeholder alignment
+* Operational handover
+* Continuous improvement
 
-This measures how continuously you can deliver value. Frequent deploys typically correlate with small batch sizes, less risk, and healthier teams.
+Importantly, software engineering management is lifecycle-agnostic. It applies whether a team uses Scrum, Kanban, Waterfall, DevOps, platform engineering, product squads, or a hybrid model. The practices may look different, but the management intent remains the same: create clarity, reduce risk, and enable predictable value delivery.
 
-- **What to track**: Daily or weekly prod/staging deployments per team
-- **Why it matters**: High deployment frequency enables fast fixes, feature flags, and continuous validation
+A mature software engineering manager does not simply ask, “Are we on track?”
 
-**2023 Benchmark**:
-- Elite: Multiple times per day  
-- Low: Fewer than once every 6 months
+They ask:
 
-### 3. Change Failure Rate  
-**Definition**: The percentage of deployments causing degraded service, bugs, or rollbacks.
+* Are we solving the right problem?
+* Do we understand the trade-offs?
+* Are the risks visible?
+* Are dependencies under control?
+* Is quality being built in?
+* Are stakeholders aligned?
+* Is the team sustainable?
+* Will this system be operable after delivery?
 
-This represents the **cost of change**. DORA teams emphasize failure rate as a critical counterbalance to deployment speed.
+That is the real work of software engineering management.
 
-- **What to track**: Failed deployments / total deployments
-- **Why it matters**: High rates indicate poor test quality, integration issues, or insufficient validation
+## 1. Start with Clarity: Scope, Requirements, and Feasibility
 
-**2023 Benchmark**:
-- Elite: 0–15%  
-- Low: 46–60%
+Every successful software initiative begins with clarity. Before a team writes code, there must be a shared understanding of what problem is being solved, why it matters, and what success looks like.
 
-### 4. Mean Time to Recovery (MTTR)  
-**Definition**: Time from incident detection to full restoration of service.
+This sounds obvious, but in practice it is one of the most common failure points in software delivery.
 
-Failures happen. What matters is how quickly you can detect, diagnose, and recover.
+Many teams start execution too early. They accept vague requirements, unclear priorities, optimistic timelines, and hidden assumptions. The result is predictable: rework, stakeholder frustration, missed expectations, and technical compromises that accumulate over time.
 
-- **What to track**: Incident start to incident resolution
-- **Why it matters**: Fast MTTR builds trust in your system and your team
+### Requirements Are a Leadership Conversation
 
-**2023 Benchmark**:
-- Elite: <1 hour  
-- Low: >6 months
+Requirements gathering is not just a business analyst activity or a technical documentation exercise. It is a leadership conversation about value, constraints, and trade-offs.
 
-### 5. Reliability  
-**Definition**: The degree to which your system meets operational expectations (uptime, latency, etc.).
+Good requirements should clarify:
 
-Added in recent years, **reliability** reflects customer-facing system health, not just internal delivery metrics.
+* What the system needs to do
+* Who it serves
+* What business outcome it supports
+* What constraints must be respected
+* What non-functional requirements matter
+* What is explicitly out of scope
+* How success will be measured
 
-- **What to track**: SLAs, SLOs, incident frequency, alert fatigue
-- **Why it matters**: A fast pipeline is meaningless if your system is down or unstable
+Functional requirements describe what the system should do. Non-functional requirements describe how well the system must do it. In modern software systems, non-functional requirements are often where the real engineering complexity lives.
 
----
-## Summary of DORA 2023 Core Metrics
+Performance, security, reliability, scalability, maintainability, compliance, observability, accessibility, and resilience are not secondary concerns. They shape architecture, delivery timelines, cost, and operational risk.
 
-| Metric                 | Definition                                                | What to Track                            | Elite Benchmark         |
-|------------------------|------------------------------------------------------------|------------------------------------------|-------------------------|
-| Lead Time for Changes  | Time from commit to production                             | PR open to prod deploy                   | < 1 hour                |
-| Deployment Frequency   | How often code is deployed to prod                         | Prod deploys per day/week                | Multiple times per day  |
-| Change Failure Rate    | % of deployments causing incidents                         | Failed/rolled-back deployments           | 0–15%                   |
-| Mean Time to Recovery  | Time to restore service after failure                      | Time from incident to resolution         | < 1 hour                |
-| Reliability            | System’s ability to meet uptime and performance expectations| SLOs, uptime, incident rate              | SLO-compliant & stable  |
+A feature that works functionally but fails under load, exposes sensitive data, cannot be monitored, or is too expensive to maintain is not a successful feature.
 
-## Beyond DORA: Metrics That Capture Developer Experience
+### Feasibility Protects the Organization from Wishful Thinking
 
-While DORA gives us delivery health, it doesn’t tell the whole story. Developer Experience (DevEx) has emerged as a critical success factor—and these supporting metrics help illuminate it.
+Before committing to delivery, engineering leaders need to test feasibility from multiple angles.
 
-### 6. Build Time  
-**Definition**: Time to compile, test, and package a change.
+Technical feasibility asks whether the solution can realistically be built with the current architecture, platforms, data, tools, and engineering capability.
 
-While not in DORA, build time directly affects lead time and developer flow. Long builds waste time, reduce confidence in the CI system, and lead to risky batch commits.
+Financial feasibility asks whether the cost of building and operating the solution is justified by the expected value.
 
-- **What to track**: CI job duration (cold and hot builds)
-- **Why it matters**: Developers won’t iterate quickly if builds punish them for trying
+Operational feasibility asks whether the team can support the system after it goes live.
 
-**Tip**: Watch for variance—flaky builds are worse than slow ones.
+Legal, regulatory, and social feasibility asks whether there are compliance, privacy, ethical, or reputational concerns.
 
----
+This step is especially important in large organizations, where a project may appear simple from the business side but require significant integration, security review, data migration, vendor coordination, or operational readiness behind the scenes.
 
-### 7. Queue Time  
-**Definition**: Time a CI/CD job waits before it starts executing.
+Feasibility analysis is not about saying no. It is about making commitments responsibly.
 
-This is the **invisible bottleneck** in scaling engineering teams. When everyone’s building at once, even the best pipelines slow down.
+### Change Management Enables Agility Without Chaos
 
-- **What to track**: Time from job submission to execution start
-- **Why it matters**: Queue time reflects infrastructure limits and resource contention
+Software delivery always involves change. Stakeholders learn more. Market conditions shift. Technical constraints emerge. Priorities evolve.
 
-**Insight**: DORA emphasizes speed, but speed can’t happen when runners are exhausted.
+The goal is not to prevent change. The goal is to manage change deliberately.
 
----
+A healthy change management process should make clear:
 
-### 8. Frequency of Broken Main  
-**Definition**: How often the main branch is in a non-deployable state.
+* What has changed
+* Why it has changed
+* What impact it has on scope, cost, timeline, quality, and risk
+* Who needs to approve the change
+* How the change will be communicated
 
-This is a culture and process smell. A consistently broken main branch means poor test coverage, weak gating, or rushed reviews.
+This is where mature software engineering management balances agility with discipline. Agile delivery does not mean accepting every change without consequence. It means creating fast feedback loops while maintaining transparency around trade-offs.
 
-- **What to track**: % of time main is red / incident count from merges
-- **Why it matters**: Main should be sacred. If you can’t trust it, everything slows down.
+## 2. Build the Delivery System: Planning, Resources, Quality, and Risk
 
-**Actionable Tip**: Set up merge protection, fast revert paths, and daily "green checks".
+Once the scope and feasibility are clear, the next challenge is to build a delivery system that can turn intent into execution.
 
----
+Planning is not about pretending the future is certain. It is about creating a shared model of how the work will happen, where uncertainty exists, and how the team will adapt as new information emerges.
 
-### 9. Engineering Overhead  
-**Definition**: Time engineers spend on infra, CI tooling, and environment management instead of feature development.
+### Choose the Delivery Approach Based on Context
 
-This metric ties directly to **platform maturity** and **DevEx quality**—themes DORA 2023 heavily emphasizes.
+There is no single best software delivery methodology. The right approach depends on the nature of the work.
 
-- **What to track**: % of sprint hours spent on pipeline bugs, test flakiness, tooling fixes
-- **Why it matters**: Engineers drowning in overhead are engineers not shipping value
+Agile and Scrum are useful when requirements are evolving, feedback is frequent, and incremental delivery is valuable.
 
-**How to measure**: Use retros, dev satisfaction surveys, or tag internal tickets. Patterns emerge quickly.
+Kanban works well for operational teams, platform teams, and continuous flow environments where priorities change regularly.
 
----
+Waterfall or stage-gated approaches may still be appropriate in highly regulated, contract-driven, or scope-stable environments.
 
-## Closing Thoughts: DORA + DevEx Is the Future
+Hybrid delivery is common in large enterprises, where teams may use Agile execution while still aligning to quarterly planning, funding cycles, architecture governance, security checkpoints, and release windows.
 
-DORA’s metrics provide a science-backed foundation for measuring delivery performance. But they’re not the end of the story.
+The key is not to follow a methodology mechanically. The key is to design a delivery approach that matches the risk profile, organizational context, and nature of the work.
 
-In 2023, DORA explicitly emphasized:
-- **Developer Experience (DevEx)**
-- **Platform engineering**
-- **Psychological safety**
-- **Sustainable delivery culture**
+A high-performing engineering manager understands that process should serve delivery, not the other way around.
 
-To build elite teams, you must **measure what matters and remove what hurts**. That includes invisible friction: long waits, flaky builds, overloaded tools, and broken feedback loops.
+### Estimation Is About Decision-Making, Not Prediction
 
-Your goal isn’t just faster code—it’s a **system that enables developers to move confidently, safely, and joyfully**.
+Software estimation is often misunderstood. Estimates are not promises. They are decision-making tools.
 
-That’s real velocity.
+The purpose of estimation is to help the organization understand relative effort, cost, complexity, sequencing, and trade-offs.
 
----
+Common estimation approaches include:
 
-**References**:
-- [2023 State of DevOps Report – DORA](https://cloud.google.com/devops/state-of-devops)
-- *Accelerate: The Science of Lean Software and DevOps* by Forsgren, Humble, and Kim
+| Method             | Description                                                              | Best Used When                                           |
+| ------------------ | ------------------------------------------------------------------------ | -------------------------------------------------------- |
+| Expert judgment    | Uses the experience of engineers, architects, and subject matter experts | The team has relevant experience but limited formal data |
+| Historical data    | Uses previous delivery patterns and comparable work                      | Similar work has been done before                        |
+| Story points       | Estimates relative complexity and effort                                 | Agile teams are planning iterative work                  |
+| T-shirt sizing     | Provides a quick high-level estimate                                     | Early-stage discovery or roadmap planning                |
+| Algorithmic models | Uses formulas such as COCOMO or size-based estimation                    | Large, structured, or regulated programs                 |
+
+The most important point is that estimates should be revisited as new information becomes available.
+
+Early estimates are often wrong because uncertainty is high. Mature teams do not hide this. They communicate confidence levels, assumptions, and known unknowns.
+
+A useful estimate is not just “this will take six weeks.”
+A useful estimate is “this is likely six to eight weeks, assuming the API dependency is ready, the security pattern is approved, and we do not need to refactor the legacy integration layer.”
+
+That level of transparency allows better management decisions.
+
+### Resource Allocation Is More Than Assigning People
+
+Resource planning is not simply about asking how many engineers are available. It is about understanding the capability, capacity, focus, and constraints of the team.
+
+A realistic resource plan considers:
+
+* Team size and availability
+* Skill mix
+* Domain knowledge
+* Technical leadership capacity
+* Cross-team dependencies
+* Leave and support commitments
+* Operational workload
+* Onboarding needs
+* Vendor or contractor involvement
+
+One of the most common mistakes in software planning is assuming that people are interchangeable units of capacity. They are not.
+
+A senior engineer with deep system knowledge may unblock a project faster than three engineers who are new to the domain. A team with too many parallel initiatives may appear fully utilized but deliver slowly because attention is fragmented.
+
+Good software engineering management protects flow. It reduces unnecessary context switching, clarifies priorities, and ensures that critical work has the right people focused on it.
+
+### Risk Management Should Be Continuous
+
+Risk management is often treated as a document created at the start of a project and forgotten until something goes wrong. That is not enough.
+
+In software engineering, risks change constantly. New technical constraints emerge. Dependencies slip. Requirements change. Vendors miss deadlines. Security concerns appear. Production incidents interrupt planned work.
+
+A practical risk management process should include:
+
+* A living risk register
+* Clear owners for each risk
+* Likelihood and impact assessment
+* Mitigation actions
+* Escalation paths
+* Regular review cadence
+
+Common software delivery risks include:
+
+* Unclear scope
+* Underestimated technical complexity
+* Fragile legacy systems
+* Poor test coverage
+* Environment instability
+* Data quality issues
+* Security or compliance gaps
+* Vendor dependency
+* Key-person dependency
+* Unrealistic deadlines
+
+The value of risk management is not the register itself. The value is the conversation it creates.
+
+When risks are visible early, leaders can make informed trade-offs before the project is in trouble.
+
+### Quality Must Be Designed Into the Delivery System
+
+Quality cannot be inspected in at the end. It must be built into the way the team works.
+
+A modern quality strategy includes:
+
+* Clear acceptance criteria
+* Unit testing
+* Integration testing
+* System testing
+* Regression testing
+* Security testing
+* Performance testing
+* Code reviews
+* Static analysis
+* Automated deployment checks
+* Production monitoring
+* Incident feedback loops
+
+Quality management also includes engineering practices such as trunk-based development, continuous integration, feature flags, automated rollback, observability, and test environment management.
+
+The goal is to shorten the feedback loop between making a change and understanding its impact.
+
+Poor quality practices create hidden debt. Teams may appear fast in the short term, but over time they slow down because every change becomes risky, testing becomes manual, and production issues consume delivery capacity.
+
+A mature engineering manager treats quality as a delivery accelerator, not a bureaucratic gate.
+
+## 3. Execute with Visibility: Enactment, Monitoring, and Reporting
+
+Once delivery begins, the role of software engineering management shifts from planning to execution, monitoring, and adaptation.
+
+This is where plans meet reality.
+
+A good plan provides direction, but successful delivery requires continuous visibility. Engineering leaders need to know whether the team is progressing, where the blockers are, what risks are emerging, and whether the work is still aligned with business priorities.
+
+### Execution Requires Alignment, Not Just Activity
+
+A busy team is not necessarily an effective team.
+
+Software project enactment means putting the plan into action through structured workflows, clear responsibilities, and regular feedback loops.
+
+This may include:
+
+* Sprint planning
+* Daily stand-ups
+* Backlog refinement
+* Technical design reviews
+* Architecture checkpoints
+* Release planning
+* Dependency coordination
+* Incident reviews
+* Stakeholder showcases
+
+The purpose of these practices is not ceremony. The purpose is alignment.
+
+Every team member should understand:
+
+* What matters most
+* What they are accountable for
+* How their work connects to the broader goal
+* What dependencies need attention
+* What quality bar must be met
+* What risks need escalation
+
+When execution lacks alignment, teams drift into local optimization. Engineers complete tasks, but the overall initiative does not move forward effectively.
+
+### Vendor and Software Acquisition Need Active Management
+
+Modern software systems rarely exist in isolation. Many initiatives depend on third-party vendors, SaaS platforms, cloud services, implementation partners, contractors, open-source libraries, or internal platform teams.
+
+This makes vendor and acquisition management an important part of software engineering management.
+
+Leaders need to consider:
+
+* Vendor evaluation criteria
+* Security and compliance requirements
+* Service-level agreements
+* Support arrangements
+* Integration complexity
+* Licensing costs
+* Exit strategy
+* Data ownership
+* Operational dependency
+* Long-term maintainability
+
+A vendor may accelerate delivery, but it can also introduce lock-in, hidden costs, security exposure, or operational fragility.
+
+The engineering manager’s role is to ensure that external dependencies are managed with the same discipline as internal delivery.
+
+### Measurement Gives Early Warning Signals
+
+Measurement is one of the most powerful tools in software engineering management, but only when used carefully.
+
+Bad metrics create bad behaviour. If teams are measured only on output, they may produce more tickets without delivering more value. If engineers are measured on velocity alone, they may inflate estimates or avoid important but complex work. If leaders focus only on deadlines, teams may sacrifice quality and create future risk.
+
+Good measurement provides visibility into the health of the delivery system.
+
+Useful metrics may include:
+
+* Lead time for changes
+* Deployment frequency
+* Change failure rate
+* Mean time to recovery
+* Defect escape rate
+* Cycle time
+* Work in progress
+* Test automation coverage
+* Availability and reliability
+* Incident trends
+* Team engagement
+* Stakeholder satisfaction
+
+The best metrics connect engineering activity to business and operational outcomes.
+
+For example, deployment frequency alone does not matter if every deployment creates incidents. Velocity alone does not matter if the team is building the wrong thing. Test coverage alone does not matter if the tests do not catch meaningful failures.
+
+Measurement should support judgment, not replace it.
+
+### Monitoring and Control Keep Delivery Honest
+
+Monitoring and control are about comparing actual progress against the plan and taking corrective action when needed.
+
+This includes tracking:
+
+* Scope changes
+* Schedule movement
+* Budget consumption
+* Risk exposure
+* Dependency status
+* Quality indicators
+* Resource constraints
+* Delivery confidence
+
+The goal is not to punish variance. Variance is normal in software delivery. The goal is to detect variance early enough to respond intelligently.
+
+Corrective actions may include:
+
+* Reprioritizing scope
+* Adding technical discovery
+* Reducing work in progress
+* Escalating dependencies
+* Adjusting timelines
+* Increasing test coverage
+* Bringing in specialist support
+* Changing release strategy
+* Splitting delivery into smaller increments
+
+A healthy delivery culture makes problems visible early. An unhealthy culture hides problems until they become crises.
+
+### Reporting Should Create Trust
+
+Reporting is often treated as administrative overhead, but effective reporting is a leadership tool.
+
+Good reporting helps stakeholders understand:
+
+* What has been delivered
+* What remains
+* What risks exist
+* What decisions are needed
+* What trade-offs are being made
+* Whether the delivery outlook has changed
+
+The best status reports are clear, honest, and decision-oriented.
+
+Instead of saying:
+
+> The team is progressing as planned.
+
+A better update would say:
+
+> The core API integration is complete, but performance testing has identified latency above the agreed threshold. The team is investigating caching options this week. This may affect the release date unless we reduce scope or accept a phased rollout.
+
+That kind of reporting builds trust because it shows control, transparency, and judgment.
+
+## 4. Measure What Matters: From Project Metrics to Engineering Health
+
+SWEBOK treats software engineering measurement as a central part of software engineering management. This remains highly relevant today, but the way organizations use measurement has evolved.
+
+Traditional project measurement often focuses on scope, schedule, cost, and defect counts. Those are still useful, but modern engineering organizations also need to measure flow, quality, reliability, and team sustainability.
+
+### Measurement Should Improve the System
+
+The purpose of measurement is not to create dashboards. The purpose is to improve decisions.
+
+A mature measurement culture uses data to answer questions such as:
+
+* Are we delivering faster or slower over time?
+* Where does work get stuck?
+* Are incidents increasing?
+* Are we improving quality?
+* Are teams overloaded?
+* Is technical debt slowing us down?
+* Are customers getting value?
+* Are our engineering practices improving?
+
+Metrics should help teams learn. They should not become weapons.
+
+When metrics are used to blame teams, people optimize for appearances. When metrics are used to improve systems, people become more willing to expose problems and experiment with better ways of working.
+
+### Engineering Health Is Broader Than Project Delivery
+
+A project can be delivered on time while weakening the engineering system.
+
+For example, a team may hit a deadline by skipping refactoring, reducing test coverage, relying on manual deployment, or overloading key engineers. The project may appear successful, but the long-term system becomes more fragile.
+
+That is why software engineering management must look beyond immediate delivery.
+
+Engineering health includes:
+
+* Code maintainability
+* Architecture quality
+* Build and deployment reliability
+* Test effectiveness
+* Operational stability
+* Documentation quality
+* Developer experience
+* Team cognitive load
+* Knowledge distribution
+* Technical debt trend
+
+These factors determine whether the organization can continue delivering value sustainably.
+
+### Avoid Vanity Metrics
+
+Not all metrics are useful.
+
+Lines of code, number of commits, number of tickets closed, or raw velocity can be misleading. They may show activity, but not necessarily value.
+
+Better metrics are actionable and connected to outcomes.
+
+For example:
+
+* Lead time can reveal delivery bottlenecks.
+* Change failure rate can reveal quality issues.
+* Mean time to recovery can reveal operational maturity.
+* Escaped defects can reveal testing gaps.
+* Team health surveys can reveal sustainability risks.
+* Customer adoption can reveal whether delivered features are useful.
+
+The best measurement systems combine quantitative data with qualitative judgment.
+
+Numbers can show where to look. They do not always explain why something is happening.
+
+## 5. Close the Loop: Review, Handover, and Continuous Improvement
+
+Project closure is often underestimated. Teams rush to the next initiative once the main delivery is complete. Documentation is left unfinished, lessons are not captured, operational ownership is unclear, and unresolved issues quietly become future problems.
+
+Effective closure is not just an administrative step. It is how organizations convert delivery experience into institutional learning.
+
+### Validate That the Outcome Was Actually Delivered
+
+Before closing an initiative, leaders should confirm that the agreed requirements have been met.
+
+This includes checking:
+
+* Mandatory requirements
+* Non-functional requirements
+* Security and compliance obligations
+* Testing outcomes
+* Acceptance criteria
+* Known defects
+* Operational readiness
+* Stakeholder sign-off
+
+The important question is not simply “Did we build it?”
+
+The better question is:
+
+> Did we deliver the outcome we committed to, at the quality level required, in a way the organization can operate and support?
+
+This distinction matters. Software is not complete just because the code is merged. It is complete when the value is usable, supportable, and accepted.
+
+### Handover Determines Long-Term Success
+
+Many delivery problems appear after go-live because operational ownership was not properly prepared.
+
+A strong handover should include:
+
+| Area               | Example Activities                              | Purpose                        |
+| ------------------ | ----------------------------------------------- | ------------------------------ |
+| Documentation      | Architecture diagrams, runbooks, support guides | Make the system understandable |
+| Operations         | Monitoring, alerting, incident procedures       | Support production reliability |
+| Support            | Known issues, escalation paths, ownership model | Ensure continuity              |
+| Compliance         | Evidence, approvals, audit records              | Meet governance obligations    |
+| Knowledge Transfer | Training sessions, walkthroughs, retrospectives | Reduce key-person dependency   |
+| Financial Closure  | Final budget, vendor costs, license impacts     | Maintain commercial control    |
+
+A system that is delivered but not supportable creates hidden operational risk.
+
+### Retrospectives Turn Experience into Capability
+
+Every project teaches the organization something.
+
+A good retrospective asks:
+
+* What worked well?
+* What slowed us down?
+* What risks did we miss?
+* What decisions helped?
+* What decisions hurt?
+* What should we repeat?
+* What should we change next time?
+
+The goal is not to assign blame. The goal is to improve the delivery system.
+
+This is especially important for engineering managers because team capability compounds over time. A team that learns from each delivery becomes faster, safer, and more confident.
+
+A team that never reflects repeats the same mistakes under different project names.
+
+## Common Tools Used in Software Engineering Management
+
+Tools do not replace management judgment, but they can support visibility, coordination, and control.
+
+| Category            | Examples                                      | Purpose                                              |
+| ------------------- | --------------------------------------------- | ---------------------------------------------------- |
+| Work Tracking       | Jira, Azure DevOps, Trello, Linear            | Backlog, sprint, and workflow management             |
+| Documentation       | Confluence, Notion, SharePoint                | Requirements, decisions, runbooks, knowledge capture |
+| Communication       | Slack, Microsoft Teams, Zoom                  | Collaboration and stakeholder communication          |
+| Source Control      | GitHub, GitLab, Bitbucket                     | Code management and collaboration                    |
+| CI/CD               | GitHub Actions, GitLab CI, CircleCI, Jenkins  | Build, test, and deployment automation               |
+| Quality             | SonarQube, Snyk, Checkmarx                    | Code quality and security scanning                   |
+| Observability       | Grafana, Datadog, New Relic, AppDynamics      | Monitoring, alerting, and production insights        |
+| Risk and Governance | Risk registers, GRC tools, audit repositories | Risk, compliance, and control tracking               |
+
+However, the tool is never the management system by itself.
+
+A Jira board does not create alignment.
+A dashboard does not create accountability.
+A risk register does not manage risk unless people act on it.
+A retrospective does not improve anything unless decisions change afterwards.
+
+Tools amplify good management practices. They cannot compensate for unclear leadership.
+
+## The Modern Engineering Manager’s Role
+
+Software engineering management has become more complex because software itself has become more central to business performance.
+
+Modern engineering managers are no longer just coordinating delivery. They are operating at the intersection of technology, people, product, risk, operations, and strategy.
+
+They need to understand:
+
+* Business priorities
+* Engineering trade-offs
+* Architecture constraints
+* Team capability
+* Delivery flow
+* Operational risk
+* Security and compliance
+* Stakeholder expectations
+* Financial constraints
+* Long-term maintainability
+
+This makes the role both broader and more strategic.
+
+The best engineering managers are not simply task managers. They are system designers. But instead of designing only software systems, they design delivery systems: the structures, practices, feedback loops, and culture that allow teams to deliver consistently.
+
+They create clarity where there is ambiguity.
+They create focus where there is noise.
+They create visibility where there is uncertainty.
+They create accountability without creating fear.
+They create enough structure to reduce chaos, but not so much process that teams lose speed.
+
+That is the balance at the heart of software engineering management.
+
+## Conclusion
+
+Software engineering management is the structured orchestration of people, process, technology, risk, and communication to deliver software successfully.
+
+SWEBOK provides a strong foundation by defining the key management activities involved in software engineering: initiation, planning, enactment, review, closure, and measurement. But in modern environments, these ideas must be applied with a broader lens. Engineering leaders must manage not only projects, but also flow, quality, operational resilience, team health, technical debt, and business alignment.
+
+The goal is not bureaucracy. The goal is reliability.
+
+Good software engineering management helps teams move from reactive delivery to intentional delivery. It reduces ambiguity, exposes risks early, improves decision-making, and creates a sustainable system for turning engineering effort into business value.
+
+In a world where software is central to almost every organization, this discipline is no longer optional. It is one of the core capabilities that separates teams that merely ship code from teams that consistently deliver meaningful outcomes.
 1a:T57ab,# From AI Learning to Product Strategy: Building Your Personal AI Product Lab
 
 AI is no longer just something to study. It is something to build with.
@@ -1362,4 +1795,4 @@ A powerful model without these foundations is a prototype.
 
 A well-governed AI platform with these foundations becomes an enterprise capability.
 
-The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.a:["$","main",null,{"className":"content-layer mx-auto max-w-3xl px-6 pb-24","children":["$","$L18",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"DrahUdUYNu35YSLbS7Uqd","type":"Entry","createdAt":"2021-09-21T00:51:47.450Z","updatedAt":"2025-05-12T11:12:39.511Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":168,"revision":7,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Rethinking Delivery Performance: Lessons from DORA 2023 and Developer Experience","slug":"engineering-metrics","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Yw4si1jiCHmyWxX2zURAE","type":"Asset","createdAt":"2025-05-12T11:12:34.991Z","updatedAt":"2025-05-12T11:12:34.991Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":6,"revision":1,"locale":"en-US"},"fields":{"title":"devops","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Yw4si1jiCHmyWxX2zURAE/fac91879711d9be6def5c19c1af0563a/devops.png","details":{"size":2686316,"image":{"width":1536,"height":1024}},"fileName":"devops.png","contentType":"image/png"}}},"description":"DORA 2023 isn’t just about speed—it’s about reliability, feedback loops, and developer experience. This post breaks down the five core DORA metrics, adds supporting DevEx indicators, and shows how to spot hidden friction in your CI/CD pipeline.","body":"$19","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-12T18:00+10:00","tags":["engineering management"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-15T12:08:11.800Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6dXjmZM50RdYNEtcd7IU1V","type":"Asset","createdAt":"2026-04-02T11:07:16.011Z","updatedAt":"2026-04-02T11:13:52.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Loosely structured software","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6dXjmZM50RdYNEtcd7IU1V/7306a90989c87d2b3c40e8de61c68a3b/image.png","details":{"size":2995429,"image":{"width":2106,"height":1156}},"fileName":"image.png","contentType":"image/png"}}},"description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$1a","publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-15T11:26:27.077Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$1b","publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-15T10:12:14.562Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T11:13:18.580Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/f0c3857838896efff67e061654df8a19/image.png","details":{"size":2486287,"image":{"width":1962,"height":1130}},"fileName":"image.png","contentType":"image/png"}}},"description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$1c","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}}]}]}]
+The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.a:["$","main",null,{"className":"content-layer mx-auto max-w-3xl px-6 pb-24","children":["$","$L18",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1xC7lNvgPLmAxSCKOAvkwr","type":"Entry","createdAt":"2021-08-28T12:29:36.183Z","updatedAt":"2026-05-15T11:48:10.581Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":280,"revision":10,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Engineering Management: Turning Engineering Work into Reliable Delivery","slug":"software-engineering-management-turning-engineering-work-into-reliable-delivery","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"21Hv10pnFgs6WYwfnvcoXJ","type":"Asset","createdAt":"2021-08-27T10:51:24.180Z","updatedAt":"2025-05-12T11:47:15.278Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":12,"revision":3,"locale":"en-US"},"fields":{"title":"Engineering Management","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/21Hv10pnFgs6WYwfnvcoXJ/e6bcd691a99a93280cddd9b332423987/engineering_management.png","details":{"size":2507401,"image":{"width":1536,"height":1024}},"fileName":"engineering management.png","contentType":"image/png"}}},"description":"Most software projects fail not from lack of coding ability, but from unclear goals, unmanaged scope, and quality treated as an afterthought. This guide covers the full discipline of software engineering management — planning, estimation, risk, quality, configuration control, and team leadership — grounded in SWEBOK and adapted for modern Agile and DevOps environments.","body":"$19","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-12T00:00+10:00","tags":["engineering management"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-15T12:08:11.800Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6dXjmZM50RdYNEtcd7IU1V","type":"Asset","createdAt":"2026-04-02T11:07:16.011Z","updatedAt":"2026-04-02T11:13:52.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Loosely structured software","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6dXjmZM50RdYNEtcd7IU1V/7306a90989c87d2b3c40e8de61c68a3b/image.png","details":{"size":2995429,"image":{"width":2106,"height":1156}},"fileName":"image.png","contentType":"image/png"}}},"description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$1a","publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-15T11:26:27.077Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$1b","publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-15T10:12:14.562Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T11:13:18.580Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/f0c3857838896efff67e061654df8a19/image.png","details":{"size":2486287,"image":{"width":1962,"height":1130}},"fileName":"image.png","contentType":"image/png"}}},"description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$1c","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}}]}]}]
