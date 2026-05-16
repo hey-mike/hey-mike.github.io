@@ -15,7 +15,7 @@ f:I[1013,[],"ViewportBoundary"]
 :HC["/",""]
 :HL["/_next/static/css/cbe3c12bb42b99ee.css","style"]
 :HL["/_next/static/css/17faa5d2b750d9e3.css","style"]
-0:{"P":null,"c":["","blog","from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cbe3c12bb42b99ee.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_f1fd1b __variable_3e9129 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-300 focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline-solid focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$La",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17faa5d2b750d9e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,null]},null,false,"$@e"]},null,false,"$@e"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"IItKWOYopKy9u8oOTpvqB"}
+0:{"P":null,"c":["","blog","from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cbe3c12bb42b99ee.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_f1fd1b __variable_3e9129 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-300 focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline-solid focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$La",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17faa5d2b750d9e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,null]},null,false,"$@e"]},null,false,"$@e"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_lxHyAtTWloHyTf6qcchF"}
 14:[]
 e:"$W14"
 10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
@@ -1093,220 +1093,186 @@ A powerful model without these foundations is a prototype.
 
 A well-governed AI platform with these foundations becomes an enterprise capability.
 
-The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.19:T3b6e,Retrieval-Augmented Generation, or RAG, started as a practical workaround for a simple problem: large language models do not know everything, and they are often out of date. The early solution was straightforward. Take a user's question, search a vector database, retrieve a few relevant chunks, place them into the prompt, and ask the model to answer.
+The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.19:T32e9,For the first wave of generative AI adoption, everyone talked about "prompt engineering."
 
-That basic pattern still works for prototypes. But it is no longer enough for serious enterprise AI.
+The idea was simple: if you could phrase your request better, the model would give you a better answer. Add more detail. Give examples. Tell it to act like an expert. Ask it to think step by step. For many use cases, that worked surprisingly well.
 
-Modern RAG has evolved from a lightweight wrapper around a vector store into a full knowledge architecture. It now involves document parsing, chunking strategy, embedding design, hybrid search, reranking, graph-based reasoning, agentic orchestration, evaluation pipelines, and governance. In other words, RAG is no longer just "search plus LLM." It is becoming the operating layer for enterprise knowledge systems.
+But as AI systems move from simple chatbots to autonomous agents, coding assistants, research copilots, enterprise workflow tools, and multi-step reasoning systems, prompt engineering by itself is no longer enough.
 
-## Why RAG Matters More Than Ever
+The real discipline is now **context engineering**.
 
-The promise of enterprise AI is not simply that a model can write fluent text. The real value comes when AI can reason over the organisation's actual knowledge: policies, contracts, architecture documents, support tickets, product manuals, meeting notes, customer records, codebases, and operational data.
+Prompting is about what you say to the model.
 
-That is where pure language models fall short.
+Context engineering is about everything the model is allowed to see, remember, retrieve, use, and act on.
 
-A model's training data is static. It may not know your company's latest product decision, your internal risk policy, your system dependency map, or the exact customer case being discussed this morning. RAG solves this by giving the model access to relevant external knowledge at inference time.
+That difference matters because modern AI systems are not just responding to isolated instructions. They are operating inside a carefully designed environment made up of system prompts, memory, retrieved documents, tool definitions, API outputs, schemas, user preferences, prior decisions, and task-specific data. The quality of that environment determines whether the AI behaves like a helpful assistant, a confused intern, or a reliable digital colleague.
 
-But the quality of the answer depends heavily on the quality of the retrieval layer. If the wrong context is retrieved, the model will produce a polished but unreliable answer. If the retrieved context is noisy, incomplete, stale, or poorly structured, the model's reasoning will degrade.
+## From Prompt Engineering to Context Engineering
 
-This is why modern RAG should be treated as an engineering discipline, not just a prompt engineering technique.
+Traditional prompt engineering focused heavily on wording.
 
-## The First Bottleneck: Chunking
+You learned to write clearer instructions. You experimented with tone. You added examples. You asked the model to follow a specific format. This was useful, but it treated the model as a text-completion engine that simply needed better instructions.
 
-Every RAG system begins with a deceptively simple question: how should documents be broken down?
+Context engineering takes a more systemic view.
 
-This matters because chunking sets the ceiling for what the model can know. If a document is split badly, the relevant meaning may be scattered across multiple chunks, or the model may receive only half of the idea it needs.
+It asks:
 
-The simplest and most common method is recursive character splitting. It breaks documents into chunks while trying to respect natural boundaries such as paragraphs, sentences, and words. For many use cases, this is good enough. A typical production starting point is somewhere around 400 to 512 tokens per chunk with a small overlap between chunks.
+What should the model know before answering?
 
-But more advanced systems are moving beyond fixed-size splitting.
+What should it not see?
 
-Semantic chunking looks at meaning rather than length. It groups sentences together until the semantic similarity shifts significantly, then creates a break. This can improve retrieval because each chunk is more conceptually coherent. The downside is cost: every sentence needs to be embedded or analysed.
+Which memories are relevant?
 
-Page-level chunking is especially useful for PDFs, financial reports, and table-heavy documents. Instead of breaking content purely by text length, each page becomes a retrieval unit. This preserves visual and document structure, which can matter a lot when interpreting reports, forms, invoices, or regulatory material.
+Which documents should be retrieved?
 
-Then there is late chunking, a newer technique where the model first processes the entire document before chunks are created. This means each chunk can carry broader document-level context. For example, a pronoun or abbreviation inside one chunk can still retain meaning from an earlier part of the document.
+Which tools should be available?
 
-The lesson is simple: chunking is not a preprocessing detail. It is a core design decision.
+How should outputs be structured?
 
-## Vector Search Is Powerful, but Not Enough
+How do we prevent hallucinations?
 
-Once documents are chunked, they are usually converted into embeddings. These embeddings place text into a high-dimensional vector space where related meanings sit closer together. When a user asks a question, the query is embedded and compared against stored document embeddings.
+How do we manage long conversations without overwhelming the model?
 
-This is the foundation of semantic search.
+This shift is important because large language models have a finite **attention budget**. Even if a model supports a massive context window, it does not mean every token receives equal attention. More context can help, but it can also confuse the model if the information is noisy, stale, duplicated, or poorly structured.
 
-Vector databases make this possible at scale. Instead of comparing a query against every single document, they use Approximate Nearest Neighbour algorithms to search quickly across millions or billions of vectors.
+In other words, bigger context windows do not remove the need for context engineering. They make it more important.
 
-Different indexing approaches offer different trade-offs.
+## The New Skill: Designing the Model's Environment
 
-FLAT search compares the query against every vector. It is accurate but slow at scale.
+A useful way to think about context engineering is to imagine the AI model as a very capable but highly literal worker.
 
-IVF clusters vectors into groups and searches only the most relevant clusters. It is faster but may miss some results.
+It can reason, write, summarize, classify, code, and operate tools. But it only knows what you place in front of it. It does not automatically understand which piece of information is most important unless the surrounding system makes that clear.
 
-HNSW builds a graph-like structure that allows very fast search with high recall. It has become one of the most common production choices, although it can require significant memory.
+This is why modern AI systems need deliberate context design.
 
-The vector database market has also matured. Pinecone focuses on managed production scale. Qdrant is known for performance and strong metadata filtering. Weaviate is strong in hybrid search. Milvus and Zilliz are built for very large-scale vector workloads. LanceDB is emerging as an AI-native lakehouse approach where vectors live closer to the underlying data.
+A strong AI application usually manages context across three layers.
 
-But vector search has a weakness: it is not always good at exact matching.
+The first is the **persistent layer**. This includes system instructions, role definitions, safety boundaries, product rules, and core behavioral expectations. These instructions stay active across interactions and define the agent's operating model.
 
-If the user asks about an invoice ID, a policy number, a code name, a customer reference, or a very specific phrase, semantic similarity may not be enough. The system needs lexical precision.
+The second is the **semi-persistent layer**. This includes memory, user preferences, previous decisions, and conversation history. It gives the system continuity so the user does not need to repeat themselves every time.
 
-That is where hybrid search comes in.
+The third is the **transient layer**. This includes task-specific information such as retrieved documents, API results, logs, search results, or temporary reasoning notes. This layer changes depending on the immediate job.
 
-## Hybrid Search: Combining Meaning and Precision
+The art is not simply adding more information. The art is selecting the right information, placing it in the right structure, and removing what no longer matters.
 
-A mature RAG system usually combines semantic search with keyword search.
+## Better Prompts Still Matter
 
-Semantic search is good at understanding meaning. Keyword search is good at exact matches. Hybrid search brings both together.
+Context engineering does not replace prompting. It upgrades it.
 
-For example, if a user asks, "What does policy ABC-472 say about access reviews?", a pure vector search may retrieve documents about access reviews generally but miss the exact policy. A keyword search may find the exact policy but miss related explanations. A hybrid system can do both.
+The best systems still rely on clear, well-structured instructions. But instead of treating prompts as clever wordplay, they treat them as operational contracts.
 
-Techniques such as BM25, SPLADE, and Reciprocal Rank Fusion allow the system to merge results from different retrieval methods into a stronger candidate set.
+One useful principle is **outcome-first prompting**. Rather than micromanaging every step, you define the desired result, success criteria, constraints, and available context. This gives the model enough direction while still allowing it to choose an effective reasoning path.
 
-This is one of the biggest differences between demo RAG and production RAG. In a demo, semantic search alone may look impressive. In enterprise environments, exactness matters. Names, IDs, dates, clauses, and system identifiers cannot be treated loosely.
+Another important technique is using **structural delimiters**. Markdown headings, XML tags, and clear section boundaries help the model distinguish between instructions, reference material, examples, and user input. This becomes especially important when working with long documents or complex tool instructions.
 
-## Reranking: The Precision Layer
+There is also the problem of information getting "lost in the middle." Models often pay more attention to the beginning and end of long context than to the middle. One practical tactic is to place critical constraints both near the start and near the end of the prompt.
 
-After the first retrieval step, the system may have 20, 50, or even 100 candidate chunks. But not all of them are equally useful.
+Few-shot examples remain powerful too. But the goal is not to provide endless examples. The goal is to provide a small number of high-quality, representative examples that teach the model the expected pattern.
 
-This is where reranking comes in.
+A great prompt does not just ask a question. It creates a decision frame.
 
-Initial retrieval is usually optimised for speed. It finds a broad set of likely relevant documents. Reranking is optimised for precision. It re-evaluates the query and each candidate document together, then ranks the best results at the top.
+## Context Management: The Hidden Engineering Challenge
 
-This matters because the final LLM answer is only as good as the context it receives. A reranker acts like a quality gate between retrieval and generation.
+As AI systems handle longer tasks, context management becomes one of the most important engineering problems.
 
-Modern rerankers can also follow instructions. For example, they can be told to prioritise titles, ignore abstracts, prefer recent documents, or favour policy documents over informal notes. This makes retrieval more controllable and business-aware.
+A long-running coding agent, for example, may need to understand the architecture, inspect files, run tests, remember previous failures, track decisions, and update its plan. If all raw information is kept in the active context window, the model eventually becomes slower, more expensive, and less reliable.
 
-In practical terms, reranking is one of the highest-impact upgrades for a RAG system. Before jumping to exotic architectures, many teams should first improve retrieval quality with hybrid search and reranking.
+This is where techniques like **context caching**, **compaction**, and **offloading** become valuable.
 
-## GraphRAG: When Knowledge Is Relational
+Context caching reduces cost and latency by reusing static information, such as system instructions or large reference documents. If foundational context is stable, it should be structured in a way that maximizes cache reuse.
 
-Traditional RAG is strong when the answer lives in a small number of relevant chunks. But some questions require understanding relationships.
+Compaction replaces long conversation history with a structured summary. Instead of carrying every raw message forward, the system preserves the task goal, key decisions, open questions, and current state.
 
-For example:
+Offloading moves large data out of the prompt and into external storage. For example, instead of pasting an entire log file into the model's context, an agent can store it in a file and keep only the relevant extracted findings or a pointer to the source.
 
-"How are these suppliers connected to this operational risk?"
+This is the difference between an AI system that "remembers everything" and one that remembers what matters.
 
-"Which systems depend on this deprecated service?"
+## Tools Turn Models Into Agents
 
-"What legal precedents are related across multiple cases?"
+The next major layer of context engineering is tool design.
 
-"What themes are emerging across hundreds of customer complaints?"
+A model without tools can only generate text. A model with tools can search, calculate, retrieve documents, query databases, call APIs, inspect code, update files, send emails, or trigger workflows.
 
-These are not simple lookup questions. They require multi-hop reasoning.
+But tools also consume context. Every tool definition, schema, and instruction adds cognitive load. If there are too many overlapping tools, the model may choose the wrong one or waste tokens deciding what to use.
 
-GraphRAG addresses this by converting documents into entities and relationships. Instead of treating knowledge as isolated chunks, it builds a knowledge graph.
+This creates a new engineering discipline: **tool engineering**.
 
-A graph might represent facts as relationships such as:
+Good tools need descriptive names, clear input schemas, minimal overlap, and predictable outputs. They should expose just enough capability for the model to act effectively, without flooding the model with unnecessary options.
 
-Customer A uses Product B. Product B depends on Service C. Service C is owned by Team D. Team D has an unresolved operational risk.
+For large tool libraries, one emerging pattern is a **tool search tool**. Instead of loading every available tool into the context window, the model first searches for the relevant tool and only loads what it needs. This can preserve a huge portion of the context window and improve reliability.
 
-With this structure, the system can traverse connections and reason across them.
+Another powerful pattern is **programmatic tool calling**. Rather than asking the model to manually process massive raw outputs, the model can write a script in a sandbox, call multiple tools, process the data, and return only the final structured result. This keeps the active context lean and reduces the chance of confusion.
 
-Local GraphRAG starts from entities in the user's query and explores nearby relationships. This is useful for targeted, multi-hop questions.
+The principle is simple: do not make the model read everything if software can filter, calculate, or aggregate first.
 
-Global GraphRAG looks across the whole graph, detects communities or clusters, and generates summaries of broader domains. This is useful for large-scale synthesis, such as summarising patterns across many documents.
+## Structured Outputs Are the Contract Layer
 
-However, GraphRAG is not free. It requires entity extraction, relationship extraction, graph maintenance, deduplication, metadata governance, and ongoing freshness management. If the graph is poorly maintained, it can create more confusion than value.
+For serious applications, free-form text is often not enough.
 
-The sensible approach is not "use GraphRAG everywhere." It is to start with strong traditional RAG, then introduce GraphRAG only where the use case genuinely requires relational reasoning.
+If an AI system is feeding data into another system, triggering workflows, creating records, or making decisions, the output must be predictable. This is where **structured outputs** become essential.
 
-## Agentic RAG: From Static Pipeline to Dynamic Reasoning
+Instead of asking the model to "return JSON," modern systems define strict schemas. The model must produce outputs that match required fields, types, and constraints. No missing properties. No extra fields. No creative formatting.
 
-The next major evolution is agentic RAG.
+This turns the model from a conversational generator into a reliable component in a software pipeline.
 
-Classic RAG follows a fixed path: retrieve, augment, generate. Agentic RAG is more dynamic. The system can decide what to do based on the user's intent, the complexity of the question, and the quality of retrieved evidence.
+Structured outputs are especially important for enterprise AI, where downstream systems need type-safe data contracts. Without schemas, developers often end up building retry loops, validators, and messy post-processing logic. With strict structured outputs, the AI becomes easier to integrate, test, and monitor.
 
-Several patterns are emerging.
+## RAG Is Evolving Into Agentic Retrieval
 
-An agentic router can decide whether a query should go to vector search, SQL, web search, an internal API, or a knowledge graph.
+Retrieval-Augmented Generation, or RAG, has become a standard way to ground AI responses in private or external knowledge.
 
-Adaptive RAG can classify the complexity of the question. A simple factual query may need only one retrieval step. A complex question may require multiple rounds of search and reasoning.
+Classic RAG usually works like this: the application receives a query, searches a knowledge base, retrieves relevant chunks, and passes them to the model to answer.
 
-Corrective RAG evaluates whether the retrieved documents are good enough. If they are weak, ambiguous, or irrelevant, the system can search again or use another tool.
+That approach works well for simple questions. But complex questions often require more.
 
-Self-reflective RAG allows the model to critique its own retrieval and answer quality. It can decide whether more evidence is needed before responding.
+A user might ask something that spans multiple documents, time periods, systems, teams, or data sources. One search query may not be enough. The system needs to break the question down, retrieve from multiple sources, compare evidence, and cite the answer properly.
 
-Speculative RAG uses a smaller model to generate candidate answers quickly, while a larger model verifies and selects the best response. This can reduce latency while preserving quality.
+This is where **agentic retrieval** comes in.
 
-This is where RAG starts to feel less like a search pipeline and more like an intelligent research assistant.
+Instead of relying on a single application-led search, the model helps decompose the user's request into focused subqueries. It can search different knowledge sources, combine results, resolve conflicts, and return a grounded answer with citations.
 
-## Does Long Context Replace RAG?
+This is much closer to how a human analyst works. They do not search once and stop. They investigate, refine, compare, and synthesize.
 
-A common question is whether million-token context windows make RAG obsolete.
+Agentic retrieval is one of the clearest examples of context engineering in action. The value comes not from the model alone, but from how the system gives the model access to the right evidence at the right time.
 
-The answer is no.
+## Reliability Requires Guardrails and Evaluation
 
-Long-context models are powerful, but they do not remove the need for retrieval. They change how retrieval should be designed.
+The biggest risk with AI systems is not that they fail obviously. It is that they fail confidently.
 
-There are three main reasons.
+A model can produce an answer that sounds polished, plausible, and completely wrong. This is why anti-hallucination design is a core part of context engineering.
 
-First, cost and latency. Sending huge amounts of text into a model is expensive and slow. In many enterprise use cases, it is far more efficient to retrieve the most relevant 2,000 to 10,000 tokens than to pass an entire document library into the prompt.
+One simple but powerful guardrail is allowing the model to say, "I don't know." Many systems accidentally pressure the model to answer everything. That encourages it to fill gaps with fiction. A reliable system should explicitly permit uncertainty.
 
-Second, context degradation. Even if a model can technically accept a huge context window, it may not reliably use every part of that context. Important details buried in the middle can be missed.
+Another useful pattern is requiring factual claims to be grounded in source material. For high-stakes outputs, the model should quote or cite evidence rather than rely on memory.
 
-Third, scale and freshness. RAG can search across live systems, databases, APIs, and hundreds of millions of documents. A context window is still bounded. Retrieval lets the system select what matters now.
+More advanced systems use **verification fences**. Before producing a final answer, the model must cross-check key claims against a trusted fact registry, retrieved documents, or external validation logic.
 
-The best architecture is not "RAG versus long context." It is retrieval-first, long-context containment.
+But guardrails are not enough. AI applications also need evaluation.
 
-In other words, use RAG to filter a massive knowledge space into a concentrated, high-signal context package. Then use a long-context model to reason deeply over that curated material.
+Vibe checks are useful during early experimentation, but they are not sufficient for production systems. Teams need structured evaluation suites with realistic tasks, expected outputs, automated graders, human review, and regression tracking.
 
-## Evaluation: The Missing Discipline in Many RAG Projects
+Metrics such as `pass@k` and `pass^k` can help measure not only whether the model can solve a problem occasionally, but whether it can solve it consistently across attempts.
 
-Many RAG systems fail not because the idea is wrong, but because teams do not evaluate them properly.
+That consistency is what separates a demo from a dependable product.
 
-A RAG system has multiple possible failure points. It may retrieve the wrong documents. It may retrieve the right documents but include too much noise. It may generate an answer that is not supported by the retrieved context. Or it may answer fluently but miss the user's actual intent.
+## The Future Belongs to Context Architects
 
-Modern evaluation frameworks such as RAGAS, TruLens, and DeepEval focus on three key dimensions:
+The next generation of AI builders will not just be prompt writers.
 
-Context relevance: did the system retrieve useful information?
+They will be context architects.
 
-Faithfulness: is the answer grounded in the retrieved context?
+They will design memory systems, retrieval pipelines, tool ecosystems, evaluation suites, schema contracts, and agent workflows. They will understand that the model is only one part of the system. The surrounding context determines how capable, reliable, and useful the model becomes.
 
-Answer relevance: did the answer actually address the question?
+This is the mindset shift:
 
-This evaluation needs to be part of CI/CD. When teams change chunking strategies, embedding models, prompts, rerankers, or document ingestion logic, they need regression tests. Otherwise, a system can silently get worse.
+Prompt engineering asks, "What should I type?"
 
-But there is another layer that matters even more in enterprises: context governance.
+Context engineering asks, "What does the model need to know, access, remember, verify, and output to complete this task reliably?"
 
-The system should know which documents are current, which are deprecated, who owns them, when they were last reviewed, whether they are authoritative, and whether the user is allowed to access them.
+That second question is much more powerful.
 
-A RAG system without governance is just a faster way to spread stale or unauthorised information.
+As AI moves deeper into software engineering, business operations, research, customer support, strategy, and enterprise automation, context engineering will become one of the most important skills in modern technology.
 
-## What a Modern RAG Architecture Looks Like
+The winners will not be the people who write the cleverest prompts.
 
-A strong enterprise RAG architecture usually includes several layers:
-
-The ingestion layer parses documents, extracts metadata, handles permissions, and tracks freshness.
-
-The chunking layer chooses the right strategy for each document type.
-
-The embedding layer converts content into semantic representations.
-
-The retrieval layer combines vector search, keyword search, metadata filtering, and sometimes graph traversal.
-
-The reranking layer improves precision before generation.
-
-The orchestration layer decides which tools or retrieval paths to use.
-
-The generation layer produces the final answer with citations and guardrails.
-
-The evaluation layer continuously measures retrieval and answer quality.
-
-The governance layer manages access control, lineage, freshness, ownership, and compliance.
-
-This is why RAG is becoming a serious architecture concern. It touches data engineering, AI engineering, security, platform engineering, product design, and enterprise governance.
-
-## The Real Future of RAG
-
-The future of RAG is not just better vector search. It is the emergence of intelligent knowledge systems.
-
-These systems will not simply retrieve documents. They will understand intent, inspect evidence, compare sources, reason across relationships, detect uncertainty, cite their work, and know when not to answer.
-
-For engineering leaders, this creates a major opportunity. RAG is not just a technical capability; it is a way to make organisational knowledge usable. It can reduce support load, accelerate onboarding, improve decision-making, preserve institutional memory, and help teams operate with more clarity.
-
-But the winning systems will not be the ones with the flashiest demos. They will be the ones with the strongest foundations: clean data, thoughtful chunking, hybrid retrieval, precise reranking, robust evaluation, secure access control, and continuous governance.
-
-The next generation of enterprise AI will not be powered by language models alone.
-
-It will be powered by well-engineered context.a:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24 lg:max-w-[956px] lg:grid lg:grid-cols-[minmax(0,42rem)_220px] lg:gap-16 lg:items-start","children":["$","$L15",null,{"post":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-16T06:35:14.883Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":9,"revision":5,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$16","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology","RAG"]}},"recentPosts":[{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-16T06:35:13.839Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":9,"revision":5,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$17","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology","Security"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-16T05:41:32.049Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":5,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$18","author":"$a:props:children:props:recentPosts:0:fields:author","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3BFRcPD1WalbZbr9KHj3xR","type":"Entry","createdAt":"2026-05-14T12:37:25.956Z","updatedAt":"2026-05-16T06:35:11.698Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":9,"revision":5,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Beyond Basic RAG: How Modern Knowledge Systems Are Becoming Enterprise AI Architecture","slug":"beyond-basic-rag-modern-knowledge-systems-enterprise-ai-architecture","description":"A technical deep dive into enterprise RAG — covering chunking strategies, hybrid search, reranking, GraphRAG, agentic retrieval, evaluation frameworks, and the governance layer most teams overlook.","body":"$19","author":"$a:props:children:props:recentPosts:0:fields:author","publishDate":"2026-05-14","tags":["AI","RAG","Enterprise AI","LLMs","Machine Learning","Agentic AI","Context Engineering"]}}]}]}]
+The winners will be the people who design the best environments for intelligence to operate.a:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24 lg:max-w-[956px] lg:grid lg:grid-cols-[minmax(0,42rem)_220px] lg:gap-16 lg:items-start","children":["$","$L15",null,{"post":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-16T06:51:35.821Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":11,"revision":6,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$16","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology","RAG"],"descriptionShort":"Turn passive AI learning into shipped products. A personal AI Product Lab converts concepts into hypotheses, MVPs, pricing models, and launch plans."}},"recentPosts":[{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-16T06:51:34.679Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":11,"revision":6,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$17","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology","Security"],"descriptionShort":"Agentic engineering is not vibe coding. It's a disciplined SDLC: context files, plan-first workflows, worktrees, quality gates, and MCP governance."}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-16T06:51:33.677Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":7,"revision":4,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$18","author":"$a:props:children:props:recentPosts:0:fields:author","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"],"descriptionShort":"Production AI isn't a demo. Once it touches customers, data, and revenue, you need architecture, evals, observability, security, and incident response."}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"31XBaB0ubopQLu29NyWltj","type":"Entry","createdAt":"2026-05-14T12:30:14.717Z","updatedAt":"2026-05-16T06:51:30.536Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":11,"revision":6,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Prompting Is No Longer Enough: Why Context Engineering Is the New AI Superpower","slug":"prompting-is-no-longer-enough-context-engineering-new-ai-superpower","description":"Prompt engineering was the first wave. Context engineering is what serious AI builders do next: designing memory, retrieval, tools, structured outputs, and evaluation into the environment around the model.","body":"$19","author":"$a:props:children:props:recentPosts:0:fields:author","publishDate":"2026-05-14","tags":["AI","Prompt Engineering","Context Engineering","LLMs","Technology","Agentic AI","RAG"],"descriptionShort":"Prompt engineering was the first wave. Context engineering is next: designing memory, retrieval, tools, structured outputs, and evals around the model."}}]}]}]
