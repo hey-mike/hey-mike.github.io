@@ -15,7 +15,7 @@ f:I[1013,[],"ViewportBoundary"]
 :HC["/",""]
 :HL["/_next/static/css/70645dc831a89853.css","style"]
 :HL["/_next/static/css/17faa5d2b750d9e3.css","style"]
-0:{"P":null,"c":["","blog","prompting-is-no-longer-enough-context-engineering-new-ai-superpower",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","prompting-is-no-longer-enough-context-engineering-new-ai-superpower","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/70645dc831a89853.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_f1fd1b __variable_3e9129 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-300 focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline-solid focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$La",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17faa5d2b750d9e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,null]},null,false,"$@e"]},null,false,"$@e"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"R6zBd60zU1wTnnsxBikSv"}
+0:{"P":null,"c":["","blog","prompting-is-no-longer-enough-context-engineering-new-ai-superpower",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","prompting-is-no-longer-enough-context-engineering-new-ai-superpower","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/70645dc831a89853.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_f1fd1b __variable_3e9129 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-300 focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline-solid focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$La",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17faa5d2b750d9e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,null]},null,false,"$@e"]},null,false,"$@e"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"m1x0tlCUxm5cYPBvtG1Z1"}
 14:[]
 e:"$W14"
 10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
@@ -204,326 +204,7 @@ As AI moves deeper into software engineering, business operations, research, cus
 
 The winners will not be the people who write the cleverest prompts.
 
-The winners will be the people who design the best environments for intelligence to operate.17:T4020,Software engineering is entering a new phase.
-
-For decades, developers have been judged largely by their ability to manually translate requirements into code. The workflow was familiar: understand the problem, design the solution, write the code, run the tests, fix the bugs, open a pull request, and wait for review.
-
-That model is not disappearing, but it is changing fast.
-
-We are now moving into the era of the **Agentic Software Development Lifecycle**, or **A-SDLC**. In this new model, engineers no longer write every line of code by hand. Instead, they increasingly act as orchestrators, reviewers, system designers, and quality controllers for AI agents that can plan, modify files, run commands, inspect errors, and iterate toward a working solution.
-
-This is the shift from traditional software development to **agentic engineering**.
-
-And it is much more serious than "vibe coding".
-
-## From Coding Assistant to Engineering Agent
-
-The first wave of AI coding tools helped developers complete lines of code, generate snippets, and explain unfamiliar syntax. These tools were useful, but they mostly operated as assistants inside a human-led workflow.
-
-The new generation of tools behaves differently.
-
-Modern AI coding systems can read large parts of a repository, generate implementation plans, edit multiple files, run tests, inspect logs, self-correct, and produce pull requests. Tools like Cursor, Claude Code, GitHub Copilot, and OpenAI Codex are no longer just autocomplete engines. They are becoming execution environments for software work.
-
-This changes the role of the engineer.
-
-The engineer's value is shifting from "Can I write this function?" to "Can I define the right problem, provide the right context, constrain the agent properly, verify the output, and preserve the architecture?"
-
-In other words, the future engineer is less like a typist and more like a technical director.
-
-## Why Agentic Engineering Is Not Vibe Coding
-
-There is a dangerous misunderstanding around AI-assisted development. Some people treat it as a way to loosely describe what they want and accept whatever the model produces.
-
-That is vibe coding.
-
-Agentic engineering is different.
-
-Agentic engineering combines AI execution with disciplined engineering controls. It uses AI to accelerate delivery, but it does not outsource judgment. The human engineer still owns the architecture, the trade-offs, the quality bar, the security posture, and the final decision.
-
-The difference is simple:
-
-**Vibe coding says:** "Generate something and hope it works."
-
-**Agentic engineering says:** "Explore the codebase, produce a plan, make a controlled change, run deterministic checks, explain the diff, and let a human review the intent and architecture."
-
-That distinction matters because AI can move fast, but speed without control creates risk.
-
-## The New AI Coding Stack
-
-A modern AI-assisted engineering workflow usually involves several categories of tools.
-
-**Cursor** is an AI-first code editor built on the familiar VS Code experience. Its strength is deep repository understanding, multi-file editing, and agentic workflows inside the editor. Features like Composer and Agent Mode allow developers to move from simple autocomplete to broader codebase-level changes.
-
-**Claude Code** takes a more terminal-native approach. It works well for developers who prefer command-line workflows and want an agent that can inspect files, run commands, analyze logs, and iterate in a shell environment.
-
-**GitHub Copilot** is deeply embedded into the GitHub ecosystem. It is useful for code suggestions, pull request assistance, summaries, reviews, and increasingly autonomous development workflows.
-
-**OpenAI Codex** is designed for complex coding tasks where the agent needs to reason through implementation steps, modify code, and interact with developer tooling.
-
-The important point is not that one tool wins everything. The real skill is knowing which tool to use for which job.
-
-For example, an editor-native assistant may be ideal for fast iteration inside a familiar codebase. A terminal-first agent may be better for debugging logs, running scripts, and automating repetitive engineering tasks. A GitHub-integrated agent may be better for pull request workflows and code review automation.
-
-The best engineers will not blindly use one tool. They will build a practical AI engineering system around their workflow.
-
-## Context Is the New Source Code
-
-AI agents are only as good as the context they receive.
-
-A weak prompt produces weak output. But more importantly, an agent without repository context will guess. It may invent patterns, ignore conventions, duplicate existing logic, or make architectural decisions that do not fit the system.
-
-This is why context engineering is becoming a core software engineering skill.
-
-Every serious AI-enabled repository should include clear instruction files. For example: `CLAUDE.md`, `.cursor/rules/*.mdc`, and `AGENTS.md`.
-
-These files should explain the project structure, coding standards, build commands, test commands, architectural rules, and boundaries the agent must respect.
-
-But they should not become bloated manuals.
-
-A common mistake is to dump too much information into these files. Long, vague instruction documents are easy for agents to partially ignore. The better approach is to keep them short, specific, and operational.
-
-Good context tells the agent:
-
-```
-Use pnpm, not npm.
-Run pnpm test before completing a task.
-Do not modify generated files.
-Use the existing service/repository pattern.
-Do not introduce new dependencies without approval.
-Authentication logic lives in src/auth.
-```
-
-This kind of context reduces guesswork.
-
-Explicit file references also matter. Instead of asking an agent to "fix the auth issue," a stronger prompt might say:
-
-```
-Review src/auth/session.ts and src/middleware/auth.ts.
-The bug is that expired sessions are not being rejected consistently.
-Create a plan first. Do not edit files until the plan is approved.
-```
-
-This is how engineers move from casual prompting to controlled agentic execution.
-
-## Parallel AI Development with Git Worktrees
-
-One of the most powerful patterns in agentic engineering is parallel execution.
-
-AI agents can work on multiple tasks at the same time, but running multiple agents in the same repository can create chaos. They may overwrite each other's changes, compete for Git locks, or operate against stale code.
-
-Git worktrees solve this problem elegantly.
-
-A Git worktree lets you create multiple working directories from the same repository, each on its own branch, while sharing the same underlying Git database.
-
-For example:
-
-```bash
-git worktree add ../project-ai-auth feature/auth-refactor
-git worktree add ../project-ai-tests feature/add-auth-tests
-```
-
-Now one agent can work on the authentication refactor while another generates tests, and you can continue working in the main directory.
-
-This creates a clean operating model: one task, one branch, one isolated workspace.
-
-When the agent finishes, you review the diff, run the quality gates, and decide whether to merge.
-
-This is where agentic engineering starts to look less like "AI help" and more like an engineering production system.
-
-## Planning Before Execution
-
-One of the most important habits when working with AI agents is to separate planning from implementation.
-
-Do not let the agent immediately edit files on complex tasks.
-
-Ask it to explore first.
-
-A strong workflow looks like this:
-
-```
-First, inspect the relevant files and produce an implementation plan.
-Do not modify any files yet.
-Include:
-1. The files you think need to change
-2. The reason for each change
-3. The risks
-4. The tests you will run
-```
-
-This simple step catches many problems early. It allows the human engineer to validate whether the agent understands the system before it starts making changes.
-
-The goal is not to create a perfect plan. The goal is to create enough shared understanding to prevent the agent from solving the wrong problem.
-
-A good rule is the 80/20 planning principle: define enough direction to capture most of the value, but leave room for discovery during implementation.
-
-## AI-Assisted Test-Driven Development
-
-Testing is one of the best use cases for AI agents.
-
-Instead of asking an agent to "fix this bug," ask it to first write a failing test that reproduces the bug. Then let the agent run the test, inspect the failure, change the implementation, and rerun the test until it passes.
-
-This turns the AI from a code generator into a feedback-driven problem solver.
-
-A useful prompt might be:
-
-```
-Write a failing unit test that reproduces this bug.
-Run the test and confirm it fails for the expected reason.
-Then update the implementation until the test passes.
-Do not change the test simply to make it pass.
-Limit yourself to three fix attempts.
-```
-
-That final instruction matters.
-
-AI agents can enter unproductive retry loops. They may keep changing code without improving the solution, burning time, credits, and context. Bounded retries force discipline.
-
-## Human Review Must Move Up the Stack
-
-AI-generated code still needs review, but the nature of review changes.
-
-If engineers review every AI-generated line manually, they lose much of the productivity gain. But if they stop reviewing carefully, they introduce risk.
-
-The answer is to move human review up the stack.
-
-Humans should focus on:
-
-* Whether the solution matches the intent
-* Whether the architecture is still clean
-* Whether the change adds unnecessary complexity
-* Whether the agent violated system boundaries
-* Whether the tests prove the right behavior
-* Whether the security model is preserved
-
-AI can help with low-level review, but it should not be the only reviewer. An AI reviewing AI-generated code is still probabilistic. It may miss subtle issues, especially when the code appears plausible.
-
-The human reviewer's job becomes less about syntax and more about judgment.
-
-## Deterministic Quality Gates Are Non-Negotiable
-
-The most important principle in agentic engineering is this:
-
-**AI can generate code, but deterministic systems must decide whether the code is acceptable.**
-
-That means every serious AI-assisted workflow needs hard quality gates: linting, formatting, type checking, unit tests, integration tests, static analysis, security scanning, dependency checks, coverage thresholds, and build verification.
-
-These should not be optional suggestions. They should be automated pass/fail gates in CI.
-
-This is how teams prevent AI-generated mistakes from scaling across a codebase.
-
-AI is probabilistic. Your quality gates should be deterministic.
-
-## Sandboxing and Permission Control
-
-As AI agents gain the ability to run commands, access files, call tools, and connect to external systems, permission control becomes critical.
-
-A coding agent should not have unlimited access to your machine, secrets, production systems, or internal tools.
-
-Sandboxing helps limit blast radius.
-
-For example, an agent should not be able to modify `.env` files, delete Git history, push directly to protected branches, or call external services without approval.
-
-This can be enforced through workspace-level sandboxing, restricted terminal permissions, blocked file paths, pre-edit and post-edit hooks, pre-tool-use approvals, network restrictions, and allowlisted commands.
-
-The safest agentic workflows treat the AI like a powerful but junior automation worker: useful, fast, and capable, but not trusted with unrestricted production access.
-
-## MCP Governance: The Next Risk Frontier
-
-The Model Context Protocol, or MCP, is becoming an important part of agentic engineering because it allows AI agents to connect to external tools and systems such as databases, Slack, Jira, GitHub, documentation platforms, and internal APIs.
-
-This is powerful.
-
-It is also risky.
-
-Once an agent can call tools, the question is no longer only "Can it write code?" The question becomes "What systems can it affect?"
-
-An agent connected to Jira might update tickets. An agent connected to Slack might send messages. An agent connected to a database might read sensitive data. An agent connected to cloud infrastructure might trigger operational changes.
-
-This means teams need MCP governance.
-
-At minimum, organizations should define which MCP servers are allowed, which tools each agent can call, what data each tool exposes, which actions require human approval, how tool calls are logged, how secrets are protected, and what the blast radius is if the agent behaves incorrectly.
-
-An MCP gateway or approval layer can help inspect and control tool usage before actions execute.
-
-Agentic engineering is not just about productivity. It is also about governance.
-
-## Documentation from Reality
-
-Documentation is another area where AI agents can create immediate value.
-
-But the best use of AI is not to generate generic documentation from imagination. The best use is to generate documentation from the actual codebase.
-
-A strong prompt might be:
-
-```
-Explore the current implementation of the authentication flow.
-Generate a concise README that explains the real flow, key files, extension points, and local testing steps.
-Do not invent behavior that is not present in the code.
-```
-
-This creates documentation grounded in reality.
-
-Teams can also use hooks to update documentation when relevant code changes. For example, when API routes change, an agent can be triggered to update API documentation as part of the pull request workflow.
-
-This makes documentation less of a stale artifact and more of a living part of the system.
-
-## The New Engineering Operating Model
-
-Agentic engineering changes the operating model of software delivery.
-
-The traditional model looked like this:
-
-Human writes code → Human runs tests → Human opens PR → Human reviews code → CI validates → Code merges
-
-The agentic model looks more like this:
-
-Human defines intent → Agent explores codebase → Agent creates plan → Human approves direction → Agent implements in isolated worktree → Agent runs tests and self-corrects → Deterministic gates validate → AI assists with PR summary and review → Human reviews architecture and intent → Code merges
-
-This is a more scalable model because it separates execution from judgment.
-
-AI accelerates execution. Humans preserve judgment.
-
-## What Engineering Leaders Should Do Now
-
-For engineering leaders, the question is no longer whether developers will use AI coding tools. They already are.
-
-The better question is whether the organization has a safe and effective operating model for it.
-
-A practical adoption roadmap could look like this:
-
-First, standardize repository context. Add clear `AGENTS.md`, `CLAUDE.md`, or Cursor rules that define how AI tools should operate in the codebase.
-
-Second, introduce AI-safe workflows. Encourage plan-first execution, isolated branches, Git worktrees, and bounded retry loops.
-
-Third, strengthen quality gates. Make linting, tests, type checks, and security scanning non-negotiable.
-
-Fourth, define permission boundaries. Decide what agents can edit, what commands they can run, and what systems they can access.
-
-Fifth, train engineers on review discipline. The goal is not to accept AI output faster. The goal is to review it at the right level.
-
-Finally, measure the impact. Track cycle time, defect rates, review load, test coverage, escaped bugs, and developer satisfaction.
-
-The winning teams will not be the ones that simply "use AI more." They will be the ones that redesign their engineering system around AI while keeping quality, security, and architecture under control.
-
-## Final Thought
-
-Agentic engineering is not the end of software engineering.
-
-It is the next abstraction layer.
-
-Just as high-level languages abstracted away manual memory management for many developers, and cloud platforms abstracted away large parts of infrastructure management, AI agents are beginning to abstract away parts of implementation execution.
-
-But abstraction does not remove responsibility.
-
-The engineer still owns the system.
-
-The future belongs to engineers who can combine architectural thinking, product judgment, automation discipline, and AI orchestration. They will not simply code faster. They will design better engineering systems.
-
-That is the real shift.
-
-Not from human to machine.
-
-From manual coding to agentic engineering.18:T57cb,AI is no longer just something to study. It is something to build with.
+The winners will be the people who design the best environments for intelligence to operate.17:T57cb,AI is no longer just something to study. It is something to build with.
 
 Many people are learning modern AI through articles, videos, newsletters, courses, and tool experiments. They learn about large language models, prompt engineering, RAG, agents, MCP, evals, tool calling, and multi-agent systems. That learning is valuable, but it often remains passive.
 
@@ -1095,7 +776,7 @@ Not just experiments.
 Not just prompts.
 
 A system for turning ideas into products.
-19:T439b,AI is no longer just a feature you add to an application. It is becoming a new execution layer for software.
+18:T439b,AI is no longer just a feature you add to an application. It is becoming a new execution layer for software.
 
 In the early wave of generative AI adoption, many teams focused on prompts, chat interfaces, and proof-of-concept demos. That was understandable. The fastest way to experiment was to connect an application directly to a model API, write a few prompts, and see what happened.
 
@@ -1275,4 +956,323 @@ A powerful model without these foundations is a prototype.
 
 A well-governed AI platform with these foundations becomes an enterprise capability.
 
-The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.a:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24 lg:max-w-[956px] lg:grid lg:grid-cols-[minmax(0,42rem)_220px] lg:gap-16 lg:items-start","children":["$","$L15",null,{"post":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"31XBaB0ubopQLu29NyWltj","type":"Entry","createdAt":"2026-05-14T12:30:14.717Z","updatedAt":"2026-05-16T05:29:50.802Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":5,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Prompting Is No Longer Enough: Why Context Engineering Is the New AI Superpower","slug":"prompting-is-no-longer-enough-context-engineering-new-ai-superpower","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"Prompt engineering was the first wave. Context engineering is what serious AI builders do next: designing memory, retrieval, tools, structured outputs, and evaluation into the environment around the model.","body":"$16","publishDate":"2026-05-14","tags":["AI","Prompt Engineering","Context Engineering","LLMs","Technology"]}},"recentPosts":[{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-16T05:29:54.995Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":5,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$17","publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-16T05:29:56.046Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":5,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6dXjmZM50RdYNEtcd7IU1V","type":"Asset","createdAt":"2026-04-02T11:07:16.011Z","updatedAt":"2026-04-02T11:13:52.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Loosely structured software","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6dXjmZM50RdYNEtcd7IU1V/7306a90989c87d2b3c40e8de61c68a3b/image.png","details":{"size":2995429,"image":{"width":2106,"height":1156}},"fileName":"image.png","contentType":"image/png"}}},"description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$18","publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-16T05:29:53.927Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T11:13:18.580Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/f0c3857838896efff67e061654df8a19/image.png","details":{"size":2486287,"image":{"width":1962,"height":1130}},"fileName":"image.png","contentType":"image/png"}}},"description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$19","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}}]}]}]
+The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.19:T4020,Software engineering is entering a new phase.
+
+For decades, developers have been judged largely by their ability to manually translate requirements into code. The workflow was familiar: understand the problem, design the solution, write the code, run the tests, fix the bugs, open a pull request, and wait for review.
+
+That model is not disappearing, but it is changing fast.
+
+We are now moving into the era of the **Agentic Software Development Lifecycle**, or **A-SDLC**. In this new model, engineers no longer write every line of code by hand. Instead, they increasingly act as orchestrators, reviewers, system designers, and quality controllers for AI agents that can plan, modify files, run commands, inspect errors, and iterate toward a working solution.
+
+This is the shift from traditional software development to **agentic engineering**.
+
+And it is much more serious than "vibe coding".
+
+## From Coding Assistant to Engineering Agent
+
+The first wave of AI coding tools helped developers complete lines of code, generate snippets, and explain unfamiliar syntax. These tools were useful, but they mostly operated as assistants inside a human-led workflow.
+
+The new generation of tools behaves differently.
+
+Modern AI coding systems can read large parts of a repository, generate implementation plans, edit multiple files, run tests, inspect logs, self-correct, and produce pull requests. Tools like Cursor, Claude Code, GitHub Copilot, and OpenAI Codex are no longer just autocomplete engines. They are becoming execution environments for software work.
+
+This changes the role of the engineer.
+
+The engineer's value is shifting from "Can I write this function?" to "Can I define the right problem, provide the right context, constrain the agent properly, verify the output, and preserve the architecture?"
+
+In other words, the future engineer is less like a typist and more like a technical director.
+
+## Why Agentic Engineering Is Not Vibe Coding
+
+There is a dangerous misunderstanding around AI-assisted development. Some people treat it as a way to loosely describe what they want and accept whatever the model produces.
+
+That is vibe coding.
+
+Agentic engineering is different.
+
+Agentic engineering combines AI execution with disciplined engineering controls. It uses AI to accelerate delivery, but it does not outsource judgment. The human engineer still owns the architecture, the trade-offs, the quality bar, the security posture, and the final decision.
+
+The difference is simple:
+
+**Vibe coding says:** "Generate something and hope it works."
+
+**Agentic engineering says:** "Explore the codebase, produce a plan, make a controlled change, run deterministic checks, explain the diff, and let a human review the intent and architecture."
+
+That distinction matters because AI can move fast, but speed without control creates risk.
+
+## The New AI Coding Stack
+
+A modern AI-assisted engineering workflow usually involves several categories of tools.
+
+**Cursor** is an AI-first code editor built on the familiar VS Code experience. Its strength is deep repository understanding, multi-file editing, and agentic workflows inside the editor. Features like Composer and Agent Mode allow developers to move from simple autocomplete to broader codebase-level changes.
+
+**Claude Code** takes a more terminal-native approach. It works well for developers who prefer command-line workflows and want an agent that can inspect files, run commands, analyze logs, and iterate in a shell environment.
+
+**GitHub Copilot** is deeply embedded into the GitHub ecosystem. It is useful for code suggestions, pull request assistance, summaries, reviews, and increasingly autonomous development workflows.
+
+**OpenAI Codex** is designed for complex coding tasks where the agent needs to reason through implementation steps, modify code, and interact with developer tooling.
+
+The important point is not that one tool wins everything. The real skill is knowing which tool to use for which job.
+
+For example, an editor-native assistant may be ideal for fast iteration inside a familiar codebase. A terminal-first agent may be better for debugging logs, running scripts, and automating repetitive engineering tasks. A GitHub-integrated agent may be better for pull request workflows and code review automation.
+
+The best engineers will not blindly use one tool. They will build a practical AI engineering system around their workflow.
+
+## Context Is the New Source Code
+
+AI agents are only as good as the context they receive.
+
+A weak prompt produces weak output. But more importantly, an agent without repository context will guess. It may invent patterns, ignore conventions, duplicate existing logic, or make architectural decisions that do not fit the system.
+
+This is why context engineering is becoming a core software engineering skill.
+
+Every serious AI-enabled repository should include clear instruction files. For example: `CLAUDE.md`, `.cursor/rules/*.mdc`, and `AGENTS.md`.
+
+These files should explain the project structure, coding standards, build commands, test commands, architectural rules, and boundaries the agent must respect.
+
+But they should not become bloated manuals.
+
+A common mistake is to dump too much information into these files. Long, vague instruction documents are easy for agents to partially ignore. The better approach is to keep them short, specific, and operational.
+
+Good context tells the agent:
+
+```
+Use pnpm, not npm.
+Run pnpm test before completing a task.
+Do not modify generated files.
+Use the existing service/repository pattern.
+Do not introduce new dependencies without approval.
+Authentication logic lives in src/auth.
+```
+
+This kind of context reduces guesswork.
+
+Explicit file references also matter. Instead of asking an agent to "fix the auth issue," a stronger prompt might say:
+
+```
+Review src/auth/session.ts and src/middleware/auth.ts.
+The bug is that expired sessions are not being rejected consistently.
+Create a plan first. Do not edit files until the plan is approved.
+```
+
+This is how engineers move from casual prompting to controlled agentic execution.
+
+## Parallel AI Development with Git Worktrees
+
+One of the most powerful patterns in agentic engineering is parallel execution.
+
+AI agents can work on multiple tasks at the same time, but running multiple agents in the same repository can create chaos. They may overwrite each other's changes, compete for Git locks, or operate against stale code.
+
+Git worktrees solve this problem elegantly.
+
+A Git worktree lets you create multiple working directories from the same repository, each on its own branch, while sharing the same underlying Git database.
+
+For example:
+
+```bash
+git worktree add ../project-ai-auth feature/auth-refactor
+git worktree add ../project-ai-tests feature/add-auth-tests
+```
+
+Now one agent can work on the authentication refactor while another generates tests, and you can continue working in the main directory.
+
+This creates a clean operating model: one task, one branch, one isolated workspace.
+
+When the agent finishes, you review the diff, run the quality gates, and decide whether to merge.
+
+This is where agentic engineering starts to look less like "AI help" and more like an engineering production system.
+
+## Planning Before Execution
+
+One of the most important habits when working with AI agents is to separate planning from implementation.
+
+Do not let the agent immediately edit files on complex tasks.
+
+Ask it to explore first.
+
+A strong workflow looks like this:
+
+```
+First, inspect the relevant files and produce an implementation plan.
+Do not modify any files yet.
+Include:
+1. The files you think need to change
+2. The reason for each change
+3. The risks
+4. The tests you will run
+```
+
+This simple step catches many problems early. It allows the human engineer to validate whether the agent understands the system before it starts making changes.
+
+The goal is not to create a perfect plan. The goal is to create enough shared understanding to prevent the agent from solving the wrong problem.
+
+A good rule is the 80/20 planning principle: define enough direction to capture most of the value, but leave room for discovery during implementation.
+
+## AI-Assisted Test-Driven Development
+
+Testing is one of the best use cases for AI agents.
+
+Instead of asking an agent to "fix this bug," ask it to first write a failing test that reproduces the bug. Then let the agent run the test, inspect the failure, change the implementation, and rerun the test until it passes.
+
+This turns the AI from a code generator into a feedback-driven problem solver.
+
+A useful prompt might be:
+
+```
+Write a failing unit test that reproduces this bug.
+Run the test and confirm it fails for the expected reason.
+Then update the implementation until the test passes.
+Do not change the test simply to make it pass.
+Limit yourself to three fix attempts.
+```
+
+That final instruction matters.
+
+AI agents can enter unproductive retry loops. They may keep changing code without improving the solution, burning time, credits, and context. Bounded retries force discipline.
+
+## Human Review Must Move Up the Stack
+
+AI-generated code still needs review, but the nature of review changes.
+
+If engineers review every AI-generated line manually, they lose much of the productivity gain. But if they stop reviewing carefully, they introduce risk.
+
+The answer is to move human review up the stack.
+
+Humans should focus on:
+
+* Whether the solution matches the intent
+* Whether the architecture is still clean
+* Whether the change adds unnecessary complexity
+* Whether the agent violated system boundaries
+* Whether the tests prove the right behavior
+* Whether the security model is preserved
+
+AI can help with low-level review, but it should not be the only reviewer. An AI reviewing AI-generated code is still probabilistic. It may miss subtle issues, especially when the code appears plausible.
+
+The human reviewer's job becomes less about syntax and more about judgment.
+
+## Deterministic Quality Gates Are Non-Negotiable
+
+The most important principle in agentic engineering is this:
+
+**AI can generate code, but deterministic systems must decide whether the code is acceptable.**
+
+That means every serious AI-assisted workflow needs hard quality gates: linting, formatting, type checking, unit tests, integration tests, static analysis, security scanning, dependency checks, coverage thresholds, and build verification.
+
+These should not be optional suggestions. They should be automated pass/fail gates in CI.
+
+This is how teams prevent AI-generated mistakes from scaling across a codebase.
+
+AI is probabilistic. Your quality gates should be deterministic.
+
+## Sandboxing and Permission Control
+
+As AI agents gain the ability to run commands, access files, call tools, and connect to external systems, permission control becomes critical.
+
+A coding agent should not have unlimited access to your machine, secrets, production systems, or internal tools.
+
+Sandboxing helps limit blast radius.
+
+For example, an agent should not be able to modify `.env` files, delete Git history, push directly to protected branches, or call external services without approval.
+
+This can be enforced through workspace-level sandboxing, restricted terminal permissions, blocked file paths, pre-edit and post-edit hooks, pre-tool-use approvals, network restrictions, and allowlisted commands.
+
+The safest agentic workflows treat the AI like a powerful but junior automation worker: useful, fast, and capable, but not trusted with unrestricted production access.
+
+## MCP Governance: The Next Risk Frontier
+
+The Model Context Protocol, or MCP, is becoming an important part of agentic engineering because it allows AI agents to connect to external tools and systems such as databases, Slack, Jira, GitHub, documentation platforms, and internal APIs.
+
+This is powerful.
+
+It is also risky.
+
+Once an agent can call tools, the question is no longer only "Can it write code?" The question becomes "What systems can it affect?"
+
+An agent connected to Jira might update tickets. An agent connected to Slack might send messages. An agent connected to a database might read sensitive data. An agent connected to cloud infrastructure might trigger operational changes.
+
+This means teams need MCP governance.
+
+At minimum, organizations should define which MCP servers are allowed, which tools each agent can call, what data each tool exposes, which actions require human approval, how tool calls are logged, how secrets are protected, and what the blast radius is if the agent behaves incorrectly.
+
+An MCP gateway or approval layer can help inspect and control tool usage before actions execute.
+
+Agentic engineering is not just about productivity. It is also about governance.
+
+## Documentation from Reality
+
+Documentation is another area where AI agents can create immediate value.
+
+But the best use of AI is not to generate generic documentation from imagination. The best use is to generate documentation from the actual codebase.
+
+A strong prompt might be:
+
+```
+Explore the current implementation of the authentication flow.
+Generate a concise README that explains the real flow, key files, extension points, and local testing steps.
+Do not invent behavior that is not present in the code.
+```
+
+This creates documentation grounded in reality.
+
+Teams can also use hooks to update documentation when relevant code changes. For example, when API routes change, an agent can be triggered to update API documentation as part of the pull request workflow.
+
+This makes documentation less of a stale artifact and more of a living part of the system.
+
+## The New Engineering Operating Model
+
+Agentic engineering changes the operating model of software delivery.
+
+The traditional model looked like this:
+
+Human writes code → Human runs tests → Human opens PR → Human reviews code → CI validates → Code merges
+
+The agentic model looks more like this:
+
+Human defines intent → Agent explores codebase → Agent creates plan → Human approves direction → Agent implements in isolated worktree → Agent runs tests and self-corrects → Deterministic gates validate → AI assists with PR summary and review → Human reviews architecture and intent → Code merges
+
+This is a more scalable model because it separates execution from judgment.
+
+AI accelerates execution. Humans preserve judgment.
+
+## What Engineering Leaders Should Do Now
+
+For engineering leaders, the question is no longer whether developers will use AI coding tools. They already are.
+
+The better question is whether the organization has a safe and effective operating model for it.
+
+A practical adoption roadmap could look like this:
+
+First, standardize repository context. Add clear `AGENTS.md`, `CLAUDE.md`, or Cursor rules that define how AI tools should operate in the codebase.
+
+Second, introduce AI-safe workflows. Encourage plan-first execution, isolated branches, Git worktrees, and bounded retry loops.
+
+Third, strengthen quality gates. Make linting, tests, type checks, and security scanning non-negotiable.
+
+Fourth, define permission boundaries. Decide what agents can edit, what commands they can run, and what systems they can access.
+
+Fifth, train engineers on review discipline. The goal is not to accept AI output faster. The goal is to review it at the right level.
+
+Finally, measure the impact. Track cycle time, defect rates, review load, test coverage, escaped bugs, and developer satisfaction.
+
+The winning teams will not be the ones that simply "use AI more." They will be the ones that redesign their engineering system around AI while keeping quality, security, and architecture under control.
+
+## Final Thought
+
+Agentic engineering is not the end of software engineering.
+
+It is the next abstraction layer.
+
+Just as high-level languages abstracted away manual memory management for many developers, and cloud platforms abstracted away large parts of infrastructure management, AI agents are beginning to abstract away parts of implementation execution.
+
+But abstraction does not remove responsibility.
+
+The engineer still owns the system.
+
+The future belongs to engineers who can combine architectural thinking, product judgment, automation discipline, and AI orchestration. They will not simply code faster. They will design better engineering systems.
+
+That is the real shift.
+
+Not from human to machine.
+
+From manual coding to agentic engineering.a:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24 lg:max-w-[956px] lg:grid lg:grid-cols-[minmax(0,42rem)_220px] lg:gap-16 lg:items-start","children":["$","$L15",null,{"post":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"31XBaB0ubopQLu29NyWltj","type":"Entry","createdAt":"2026-05-14T12:30:14.717Z","updatedAt":"2026-05-16T05:41:28.781Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":7,"revision":4,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Prompting Is No Longer Enough: Why Context Engineering Is the New AI Superpower","slug":"prompting-is-no-longer-enough-context-engineering-new-ai-superpower","description":"Prompt engineering was the first wave. Context engineering is what serious AI builders do next: designing memory, retrieval, tools, structured outputs, and evaluation into the environment around the model.","body":"$16","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2026-05-14","tags":["AI","Prompt Engineering","Context Engineering","LLMs","Technology"]}},"recentPosts":[{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-16T05:41:34.264Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":7,"revision":4,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$17","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-16T05:41:32.049Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":5,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$18","author":"$a:props:children:props:recentPosts:0:fields:author","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-16T05:41:33.094Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":7,"revision":4,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$19","author":"$a:props:children:props:recentPosts:0:fields:author","publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology"]}}]}]}]
