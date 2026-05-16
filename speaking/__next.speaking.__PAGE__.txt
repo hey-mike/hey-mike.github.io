@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[1013,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gViaug82Q7HRCUSGfK2d5"}
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Fefbt8yRw5cATMsiwq3pb"}
 5:null
 2:E{"digest":"NEXT_HTTP_ERROR_FALLBACK;404"}
