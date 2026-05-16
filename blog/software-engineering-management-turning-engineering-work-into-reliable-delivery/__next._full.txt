@@ -15,7 +15,7 @@ f:I[1013,[],"ViewportBoundary"]
 :HC["/",""]
 :HL["/_next/static/css/70645dc831a89853.css","style"]
 :HL["/_next/static/css/17faa5d2b750d9e3.css","style"]
-0:{"P":null,"c":["","blog","software-engineering-management-turning-engineering-work-into-reliable-delivery",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","software-engineering-management-turning-engineering-work-into-reliable-delivery","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/70645dc831a89853.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_f1fd1b __variable_3e9129 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-300 focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline-solid focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$La",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17faa5d2b750d9e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,null]},null,false,"$@e"]},null,false,"$@e"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"U7UJ18TkszKUpzko9zvBh"}
+0:{"P":null,"c":["","blog","software-engineering-management-turning-engineering-work-into-reliable-delivery",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","software-engineering-management-turning-engineering-work-into-reliable-delivery","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/70645dc831a89853.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_f1fd1b __variable_3e9129 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-300 focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline-solid focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$La",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17faa5d2b750d9e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,null]},null,false,"$@e"]},null,false,"$@e"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"nGXKa2zwBn8Ic3r3_nhW9"}
 14:[]
 e:"$W14"
 10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
@@ -928,187 +928,7 @@ That is the real shift.
 
 Not from human to machine.
 
-From manual coding to agentic engineering.18:T439b,AI is no longer just a feature you add to an application. It is becoming a new execution layer for software.
-
-In the early wave of generative AI adoption, many teams focused on prompts, chat interfaces, and proof-of-concept demos. That was understandable. The fastest way to experiment was to connect an application directly to a model API, write a few prompts, and see what happened.
-
-But production AI is different.
-
-Once an AI system touches real customers, enterprise data, operational workflows, regulated information, or revenue-critical processes, the question changes from "Can the model answer this?" to "Can this system be trusted, monitored, governed, improved, and scaled?"
-
-That is where many AI initiatives struggle. The model may be impressive, but the surrounding system is immature. Latency is unpredictable. Costs grow silently. Retrieval results leak sensitive information. Evaluation is manual. Prompt changes break previously working behaviour. Teams cannot explain why an agent failed. Security teams do not know where sensitive data is going.
-
-The next phase of AI engineering is not just about choosing the best model. It is about building the production architecture around the model.
-
-This playbook covers the core pillars every serious AI platform needs: architecture, evaluation, observability, latency, cost, security, privacy, guardrails, user experience, and incident response.
-
-## 1. Architecture: Build an AI Control Plane, Not a Model Wrapper
-
-The most common early mistake is connecting products directly to individual LLM providers. It works for a prototype, but it creates long-term fragility.
-
-A mature AI architecture should route all model traffic through a centralized LLM gateway. This gateway becomes the control plane for provider abstraction, API key management, rate limiting, logging, routing, policy enforcement, and failover. Instead of every application knowing whether it is using OpenAI, Anthropic, Bedrock, Gemini, or a self-hosted model, applications call the gateway and let the platform decide.
-
-This creates flexibility. You can swap vendors, route workloads dynamically, manage cost centrally, and enforce consistent security policies.
-
-The second architectural principle is multi-model routing. Not every task needs your most expensive reasoning model. A simple classification, FAQ answer, summarisation, or extraction task may be handled by a smaller and cheaper model. Complex reasoning, multi-step planning, legal analysis, code generation, or strategic synthesis may justify a premium model.
-
-A well-designed system should route tasks based on complexity, latency tolerance, risk, and cost. In practice, that means using lightweight models for high-volume simple tasks and reserving advanced models for tasks where reasoning quality matters.
-
-The third architectural layer is data. Serious AI systems need a modern data lake that can support structured and unstructured data, retrieval indexing, fine-tuning datasets, logs, traces, and evaluation results. Object storage combined with open table formats such as Apache Iceberg or Delta Lake gives teams a scalable foundation for both analytics and AI operations.
-
-Finally, production AI systems need intentional context management. Long-running agents cannot simply keep appending conversation history forever. Context windows are large, but they are not infinite. Even when they are large, too much irrelevant context can reduce answer quality. Mature systems use summarisation, compaction, structured memory, and external state storage to preserve important information without overwhelming the model.
-
-In other words, architecture is not just about calling an LLM. It is about designing the platform that decides how, when, why, and under what controls the LLM is used.
-
-## 2. Evaluation: Treat Prompts Like Code
-
-In traditional software engineering, no serious team deploys critical code without tests. AI systems need the same discipline.
-
-The foundation is a golden dataset: a curated set of real or realistic examples that represent user queries, edge cases, expected behaviours, failure modes, and business-critical scenarios. This dataset does not need to start large. Even 20 to 100 high-quality examples can dramatically improve confidence compared with manual testing.
-
-The key is to test AI behaviour continuously.
-
-If a prompt changes, run evaluations. If a model version changes, run evaluations. If the retrieval pipeline changes, run evaluations. If the system message changes, run evaluations.
-
-AI evaluations should combine multiple grading strategies. Deterministic graders work well for structured outputs: JSON validity, schema compliance, exact field extraction, unit tests, and rule-based validation. For more subjective qualities, such as tone, helpfulness, coherence, completeness, and goal completion, LLM-as-a-judge can be useful when calibrated carefully.
-
-There are two major types of evaluations.
-
-Capability evaluations measure what the model can do on difficult or strategic tasks. Regression evaluations ensure the system does not lose behaviours that previously worked. Both are necessary. A model upgrade may improve reasoning but break formatting. A prompt change may improve conciseness but reduce completeness. A retrieval improvement may increase relevance but introduce privacy risk.
-
-The important mindset shift is this: prompts, retrieval logic, model routing, and agent workflows are now part of the software system. They need versioning, testing, review, and release discipline.
-
-## 3. Observability: You Cannot Debug What You Cannot See
-
-Traditional application monitoring is not enough for AI systems.
-
-A normal system might track uptime, latency, error rates, CPU usage, memory, and API failures. Those are still useful, but AI introduces a new class of failure: the system may be technically "up" while producing low-quality, unsafe, irrelevant, or hallucinated output.
-
-That is why production AI systems need full-execution tracing.
-
-For every AI interaction, the system should capture the execution tree: the user request, model calls, retrieved documents, tool invocations, intermediate steps, output checks, latency, token usage, and final response. For agentic systems, this is even more important because failure can occur at many points: planning, retrieval, tool selection, tool execution, reasoning, summarisation, or final response generation.
-
-LLM-specific metrics also matter. Teams should track time-to-first-token, time-to-incremental-token, input tokens, output tokens, total trace cost, retry rates, provider errors, cache hit rates, and tool failure rates.
-
-But observability should not stop at performance. AI systems also need quality monitoring. If hallucination rates increase, retrieval relevance drops, output safety checks fail more often, or user feedback declines, the system should alert the team before the issue becomes a business problem.
-
-The future of AI observability is not just "Is the service available?" It is "Is the system still behaving well?"
-
-## 4. Latency: Design for Perceived Speed and Actual Speed
-
-Latency is one of the biggest barriers to good AI user experience.
-
-The first technique is token streaming. Even if the full answer takes several seconds, streaming creates immediate feedback. The user sees progress instead of waiting in silence. This can make an AI system feel dramatically faster, even when total generation time is unchanged.
-
-The second technique is generating fewer tokens. Output generation is often the slowest part of an LLM call. Long, verbose responses cost more and take longer. For many workflows, concise answers, structured summaries, stop sequences, and tighter maximum token limits can reduce latency significantly.
-
-The third technique is prompt and context optimisation. Static instructions should be placed consistently so caching can work efficiently. Dynamic context, such as retrieved documents or user-specific content, should be managed carefully. Throwing too much context into every request increases latency, cost, and the risk of irrelevant reasoning.
-
-The fourth technique is parallelisation. Not every step needs to happen sequentially. For example, input moderation, retrieval, classification, and some generation tasks can sometimes run in parallel. Agent systems can also use speculative execution, where multiple possible paths are explored before selecting the best one.
-
-Latency is not just an infrastructure issue. It is a product design issue. The best AI experiences combine actual optimisation with smart interaction patterns that show progress, set expectations, and avoid unnecessary waiting.
-
-## 5. Cost: Optimise Before the Bill Becomes a Strategy Problem
-
-AI costs can grow quietly.
-
-A small prototype may be cheap. But once the system has thousands of users, long prompts, multi-step agents, retrieval, retries, logging, evaluations, and premium model calls, cost can quickly become material.
-
-The first cost lever is model routing. Use the right model for the right task. Do not send every request to the most expensive model by default.
-
-The second lever is semantic caching. Many users ask similar questions. If a new query is semantically close to a previous one, the system may be able to reuse or adapt a cached response. This can reduce cost and improve latency at the same time.
-
-The third lever is batch processing. Not every workload needs real-time execution. Nightly evaluations, document enrichment, offline classification, dataset generation, and large-scale analysis can often be processed asynchronously using discounted batch APIs.
-
-The fourth lever is provider and key management. A mature gateway can distribute traffic across providers, manage rate limits, avoid unnecessary retries, and take advantage of pricing differences.
-
-Cost optimisation should not be an afterthought. It should be designed into the architecture from day one, because the most expensive AI systems are usually the ones where every request is treated as unique, urgent, complex, and deserving of the largest model.
-
-## 6. Security: Assume Every AI Request Is a Privileged Operation
-
-AI systems often sit close to sensitive data. They may read documents, call tools, search internal systems, summarise customer records, generate code, or trigger business workflows.
-
-That makes security non-negotiable.
-
-A production AI system should follow zero-trust principles. Every user, device, API request, tool call, and model invocation should be authenticated and authorised. Single sign-on, multi-factor authentication, short-lived tokens, and role-based access control should be standard.
-
-API keys must not be scattered across applications, notebooks, or developer machines. They should be centrally managed, scoped to least privilege, rotated regularly, and protected through secure secret management.
-
-Encryption is also foundational. Data should be protected in transit and at rest. Sensitive keys should be managed through hardened key-management systems. Vector stores, prompt logs, caches, and observability traces should be treated as sensitive data stores, not as harmless technical logs.
-
-Vendor contracts matter too. For enterprise AI, teams need clarity on data retention, model training, logging, regional processing, compliance boundaries, and incident handling. Highly regulated workloads may require zero-retention configurations, VPC deployments, private endpoints, or self-hosted models.
-
-Security architecture should be built around a simple assumption: every AI interaction may contain sensitive business context.
-
-## 7. Privacy: Retrieval Must Respect Access Control
-
-Privacy failures in AI systems often happen before the model generates anything.
-
-A user asks a question. The retrieval system searches a vector database. The vector database returns documents the user should not be allowed to see. The model summarises them. The final answer leaks information.
-
-This is why row-level security and metadata filtering are essential in vector databases. Every embedding should carry access-control metadata: department, role, region, customer segment, clearance level, project, or document sensitivity. The system must filter by permission before similarity search results are returned to the model.
-
-PII redaction is another important control. Sensitive personal information should be detected, masked, tokenised, or removed before prompts are sent to external model providers, especially when working with customer data, employee data, financial records, health information, or regulated documents.
-
-Auditability is equally important. AI systems should maintain immutable logs of who used the system, what data was accessed, what model was used, what redaction occurred, and what action was taken. These logs are essential for compliance, investigation, and trust.
-
-In production AI, privacy cannot rely on "the model probably will not reveal it." Privacy must be enforced by system design.
-
-## 8. Guardrails: Protect the System Before and After Generation
-
-Guardrails are not a single feature. They are a layered defence model.
-
-Before the model receives input, the system should scan for prompt injection, jailbreak attempts, suspicious instructions, toxic content, and data exfiltration patterns. This is especially important when the model can access tools, documents, or external systems.
-
-During execution, the agent should operate inside clear boundaries. It should only call approved tools, only access authorised data, and only perform actions within its assigned scope.
-
-After generation, outputs should be checked before they reach the user. This may include filtering toxic content, enforcing brand tone, blocking sensitive data leakage, validating structured formats, checking citations, or preventing the system prompt from being exposed.
-
-Guardrails also apply to training and retrieval pipelines. Low-quality, toxic, duplicated, outdated, or irrelevant content should not be allowed into knowledge bases, fine-tuning datasets, or RAG indexes.
-
-The goal is not to make the model perfect. The goal is to design a system where predictable failure modes are contained before they create damage.
-
-## 9. User Experience: Keep the Human in the Loop
-
-AI product design needs a different philosophy from traditional software design.
-
-A good AI system should not pretend to be an all-knowing human. It should clearly behave like an assistant: capable, fast, useful, but still requiring human judgement for important decisions.
-
-For low-risk tasks, the AI can act quickly. For high-risk tasks, it should ask for approval before execution. Sending an email, deleting data, changing production configuration, approving a financial decision, or escalating an incident should require clear human confirmation.
-
-The interface should also make uncertainty visible. Users should know when the AI is confident, when it is relying on retrieved sources, when information may be incomplete, and when human review is needed.
-
-Feedback loops are crucial. Thumbs up/down, corrections, edits, "this was useful," "this was wrong," and lightweight annotation can create a data flywheel. Over time, this feedback improves prompts, retrieval, evaluations, routing, and product design.
-
-The best AI UX does not encourage blind trust. It builds calibrated trust.
-
-## 10. Incident Response: Every AI Failure Should Improve the System
-
-AI systems need incident response processes just like any other production platform.
-
-Provider outages, rate limits, degraded model quality, hallucination spikes, prompt injection attempts, tool failures, data leakage, and runaway agent loops all need clear handling.
-
-The LLM gateway should support automatic failover. If one provider fails, rate-limits, or returns repeated errors, traffic should be routed to another provider where possible. Circuit breakers should stop repeated harmful actions, excessive tool calls, scraping-like behaviour, or abnormal usage patterns.
-
-Runbooks are essential. Teams should know what to do when a model starts producing unsafe responses, retrieval quality drops, a sensitive document is exposed, or an agent repeatedly fails a workflow.
-
-Most importantly, production failures should become regression tests. When something goes wrong, extract the scenario, add it to the evaluation dataset, and make sure the system does not fail the same way again.
-
-That is how AI systems mature: every failure becomes a durable improvement.
-
-## The Real Competitive Advantage Is the System Around the Model
-
-The market often focuses on model capability: which model is smarter, cheaper, faster, or better at reasoning.
-
-That matters, but it is not the whole story.
-
-In production, the winning teams will be the ones that build the strongest operating system around AI: gateway, routing, data foundation, evaluations, observability, latency optimisation, cost controls, security, privacy, guardrails, UX, and incident response.
-
-A powerful model without these foundations is a prototype.
-
-A well-governed AI platform with these foundations becomes an enterprise capability.
-
-The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.19:T57cb,AI is no longer just something to study. It is something to build with.
+From manual coding to agentic engineering.18:T57cb,AI is no longer just something to study. It is something to build with.
 
 Many people are learning modern AI through articles, videos, newsletters, courses, and tool experiments. They learn about large language models, prompt engineering, RAG, agents, MCP, evals, tool calling, and multi-agent systems. That learning is valuable, but it often remains passive.
 
@@ -1680,4 +1500,184 @@ Not just experiments.
 Not just prompts.
 
 A system for turning ideas into products.
-a:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24 lg:max-w-[956px] lg:grid lg:grid-cols-[minmax(0,42rem)_220px] lg:gap-16 lg:items-start","children":["$","$L15",null,{"post":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1xC7lNvgPLmAxSCKOAvkwr","type":"Entry","createdAt":"2021-08-28T12:29:36.183Z","updatedAt":"2026-05-15T11:48:10.581Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":280,"revision":10,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Engineering Management: Turning Engineering Work into Reliable Delivery","slug":"software-engineering-management-turning-engineering-work-into-reliable-delivery","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"21Hv10pnFgs6WYwfnvcoXJ","type":"Asset","createdAt":"2021-08-27T10:51:24.180Z","updatedAt":"2025-05-12T11:47:15.278Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":12,"revision":3,"locale":"en-US"},"fields":{"title":"Engineering Management","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/21Hv10pnFgs6WYwfnvcoXJ/e6bcd691a99a93280cddd9b332423987/engineering_management.png","details":{"size":2507401,"image":{"width":1536,"height":1024}},"fileName":"engineering management.png","contentType":"image/png"}}},"description":"Most software projects fail not from lack of coding ability, but from unclear goals, unmanaged scope, and quality treated as an afterthought. This guide covers the full discipline of software engineering management — planning, estimation, risk, quality, configuration control, and team leadership — grounded in SWEBOK and adapted for modern Agile and DevOps environments.","body":"$16","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-12T00:00+10:00","tags":["engineering management"]}},"recentPosts":[{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-15T11:26:27.077Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$17","publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-15T10:12:14.562Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T11:13:18.580Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/f0c3857838896efff67e061654df8a19/image.png","details":{"size":2486287,"image":{"width":1962,"height":1130}},"fileName":"image.png","contentType":"image/png"}}},"description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$18","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-16T00:13:36.267Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6dXjmZM50RdYNEtcd7IU1V","type":"Asset","createdAt":"2026-04-02T11:07:16.011Z","updatedAt":"2026-04-02T11:13:52.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Loosely structured software","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6dXjmZM50RdYNEtcd7IU1V/7306a90989c87d2b3c40e8de61c68a3b/image.png","details":{"size":2995429,"image":{"width":2106,"height":1156}},"fileName":"image.png","contentType":"image/png"}}},"description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$19","publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology"]}}]}]}]
+19:T439b,AI is no longer just a feature you add to an application. It is becoming a new execution layer for software.
+
+In the early wave of generative AI adoption, many teams focused on prompts, chat interfaces, and proof-of-concept demos. That was understandable. The fastest way to experiment was to connect an application directly to a model API, write a few prompts, and see what happened.
+
+But production AI is different.
+
+Once an AI system touches real customers, enterprise data, operational workflows, regulated information, or revenue-critical processes, the question changes from "Can the model answer this?" to "Can this system be trusted, monitored, governed, improved, and scaled?"
+
+That is where many AI initiatives struggle. The model may be impressive, but the surrounding system is immature. Latency is unpredictable. Costs grow silently. Retrieval results leak sensitive information. Evaluation is manual. Prompt changes break previously working behaviour. Teams cannot explain why an agent failed. Security teams do not know where sensitive data is going.
+
+The next phase of AI engineering is not just about choosing the best model. It is about building the production architecture around the model.
+
+This playbook covers the core pillars every serious AI platform needs: architecture, evaluation, observability, latency, cost, security, privacy, guardrails, user experience, and incident response.
+
+## 1. Architecture: Build an AI Control Plane, Not a Model Wrapper
+
+The most common early mistake is connecting products directly to individual LLM providers. It works for a prototype, but it creates long-term fragility.
+
+A mature AI architecture should route all model traffic through a centralized LLM gateway. This gateway becomes the control plane for provider abstraction, API key management, rate limiting, logging, routing, policy enforcement, and failover. Instead of every application knowing whether it is using OpenAI, Anthropic, Bedrock, Gemini, or a self-hosted model, applications call the gateway and let the platform decide.
+
+This creates flexibility. You can swap vendors, route workloads dynamically, manage cost centrally, and enforce consistent security policies.
+
+The second architectural principle is multi-model routing. Not every task needs your most expensive reasoning model. A simple classification, FAQ answer, summarisation, or extraction task may be handled by a smaller and cheaper model. Complex reasoning, multi-step planning, legal analysis, code generation, or strategic synthesis may justify a premium model.
+
+A well-designed system should route tasks based on complexity, latency tolerance, risk, and cost. In practice, that means using lightweight models for high-volume simple tasks and reserving advanced models for tasks where reasoning quality matters.
+
+The third architectural layer is data. Serious AI systems need a modern data lake that can support structured and unstructured data, retrieval indexing, fine-tuning datasets, logs, traces, and evaluation results. Object storage combined with open table formats such as Apache Iceberg or Delta Lake gives teams a scalable foundation for both analytics and AI operations.
+
+Finally, production AI systems need intentional context management. Long-running agents cannot simply keep appending conversation history forever. Context windows are large, but they are not infinite. Even when they are large, too much irrelevant context can reduce answer quality. Mature systems use summarisation, compaction, structured memory, and external state storage to preserve important information without overwhelming the model.
+
+In other words, architecture is not just about calling an LLM. It is about designing the platform that decides how, when, why, and under what controls the LLM is used.
+
+## 2. Evaluation: Treat Prompts Like Code
+
+In traditional software engineering, no serious team deploys critical code without tests. AI systems need the same discipline.
+
+The foundation is a golden dataset: a curated set of real or realistic examples that represent user queries, edge cases, expected behaviours, failure modes, and business-critical scenarios. This dataset does not need to start large. Even 20 to 100 high-quality examples can dramatically improve confidence compared with manual testing.
+
+The key is to test AI behaviour continuously.
+
+If a prompt changes, run evaluations. If a model version changes, run evaluations. If the retrieval pipeline changes, run evaluations. If the system message changes, run evaluations.
+
+AI evaluations should combine multiple grading strategies. Deterministic graders work well for structured outputs: JSON validity, schema compliance, exact field extraction, unit tests, and rule-based validation. For more subjective qualities, such as tone, helpfulness, coherence, completeness, and goal completion, LLM-as-a-judge can be useful when calibrated carefully.
+
+There are two major types of evaluations.
+
+Capability evaluations measure what the model can do on difficult or strategic tasks. Regression evaluations ensure the system does not lose behaviours that previously worked. Both are necessary. A model upgrade may improve reasoning but break formatting. A prompt change may improve conciseness but reduce completeness. A retrieval improvement may increase relevance but introduce privacy risk.
+
+The important mindset shift is this: prompts, retrieval logic, model routing, and agent workflows are now part of the software system. They need versioning, testing, review, and release discipline.
+
+## 3. Observability: You Cannot Debug What You Cannot See
+
+Traditional application monitoring is not enough for AI systems.
+
+A normal system might track uptime, latency, error rates, CPU usage, memory, and API failures. Those are still useful, but AI introduces a new class of failure: the system may be technically "up" while producing low-quality, unsafe, irrelevant, or hallucinated output.
+
+That is why production AI systems need full-execution tracing.
+
+For every AI interaction, the system should capture the execution tree: the user request, model calls, retrieved documents, tool invocations, intermediate steps, output checks, latency, token usage, and final response. For agentic systems, this is even more important because failure can occur at many points: planning, retrieval, tool selection, tool execution, reasoning, summarisation, or final response generation.
+
+LLM-specific metrics also matter. Teams should track time-to-first-token, time-to-incremental-token, input tokens, output tokens, total trace cost, retry rates, provider errors, cache hit rates, and tool failure rates.
+
+But observability should not stop at performance. AI systems also need quality monitoring. If hallucination rates increase, retrieval relevance drops, output safety checks fail more often, or user feedback declines, the system should alert the team before the issue becomes a business problem.
+
+The future of AI observability is not just "Is the service available?" It is "Is the system still behaving well?"
+
+## 4. Latency: Design for Perceived Speed and Actual Speed
+
+Latency is one of the biggest barriers to good AI user experience.
+
+The first technique is token streaming. Even if the full answer takes several seconds, streaming creates immediate feedback. The user sees progress instead of waiting in silence. This can make an AI system feel dramatically faster, even when total generation time is unchanged.
+
+The second technique is generating fewer tokens. Output generation is often the slowest part of an LLM call. Long, verbose responses cost more and take longer. For many workflows, concise answers, structured summaries, stop sequences, and tighter maximum token limits can reduce latency significantly.
+
+The third technique is prompt and context optimisation. Static instructions should be placed consistently so caching can work efficiently. Dynamic context, such as retrieved documents or user-specific content, should be managed carefully. Throwing too much context into every request increases latency, cost, and the risk of irrelevant reasoning.
+
+The fourth technique is parallelisation. Not every step needs to happen sequentially. For example, input moderation, retrieval, classification, and some generation tasks can sometimes run in parallel. Agent systems can also use speculative execution, where multiple possible paths are explored before selecting the best one.
+
+Latency is not just an infrastructure issue. It is a product design issue. The best AI experiences combine actual optimisation with smart interaction patterns that show progress, set expectations, and avoid unnecessary waiting.
+
+## 5. Cost: Optimise Before the Bill Becomes a Strategy Problem
+
+AI costs can grow quietly.
+
+A small prototype may be cheap. But once the system has thousands of users, long prompts, multi-step agents, retrieval, retries, logging, evaluations, and premium model calls, cost can quickly become material.
+
+The first cost lever is model routing. Use the right model for the right task. Do not send every request to the most expensive model by default.
+
+The second lever is semantic caching. Many users ask similar questions. If a new query is semantically close to a previous one, the system may be able to reuse or adapt a cached response. This can reduce cost and improve latency at the same time.
+
+The third lever is batch processing. Not every workload needs real-time execution. Nightly evaluations, document enrichment, offline classification, dataset generation, and large-scale analysis can often be processed asynchronously using discounted batch APIs.
+
+The fourth lever is provider and key management. A mature gateway can distribute traffic across providers, manage rate limits, avoid unnecessary retries, and take advantage of pricing differences.
+
+Cost optimisation should not be an afterthought. It should be designed into the architecture from day one, because the most expensive AI systems are usually the ones where every request is treated as unique, urgent, complex, and deserving of the largest model.
+
+## 6. Security: Assume Every AI Request Is a Privileged Operation
+
+AI systems often sit close to sensitive data. They may read documents, call tools, search internal systems, summarise customer records, generate code, or trigger business workflows.
+
+That makes security non-negotiable.
+
+A production AI system should follow zero-trust principles. Every user, device, API request, tool call, and model invocation should be authenticated and authorised. Single sign-on, multi-factor authentication, short-lived tokens, and role-based access control should be standard.
+
+API keys must not be scattered across applications, notebooks, or developer machines. They should be centrally managed, scoped to least privilege, rotated regularly, and protected through secure secret management.
+
+Encryption is also foundational. Data should be protected in transit and at rest. Sensitive keys should be managed through hardened key-management systems. Vector stores, prompt logs, caches, and observability traces should be treated as sensitive data stores, not as harmless technical logs.
+
+Vendor contracts matter too. For enterprise AI, teams need clarity on data retention, model training, logging, regional processing, compliance boundaries, and incident handling. Highly regulated workloads may require zero-retention configurations, VPC deployments, private endpoints, or self-hosted models.
+
+Security architecture should be built around a simple assumption: every AI interaction may contain sensitive business context.
+
+## 7. Privacy: Retrieval Must Respect Access Control
+
+Privacy failures in AI systems often happen before the model generates anything.
+
+A user asks a question. The retrieval system searches a vector database. The vector database returns documents the user should not be allowed to see. The model summarises them. The final answer leaks information.
+
+This is why row-level security and metadata filtering are essential in vector databases. Every embedding should carry access-control metadata: department, role, region, customer segment, clearance level, project, or document sensitivity. The system must filter by permission before similarity search results are returned to the model.
+
+PII redaction is another important control. Sensitive personal information should be detected, masked, tokenised, or removed before prompts are sent to external model providers, especially when working with customer data, employee data, financial records, health information, or regulated documents.
+
+Auditability is equally important. AI systems should maintain immutable logs of who used the system, what data was accessed, what model was used, what redaction occurred, and what action was taken. These logs are essential for compliance, investigation, and trust.
+
+In production AI, privacy cannot rely on "the model probably will not reveal it." Privacy must be enforced by system design.
+
+## 8. Guardrails: Protect the System Before and After Generation
+
+Guardrails are not a single feature. They are a layered defence model.
+
+Before the model receives input, the system should scan for prompt injection, jailbreak attempts, suspicious instructions, toxic content, and data exfiltration patterns. This is especially important when the model can access tools, documents, or external systems.
+
+During execution, the agent should operate inside clear boundaries. It should only call approved tools, only access authorised data, and only perform actions within its assigned scope.
+
+After generation, outputs should be checked before they reach the user. This may include filtering toxic content, enforcing brand tone, blocking sensitive data leakage, validating structured formats, checking citations, or preventing the system prompt from being exposed.
+
+Guardrails also apply to training and retrieval pipelines. Low-quality, toxic, duplicated, outdated, or irrelevant content should not be allowed into knowledge bases, fine-tuning datasets, or RAG indexes.
+
+The goal is not to make the model perfect. The goal is to design a system where predictable failure modes are contained before they create damage.
+
+## 9. User Experience: Keep the Human in the Loop
+
+AI product design needs a different philosophy from traditional software design.
+
+A good AI system should not pretend to be an all-knowing human. It should clearly behave like an assistant: capable, fast, useful, but still requiring human judgement for important decisions.
+
+For low-risk tasks, the AI can act quickly. For high-risk tasks, it should ask for approval before execution. Sending an email, deleting data, changing production configuration, approving a financial decision, or escalating an incident should require clear human confirmation.
+
+The interface should also make uncertainty visible. Users should know when the AI is confident, when it is relying on retrieved sources, when information may be incomplete, and when human review is needed.
+
+Feedback loops are crucial. Thumbs up/down, corrections, edits, "this was useful," "this was wrong," and lightweight annotation can create a data flywheel. Over time, this feedback improves prompts, retrieval, evaluations, routing, and product design.
+
+The best AI UX does not encourage blind trust. It builds calibrated trust.
+
+## 10. Incident Response: Every AI Failure Should Improve the System
+
+AI systems need incident response processes just like any other production platform.
+
+Provider outages, rate limits, degraded model quality, hallucination spikes, prompt injection attempts, tool failures, data leakage, and runaway agent loops all need clear handling.
+
+The LLM gateway should support automatic failover. If one provider fails, rate-limits, or returns repeated errors, traffic should be routed to another provider where possible. Circuit breakers should stop repeated harmful actions, excessive tool calls, scraping-like behaviour, or abnormal usage patterns.
+
+Runbooks are essential. Teams should know what to do when a model starts producing unsafe responses, retrieval quality drops, a sensitive document is exposed, or an agent repeatedly fails a workflow.
+
+Most importantly, production failures should become regression tests. When something goes wrong, extract the scenario, add it to the evaluation dataset, and make sure the system does not fail the same way again.
+
+That is how AI systems mature: every failure becomes a durable improvement.
+
+## The Real Competitive Advantage Is the System Around the Model
+
+The market often focuses on model capability: which model is smarter, cheaper, faster, or better at reasoning.
+
+That matters, but it is not the whole story.
+
+In production, the winning teams will be the ones that build the strongest operating system around AI: gateway, routing, data foundation, evaluations, observability, latency optimisation, cost controls, security, privacy, guardrails, UX, and incident response.
+
+A powerful model without these foundations is a prototype.
+
+A well-governed AI platform with these foundations becomes an enterprise capability.
+
+The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.a:["$","main",null,{"className":"content-layer mx-auto max-w-2xl px-6 pb-24 lg:max-w-[956px] lg:grid lg:grid-cols-[minmax(0,42rem)_220px] lg:gap-16 lg:items-start","children":["$","$L15",null,{"post":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1xC7lNvgPLmAxSCKOAvkwr","type":"Entry","createdAt":"2021-08-28T12:29:36.183Z","updatedAt":"2026-05-16T05:29:35.294Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":282,"revision":11,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"Software Engineering Management: Turning Engineering Work into Reliable Delivery","slug":"software-engineering-management-turning-engineering-work-into-reliable-delivery","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"21Hv10pnFgs6WYwfnvcoXJ","type":"Asset","createdAt":"2021-08-27T10:51:24.180Z","updatedAt":"2025-05-12T11:47:15.278Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":12,"revision":3,"locale":"en-US"},"fields":{"title":"Engineering Management","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/21Hv10pnFgs6WYwfnvcoXJ/e6bcd691a99a93280cddd9b332423987/engineering_management.png","details":{"size":2507401,"image":{"width":1536,"height":1024}},"fileName":"engineering management.png","contentType":"image/png"}}},"description":"Most software projects fail not from lack of coding ability, but from unclear goals, unmanaged scope, and quality treated as an afterthought. This guide covers the full discipline of software engineering management — planning, estimation, risk, quality, configuration control, and team leadership — grounded in SWEBOK and adapted for modern Agile and DevOps environments.","body":"$16","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2025-05-12T00:00+10:00","tags":["Engineering Management"]}},"recentPosts":[{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-16T05:29:54.995Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":5,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$17","publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-16T05:29:56.046Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":5,"revision":3,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6dXjmZM50RdYNEtcd7IU1V","type":"Asset","createdAt":"2026-04-02T11:07:16.011Z","updatedAt":"2026-04-02T11:13:52.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Loosely structured software","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6dXjmZM50RdYNEtcd7IU1V/7306a90989c87d2b3c40e8de61c68a3b/image.png","details":{"size":2995429,"image":{"width":2106,"height":1156}},"fileName":"image.png","contentType":"image/png"}}},"description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$18","publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology"]}},{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-16T05:29:53.927Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T11:13:18.580Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/f0c3857838896efff67e061654df8a19/image.png","details":{"size":2486287,"image":{"width":1962,"height":1130}},"fileName":"image.png","contentType":"image/png"}}},"description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$19","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}}]}]}]
