@@ -14,15 +14,15 @@ f:I[1013,[],"ViewportBoundary"]
 13:I[1572,[],"default",1]
 :HL["/_next/static/media/26d0ba92e140f0dc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/fa3e259cafa8f47e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/784e107bb4772d54.css","style"]
+:HL["/_next/static/css/585ce618f2090be5.css","style"]
 :HL["/_next/static/css/17faa5d2b750d9e3.css","style"]
-0:{"P":null,"c":["","blog","devops",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","devops","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/784e107bb4772d54.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_0e4539 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[300] focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$La",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17faa5d2b750d9e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,null]},null,false,"$@e"]},null,false,"$@e"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"mXEEgQXHPCA5sBYfCFxHP"}
+0:{"P":null,"c":["","blog","devops",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","devops","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/585ce618f2090be5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_3d9088 __variable_0e4539 font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[300] focus:rounded focus:bg-background focus:px-4 focus:py-2 focus:text-sm focus:text-foreground focus:outline focus:outline-2 focus:outline-accent-terra","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grain-overlay","aria-hidden":"true"}],["$","span",null,{"id":"main-content","tabIndex":-1,"className":"sr-only"}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"content-layer animate-fadeIn","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{"src":"https://cloud.umami.is/script.js","data-website-id":"5b22736f-b840-4c5a-857f-0eab58e13124","strategy":"afterInteractive"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","div",null,{"className":"max-w-md text-center p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Article Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The article you're looking for doesn't exist or has been moved."}],["$","$L9",null,{"href":"/blog","className":"inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary/20 text-primary hover:bg-primary/30 transition-colors","children":"Return to Blog"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$La",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17faa5d2b750d9e3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,null]},null,false,"$@e"]},null,false,"$@e"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L12"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"lGKgkKGYOmrLhZ092CSFX"}
 14:[]
 e:"$W14"
 10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 d:null
 12:[["$","title","0",{"children":"DevOps: A Practical Guide to Modern Software Delivery — Michael Luo"}],["$","meta","1",{"name":"description","content":"Discover how DevOps transforms software delivery through automation, collaboration, and continuous improvement. Learn core practices, the CAMS model, real-world tools, and pitfalls to avoid."}],["$","meta","2",{"name":"keywords","content":"Michael Luo,Engineering Leadership,Platform Strategy,Technical Leadership,AI-Assisted"}],["$","meta","3",{"property":"og:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","4",{"property":"og:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-assisted ways of working."}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","7",{"property":"og:image:width","content":"1659"}],["$","meta","8",{"property":"og:image:height","content":"948"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Michael Luo — Strategic Technology Leader"}],["$","meta","12",{"name":"twitter:description","content":"Technology leader based in Sydney — modern platforms, high-performing engineering teams, and AI-assisted ways of working."}],["$","meta","13",{"name":"twitter:image","content":"https://michael-luo.com/og-image.png"}],["$","meta","14",{"name":"twitter:image:width","content":"1659"}],["$","meta","15",{"name":"twitter:image:height","content":"948"}]]
-15:I[4811,["194","static/chunks/fb883f02-76cf4329effb52e9.js","609","static/chunks/609-07361f89bf3924a3.js","34","static/chunks/34-239ab1410a81dd25.js","720","static/chunks/720-ea05dd3c3f339d70.js","953","static/chunks/app/blog/%5Bslug%5D/page-4a513d16ffd4d9eb.js"],"default"]
+15:I[6921,["194","static/chunks/fb883f02-76cf4329effb52e9.js","609","static/chunks/609-07361f89bf3924a3.js","34","static/chunks/34-239ab1410a81dd25.js","720","static/chunks/720-ea05dd3c3f339d70.js","953","static/chunks/app/blog/%5Bslug%5D/page-6b5b87d01ed17878.js"],"default"]
 16:T1f25,## Introduction
 
 Traditional software deployment processes are often manual, slow, and prone to error. As application architectures and teams scale, the pain of pushing changes to production intensifies—leading to bottlenecks, reduced quality, and mounting technical debt.
@@ -192,9 +192,7 @@ Organizations that fully embrace DevOps unlock faster innovation, reduced operat
 - *The Phoenix Project* – Gene Kim, Kevin Behr, George Spafford  
 - *Accelerate: Building and Scaling High Performing Technology Organizations* – Nicole Forsgren, Jez Humble, Gene Kim  
 - *Site Reliability Engineering* – Google SRE Team  
-17:T57ab,# From AI Learning to Product Strategy: Building Your Personal AI Product Lab
-
-AI is no longer just something to study. It is something to build with.
+17:T57cb,AI is no longer just something to study. It is something to build with.
 
 Many people are learning modern AI through articles, videos, newsletters, courses, and tool experiments. They learn about large language models, prompt engineering, RAG, agents, MCP, evals, tool calling, and multi-agent systems. That learning is valuable, but it often remains passive.
 
@@ -220,27 +218,19 @@ At its simplest, an AI Product Lab helps you move through this chain:
 
 > **AI concept → user problem → product idea → MVP → architecture → pricing → launch plan → roadmap**
 
-For example, if you learn about AI agents, you do not just write a note saying, "AI agents can plan, reason, and use tools." You ask a more product-focused question:
-
-> Could an AI agent help engineering managers prepare delivery risk reports automatically?
+For example, if you learn about AI agents, you do not just write a note saying, "AI agents can plan, reason, and use tools." You ask a more product-focused question: **could an AI agent help engineering managers prepare delivery risk reports automatically?**
 
 That one question can become a product hypothesis. The agent could monitor Jira, Confluence, GitHub, Slack, and incident data. It could identify project risks, summarise blockers, prepare leadership updates, and recommend next actions before a delivery meeting.
 
 Then you ask:
 
-Who would use this?
-
-What pain does it solve?
-
-What would the MVP look like?
-
-What data does it need?
-
-How would it be priced?
-
-How would it be evaluated?
-
-How would it reach users?
+- Who would use this?
+- What pain does it solve?
+- What would the MVP look like?
+- What data does it need?
+- How would it be priced?
+- How would it be evaluated?
+- How would it reach users?
 
 That is the mindset of an AI Product Lab.
 
@@ -260,19 +250,19 @@ That is the gap the AI Product Lab solves.
 
 Instead of only asking:
 
-> What is RAG?
-> What is MCP?
-> How do agents work?
-> What is the best model?
+- What is RAG?
+- What is MCP?
+- How do agents work?
+- What is the best model?
 
 You start asking:
 
-> What workflow could this improve?
-> What manual process could this remove?
-> What decision could this make easier?
-> What expensive business problem could this reduce?
-> What would someone pay for?
-> What would make this product defensible?
+- What workflow could this improve?
+- What manual process could this remove?
+- What decision could this make easier?
+- What expensive business problem could this reduce?
+- What would someone pay for?
+- What would make this product defensible?
 
 This is the difference between learning AI as a consumer and learning AI as a builder.
 
@@ -286,13 +276,9 @@ A builder learns what products should exist.
 
 The first mistake many builders make is starting with the technology.
 
-They ask:
+They ask: **what can I build with AI?**
 
-> What can I build with AI?
-
-A better question is:
-
-> What painful job can AI help someone complete better, faster, or cheaper?
+A better question is: **what painful job can AI help someone complete better, faster, or cheaper?**
 
 This is where the Jobs-To-Be-Done framework becomes useful. Instead of describing users only by demographics or job titles, Jobs-To-Be-Done focuses on what the user is trying to accomplish.
 
@@ -340,61 +326,39 @@ The most important habit in an AI Product Lab is translation.
 
 You translate technology into product hypotheses.
 
-When you learn RAG, do not only write:
+When you learn RAG, do not only write that **RAG retrieves relevant documents and adds them to the model context**.
 
-> RAG retrieves relevant documents and adds them to the model context.
-
-Ask:
-
-> What product needs trusted answers from private knowledge?
+Ask: **what product needs trusted answers from private knowledge?**
 
 That could become:
 
-An AI compliance assistant for regulated teams.
+- An AI compliance assistant for regulated teams.
+- An internal engineering knowledge assistant.
+- A legal document review tool.
+- A customer support copilot trained on product documentation.
+- A due diligence assistant for investors.
 
-An internal engineering knowledge assistant.
+When you learn MCP, do not only write that **MCP allows AI systems to connect to tools and external data sources**.
 
-A legal document review tool.
-
-A customer support copilot trained on product documentation.
-
-A due diligence assistant for investors.
-
-When you learn MCP, do not only write:
-
-> MCP allows AI systems to connect to tools and external data sources.
-
-Ask:
-
-> What product becomes more powerful when the AI can safely access live systems?
+Ask: **what product becomes more powerful when the AI can safely access live systems?**
 
 That could become:
 
-An AI operating assistant for small businesses.
+- An AI operating assistant for small businesses.
+- A personal productivity agent connected to calendar, email, and documents.
+- A DevOps assistant connected to logs, incidents, and deployment tools.
+- A finance assistant connected to accounting and forecasting systems.
 
-A personal productivity agent connected to calendar, email, and documents.
+When you learn evals, do not only write that **AI systems need evaluation pipelines**.
 
-A DevOps assistant connected to logs, incidents, and deployment tools.
-
-A finance assistant connected to accounting and forecasting systems.
-
-When you learn evals, do not only write:
-
-> AI systems need evaluation pipelines.
-
-Ask:
-
-> What product category requires measurable trust?
+Ask: **what product category requires measurable trust?**
 
 That could become:
 
-An AI quality assurance platform.
-
-An evaluation dashboard for enterprise AI teams.
-
-A testing framework for AI agents.
-
-A hallucination monitoring tool for customer-facing AI products.
+- An AI quality assurance platform.
+- An evaluation dashboard for enterprise AI teams.
+- A testing framework for AI agents.
+- A hallucination monitoring tool for customer-facing AI products.
 
 This is how your AI Product Lab turns learning into leverage.
 
@@ -418,13 +382,13 @@ Instead, ask about their current workflow, recent examples, existing tools, frus
 
 Useful discovery questions include:
 
-> When did this problem last happen?
-> What did you do to solve it?
-> What tools or people were involved?
-> What was the cost of getting it wrong?
-> What would make you switch from your current process?
-> What are you using today, even if it is messy?
-> What would happen if this problem remained unsolved for another year?
+- When did this problem last happen?
+- What did you do to solve it?
+- What tools or people were involved?
+- What was the cost of getting it wrong?
+- What would make you switch from your current process?
+- What are you using today, even if it is messy?
+- What would happen if this problem remained unsolved for another year?
 
 At the same time, study the market.
 
@@ -452,25 +416,16 @@ A strong Product Requirements Document connects the user problem to specific fea
 
 A useful PRD structure includes:
 
-Problem.
-
-Target user.
-
-Current workflow.
-
-Proposed solution.
-
-User stories.
-
-MVP scope.
-
-Non-goals.
-
-Success metrics.
-
-Risks and assumptions.
-
-Open questions.
+- Problem.
+- Target user.
+- Current workflow.
+- Proposed solution.
+- User stories.
+- MVP scope.
+- Non-goals.
+- Success metrics.
+- Risks and assumptions.
+- Open questions.
 
 For more strategic product ideas, an Amazon-style PR/FAQ can also be powerful. Write the press release before building the product. Describe the customer, the pain, the value proposition, and why the product matters. Then write the FAQ to pressure-test objections.
 
@@ -480,12 +435,12 @@ It also prevents one of the most common AI product mistakes: building something 
 
 A good AI Product Lab should make every idea pass through a simple filter:
 
-> Who is this for?
-> What painful workflow does it improve?
-> Why is AI necessary?
-> What would the user do differently after using it?
-> What would make them come back?
-> What would make them pay?
+- Who is this for?
+- What painful workflow does it improve?
+- Why is AI necessary?
+- What would the user do differently after using it?
+- What would make them come back?
+- What would make them pay?
 
 ---
 
@@ -497,16 +452,16 @@ AI affects data flow, privacy, cost, latency, reliability, trust, and user exper
 
 You need to ask architectural questions early:
 
-> What data does the AI need?
-> Does it need private company knowledge?
-> Does it need real-time data?
-> Does it need access to external tools?
-> Does it need short-term or long-term memory?
-> Should the product use RAG, fine-tuning, agents, tool calling, or simple prompting?
-> What actions should require human approval?
-> How will hallucinations be detected?
-> How will cost per user be controlled?
-> How will the system recover when the model is wrong?
+- What data does the AI need?
+- Does it need private company knowledge?
+- Does it need real-time data?
+- Does it need access to external tools?
+- Does it need short-term or long-term memory?
+- Should the product use RAG, fine-tuning, agents, tool calling, or simple prompting?
+- What actions should require human approval?
+- How will hallucinations be detected?
+- How will cost per user be controlled?
+- How will the system recover when the model is wrong?
 
 This is where concepts like vector databases, RAG, semantic memory, tool integration, and MCP become product decisions rather than abstract AI terms.
 
@@ -548,18 +503,16 @@ If the product requires deep integration, compliance review, executive sponsorsh
 
 For AI products, the prototype should also test trust.
 
-The user is not only asking:
-
-> Does this work?
+The user is not only asking **does this work?**
 
 They are also asking:
 
-> Can I trust it?
-> Can I verify it?
-> Can I control it?
-> Can I override it?
-> Can I explain it to my team?
-> Can I safely use this in a real workflow?
+- Can I trust it?
+- Can I verify it?
+- Can I control it?
+- Can I override it?
+- Can I explain it to my team?
+- Can I safely use this in a real workflow?
 
 That is why your prototype should include citations, confidence signals, approval steps, audit trails, or source references where appropriate.
 
@@ -575,25 +528,16 @@ Do not rely only on public benchmarks or model provider claims. Your product nee
 
 For example:
 
-Did the AI answer correctly?
-
-Did it hallucinate?
-
-Did it use the right source?
-
-Did it complete the task safely?
-
-Did it follow the workflow?
-
-Did the user accept the recommendation?
-
-Did it save time?
-
-Did it reduce manual effort?
-
-Did it improve decision quality?
-
-Did the output meet the user's quality bar?
+- Did the AI answer correctly?
+- Did it hallucinate?
+- Did it use the right source?
+- Did it complete the task safely?
+- Did it follow the workflow?
+- Did the user accept the recommendation?
+- Did it save time?
+- Did it reduce manual effort?
+- Did it improve decision quality?
+- Did the output meet the user's quality bar?
 
 A serious AI product needs a continuous feedback loop. Every user interaction should help improve the system's prompts, retrieval quality, workflows, guardrails, and product experience.
 
@@ -607,23 +551,15 @@ An agent that takes the wrong action can be dangerous.
 
 So the AI Product Lab should track not only product features, but also evaluation metrics:
 
-Accuracy.
-
-Hallucination rate.
-
-Task completion rate.
-
-Human override rate.
-
-User satisfaction.
-
-Latency.
-
-Cost per task.
-
-Escalation rate.
-
-Safety failure rate.
+- Accuracy.
+- Hallucination rate.
+- Task completion rate.
+- Human override rate.
+- User satisfaction.
+- Latency.
+- Cost per task.
+- Escalation rate.
+- Safety failure rate.
 
 This gives you a more realistic view of whether the product is actually improving.
 
@@ -649,13 +585,10 @@ For AI SaaS, hybrid pricing is often the strongest model. A base subscription cr
 
 For example:
 
-Individual plan: $29 per month with limited AI actions.
-
-Power user plan: $99 per month with higher usage.
-
-Team plan: seats plus shared usage credits.
-
-Enterprise plan: custom limits, security, compliance, and support.
+- Individual plan: $29 per month with limited AI actions.
+- Power user plan: $99 per month with higher usage.
+- Team plan: seats plus shared usage credits.
+- Enterprise plan: custom limits, security, compliance, and support.
 
 You also need to decide whether the product is B2B, B2C, or prosumer.
 
@@ -683,13 +616,13 @@ For an AI Product Lab, every product idea should include a go-to-market hypothes
 
 Ask:
 
-> How will users discover this?
-> Why would they try it now?
-> What is the first moment of value?
-> What would make them invite someone else?
-> What content could this product naturally produce?
-> What workflow could create organic distribution?
-> What community already feels this pain?
+- How will users discover this?
+- Why would they try it now?
+- What is the first moment of value?
+- What would make them invite someone else?
+- What content could this product naturally produce?
+- What workflow could create organic distribution?
+- What community already feels this pain?
 
 If the product has low annual contract value and fast onboarding, product-led growth may work.
 
@@ -713,42 +646,27 @@ A good roadmap should not be a random feature list. It should connect product be
 
 For short-term planning, MoSCoW is useful:
 
-Must-have.
-
-Should-have.
-
-Could-have.
-
-Won't-have.
+- Must-have.
+- Should-have.
+- Could-have.
+- Won't-have.
 
 This helps define the MVP and avoid scope creep.
 
 For larger feature prioritisation, RICE scoring is more rigorous:
 
-Reach.
-
-Impact.
-
-Confidence.
-
-Effort.
+- Reach.
+- Impact.
+- Confidence.
+- Effort.
 
 This helps prevent the team from building features just because they are interesting, technically impressive, or requested by a loud minority.
 
 But the most important shift is from feature-centric roadmaps to thematic roadmaps.
 
-A feature-centric roadmap says:
+A feature-centric roadmap says **build dashboard, add integrations, add team workspace**.
 
-> Build dashboard.
-> Add integrations.
-> Add team workspace.
-
-A thematic roadmap says:
-
-> Help users reach first value faster.
-> Improve trust in AI outputs.
-> Reduce manual workflow handoffs.
-> Support team-based decision-making.
+A thematic roadmap says **help users reach first value faster, improve trust in AI outputs, reduce manual workflow handoffs, support team-based decision-making**.
 
 Themes keep the team focused on outcomes rather than output.
 
@@ -756,21 +674,14 @@ For AI products, the roadmap should also include continuous evaluation. The prod
 
 Your roadmap should include:
 
-MVP build.
-
-User validation.
-
-AI evaluation pipeline.
-
-Pricing experiment.
-
-Launch channel test.
-
-Retention analysis.
-
-Cost optimisation.
-
-Quarterly strategy review.
+- MVP build.
+- User validation.
+- AI evaluation pipeline.
+- Pricing experiment.
+- Launch channel test.
+- Retention analysis.
+- Cost optimisation.
+- Quarterly strategy review.
 
 The goal is not to produce a perfect plan.
 
@@ -786,29 +697,18 @@ The tool matters less than the structure.
 
 A practical setup could include these sections:
 
-AI Concepts.
-
-Product Ideas.
-
-User Problems.
-
-Competitor Research.
-
-MVP Concepts.
-
-Architecture Decisions.
-
-Prompt and Agent Experiments.
-
-Evaluation Results.
-
-Pricing Models.
-
-Go-To-Market Plans.
-
-Roadmap.
-
-Post-Launch Learnings.
+- AI Concepts.
+- Product Ideas.
+- User Problems.
+- Competitor Research.
+- MVP Concepts.
+- Architecture Decisions.
+- Prompt and Agent Experiments.
+- Evaluation Results.
+- Pricing Models.
+- Go-To-Market Plans.
+- Roadmap.
+- Post-Launch Learnings.
 
 Each section should connect to the others.
 
@@ -816,29 +716,17 @@ For example, you learn about MCP.
 
 That creates a note in your AI Concepts section.
 
-You link it to a product idea:
+You link it to a product idea: **AI operating assistant for engineering managers**.
 
-> AI operating assistant for engineering managers.
+You define the user problem: **engineering managers waste hours gathering status, risks, blockers, and delivery updates across tools**.
 
-You define the user problem:
+You define the MVP: **connect to Jira and Confluence, generate weekly delivery risk summaries, and allow human approval before sending**.
 
-> Engineering managers waste hours gathering status, risks, blockers, and delivery updates across tools.
+You define the architecture: **RAG over project documents, tool access to Jira, structured risk scoring, and human-in-the-loop approval**.
 
-You define the MVP:
+You define the pricing: **$29 per month individual plan, $199 per month team plan**.
 
-> Connect to Jira and Confluence, generate weekly delivery risk summaries, and allow human approval before sending.
-
-You define the architecture:
-
-> RAG over project documents, tool access to Jira, structured risk scoring, and human-in-the-loop approval.
-
-You define the pricing:
-
-> $29 per month individual plan, $199 per month team plan.
-
-You define the launch motion:
-
-> Target engineering managers through LinkedIn content, technical leadership communities, and system design audiences.
+You define the launch motion: **target engineering managers through LinkedIn content, technical leadership communities, and system design audiences**.
 
 This is how learning becomes execution.
 
@@ -858,14 +746,14 @@ A personal AI Product Lab gives your learning direction.
 
 Every new concept becomes a question:
 
-> What product does this enable?
-> What user problem does it solve?
-> What workflow could it transform?
-> What architecture would support it?
-> How would it be priced?
-> How would it grow?
-> What would the MVP look like?
-> How would we know if it works?
+- What product does this enable?
+- What user problem does it solve?
+- What workflow could it transform?
+- What architecture would support it?
+- How would it be priced?
+- How would it grow?
+- What would the MVP look like?
+- How would we know if it works?
 
 This is how AI learning becomes strategic capability.
 
@@ -875,7 +763,8 @@ Not just experiments.
 
 Not just prompts.
 
-A system for turning ideas into products.18:T4020,Software engineering is entering a new phase.
+A system for turning ideas into products.
+18:T4020,Software engineering is entering a new phase.
 
 For decades, developers have been judged largely by their ability to manually translate requirements into code. The workflow was familiar: understand the problem, design the solution, write the code, run the tests, fix the bugs, open a pull request, and wait for review.
 
@@ -1374,4 +1263,4 @@ A powerful model without these foundations is a prototype.
 
 A well-governed AI platform with these foundations becomes an enterprise capability.
 
-The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.a:["$","main",null,{"className":"content-layer mx-auto max-w-3xl px-6 pb-24","children":["$","$L15",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3Ghqn8vPPh07W8BmlB0Tax","type":"Entry","createdAt":"2021-09-22T23:15:10.554Z","updatedAt":"2025-05-13T09:57:00.413Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":117,"revision":9,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"DevOps: A Practical Guide to Modern Software Delivery","slug":"devops","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"119bssZxkeE51FEFgIQekD","type":"Asset","createdAt":"2021-09-22T22:52:18.064Z","updatedAt":"2025-05-12T12:22:54.136Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"DevOps","description":"DevOps","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/119bssZxkeE51FEFgIQekD/f8633f5db7a33a0072e9d3c44a0f5f2e/devops.png","details":{"size":2115839,"image":{"width":1536,"height":1024}},"fileName":"devops.png","contentType":"image/png"}}},"description":"Discover how DevOps transforms software delivery through automation, collaboration, and continuous improvement. Learn core practices, the CAMS model, real-world tools, and pitfalls to avoid.","body":"$16","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-23T18:00+10:00","tags":["engineering management"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-15T12:08:11.800Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6dXjmZM50RdYNEtcd7IU1V","type":"Asset","createdAt":"2026-04-02T11:07:16.011Z","updatedAt":"2026-04-02T11:13:52.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Loosely structured software","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6dXjmZM50RdYNEtcd7IU1V/7306a90989c87d2b3c40e8de61c68a3b/image.png","details":{"size":2995429,"image":{"width":2106,"height":1156}},"fileName":"image.png","contentType":"image/png"}}},"description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$17","publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-15T11:26:27.077Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$18","publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-15T10:12:14.562Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T11:13:18.580Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/f0c3857838896efff67e061654df8a19/image.png","details":{"size":2486287,"image":{"width":1962,"height":1130}},"fileName":"image.png","contentType":"image/png"}}},"description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$19","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}}]}]}]
+The next generation of AI leadership will not be defined only by who uses the latest model. It will be defined by who can turn AI into a reliable, secure, scalable, and continuously improving production system.a:["$","main",null,{"id":"main-content","className":"content-layer mx-auto max-w-3xl px-6 pb-24 lg:max-w-[1100px] lg:grid lg:grid-cols-[minmax(0,768px)_220px] lg:gap-16 lg:items-start","children":["$","$L15",null,{"post":{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"3Ghqn8vPPh07W8BmlB0Tax","type":"Entry","createdAt":"2021-09-22T23:15:10.554Z","updatedAt":"2025-05-13T09:57:00.413Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":117,"revision":9,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"DevOps: A Practical Guide to Modern Software Delivery","slug":"devops","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"119bssZxkeE51FEFgIQekD","type":"Asset","createdAt":"2021-09-22T22:52:18.064Z","updatedAt":"2025-05-12T12:22:54.136Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"DevOps","description":"DevOps","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/119bssZxkeE51FEFgIQekD/f8633f5db7a33a0072e9d3c44a0f5f2e/devops.png","details":{"size":2115839,"image":{"width":1536,"height":1024}},"fileName":"devops.png","contentType":"image/png"}}},"description":"Discover how DevOps transforms software delivery through automation, collaboration, and continuous improvement. Learn core practices, the CAMS model, real-world tools, and pitfalls to avoid.","body":"$16","author":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"15jwOBqpxqSAOy2eOO4S0m","type":"Entry","createdAt":"2021-08-27T06:27:09.640Z","updatedAt":"2021-08-28T10:16:03.934Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":45,"revision":13,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"person"}},"locale":"en-US"},"fields":{"name":"Michael Luo","title":"Engineering Leader","company":"Nab","shortBio":"Always in the game.","email":"michael.luo0801@gmail.com","phone":"0000000","facebook":"mic","image":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7orLdboQQowIUs22KAW4U","type":"Asset","createdAt":"2021-08-27T06:27:02.596Z","updatedAt":"2021-09-23T04:49:35.629Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":338,"revision":113,"locale":"en-US"},"fields":{"title":"Sparkler","description":"John with Sparkler","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7orLdboQQowIUs22KAW4U/c830a436002471a38f60d74e100c7836/matt-palmer-254999.jpg","details":{"size":2293094,"image":{"width":3000,"height":2000}},"fileName":"matt-palmer-254999.jpg","contentType":"image/jpeg"}}}}},"publishDate":"2021-09-23T18:00+10:00","tags":["engineering management"]}},"recentPosts":[{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"1wFQPrKYagry4TXzdhyU7M","type":"Entry","createdAt":"2026-05-15T12:08:11.800Z","updatedAt":"2026-05-16T00:13:36.267Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"From AI Learning to Product Strategy: Building Your Personal AI Product Lab","slug":"from-ai-learning-to-product-strategy-building-your-personal-ai-product-lab","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"6dXjmZM50RdYNEtcd7IU1V","type":"Asset","createdAt":"2026-04-02T11:07:16.011Z","updatedAt":"2026-04-02T11:13:52.165Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Loosely structured software","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/6dXjmZM50RdYNEtcd7IU1V/7306a90989c87d2b3c40e8de61c68a3b/image.png","details":{"size":2995429,"image":{"width":2106,"height":1156}},"fileName":"image.png","contentType":"image/png"}}},"description":"Most AI learning stays passive — you understand the concepts but struggle to build products with them. An AI Product Lab is a personal operating system for converting AI concepts into product hypotheses, MVP designs, pricing models, and launch strategies.","body":"$17","publishDate":"2026-05-15","tags":["AI","Product Strategy","SaaS","Product Management","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"Uw3kCZ2gJufLKBC2yqvN1","type":"Entry","createdAt":"2026-05-15T10:17:08.929Z","updatedAt":"2026-05-15T11:26:27.077Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":3,"revision":2,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The Shift to Agentic Engineering: How AI Is Rewriting the Software Development Lifecycle","slug":"shift-to-agentic-engineering-ai-rewriting-software-development-lifecycle","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"7e1Og2pJUk1cJYVFKn3Qtg","type":"Asset","createdAt":"2026-04-02T10:49:32.808Z","updatedAt":"2026-04-02T11:12:13.099Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Runtime","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/7e1Og2pJUk1cJYVFKn3Qtg/d36b6ffc875d0f1c49c511d0ca547e3a/image.png","details":{"size":2498305,"image":{"width":2116,"height":1160}},"fileName":"image.png","contentType":"image/png"}}},"description":"Agentic engineering is not vibe coding. It is a disciplined new SDLC combining AI execution with context files, plan-first workflows, Git worktrees, deterministic quality gates, and MCP governance.","body":"$18","publishDate":"2026-05-15","tags":["AI","Software Engineering","Agentic AI","Developer Tools","Technology"]}},{"contentTypeId":"blogPost","sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2FxsbOp66g4bpsY5EkINwL","type":"Entry","createdAt":"2026-05-15T10:12:14.562Z","updatedAt":"2026-05-15T10:12:14.562Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":1,"revision":1,"contentType":{"sys":{"type":"Link","linkType":"ContentType","id":"blogPost"}},"locale":"en-US"},"fields":{"title":"The AI Production Playbook: How to Build LLM Systems That Are Secure, Reliable, Fast, and Scalable","slug":"ai-production-playbook-build-llm-systems-secure-reliable-fast-scalable","heroImage":{"metadata":{"tags":[],"concepts":[]},"sys":{"space":{"sys":{"type":"Link","linkType":"Space","id":"2swoy9jddxd7"}},"id":"2Oc3kzcsUlDJFLX4Ammqzd","type":"Asset","createdAt":"2026-04-02T10:45:00.691Z","updatedAt":"2026-04-02T11:13:18.580Z","environment":{"sys":{"id":"master","type":"Link","linkType":"Environment"}},"publishedVersion":8,"revision":2,"locale":"en-US"},"fields":{"title":"Mastering Harness Engineering for the Agentic Era","description":"","file":{"url":"//images.ctfassets.net/2swoy9jddxd7/2Oc3kzcsUlDJFLX4Ammqzd/f0c3857838896efff67e061654df8a19/image.png","details":{"size":2486287,"image":{"width":1962,"height":1130}},"fileName":"image.png","contentType":"image/png"}}},"description":"Production AI is different from demos. Once AI touches real customers, enterprise data, and revenue-critical processes, you need architecture, evaluation, observability, security, guardrails, and incident response — not just a good model.","body":"$19","publishDate":"2026-05-15","tags":["AI","Enterprise AI","LLMs","Software Engineering","Security"]}}]}]}]
