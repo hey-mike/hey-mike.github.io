@@ -1,4 +1,4 @@
 :HC["/",""]
 :HL["/_next/static/css/bb00d80d9c0f2e03.css","style"]
 :HL["/_next/static/css/17faa5d2b750d9e3.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"2026-ai-landscape-from-chatbots-to-autonomous-digital-colleagues","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"d4m_pSzqnkJvPi19Nq4RD"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"2026-ai-landscape-from-chatbots-to-autonomous-digital-colleagues","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"7IVluA2n7PUnqZ9StvoV3"}
