@@ -1,4 +1,4 @@
 :HC["/",""]
 :HL["/_next/static/css/339743ead5c34fb2.css","style"]
 :HL["/_next/static/css/17faa5d2b750d9e3.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"software-engineering-management-turning-engineering-work-into-reliable-delivery","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"GRHrYAMjiybBsW_QDxftK"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"software-engineering-management-turning-engineering-work-into-reliable-delivery","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"o3CgWVQJ_hJSjsudZ1oi-"}
