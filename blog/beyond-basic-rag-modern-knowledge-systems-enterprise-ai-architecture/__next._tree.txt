@@ -1,4 +1,4 @@
 :HC["/",""]
 :HL["/_next/static/css/339743ead5c34fb2.css","style"]
 :HL["/_next/static/css/17faa5d2b750d9e3.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"beyond-basic-rag-modern-knowledge-systems-enterprise-ai-architecture","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-yaBB7GrvQACZZaNMnHDD"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"beyond-basic-rag-modern-knowledge-systems-enterprise-ai-architecture","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"tFwrbz4DWvxhTEzPG4pW2"}
